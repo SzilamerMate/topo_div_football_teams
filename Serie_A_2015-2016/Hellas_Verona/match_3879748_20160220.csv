@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6686,Giampaolo Pazzini,73,7,1,0.502088471,2,14,10,0,0,0.0,4,3,7,1,4,0,6,0,2,3,0,0,0,0,0,15
+7705,Mohamed Salim Fares,67,0,0,0.0,0,29,22,1,3,0.301213615,2,2,6,1,1,0,1,0,4,0,3,1,0,0,0,8
+7949,Artur Ioniţă,90,4,1,0.29254017099999996,2,24,18,0,0,0.0,2,2,3,4,3,2,13,6,4,1,5,1,4,8,2,44
+7966,Filip Helander,90,0,0,0.0,0,10,9,0,0,0.0,0,0,1,1,1,0,2,0,3,0,13,0,5,0,0,13
+8274,Pierluigi Gollini,90,0,0,0.0,0,35,18,0,0,0.0,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0
+8421,Matteo Bianchetti,17,0,0,0.0,0,6,4,0,0,0.0,0,0,0,0,1,1,1,1,2,0,0,0,0,1,1,5
+8463,Urby Emanuelson,23,0,0,0.0,0,8,4,0,1,0.15846962,1,0,3,0,1,0,1,0,2,0,0,0,2,0,0,4
+11339,Paweł Wszołek,90,1,0,0.046070226,0,31,23,1,3,0.085584719,5,3,8,3,2,2,2,0,5,0,2,1,4,1,0,16
+11342,Eros Pisano,90,1,0,0.084754825,0,46,29,0,2,0.062931527,0,0,9,0,0,0,4,1,8,1,8,1,3,2,1,7
+11494,Luca Siligardi,60,2,0,0.054002432,0,21,15,0,2,0.173856208,3,0,7,0,0,0,6,2,5,0,0,1,0,2,1,17
+20252,Luca Toni,90,5,1,1.439307155,4,19,16,0,1,0.047028124,5,2,4,3,4,4,13,1,6,1,1,0,1,1,0,17
+31488,Vangelis Moras,90,0,0,0.0,0,22,16,0,0,0.0,0,0,3,2,1,1,5,2,4,1,11,0,3,3,1,12
+31572,Luca Marrone,90,1,0,0.026336888,0,42,24,0,2,0.098488726,3,3,8,1,3,0,5,2,11,0,3,1,2,3,1,30
+386650,Michelangelo Albertazzi,30,0,0,0.0,0,9,5,0,0,0.0,0,0,0,0,0,0,1,0,2,0,0,1,0,1,0,5

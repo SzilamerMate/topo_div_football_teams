@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6941,Jasmin Kurtič,90,2,0,0.09508764,0,39,30,0,1,0.07931321,4,3,11,2,3,1,6,1,6,1,0,0,0,1,1,21
+6992,Andrea Masiello,90,0,0,0.0,0,33,20,0,1,0.018987613,0,0,2,0,0,0,0,0,3,0,4,4,3,0,0,6
+6994,Marten de Roon,90,1,0,0.03571072,0,61,51,0,1,0.033986356,0,0,6,4,0,0,2,2,5,1,1,0,2,2,2,27
+7002,Rafael Tolói,90,0,0,0.0,0,32,26,0,0,0.0,1,1,3,2,0,0,1,0,3,0,4,0,2,0,0,16
+7006,Alejandro Darío Gómez,91,5,0,0.262270746,1,37,25,0,6,0.305273251,8,5,15,0,1,0,3,1,3,3,0,1,0,1,0,12
+7157,Marco Sportiello,90,0,0,0.0,0,35,18,0,0,0.0,0,0,4,0,0,0,0,0,8,0,0,0,0,0,0,0
+8657,Andrea Conti,13,1,0,0.2688834,0,11,7,0,0,0.0,1,1,1,1,0,0,3,0,0,0,1,0,0,1,0,3
+11722,Boukary Dramé,90,2,0,0.0560329174,0,52,41,0,2,0.071094813,3,3,10,1,4,0,4,2,6,0,2,1,1,3,0,20
+31725,Gaetano Monachello,73,4,0,0.20684305000000003,2,7,6,0,0,0.0,3,3,3,2,2,0,2,0,3,1,0,0,0,0,0,18
+40333,Cristian Raimondi,77,0,0,0.0,0,44,32,0,0,0.0,2,1,3,2,5,3,3,1,3,1,0,2,2,1,0,15
+40455,Giulio Migliaccio,90,1,0,0.06679648,0,38,18,0,1,0.058861673,0,0,4,3,1,0,11,4,2,2,3,0,1,4,2,16
+45590,Nicolò Cherubin,90,0,0,0.0,0,42,32,0,0,0.0,0,0,1,2,0,0,1,0,7,0,7,1,3,0,0,19
+49439,Germán Gustavo Denis,17,1,0,0.03937831,0,15,9,0,2,0.059225801,1,1,2,1,1,0,1,0,2,0,0,0,0,1,0,1

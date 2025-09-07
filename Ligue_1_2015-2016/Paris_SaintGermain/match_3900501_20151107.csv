@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2995,Ángel Fabián Di María Hernández,62,3,1,0.142309054,2,73,63,0,1,0.04404396,2,0,6,1,1,0,0,0,3,4,0,0,0,0,0,9
+3026,Adrien Rabiot,90,0,0,0.0,0,94,88,0,0,0.0,3,3,10,3,2,0,3,2,4,2,0,1,1,3,2,26
+3295,Thiago Emiliano da Silva,90,0,0,0.0,0,84,83,0,2,0.07816294,0,0,9,1,1,0,3,1,2,0,5,2,2,2,0,6
+3672,Zlatan Ibrahimović,90,5,2,0.8477297400000001,3,61,51,1,3,0.500973055,0,0,4,1,1,1,1,0,5,3,0,0,0,0,0,4
+3745,Lucas Rodrigues Moura da Silva,28,2,1,0.124699754,2,10,10,0,0,0.0,3,1,5,0,1,0,2,0,3,1,0,0,1,1,0,8
+3956,David Luiz Moreira Marinho,90,0,0,0.0,0,70,68,0,0,0.0,0,0,5,2,1,0,5,3,8,1,2,0,1,4,1,12
+4319,Edinson Roberto Cavani Gómez,62,2,0,0.158578346,1,20,18,0,0,0.0,1,1,1,0,0,0,2,1,2,1,0,0,2,1,0,7
+4325,Thiago Motta,77,0,0,0.0,0,108,104,0,2,0.136987662,0,0,13,0,2,1,3,1,4,1,0,0,2,2,1,22
+4326,Layvin Kurzawa,90,1,0,0.04341521,0,78,67,0,0,0.0,2,0,4,2,0,0,6,5,1,2,3,2,1,6,1,16
+4375,Blaise Matuidi,90,0,0,0.0,0,79,76,0,1,0.04832297,1,1,3,2,2,0,10,5,4,1,0,0,2,9,3,37
+4440,Kevin Trapp,90,0,0,0.0,0,21,20,0,0,0.0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+8515,Benjamin Stambouli,13,0,0,0.0,0,9,8,0,0,0.0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,6
+20048,Gregory van der Wiel,90,1,0,0.026732286,0,92,79,1,2,0.124699754,0,0,5,2,0,0,6,1,3,1,0,1,1,4,0,10
+351521,Ezequiel Iván Lavezzi,28,1,1,0.36713967,1,19,15,0,0,0.0,1,0,4,0,2,0,3,2,3,1,0,0,0,3,2,5

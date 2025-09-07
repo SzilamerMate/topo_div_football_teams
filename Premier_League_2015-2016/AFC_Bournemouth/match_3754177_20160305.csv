@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3049,Matt Ritchie,90,0,0,0.0,0,54,31,1,3,0.39449766399999997,3,1,11,1,2,0,4,0,7,1,0,3,3,1,0,22
+3278,Benik Afobe,68,1,0,0.078030586,0,19,16,0,0,0.0,2,1,6,1,3,0,3,1,2,1,1,0,2,1,0,26
+3341,Steve Cook,90,2,0,0.14363938399999998,0,60,46,0,0,0.0,0,0,9,1,0,0,2,1,6,0,7,1,3,2,0,3
+3343,Dan Gosling,90,2,0,0.068785908,0,51,43,0,1,0.068297185,5,3,5,3,3,1,7,1,11,0,1,2,4,4,0,35
+3344,Andrew Surman,90,0,0,0.0,0,58,53,0,3,0.157676756,1,1,9,0,2,2,4,0,12,0,1,1,4,1,0,20
+3345,Charlie Daniels,90,1,1,0.056388855,1,52,38,0,1,0.0271012,0,0,6,0,1,1,3,0,3,1,4,0,2,2,0,14
+3346,Joshua King,90,3,1,0.401222494,1,25,18,0,2,0.11789048399999999,7,4,13,1,1,0,9,3,11,6,2,0,2,3,3,43
+3608,Simon Francis,90,0,0,0.0,0,59,45,0,0,0.0,0,0,14,0,0,0,2,1,1,0,9,0,3,1,1,6
+3646,Marc Pugh,30,1,0,0.07977461,1,7,6,1,1,0.056388855,4,2,1,1,0,0,0,0,1,1,0,0,1,0,0,9
+4416,Max-Alain Gradel,60,3,0,0.184174132,0,19,14,0,0,0.0,5,2,4,0,1,0,3,0,7,1,1,0,3,0,0,24
+6409,Adam Smith,90,1,0,0.01011782,1,64,51,0,1,0.078030586,2,2,15,2,2,0,2,1,7,1,2,1,4,2,0,19
+9593,Lewis Grabban,22,2,0,0.106413059,1,11,9,0,0,0.0,0,0,1,2,0,0,1,0,4,2,0,0,0,0,0,16
+20074,Artur Boruc,90,0,0,0.0,0,31,14,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,1,0,0,0,0

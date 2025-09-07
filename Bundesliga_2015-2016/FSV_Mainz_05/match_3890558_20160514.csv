@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3630,Loris Karius,90,0,0,0.0,0,34,15,0,0,0.0,0,0,6,0,1,0,0,0,5,0,0,0,0,0,0,0
+6925,Jairo Samperio Bustara,3,0,0,0.0,0,2,2,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4
+8549,Giulio Donati,90,0,0,0.0,0,46,27,0,0,0.0,1,1,8,1,3,0,2,1,4,1,6,4,6,1,1,22
+8559,Stefan Bell,90,0,0,0.0,0,29,22,0,0,0.0,0,0,3,0,0,0,0,0,5,0,15,0,2,0,0,11
+8561,Fabian Frei,90,0,0,0.0,0,38,31,0,1,0.0202946,0,0,2,1,2,0,4,1,7,1,6,1,4,1,0,24
+8679,Yunus Mallı,83,0,0,0.0,0,22,12,0,0,0.0,2,0,2,0,1,0,2,1,3,0,0,0,2,1,0,15
+8817,Jhon Andrés Córdoba Copete,95,2,0,0.87495404,1,20,13,0,1,0.03374568,1,0,3,1,1,1,10,0,1,4,0,0,0,0,0,11
+9098,Christian Clemens,87,2,0,0.09490562,0,34,22,0,2,0.30508121,1,1,4,0,2,0,4,1,5,1,0,0,3,3,1,18
+11278,Karim Onisiwo,90,2,0,0.029717751,2,16,10,0,1,0.6352161,4,2,9,3,3,1,8,3,5,1,1,1,3,5,1,37
+11397,Suat Serdar,7,0,0,0.0,0,4,4,0,0,0.0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,3
+13319,Niko Bungert,90,0,0,0.0,0,33,27,0,0,0.0,0,0,3,0,0,0,6,0,1,0,8,1,2,0,0,12
+18399,Gaëtan Bussmann,90,0,0,0.0,0,39,19,0,1,0.009423151,0,0,2,4,2,2,4,3,6,2,4,2,7,3,0,30
+20037,Julian Baumgartlinger,90,1,0,0.06534327,0,31,28,0,0,0.0,0,0,3,3,5,4,5,0,4,0,6,0,4,3,0,25

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4324,Daniel Alves da Silva,90,1,0,0.007838849,0,80,67,0,2,0.262164755,1,0,15,5,0,0,1,0,7,1,0,1,1,0,0,20
+4913,Bojan Krkíc Pérez,63,4,0,0.175162906,2,19,13,0,0,0.0,4,3,6,0,1,0,0,0,0,0,0,0,0,0,0,5
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,55,48,0,0,0.0,0,0,1,2,3,2,4,3,4,3,0,1,2,3,1,20
+5216,Andrés Iniesta Luján,74,4,1,0.7891018999999999,2,55,46,0,3,0.0579418575,5,2,13,1,1,0,1,1,6,3,0,0,0,1,1,12
+5248,José Martín Cáceres Silva,90,0,0,0.0,0,52,47,0,0,0.0,0,0,8,1,0,0,6,2,5,0,6,0,0,4,1,8
+5503,Lionel Andrés Messi Cuccittini,90,3,0,0.949079846,1,54,45,0,2,0.156104525,8,3,18,0,3,0,2,1,2,2,0,1,2,1,1,8
+5558,Rafael Márquez Álvarez,90,2,0,0.11410826499999999,0,71,61,0,0,0.0,0,0,10,0,2,2,0,0,3,0,4,0,1,0,0,5
+11270,Eiður Smári Guðjohnsen,61,0,0,0.0,0,31,25,0,1,0.079105265,0,0,2,0,0,0,2,0,5,1,0,0,0,0,0,4
+15516,Thierry Henry,90,0,0,0.0,0,35,27,1,2,0.726158643,6,4,10,0,2,0,2,1,5,1,0,1,1,1,0,11
+18882,Aliaksandr Hleb,16,0,0,0.0,0,12,11,0,0,0.0,2,1,4,1,0,0,1,0,0,1,0,0,0,0,0,1
+20131,Xavier Hernández Creus,29,0,0,0.0,0,36,31,0,1,0.03513214,0,0,7,0,1,0,0,0,1,0,0,0,0,0,0,4
+20169,Seydou Kéita,27,1,0,0.22328542,0,14,8,0,0,0.0,0,0,3,1,0,0,1,1,0,0,0,0,0,1,1,7
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,27,22,0,0,0.0,0,0,2,1,0,0,0,0,6,0,1,0,0,0,0,1
+25854,Sylvio Mendes Campos Junior,90,1,0,0.0090615135,0,72,64,0,0,0.0,3,3,8,1,0,0,2,2,5,2,5,0,4,2,1,14

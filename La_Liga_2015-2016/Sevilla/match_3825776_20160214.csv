@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3253,Adil Rami,90,0,0,0.0,0,47,41,0,0,0.0,0,0,7,3,3,2,2,0,6,0,6,3,0,0,0,7
+5504,Éver Maximiliano David Banega,90,1,1,0.07173249,1,78,59,0,2,0.11566442299999999,8,4,12,0,2,0,3,1,10,4,0,3,0,3,1,14
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,90,1,0,0.04834272,1,61,53,0,0,0.0,1,1,1,4,2,0,5,3,4,0,1,1,0,3,1,20
+6356,Michael Krohn-Dehli,25,0,0,0.0,0,17,12,0,0,0.0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,7
+6401,Kevin Gameiro,78,2,1,1.03764949,2,14,10,0,0,0.0,3,1,6,0,0,0,2,0,0,1,0,1,1,0,0,10
+6823,Sergio Rico González,90,0,0,0.0,0,24,18,0,0,0.0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+6841,Víctor Machín Pérez,34,0,0,0.0,0,18,15,2,2,0.95551523,1,0,3,2,1,0,1,0,1,1,0,2,0,1,0,7
+7154,Sebastián Carlos Cristóforo Pepe,90,0,0,0.0,0,60,57,0,0,0.0,2,2,6,6,1,1,7,3,4,2,1,2,2,5,2,31
+8523,Yevhen Konoplyanka,65,1,0,0.013895073,0,21,12,0,0,0.0,1,1,6,0,1,0,2,0,2,0,0,0,1,1,0,8
+10476,Timothée Kolodziejczak,90,1,0,0.10176935,0,47,42,0,0,0.0,0,0,7,2,0,0,3,2,4,0,2,0,1,2,1,6
+21210,Mariano Ferreira Filho,90,0,0,0.0,0,61,37,0,2,0.21402875,1,0,4,0,1,0,3,1,4,0,2,4,0,1,0,9
+23802,Juan Muñoz Muñoz,12,0,0,0.0,0,3,3,0,0,0.0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,4
+23816,José Antonio Reyes Calderón,56,2,0,0.157281026,1,30,20,0,0,0.0,3,0,12,1,2,0,1,0,6,1,0,2,3,0,0,18
+27483,Benoît Trémoulinas,90,1,0,0.12456187,0,58,41,0,1,0.097119026,2,0,10,0,1,1,2,0,2,1,2,0,3,0,0,6

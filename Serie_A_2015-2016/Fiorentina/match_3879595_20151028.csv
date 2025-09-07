@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3112,Anton Ciprian Tătărușanu,90,0,0,0.0,0,32,26,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,0
+5255,Matías Vecino Falero,90,1,0,0.006531791,0,96,88,0,0,0.0,4,4,17,2,3,0,4,2,4,1,2,0,3,2,0,20
+5663,Jakub Błaszczykowski,51,0,0,0.0,0,21,19,0,0,0.0,0,0,5,1,1,0,2,0,5,2,0,0,0,0,0,4
+6305,Milan Badelj,32,0,0,0.0,0,29,27,0,0,0.0,0,0,2,0,1,0,0,0,1,0,1,0,1,0,0,5
+6830,Facundo Sebastián Roncaglia,90,0,0,0.0,0,78,69,0,0,0.0,1,1,8,0,1,1,7,2,7,0,4,3,4,3,0,24
+6997,Borja Valero Iglesias,90,1,0,0.024413832,0,87,81,0,2,0.067740903,4,4,17,0,3,1,3,2,4,2,1,1,2,2,1,25
+7033,Nikola Kalinić,90,3,1,1.46724424,2,35,29,0,0,0.0,1,1,9,2,2,1,5,0,2,1,0,0,1,1,0,17
+7056,Nenad Tomović,11,0,0,0.0,0,14,12,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+7139,Josip Iličić,90,2,0,0.08774569,0,44,38,0,2,0.086279527,2,1,6,2,1,0,0,0,3,2,0,0,2,0,0,31
+7141,Giuseppe Rossi,58,1,0,0.061209112,0,23,17,1,2,0.86631963,1,1,2,2,2,0,3,0,5,3,0,0,0,1,0,13
+7777,Federico Bernardeschi,39,0,0,0.0,0,19,15,0,0,0.0,2,0,5,2,0,0,1,0,3,0,1,2,0,0,0,12
+8275,Davide Astori,79,1,0,0.061865695,0,82,71,0,0,0.0,1,1,9,0,1,1,3,0,6,1,4,0,3,2,0,6
+11516,Manuel Pasqual,90,0,0,0.0,0,80,65,0,1,0.45519143,1,0,6,0,3,1,0,0,4,0,3,0,3,0,0,9
+25931,Gonzalo Javier Rodríguez,90,0,0,0.0,0,64,48,0,0,0.0,2,2,7,1,0,0,3,0,7,0,3,1,3,0,0,3

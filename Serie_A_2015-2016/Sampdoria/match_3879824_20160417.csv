@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6334,Luis Fernando Muriel Fruto,10,0,0,0.0,0,4,3,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+6759,Roberto Soriano,80,2,0,0.115849634,1,17,13,0,0,0.0,0,0,1,1,1,1,3,0,3,3,2,1,2,2,0,14
+6822,Carlos Joaquín Correa,35,0,0,0.0,0,18,12,0,0,0.0,2,1,4,0,1,1,2,0,3,3,0,0,1,0,0,12
+7009,Édgar Osvaldo Barreto Cáceres,25,0,0,0.0,0,8,5,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+7011,Fabio Quagliarella,90,2,0,0.119726187,1,22,15,0,3,0.131053419,0,0,1,0,1,0,5,1,2,2,1,0,1,1,0,19
+7018,Emiliano Viviano,90,0,0,0.0,0,24,16,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+7019,Matías Agustín Silvestre,90,0,0,0.0,0,27,22,0,0,0.0,0,0,1,1,1,1,3,0,4,0,3,2,1,2,0,16
+7473,Lorenzo De Silvestri,90,0,0,0.0,0,57,32,0,3,0.062376813,2,2,11,2,0,0,5,3,3,3,1,0,7,3,1,17
+8875,Ricardo Gabriel Álvarez,55,2,0,0.025099386,0,23,20,0,0,0.0,1,0,10,1,2,0,2,0,3,2,0,1,0,1,0,14
+15959,Nenad Krstičić,65,0,0,0.0,0,35,28,0,1,0.06019173,1,0,3,2,1,0,9,3,5,0,3,1,0,7,1,28
+16586,Fernando Lucas Martins,90,3,0,0.08799684399999999,1,60,50,0,1,0.009318144,1,1,2,4,1,0,3,1,3,2,0,3,0,2,0,23
+25505,José Rodolfo Pires Ribeiro,90,1,0,0.009318144,0,47,39,0,0,0.0,5,2,13,1,3,0,2,0,6,1,2,2,2,1,0,11
+174418,Modibo Diakité,90,0,0,0.0,0,31,23,0,0,0.0,0,0,7,2,1,1,0,0,5,0,4,2,4,0,0,4
+387417,Mattia Cassani,90,0,0,0.0,0,34,23,0,0,0.0,1,1,4,3,2,1,2,0,3,0,3,0,2,1,0,15

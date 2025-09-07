@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4324,Daniel Alves da Silva,90,2,0,0.050487158000000004,0,94,74,0,0,0.0,10,8,19,0,0,0,1,0,10,3,5,1,5,0,0,12
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,51,45,0,0,0.0,3,2,3,5,6,5,7,1,2,0,7,2,1,3,0,21
+5213,Gerard Piqué Bernabéu,90,0,0,0.0,0,44,37,0,0,0.0,0,0,9,1,2,1,2,2,6,1,7,2,1,2,2,10
+5216,Andrés Iniesta Luján,90,0,0,0.0,0,36,30,1,4,0.41882082299999995,5,3,18,2,6,1,4,2,5,2,1,0,0,2,1,10
+5503,Lionel Andrés Messi Cuccittini,90,3,1,0.43865501999999995,2,57,41,0,1,0.017092485,4,3,16,0,2,0,6,2,3,3,0,0,0,3,1,16
+11270,Eiður Smári Guðjohnsen,15,0,0,0.0,0,8,7,0,0,0.0,0,0,3,1,0,0,1,0,0,1,0,0,0,0,0,1
+15516,Thierry Henry,28,4,1,0.125884486,4,11,7,0,0,0.0,2,2,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+19298,Samuel Eto''o Fils,90,2,0,0.098352425,0,22,18,0,1,0.029815722,3,1,3,0,2,0,4,3,0,0,0,1,0,3,2,10
+20125,Carles Puyol i Saforcada,90,1,0,0.04348859,0,33,28,0,0,0.0,0,0,4,0,1,1,1,0,5,1,7,1,0,0,0,5
+20131,Xavier Hernández Creus,75,0,0,0.0,0,69,55,0,3,0.165897882,2,1,8,0,2,0,2,0,3,1,2,2,2,2,0,17
+20169,Seydou Kéita,62,1,0,0.061657157,0,30,17,0,1,0.06931454,1,1,4,2,2,2,1,0,2,2,1,0,0,0,0,7
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,25,16,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+20177,Eric-Sylvain Bilal Abidal,90,0,0,0.0,0,57,42,0,0,0.0,1,1,8,0,3,1,2,0,7,1,5,1,1,2,0,10

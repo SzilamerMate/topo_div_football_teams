@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7462,Aleandro Rosi,90,1,0,0.22976495,0,62,48,0,1,0.07936366,1,0,9,1,3,1,4,2,5,1,0,1,0,3,2,11
+7699,Daniele Verde,11,2,0,0.127845804,1,5,2,0,0,0.0,0,0,2,0,1,0,2,0,1,0,0,0,0,0,0,1
+8661,Daniel Pavlovic,90,0,0,0.0,0,64,52,0,4,0.5469450149999999,0,0,4,4,1,1,2,1,4,0,3,3,2,1,1,17
+9898,Aleksandar Tonev,61,1,0,0.018706614,0,22,16,0,0,0.0,1,1,7,0,0,0,1,0,2,1,0,0,0,0,0,7
+9903,Yussif Raman Chibsah,90,2,0,0.030546453,0,48,34,0,2,0.121488607,2,2,6,1,0,0,5,2,5,3,4,1,0,4,0,26
+11608,Danilo Soddimo,29,2,0,0.065422024,1,11,6,0,0,0.0,7,4,4,1,1,0,6,5,0,1,0,0,0,6,4,18
+11672,Samuele Longo,53,1,0,0.24412362,0,7,4,0,0,0.0,1,1,2,3,1,0,5,0,2,2,0,0,1,0,0,12
+13613,Daniel Ciofani,37,4,0,0.361865786,1,6,6,0,0,0.0,1,0,0,0,2,0,4,0,3,0,0,0,0,0,0,4
+23349,Paolo Sammarco,90,0,0,0.0,0,70,58,0,2,0.076343825,0,0,6,1,1,0,5,2,7,1,1,2,2,3,1,17
+23470,Luca Paganini,79,1,0,0.046088733,0,26,20,0,1,0.059938975,0,0,7,3,4,1,6,2,0,3,1,1,0,2,1,19
+24235,Federico Dionisi,90,3,0,0.0379102186,1,28,20,0,3,0.250205304,4,2,4,2,2,0,5,1,4,2,0,0,3,2,1,14
+32037,Nicola Leali,90,0,0,0.0,0,34,24,0,1,0.0069646896,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0
+174418,Modibo Diakité,90,1,0,0.50843155,0,49,40,0,0,0.0,3,2,14,1,3,1,3,1,16,0,2,1,2,2,1,12
+387847,Leonardo Blanchard,90,2,0,0.123777042,1,60,38,0,0,0.0,0,0,8,3,1,0,3,1,7,0,5,1,5,1,0,5

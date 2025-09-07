@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3265,José Luis Sanmartín Mato,34,2,0,0.123059941,0,10,7,0,0,0.0,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,1
+3325,Marko Arnautović,56,0,0,0.0,0,24,20,0,1,0.016342735,0,0,4,0,0,0,1,1,3,0,0,2,0,1,1,8
+3467,Erik Pieters,90,0,0,0.0,0,58,49,0,0,0.0,0,0,3,4,1,1,1,0,2,0,3,2,1,1,0,15
+3480,Geoff Cameron,90,0,0,0.0,0,53,43,0,0,0.0,1,1,10,1,1,1,2,1,5,1,4,3,5,1,1,8
+3533,Xherdan Shaqiri,90,1,0,0.008749763,0,37,33,1,1,0.3964351,2,1,6,1,4,0,4,2,6,5,0,0,1,3,1,12
+3537,Jack Butland,90,0,0,0.0,0,33,21,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,1
+3603,Mame Biram Diouf,90,1,1,0.3964351,1,22,17,0,0,0.0,1,1,4,0,5,2,3,0,2,0,2,0,2,0,0,14
+3636,Charlie Adam,12,0,0,0.0,0,3,2,0,0,0.0,0,0,2,0,2,0,1,1,1,1,0,0,1,1,1,2
+4632,Stephen Ireland,34,1,0,0.07482786,0,16,12,0,0,0.0,0,0,3,1,0,0,4,2,2,2,1,0,1,2,1,8
+4724,Glen Johnson,90,0,0,0.0,0,60,46,0,0,0.0,8,3,9,0,0,0,1,0,4,2,4,0,1,1,0,4
+4891,Ibrahim Afellay,56,0,0,0.0,0,32,30,0,0,0.0,0,0,5,0,1,0,1,1,0,1,0,0,0,1,0,10
+6560,Marc Muniesa Martínez,90,0,0,0.0,0,42,37,0,0,0.0,0,0,7,1,0,0,1,0,4,0,6,0,3,0,0,5
+8251,Marco van Ginkel,78,1,0,0.016342735,0,49,43,0,1,0.008749763,2,1,6,0,2,0,3,3,8,2,1,2,2,3,1,11
+9625,Glenn Whelan,90,0,0,0.0,0,60,51,0,1,0.026316341,2,1,6,0,0,0,2,1,5,0,0,1,0,2,0,12

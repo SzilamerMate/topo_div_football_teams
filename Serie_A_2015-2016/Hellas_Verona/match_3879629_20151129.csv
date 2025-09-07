@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5512,Emil Hallfreðsson,90,3,0,0.061706715,0,39,29,0,1,0.006391312,4,2,8,7,1,1,4,1,8,2,0,0,2,2,1,28
+6686,Giampaolo Pazzini,45,1,0,0.09218995,1,12,9,0,2,0.059041025,1,1,1,1,2,1,1,0,1,1,0,0,2,0,0,7
+7695,Samuel Souprayen,90,1,0,0.04049858,1,46,31,0,1,0.017615749,0,0,12,4,1,0,1,0,8,1,3,1,1,0,0,10
+7770,Federico Viviani,90,3,1,0.121772361,2,70,58,1,5,0.195119612,2,2,6,2,3,1,6,3,7,2,0,0,0,4,1,13
+7949,Artur Ioniţă,55,0,0,0.0,0,13,12,0,0,0.0,1,0,2,4,1,0,2,0,0,0,1,0,2,0,0,19
+8274,Pierluigi Gollini,70,0,0,0.0,0,28,17,0,0,0.0,0,0,3,0,1,0,0,0,3,0,0,0,0,0,0,0
+8421,Matteo Bianchetti,90,0,0,0.0,0,42,33,0,0,0.0,1,1,3,3,0,0,8,5,3,0,6,2,4,7,1,22
+9887,Rafael de Andrade Bittencourt Pinheiro,90,0,0,0.0,0,8,4,0,0,0.0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+11342,Eros Pisano,90,2,0,0.263784852,0,42,22,0,0,0.0,2,2,6,1,3,2,5,1,7,0,2,2,3,3,1,8
+11494,Luca Siligardi,20,1,0,0.046060912,1,7,2,0,0,0.0,0,0,3,0,0,0,0,0,1,1,1,0,0,0,0,4
+20252,Luca Toni,90,4,0,0.162723966,2,14,10,0,2,0.13268853,0,0,0,1,4,3,6,0,1,4,1,0,2,0,0,5
+31488,Vangelis Moras,90,1,1,0.046069786,1,37,28,0,0,0.0,0,0,5,3,4,3,5,1,3,1,4,2,1,1,1,8
+32119,Leandro Greco,35,0,0,0.0,0,9,6,0,0,0.0,0,0,1,3,2,0,0,0,1,0,1,0,0,0,0,9
+386651,Juan Ignacio Gómez Taleb,45,0,0,0.0,0,10,8,0,1,0.046060912,2,2,2,0,3,3,2,0,2,0,1,0,0,0,0,2

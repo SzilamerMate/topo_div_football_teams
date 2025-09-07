@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5687,Takashi Inui,67,1,0,0.017789394,0,23,15,0,1,0.04488767,1,1,2,1,1,0,5,1,1,2,0,1,1,2,0,12
+6557,Adrián González Morales,13,0,0,0.0,0,5,4,0,1,0.18949935,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,2
+6566,Borja González Tomás,86,1,0,0.036609277,0,18,14,0,1,0.40925965,1,1,3,1,2,1,8,0,3,0,0,1,1,0,0,20
+6675,Antonio Manuel Luna Rodríguez,90,0,0,0.0,0,34,24,0,1,0.017789394,1,1,1,1,0,0,4,1,3,3,3,3,2,3,1,16
+6699,Ander Capa Rodríguez,90,0,0,0.0,0,60,29,1,1,0.08333788,0,0,6,1,2,1,7,4,4,0,1,4,1,6,2,17
+6700,Sergio Enrich Ametller,77,1,1,0.08333788,1,26,17,0,0,0.0,1,1,4,4,2,1,10,1,1,3,0,0,1,2,0,16
+6712,Gonzalo Escalante,90,2,1,0.39415233,1,44,32,0,1,0.036609277,1,1,4,2,2,2,7,3,7,1,1,3,1,4,3,26
+6742,Sergio Gontán Gallardo,90,2,0,0.598759,1,32,23,0,0,0.0,0,0,3,2,1,1,7,4,5,3,0,3,2,6,2,26
+6775,Daniel García Carrillo,90,0,0,0.0,0,50,37,0,0,0.0,0,0,2,1,0,0,8,4,6,0,1,0,2,6,4,19
+6776,David Juncà Reñé,23,0,0,0.0,0,10,4,0,0,0.0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,8
+6778,Iván Ramis Barrios,90,0,0,0.0,0,34,24,0,0,0.0,1,1,3,2,1,0,3,0,5,0,6,1,1,0,0,4
+9462,José Ignacio Peleteiro Ramallo,4,0,0,0.0,0,1,0,0,0,0.0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+10763,Asier Riesgo Unamuno,90,0,0,0.0,0,31,14,0,0,0.0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0
+26764,Jon Ansotegi Gorostola,90,1,0,0.04488767,1,28,17,0,0,0.0,0,0,0,2,0,0,2,0,0,0,6,3,0,0,0,9

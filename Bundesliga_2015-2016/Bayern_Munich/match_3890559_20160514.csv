@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5208,Thiago Alcântara do Nascimento,90,0,0,0.0,0,79,68,0,2,0.20283345,2,2,8,2,6,0,11,8,12,0,4,0,2,10,3,35
+5244,Medhi Amine El Mouttaqi Benatia,90,0,0,0.0,0,59,52,0,1,0.020008316,0,0,4,1,1,1,3,0,7,0,8,2,3,0,0,2
+5570,Manuel Neuer,50,0,0,0.0,0,42,32,0,0,0.0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0
+5578,Jérôme Boateng,77,0,0,0.0,0,68,56,0,1,0.15436192,0,0,4,0,0,0,0,0,2,0,2,1,2,0,0,8
+5668,Robert Lewandowski,90,4,1,0.307248614,2,30,25,0,1,0.16257037,2,1,5,1,0,0,4,1,4,1,0,0,0,1,0,11
+8206,Arturo Erasmo Vidal Pardo,90,2,0,0.21557901999999998,1,66,60,0,1,0.13051963,2,2,4,4,2,1,4,2,6,2,1,2,2,2,2,29
+8208,Sven Ulreich,40,0,0,0.0,0,18,12,0,0,0.0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0
+8209,Márcio Rafael Ferreira de Souza,30,0,0,0.0,0,28,27,0,0,0.0,0,0,4,0,0,0,2,1,0,0,2,0,0,2,1,2
+8217,Kingsley Coman,60,3,0,0.27469740000000004,1,32,26,1,2,0.6115318599999999,6,6,9,1,8,1,2,0,4,3,0,0,3,0,0,24
+8220,David Olatukunbo Alaba,90,0,0,0.0,0,67,62,0,0,0.0,0,0,11,0,0,0,3,1,7,0,2,0,2,2,0,5
+8223,Franck Bilal Ribéry,90,4,0,0.601431946,2,77,58,0,6,0.379191407,5,4,21,3,3,0,4,0,9,7,0,0,0,1,0,21
+8227,Mario Götze,90,4,2,0.8648518649999999,4,34,27,0,2,0.35460881,5,3,3,0,0,0,6,4,5,0,0,1,1,4,0,33
+19295,Philipp Lahm,90,2,0,0.113360053,1,58,52,0,1,0.06935976,2,2,12,1,0,0,2,0,4,0,3,0,1,0,0,7
+22824,Sebastian Rode,13,1,0,0.0440225,0,6,4,0,0,0.0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0

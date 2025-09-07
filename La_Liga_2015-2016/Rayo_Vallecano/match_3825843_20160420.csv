@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4711,Pablo Hernández Domínguez,90,1,0,0.03115823,0,32,22,0,0,0.0,1,0,8,1,3,0,6,0,1,2,2,3,4,1,0,24
+6713,Diego Javier Llorente Ríos,90,1,0,0.0028190315,0,31,23,0,0,0.0,0,0,3,2,1,0,8,1,3,0,9,4,2,1,0,10
+6852,Jozabed Sánchez Ruiz,37,0,0,0.0,0,5,3,0,0,0.0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,10
+6914,Roberto Román Triguero,90,0,0,0.0,0,38,34,0,1,0.0078112716,2,1,4,1,0,0,3,1,4,0,5,3,1,2,0,17
+11539,Adrián Embarba Blázquez,90,2,0,0.033219545600000004,1,32,23,0,1,0.03115823,3,1,7,0,1,0,6,1,5,1,1,1,1,3,1,18
+11542,Javier Guerra Rodríguez,53,2,0,0.40823071,0,21,17,0,0,0.0,0,0,1,0,2,0,7,0,4,1,0,0,0,0,0,7
+24138,Joaquín José Marín Ruiz,90,2,0,0.055633261,0,29,23,0,0,0.0,0,0,4,1,2,0,10,3,4,0,1,0,4,5,1,23
+24255,Juan Carlos Martín Corral,90,0,0,0.0,0,50,28,0,0,0.0,0,0,0,0,1,0,0,0,6,0,0,0,0,0,0,0
+26222,José Eduardo Rosa Vale de Castro,41,0,0,0.0,0,20,15,0,0,0.0,0,0,4,0,0,0,1,0,3,1,5,0,0,1,0,7
+26607,José Raúl Baena Urdiales,76,1,1,0.052088764,1,43,36,0,0,0.0,0,0,3,3,4,0,6,1,6,0,1,4,1,2,1,13
+26685,Nicolás Ladislao Fedor Flores,90,0,0,0.0,0,19,14,0,3,0.40595126,4,2,4,2,3,0,12,2,2,5,1,0,3,4,0,26
+26690,Alberto Mateus Contreiras Gonçalves,14,1,0,0.10928866,1,6,4,0,0,0.0,0,0,1,1,0,0,5,0,0,0,0,0,0,1,0,5
+26848,Roberto Trashorras Gayoso,90,0,0,0.0,0,50,37,0,1,0.020575924,1,0,5,2,4,0,4,1,7,4,3,1,4,1,1,24
+27144,Antonio Amaya Carazo,49,1,0,0.020575924,1,14,10,0,0,0.0,0,0,1,0,0,0,2,1,1,0,5,1,0,1,1,0

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2944,Benjamin Corgnet,56,1,0,0.053354587,0,28,16,0,0,0.0,1,0,3,2,2,1,2,2,3,0,0,3,0,2,0,11
+3047,Benoît Assou-Ekotto,18,0,0,0.0,0,20,14,0,0,0.0,0,0,0,1,0,0,1,1,2,0,0,1,0,1,1,4
+3220,Franck Tabanou,90,0,0,0.0,0,74,51,0,0,0.0,2,1,5,1,1,1,4,2,1,1,3,1,1,2,1,15
+3414,Vincent Pajot,90,2,0,0.20148433699999999,1,84,76,0,4,0.21531113400000002,0,0,16,1,2,1,8,3,6,1,1,1,1,5,2,17
+3423,Alexander Toft Søderlund,34,1,0,0.07306669,0,4,4,0,0,0.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,4
+4253,Ole Kristian Selnæs,90,2,0,0.029642625,0,56,52,0,1,0.030585168,0,0,13,1,1,1,2,0,5,2,1,0,3,1,0,28
+4254,Valentin Eysseric,90,2,0,0.117450145,0,70,51,0,4,0.280933587,3,2,14,2,3,1,2,1,4,3,2,1,0,1,0,18
+4258,Ronaël Pierre-Gabriel,90,0,0,0.0,0,70,57,0,2,0.07928468699999999,0,0,4,3,1,1,6,3,8,0,0,2,2,6,0,20
+4259,Stéphane Ruffier,90,0,0,0.0,0,17,17,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+4263,Loïc Perrin,90,1,0,0.07046037,0,95,88,0,1,0.02005208,0,0,10,1,0,0,4,0,8,0,3,1,1,2,0,6
+4265,Oussama Tannane,57,2,0,0.086669264,1,26,20,0,1,0.067536056,1,1,7,1,0,0,2,1,1,0,0,1,2,1,0,13
+4431,Kévin Monnet-Paquet,33,0,0,0.0,0,21,15,0,0,0.0,3,1,6,0,0,0,1,0,5,0,0,0,1,0,0,7
+4766,Neal Maupay,72,4,0,0.23048196799999998,0,16,12,0,1,0.14999051,2,2,3,3,0,0,1,0,4,3,1,0,0,0,0,17
+401468,Moustapha Bayal Sall,90,1,0,0.008474386,0,67,57,0,0,0.0,0,0,19,0,1,0,1,0,10,1,6,4,2,0,0,6

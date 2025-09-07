@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2993,Stéphane Darbion,90,2,0,0.119788755,2,75,56,0,4,0.13949457099999998,3,2,13,5,2,0,1,1,10,6,0,0,3,1,0,14
+3002,Benjamin Nivet,37,2,0,0.094553688,1,32,27,0,0,0.0,0,0,4,1,0,0,0,0,0,5,0,1,1,0,0,8
+3010,Corentin Jean,90,0,0,0.0,0,31,27,0,0,0.0,3,3,13,1,6,1,3,0,4,1,0,0,1,0,0,9
+3364,Jonathan Martins-Pereira,90,0,0,0.0,0,104,85,0,3,0.239833346,4,3,20,2,0,0,5,4,2,1,0,1,1,4,1,11
+7193,Paul Bernardoni,90,0,0,0.0,0,20,18,0,0,0.0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0
+7301,Lossémy Karaboué,53,2,0,0.058349075,2,33,27,0,0,0.0,0,0,6,0,1,0,4,0,3,3,0,0,0,2,0,8
+7336,Jimmy Cabot,23,2,0,0.049189706,1,17,8,0,1,0.033469435,3,0,4,0,0,0,2,2,6,1,0,1,0,2,0,8
+7415,Jessy Pi,74,1,0,0.024095083,0,59,54,0,1,0.1045809,4,2,27,0,1,0,6,3,10,0,0,1,0,5,2,8
+7488,Thomas Ayasse,90,2,0,0.193360482,1,61,50,0,2,0.054639367,0,0,14,1,5,2,7,3,6,2,3,1,1,5,0,15
+13730,Matthieu Saunier,90,1,0,0.059051055,0,49,44,0,0,0.0,1,1,11,0,0,0,2,1,3,1,3,0,1,2,0,8
+26752,Mouhamadou Dabo,90,3,0,0.073677622,0,63,56,0,2,0.074157771,2,2,9,1,0,0,2,2,7,0,1,0,3,2,0,9
+31625,Johan Martial,90,1,0,0.06320845,0,46,39,0,0,0.0,0,0,7,1,1,1,6,2,4,0,3,1,2,2,0,5
+401470,Fabien Camus,67,1,0,0.039431512,0,32,20,0,2,0.092343528,1,0,8,0,1,1,0,0,5,3,0,0,0,0,0,10
+401471,Henri Bienvenu Ntsama,16,1,0,0.03664191,0,1,1,0,0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0

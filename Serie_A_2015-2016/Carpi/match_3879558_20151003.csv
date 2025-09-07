@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3416,Gabriel Moisés Antunes da Silva,90,1,0,0.03860472,0,38,31,0,0,0.0,1,1,4,1,5,1,5,2,1,0,5,1,5,4,0,19
+7114,Gaetano Letizia,90,0,0,0.0,0,43,32,0,0,0.0,3,1,9,2,3,1,4,1,6,0,0,1,1,2,0,9
+7460,Isaac Cofie,90,1,0,0.04785132,0,43,38,0,0,0.0,1,1,4,0,0,0,3,0,4,0,3,0,4,0,0,14
+7696,Ryder Matos Santos,74,2,1,0.2258171,2,16,13,0,0,0.0,1,1,7,0,2,0,5,0,3,1,0,0,1,0,0,11
+7793,Kevin Lasagna,16,0,0,0.0,0,6,4,0,0,0.0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,7
+8662,Vid Belec,90,0,0,0.0,0,35,22,0,0,0.0,0,0,4,0,0,0,0,0,10,0,0,0,0,0,0,0
+8871,Marco Borriello,85,1,0,0.009161771,0,19,14,1,1,0.08693704,0,0,10,0,0,0,4,0,3,2,1,0,1,1,0,9
+11499,Riccardo Gagliolo,90,0,0,0.0,0,48,40,0,1,0.009161771,0,0,4,0,4,3,2,0,3,1,7,1,0,0,0,8
+28442,Matteo Fedele,90,2,0,0.027399923,1,43,33,0,1,0.13888006,1,0,7,4,0,0,2,0,6,2,3,1,1,0,0,17
+352172,Raffaele Bianco,22,0,0,0.0,0,5,4,0,0,0.0,0,0,0,1,2,2,0,0,1,0,0,0,1,0,0,5
+387300,Cristian Zaccardo,90,0,0,0.0,0,26,24,0,0,0.0,0,0,3,0,1,1,2,0,3,0,3,0,2,0,0,10
+387474,Igor Bubnjić,90,0,0,0.0,0,38,34,0,0,0.0,0,0,3,2,1,1,2,0,3,0,4,0,3,0,0,10
+387475,Andrea Lazzari,5,0,0,0.0,0,3,2,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,2
+387476,Raphael Martinho Alves de Lima,68,0,0,0.0,0,35,28,0,3,0.10369657200000001,1,0,7,1,0,0,1,1,5,1,1,0,0,1,1,15

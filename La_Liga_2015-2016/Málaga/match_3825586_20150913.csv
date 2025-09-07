@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3302,Nordin Amrabat,82,2,0,0.128100284,2,25,13,0,2,0.320356232,3,2,11,2,3,1,4,0,9,5,1,0,0,0,0,6
+6559,Juan Carlos Pérez López,67,0,0,0.0,0,25,17,0,0,0.0,4,2,4,0,2,1,0,0,4,2,0,2,3,0,0,9
+6569,Roberto José Rosales Altuve,90,0,0,0.0,0,61,40,0,1,0.028257422,2,1,7,0,1,1,6,2,5,1,3,3,4,4,2,19
+6580,José Luis García del Pozo,90,0,0,0.0,0,48,39,0,0,0.0,2,1,4,2,3,1,8,4,7,1,1,1,2,4,0,16
+6707,Charles Días Barbosa de Oliveira,90,4,0,0.49461151700000006,1,25,17,0,1,0.06500204,1,1,5,0,2,0,1,1,5,1,2,0,0,1,1,12
+6727,Raúl Albentosa Redal,90,0,0,0.0,0,51,39,0,0,0.0,0,0,6,1,0,0,3,0,3,0,4,1,2,2,0,14
+8264,Adnane Tighadouini,8,0,0,0.0,0,3,0,0,0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2
+8419,Duje Čop,23,1,0,0.32669318,0,13,6,0,0,0.0,1,0,2,1,0,0,0,0,4,0,0,1,0,0,0,3
+10868,Ricardo Jorge Luz Horta,54,1,0,0.028257422,1,20,14,0,0,0.0,1,0,1,0,1,0,3,0,4,2,1,1,2,0,0,12
+19431,Fernando Damián Tissone,90,1,0,0.00771016,0,43,37,0,1,0.14235517,1,1,1,1,0,0,5,1,7,2,1,4,1,2,1,13
+25859,Sérgio Paulo Barbosa Valente,36,0,0,0.0,0,26,17,0,1,0.031900115,1,0,3,0,2,0,4,2,2,3,0,2,1,4,1,10
+26103,Idriss Carlos Kameni,90,0,0,0.0,0,29,22,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+27184,Marcos Alberto Angeleri,90,0,0,0.0,0,40,34,0,0,0.0,0,0,8,3,1,1,3,1,2,1,7,3,2,2,1,16
+27335,Arthur Etienne Boka,90,1,0,0.041762527,0,57,47,0,0,0.0,6,3,9,0,2,0,5,1,4,2,4,4,2,2,0,10

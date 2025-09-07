@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3958,Pedro Eliezer Rodríguez Ledesma,45,2,0,0.07483221500000001,2,47,38,0,1,0.068703935,3,2,11,0,0,0,2,1,4,2,0,0,0,1,1,7
+4324,Daniel Alves da Silva,31,1,0,0.007840992,1,47,36,0,0,0.0,3,2,6,0,2,0,4,2,6,0,0,1,1,3,1,7
+4913,Bojan Krkíc Pérez,45,1,0,0.53355145,0,13,10,0,0,0.0,0,0,3,0,0,0,0,0,3,1,0,0,0,0,0,4
+5213,Gerard Piqué Bernabéu,90,2,0,0.25026665000000003,0,67,59,0,0,0.0,0,0,22,1,1,0,4,0,7,0,3,1,3,2,0,9
+5216,Andrés Iniesta Luján,90,1,0,0.026586663,0,63,49,0,1,0.15011546,2,2,10,0,2,0,1,0,4,4,0,1,1,1,0,11
+5503,Lionel Andrés Messi Cuccittini,90,3,0,0.425887362,3,62,50,0,1,0.15468703,14,7,16,0,0,0,3,2,5,7,0,0,0,2,0,12
+5506,Javier Alejandro Mascherano,45,0,0,0.0,0,49,46,0,0,0.0,2,2,5,3,1,0,2,1,3,0,0,0,0,1,0,6
+12737,David Villa Sánchez,90,3,0,0.1741030597,1,23,17,0,0,0.0,1,0,5,1,0,0,4,0,1,3,0,0,2,0,0,7
+20131,Xavier Hernández Creus,45,1,0,0.068703935,0,75,66,0,3,0.053814239699999995,1,0,12,0,0,0,1,0,5,0,0,1,1,0,0,3
+20169,Seydou Kéita,90,0,0,0.0,0,66,60,0,2,0.061591238000000006,2,2,7,1,2,1,7,2,4,3,4,2,1,3,1,13
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,20,19,0,0,0.0,1,1,0,0,0,0,0,0,7,0,1,0,0,0,0,0
+20177,Eric-Sylvain Bilal Abidal,90,0,0,0.0,0,95,87,0,0,0.0,0,0,17,1,0,0,1,0,10,0,0,3,1,0,0,10
+22102,Adriano Correia Claro,59,1,0,0.009583737,0,62,48,0,2,0.117430252,2,1,13,0,3,1,6,5,4,3,0,0,1,6,3,5
+26613,Maxwell Scherrer Cabelino Andrade,90,1,0,0.008877177,1,108,94,0,1,0.53355145,0,0,14,0,0,0,4,2,7,0,2,0,1,3,1,6

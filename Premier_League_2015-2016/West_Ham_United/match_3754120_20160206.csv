@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3062,Aaron Cresswell,90,1,0,0.010600553,0,60,51,0,2,0.08733701099999999,1,1,4,0,0,0,4,0,3,1,0,1,2,1,0,14
+3316,James Tomkins,60,0,0,0.0,0,44,35,0,0,0.0,1,1,8,1,3,3,4,2,1,1,1,1,0,3,0,7
+3349,Michail Antonio,72,0,0,0.0,0,30,21,0,0,0.0,2,2,6,0,2,1,5,2,2,3,2,3,3,2,2,14
+3482,James Collins,90,1,0,0.08566589,0,47,45,0,0,0.0,0,0,3,1,1,1,3,0,4,1,8,2,4,0,0,6
+3491,Dimitri Payet,90,0,0,0.0,0,64,45,0,4,0.284359722,2,1,14,1,3,0,3,1,7,1,0,2,0,1,1,12
+3586,Samuel Mark Byram,30,0,0,0.0,0,24,13,0,1,0.06454698,0,0,6,2,0,0,2,1,0,0,0,1,0,1,0,7
+3623,Adrián San Miguel del Castillo,90,0,0,0.0,0,27,18,0,0,0.0,0,0,3,0,0,0,0,0,7,0,0,0,0,0,0,0
+3874,Mark Noble,90,1,0,0.025327496,0,85,81,0,3,0.077901997,2,2,15,1,1,0,2,0,10,0,0,0,0,2,0,11
+3963,Victor Moses,60,1,0,0.028402155,0,16,12,0,0,0.0,1,1,5,1,2,1,3,0,0,1,1,0,1,0,0,7
+4271,Andy Carroll,30,1,0,0.047931332,0,5,3,0,0,0.0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,4
+4280,Winston Reid,90,3,0,0.25972001,1,49,45,0,0,0.0,0,0,9,2,2,2,7,2,2,0,2,2,1,2,1,8
+27053,Alexandre Dimitri Song-Billong,90,3,0,0.124909211,0,85,76,0,2,0.058531885,2,2,22,2,3,0,5,2,11,2,0,1,1,4,1,24
+28559,Enner Remberto Valencia Lastra,90,6,0,0.123924593,1,28,22,0,2,0.115964416,3,2,9,1,3,3,2,0,5,1,1,1,1,1,0,24
+128704,Emmanuel Emenike,18,2,0,0.17054309,0,7,5,0,1,0.033383284,1,1,2,0,1,0,0,0,2,1,0,0,0,0,0,0

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3043,Christian Dannemann Eriksen,90,1,0,0.029147469,1,65,51,0,3,0.412638006,5,2,9,0,1,0,2,0,12,4,1,0,4,1,0,28
+3083,Heung-Min Son,21,1,0,0.021605851,0,9,5,0,0,0.0,1,1,2,0,0,0,3,2,0,0,0,0,0,2,1,6
+3086,Ben Davies,90,1,0,0.028847387,0,77,52,0,0,0.0,0,0,3,2,0,0,5,1,6,0,5,0,3,4,1,17
+3094,Bamidele Alli,30,0,0,0.0,0,13,7,0,0,0.0,1,0,3,1,0,0,2,0,5,3,1,1,1,0,0,9
+3099,Hugo Lloris,90,0,0,0.0,0,39,20,0,0,0.0,0,0,9,0,0,0,0,0,7,0,1,0,0,0,0,0
+3308,Kieran Trippier,90,0,0,0.0,0,79,58,0,1,0.1112207,0,0,6,1,2,0,8,2,6,0,6,1,5,5,0,15
+3310,Tom Carroll,14,0,0,0.0,0,9,7,0,0,0.0,0,0,1,0,0,0,5,2,1,1,0,0,1,3,0,5
+3585,Erik Lamela,69,1,0,0.1112207,0,28,20,0,2,0.044077048,5,1,6,3,1,1,7,1,4,1,0,1,4,2,1,21
+3611,Kevin Wimmer,76,0,0,0.0,0,41,35,0,0,0.0,0,0,5,1,1,1,2,1,1,0,6,1,1,1,0,0
+4831,Nacer Chadli,60,0,0,0.0,0,27,21,0,0,0.0,1,1,4,1,2,0,13,1,2,0,0,0,3,5,0,18
+10955,Harry Kane,90,2,0,0.91308212,0,18,12,0,0,0.0,3,1,0,2,1,0,11,1,4,2,0,1,2,1,1,16
+10956,Eric Dier,90,0,0,0.0,0,58,45,0,2,0.027060402999999997,0,0,4,2,0,0,7,1,5,0,4,1,3,1,0,14
+20005,Toby Alderweireld,90,2,0,0.013785921,1,43,34,0,0,0.0,0,0,9,1,0,0,4,1,2,0,5,4,3,1,0,10
+40127,Ryan Mason,90,1,0,0.014929579,0,45,36,0,0,0.0,1,0,3,0,2,0,8,4,4,0,0,0,3,7,2,29

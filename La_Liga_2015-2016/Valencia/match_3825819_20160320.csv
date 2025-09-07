@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3240,Mathew Ryan,90,0,0,0.0,0,36,29,0,0,0.0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,1
+3638,Shkodran Mustafi,90,0,0,0.0,0,53,39,0,0,0.0,2,1,11,2,3,1,5,3,5,0,5,6,1,3,3,17
+4406,Aymen Abdennour,90,0,0,0.0,0,50,40,0,1,0.03959258,0,0,13,0,1,1,6,1,3,0,2,4,2,1,0,9
+5718,Rodrigo Moreno Machado,71,5,0,0.263649963,3,27,18,0,3,0.32726045200000003,7,2,6,0,3,1,2,1,6,0,0,1,0,1,0,23
+6402,Francisco Alcácer García,78,2,0,0.29961901,1,24,18,0,2,0.200387743,3,2,5,2,0,0,6,1,3,1,0,0,2,2,0,16
+6592,Rúben Miguel Nunes Vezo,90,0,0,0.0,0,62,42,0,1,0.091381274,3,1,8,1,1,1,8,1,9,1,0,2,5,4,0,16
+6594,Santiago Mina Lorenzo,90,2,0,0.034352156,0,38,30,0,0,0.0,5,2,14,2,2,1,5,0,4,4,0,0,2,1,0,37
+6596,José Luis Gayà Peña,40,0,0,0.0,0,15,14,0,1,0.17933747,1,0,1,0,2,2,2,1,0,2,0,0,0,2,1,7
+6751,Javier Fuego Martínez,90,0,0,0.0,0,47,38,0,0,0.0,0,0,5,4,1,0,4,2,7,1,1,2,2,2,2,24
+10037,Danilo Barbosa da Silva,90,2,0,0.130973854,0,43,32,0,1,0.009894181,4,3,14,2,1,1,8,2,5,1,0,2,1,6,1,25
+10802,André Filipe Tavares Gomes,90,1,0,0.18333727,0,52,43,0,1,0.010710514,3,2,18,2,1,0,5,1,8,2,0,1,4,3,1,31
+18724,Sofiane Feghouli,19,1,0,0.067702085,0,6,4,0,0,0.0,0,0,2,0,0,0,4,1,2,1,0,1,0,2,0,6
+20542,Álvaro Negredo Sánchez,12,0,0,0.0,0,10,5,0,0,0.0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,5
+26780,Guilherme Magdalena Siqueira,50,1,0,0.012938444,0,19,15,0,0,0.0,1,1,4,1,1,0,0,0,3,1,4,3,0,0,0,5

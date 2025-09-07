@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5741,Enzo Nicolás Pérez,68,1,0,0.042513553,0,31,30,0,0,0.0,1,0,9,1,3,2,2,0,6,0,1,1,0,2,0,21
+6402,Francisco Alcácer García,90,3,1,1.17111429,1,12,11,0,1,0.039576106,0,0,1,0,1,0,1,0,2,1,0,0,0,0,0,13
+6592,Rúben Miguel Nunes Vezo,90,0,0,0.0,0,50,41,0,0,0.0,2,1,5,1,0,0,5,0,2,0,7,2,2,3,0,8
+6595,Daniel Parejo Muñoz,22,1,0,0.038987245,0,19,16,0,1,0.07867953,0,0,3,0,1,0,1,1,2,0,0,1,1,1,0,6
+6596,José Luis Gayà Peña,90,0,0,0.0,0,67,52,0,1,0.029325671,4,2,10,2,0,0,7,2,5,1,2,2,1,7,1,19
+6663,Antonio Barragán Fernández,10,0,0,0.0,0,9,7,0,0,0.0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,2
+6725,Zakaria Bakkali,45,2,1,0.060701123999999995,1,33,25,0,0,0.0,5,5,13,1,2,0,0,0,1,1,0,1,1,0,0,7
+6751,Javier Fuego Martínez,90,0,0,0.0,0,54,52,0,0,0.0,1,1,2,3,2,0,4,2,6,0,2,1,2,4,0,26
+6763,Pablo Daniel Piatti,45,1,0,0.03532688,0,20,11,0,2,0.139537613,0,0,5,2,3,1,2,1,3,0,0,0,1,1,1,11
+6898,Jaume Doménech Sánchez,90,0,0,0.0,0,28,16,0,0,0.0,0,0,2,0,1,1,0,0,6,0,0,0,0,0,0,0
+7005,João Pedro Cavaco Cancelo,80,0,0,0.0,0,33,21,1,1,0.031375453,0,0,6,3,3,1,6,2,2,1,8,1,3,4,1,18
+10802,André Filipe Tavares Gomes,90,3,0,0.13505857599999999,2,52,43,0,0,0.0,4,1,10,2,1,0,9,0,6,3,0,0,0,0,0,13
+18724,Sofiane Feghouli,90,3,1,1.0879883030000002,3,35,20,0,1,0.06673177,3,1,6,3,2,1,1,1,6,0,0,2,2,1,0,9
+27482,Aderllan Leandro de Jesus Santos,90,0,0,0.0,0,46,40,0,0,0.0,1,1,3,0,0,0,1,0,2,0,4,2,0,0,0,4

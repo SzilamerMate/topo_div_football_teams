@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3049,Matt Ritchie,13,0,0,0.0,0,11,9,0,1,0.07645476,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,3
+3278,Benik Afobe,28,0,0,0.0,0,11,11,0,1,0.01377727,1,0,4,1,0,0,1,1,1,0,0,0,0,1,0,4
+3341,Steve Cook,90,0,0,0.0,0,35,26,0,0,0.0,0,0,9,1,0,0,3,0,1,0,5,2,4,1,0,8
+3343,Dan Gosling,90,1,0,0.01377727,0,62,55,0,2,0.077497215,1,1,12,0,0,0,2,1,6,0,1,2,6,2,1,25
+3344,Andrew Surman,90,0,0,0.0,0,61,53,0,1,0.069408715,0,0,14,0,0,0,2,0,7,1,3,2,3,1,0,13
+3345,Charlie Daniels,90,2,0,0.036036242,0,50,37,0,1,0.085970886,3,1,8,1,0,0,0,0,8,0,1,3,1,0,0,9
+3346,Joshua King,62,2,0,0.191932,1,18,15,0,0,0.0,3,0,7,2,1,0,3,1,4,1,1,0,1,1,0,28
+3463,Junior Stanislas,77,2,0,0.11180410199999999,0,39,29,0,1,0.07765698,1,1,7,1,1,0,3,3,6,2,0,2,4,3,0,16
+3608,Simon Francis,90,0,0,0.0,0,65,49,1,2,0.176450044,0,0,9,3,0,0,3,1,6,0,1,5,0,2,0,16
+3616,Callum Wilson,28,0,0,0.0,0,9,6,0,0,0.0,0,0,1,0,1,0,0,0,2,3,0,0,1,0,0,8
+3646,Marc Pugh,90,1,0,0.06731408,0,33,26,0,1,0.09377207,6,3,11,0,1,0,5,0,3,3,0,1,1,3,0,16
+9593,Lewis Grabban,62,3,0,0.18161218499999998,2,30,26,0,0,0.0,3,1,9,1,0,0,2,1,2,4,0,0,0,2,0,15
+9626,Tommy Elphick,90,2,1,0.14694369000000002,1,35,29,0,0,0.0,0,0,3,1,0,0,3,2,2,0,3,2,1,3,0,9
+20074,Artur Boruc,90,0,0,0.0,0,24,21,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0

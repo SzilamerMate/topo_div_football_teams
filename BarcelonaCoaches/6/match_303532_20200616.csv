@@ -1,0 +1,17 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5203,Sergio Busquets i Burgos,62,0,0,0.0,0,73,68,0,0,0.0,1,1,3,1,1,0,2,1,2,0,0,0,2,1,0,8
+5213,Gerard Piqué Bernabéu,72,0,0,0.0,0,90,88,0,0,0.0,0,0,8,1,1,0,1,1,2,1,3,1,1,1,0,4
+5246,Luis Alberto Suárez Díaz,37,0,0,0.0,0,9,9,0,0,0.0,0,0,0,0,1,0,0,0,2,2,0,0,0,0,0,2
+5470,Ivan Rakitić,90,1,0,0.007313785,0,80,72,0,2,0.176278334,1,1,3,2,2,0,3,3,7,1,1,1,1,3,1,19
+5487,Antoine Griezmann,90,2,0,0.14403297,0,17,16,0,0,0.0,1,1,2,2,0,0,2,0,2,0,0,2,0,0,0,12
+5492,Samuel Yves Umtiti,18,0,0,0.0,0,19,18,0,0,0.0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,2
+5503,Lionel Andrés Messi Cuccittini,90,3,1,0.857033536,2,87,68,0,0,0.0,10,5,15,3,7,2,1,0,7,4,0,0,3,0,0,11
+6374,Nélson Cabral Semedo,38,0,0,0.0,0,25,23,0,0,0.0,0,0,2,0,0,0,1,0,4,1,0,0,0,0,0,4
+6379,Sergi Roberto Carnicer,52,0,0,0.0,0,64,58,0,1,0.054992266,1,0,4,0,0,0,0,0,3,0,1,1,1,0,0,1
+6826,Clément Lenglet,90,1,0,0.057523634,0,128,124,0,0,0.0,0,0,16,1,0,0,1,0,3,0,1,0,1,1,0,8
+8206,Arturo Erasmo Vidal Pardo,28,0,0,0.0,0,31,28,0,2,0.46368547,0,0,2,1,1,0,3,3,1,0,0,0,1,3,1,6
+11392,Arthur Henrique Ramos de Oliveira Melo,72,0,0,0.0,0,77,72,0,0,0.0,2,2,9,0,2,1,3,2,2,1,0,0,1,2,2,10
+17304,Héctor Junior Firpo Adames,90,0,0,0.0,0,113,101,1,1,0.049438275,3,2,10,2,1,0,1,0,1,1,0,2,3,0,0,9
+20055,Marc-André ter Stegen,90,0,0,0.0,0,39,37,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,1
+24841,Ricard Puig Martí,18,2,0,0.478984835,2,11,10,0,0,0.0,0,0,2,1,1,0,1,0,2,0,0,0,0,1,0,10
+30756,Anssumane Fati,53,1,1,0.049438275,1,36,31,0,0,0.0,6,5,9,1,3,0,1,1,1,1,0,0,1,1,0,11

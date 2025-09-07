@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3601,Charly Musonda Junior,90,0,0,0.0,0,42,31,0,2,0.06989230340000001,4,3,20,2,7,2,3,1,5,2,1,0,1,2,0,16
+5671,Alfred John Momar N''Diaye,90,0,0,0.0,0,38,31,0,0,0.0,2,2,7,3,1,1,3,0,6,1,3,4,1,0,0,12
+6593,Martín Montoya Torralbo,90,0,0,0.0,0,77,61,0,1,0.011302036,0,0,6,0,0,0,11,2,4,0,7,5,2,4,0,19
+6630,Jorge Molina Vidal,57,0,0,0.0,0,21,12,0,0,0.0,0,0,1,1,2,1,3,1,1,0,1,0,0,2,0,6
+6651,Joaquín Sánchez Rodríguez,78,1,0,0.011302036,0,48,39,0,1,0.029158518,3,2,13,1,5,1,0,0,7,1,1,0,1,0,0,2
+6654,Antonio Adán Garrido,90,0,0,0.0,0,26,13,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+6697,Daniel Ceballos Fernández,90,2,0,0.0464300084,1,62,53,0,0,0.0,0,0,12,3,4,1,3,1,9,3,2,2,2,2,1,24
+6832,Rubén Castro Martín,90,1,1,0.19121355,1,32,20,0,1,0.040866055,1,0,6,1,1,0,1,0,0,0,0,0,0,0,0,4
+6865,Francisco José Molinero Calderón,68,0,0,0.0,0,40,29,0,1,0.053797677,1,0,3,0,1,0,7,1,3,0,3,0,0,2,1,9
+6872,Bruno González Cabrera,90,0,0,0.0,0,40,35,0,0,0.0,0,0,4,1,2,1,7,2,5,0,11,2,4,2,1,13
+6873,Francisco Portillo Soler,12,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+7161,Germán Alejandro Pezzella,90,1,0,0.029158518,0,44,38,0,0,0.0,0,0,8,0,1,0,8,3,5,0,7,3,3,5,1,15
+26723,Álvaro Cejudo Carmona,22,1,0,0.06432835,0,9,7,1,1,0.19121355,1,1,2,2,0,0,2,1,1,0,2,0,0,2,0,5
+27348,Ricky van Wolfswinkel,33,1,0,0.053797677,0,8,3,0,0,0.0,0,0,0,0,0,0,10,0,0,0,1,0,1,2,0,6

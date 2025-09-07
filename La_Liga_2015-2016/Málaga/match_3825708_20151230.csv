@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3302,Nordin Amrabat,90,1,0,0.021504013,0,39,21,0,1,0.36665618,2,1,18,2,9,3,7,2,7,1,0,0,1,4,1,26
+6559,Juan Carlos Pérez López,67,0,0,0.0,0,47,32,0,0,0.0,3,3,8,3,0,0,3,1,3,0,3,2,1,1,1,7
+6563,Juan Pablo Añor Acosta,23,1,0,0.041513585,1,11,8,0,0,0.0,0,0,0,1,1,1,1,0,5,1,0,0,0,1,0,6
+6569,Roberto José Rosales Altuve,90,0,0,0.0,0,53,44,0,2,0.40165898,3,0,5,0,1,1,3,0,7,0,0,2,4,2,0,14
+6580,José Luis García del Pozo,90,0,0,0.0,0,52,41,0,0,0.0,1,0,7,1,4,1,4,2,4,0,3,1,2,3,1,19
+6707,Charles Días Barbosa de Oliveira,90,3,0,0.574444304,2,21,13,0,0,0.0,0,0,3,1,1,1,8,0,3,0,3,0,0,0,0,8
+6727,Raúl Albentosa Redal,90,0,0,0.0,0,33,22,0,1,0.49210414,0,0,1,0,0,0,6,2,3,0,7,4,2,3,0,9
+6764,Pablo Fornals Malla,58,0,0,0.0,0,20,16,0,0,0.0,0,0,5,1,2,1,3,0,1,0,0,1,0,0,0,6
+8234,Ignacio Camacho Barnola,90,1,0,0.075593315,1,68,56,0,0,0.0,0,0,6,2,3,2,5,1,13,1,4,3,2,1,1,11
+8419,Duje Čop,72,1,0,0.32228202,0,22,16,0,1,0.021504013,0,0,3,0,1,0,5,0,3,0,0,1,0,2,0,14
+25859,Sérgio Paulo Barbosa Valente,18,2,1,0.16893792,1,20,14,0,2,0.11710689999999999,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,4
+26103,Idriss Carlos Kameni,90,0,0,0.0,0,25,16,0,0,0.0,1,1,3,0,1,1,0,0,6,0,1,0,0,0,0,0
+26669,Weligton Róbson Pena de Oliveira,90,0,0,0.0,0,42,32,0,0,0.0,0,0,2,1,0,0,2,1,1,0,11,3,1,1,0,9
+27335,Arthur Etienne Boka,32,1,0,0.36665618,1,23,16,0,0,0.0,0,0,5,0,0,0,0,0,1,0,0,1,0,0,0,1

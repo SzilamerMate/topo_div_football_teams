@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6686,Giampaolo Pazzini,45,3,0,0.17689211300000002,0,13,8,0,0,0.0,0,0,3,2,1,1,2,0,2,1,0,0,1,1,0,6
+7770,Federico Viviani,90,2,0,0.0387653044,0,79,57,0,2,0.051083745,0,0,10,3,4,1,3,2,8,2,2,1,3,2,0,25
+7949,Artur Ioniţă,90,2,0,0.22239562000000002,1,36,29,0,3,0.213826891,0,0,11,4,1,1,8,2,7,2,2,1,4,2,2,34
+7966,Filip Helander,20,0,0,0.0,0,10,9,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8274,Pierluigi Gollini,90,0,0,0.0,0,19,11,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+8421,Matteo Bianchetti,90,1,1,0.58467865,1,47,36,0,0,0.0,0,0,3,2,2,2,7,0,5,0,8,1,2,1,0,14
+8463,Urby Emanuelson,90,4,0,0.25324170199999996,1,48,35,0,2,0.26961555,0,0,10,0,2,1,3,2,6,1,1,1,3,3,1,23
+11339,Paweł Wszołek,11,0,0,0.0,0,5,3,0,0,0.0,1,0,1,0,0,0,0,0,1,0,1,1,1,0,0,2
+11342,Eros Pisano,90,0,0,0.0,0,51,30,0,2,0.0715012844,0,0,6,2,1,1,8,1,3,0,3,1,2,5,1,13
+20252,Luca Toni,90,1,0,0.606668,0,16,9,0,1,0.024591811,0,0,1,4,4,2,9,0,1,4,2,0,3,0,0,9
+26442,Boško Janković,45,2,0,0.42992352,0,13,7,0,0,0.0,1,1,4,1,1,0,2,0,2,0,0,0,0,0,0,12
+31488,Vangelis Moras,70,0,0,0.0,0,39,36,0,1,0.0352187,1,1,18,3,1,1,6,3,6,0,1,2,4,4,2,14
+386650,Michelangelo Albertazzi,79,0,0,0.0,0,48,34,0,0,0.0,1,1,3,2,1,0,4,2,12,0,4,0,0,4,0,13
+386651,Juan Ignacio Gómez Taleb,90,2,0,0.055467351,1,39,25,0,0,0.0,0,0,6,1,6,2,8,2,8,0,0,0,0,3,0,11

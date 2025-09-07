@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3416,Gabriel Moisés Antunes da Silva,90,1,0,0.026585419,0,43,35,0,1,0.16833578,1,1,10,2,3,0,2,0,6,0,1,2,6,1,0,13
+5554,Blerim Džemaili,77,1,0,0.028957061,0,31,20,1,1,0.5668552,1,0,5,2,3,2,5,1,2,1,1,1,1,4,0,17
+6894,Ezequiel Muñoz,90,1,0,0.052267596,1,26,24,0,0,0.0,0,0,6,3,0,0,5,0,1,1,10,1,2,3,0,20
+7022,Jesús Joaquín Fernández Sáez de la Torre,88,5,3,0.1343400415,3,54,39,0,5,0.302659929,1,1,10,1,0,0,3,0,2,2,0,1,1,0,0,7
+7146,Goran Pandev,19,0,0,0.0,0,5,4,0,1,0.026585419,0,0,0,0,3,1,3,0,0,1,0,0,0,0,0,2
+7148,Mattia Perin,90,0,0,0.0,0,27,16,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,0
+7176,Sebastian De Maio,90,2,0,0.122344911,0,42,34,1,2,0.061922207,1,1,7,1,2,1,3,2,5,2,3,1,3,3,1,18
+7461,Luca Rigoni,90,2,1,0.73519098,2,48,40,0,4,0.153313677,0,0,2,4,2,2,8,1,5,3,0,0,4,2,1,16
+7475,Tomás Eduardo Rincón Hernández,90,1,0,0.044107467,0,84,72,2,2,0.060156889000000005,3,3,14,2,2,1,1,0,6,1,3,0,2,0,0,19
+7852,Tim Matavž,71,5,0,0.283041913,2,21,12,0,0,0.0,0,0,7,1,1,1,7,2,5,4,0,0,1,2,0,13
+9940,Armando Izzo,90,0,0,0.0,0,53,44,0,0,0.0,2,2,7,2,2,1,9,5,3,0,3,2,0,5,5,11
+24683,Diego Ángel Capel Trinidad,2,1,0,0.02166518,1,2,2,0,1,0.052267596,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+30772,Panagiotis Tachtsidis,13,1,0,0.11356776,0,9,7,0,0,0.0,0,0,1,0,0,0,0,0,2,2,1,0,0,0,0,4
+34355,Riccardo Fiamozzi,90,0,0,0.0,0,40,30,0,1,0.0144651495,0,0,5,0,2,1,3,2,3,1,0,0,1,2,0,6

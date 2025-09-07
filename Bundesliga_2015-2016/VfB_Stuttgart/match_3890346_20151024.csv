@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5557,Timo Werner,84,2,0,0.23847818999999998,1,15,11,1,1,0.5257668,2,1,5,2,2,2,12,0,3,5,0,0,1,0,0,27
+7594,Mart Ristl,12,0,0,0.0,0,4,2,0,1,0.020293234,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,4
+8243,Daniel Didavi,90,4,1,0.24258661199999998,2,33,18,0,1,0.08350845,3,2,2,0,2,1,2,0,2,1,0,0,1,0,0,22
+8270,Daniel Schwaab,90,0,0,0.0,0,29,12,0,0,0.0,0,0,2,2,3,2,3,1,3,1,0,2,2,1,0,24
+8557,Martin Harnik,90,2,1,0.54028437,2,30,19,0,0,0.0,4,4,6,3,2,1,9,1,4,1,1,0,4,2,0,25
+8956,Timo Baumgartl,90,1,0,0.10214983,0,35,15,0,0,0.0,0,0,3,0,1,0,5,0,4,0,7,2,0,1,0,11
+9082,Przemysław Tytoń,90,0,0,0.0,0,32,13,0,0,0.0,0,0,6,0,0,0,0,0,7,0,0,0,0,0,0,0
+9728,Florian Klein,90,0,0,0.0,0,24,14,0,0,0.0,0,0,0,0,0,0,3,2,3,0,4,3,4,3,1,24
+11395,Lukas Rupp,90,2,1,0.582798987,1,33,24,1,2,0.16967217499999998,4,2,3,0,1,0,5,1,6,1,2,1,5,2,0,40
+12583,Carlos Armando Gruezo Arboleda,45,0,0,0.0,0,17,10,0,0,0.0,0,0,0,0,0,0,2,0,6,1,0,1,0,1,0,18
+12626,Emiliano Adrián Insúa Zapata,90,0,0,0.0,0,45,24,0,2,0.25876215999999996,6,4,7,3,3,1,1,1,11,1,1,5,3,1,0,16
+35496,Jan Kliment,6,0,0,0.0,0,3,3,0,1,0.057032187,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,3
+38172,Toni Šunjić,90,0,0,0.0,0,27,16,0,0,0.0,0,0,1,1,1,1,6,1,0,0,7,3,0,1,0,8
+43055,Arianit Ferati,33,1,0,0.084542595,0,12,9,0,1,0.25123695,3,1,3,1,0,0,4,1,2,0,0,0,1,2,0,10

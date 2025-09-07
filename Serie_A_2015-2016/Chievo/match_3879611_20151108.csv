@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6950,Alberto Paloschi,90,2,0,0.458281384,0,22,15,0,1,0.030143091,3,2,4,2,0,0,5,0,2,2,1,0,1,0,0,12
+7042,Ivan Radovanović,90,1,0,0.013193413,0,44,37,0,0,0.0,0,0,11,3,1,0,4,0,6,2,4,0,1,0,0,18
+7043,Roberto Inglese,71,0,0,0.0,0,20,12,0,3,0.6273634690000001,1,0,2,1,0,0,6,1,1,1,0,1,1,1,1,12
+7045,Valter Birsa,74,3,0,0.278285125,0,40,27,0,2,0.16345002,7,5,10,2,1,0,6,4,5,2,1,1,1,5,2,23
+7046,Perparim Hetemaj,90,2,0,0.107745709,1,42,33,0,1,0.013193413,3,1,13,1,4,0,2,1,12,1,1,0,2,1,1,17
+7049,Lucas Nahuel Castro,90,2,0,0.30187318,0,45,33,0,0,0.0,0,0,6,0,2,0,7,2,4,1,5,1,2,3,1,21
+7050,Fabrizio Cacciatore,90,0,0,0.0,0,62,48,0,1,0.19668432,0,0,6,1,2,1,3,1,3,0,2,0,6,3,1,15
+7052,Alessandro Gamberini,45,0,0,0.0,0,7,5,0,0,0.0,0,0,0,1,0,0,4,0,2,0,3,0,0,2,0,7
+7771,Dario Dainelli,45,0,0,0.0,0,28,25,0,2,0.12325063,0,0,2,0,0,0,1,0,5,0,5,0,3,0,0,7
+7803,Albano Benjamín Bizzarri,90,0,0,0.0,0,32,18,0,0,0.0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+8644,Sergio Pellissier,19,2,0,0.151845925,1,4,3,0,0,0.0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,2
+8645,Massimo Gobbi,90,0,0,0.0,0,33,24,0,0,0.0,0,0,11,2,1,0,2,0,5,2,3,2,1,0,0,18
+8877,Boštjan Cesar,90,0,0,0.0,0,25,23,0,0,0.0,0,0,4,3,0,0,3,0,2,0,12,1,1,0,0,10
+40247,Simone Pepe,16,1,0,0.040086735,1,19,10,0,1,0.06868203,0,0,5,1,0,0,3,2,0,0,0,0,0,2,1,7

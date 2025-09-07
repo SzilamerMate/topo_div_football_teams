@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4350,Yannick Cahuzac,90,0,0,0.0,0,66,58,0,0,0.0,1,1,6,3,0,0,4,2,8,0,2,0,4,3,1,43
+4508,Julian Palmieri,90,3,0,0.084247194,1,44,32,0,0,0.0,3,2,2,1,1,0,4,0,3,0,0,2,2,0,0,20
+7282,Jean-Louis Leca,90,0,0,0.0,0,47,22,0,0,0.0,0,0,3,0,0,0,0,0,8,0,0,0,0,0,0,0
+7349,Gaël Danic,66,1,0,0.110511035,0,41,28,0,3,0.110169213,0,0,5,0,2,0,5,3,7,0,1,0,1,3,1,24
+7791,Seko Fofana,72,2,0,0.141835406,0,49,44,0,1,0.04232213,1,0,9,0,1,0,2,0,6,0,1,1,1,0,0,17
+15689,Floyd Ayité,90,5,0,0.23089377500000002,0,33,24,0,1,0.07024858,1,0,7,2,0,0,6,1,5,3,0,1,0,1,1,21
+16271,Florian Raspentino,24,0,0,0.0,0,8,7,0,0,0.0,1,0,1,2,0,0,1,0,0,0,1,0,3,0,0,12
+23850,Mathieu Peybernes,71,0,0,0.0,0,38,34,0,0,0.0,1,0,6,1,1,0,7,1,5,1,5,1,4,2,0,7
+26481,Sébastien Squillaci,90,0,0,0.0,0,36,31,0,0,0.0,0,0,6,0,0,0,1,0,1,0,6,1,2,0,0,5
+29875,Axel Ngando,90,2,0,0.15072329,0,49,39,0,2,0.143214514,3,2,9,3,2,0,10,1,4,3,1,3,3,3,0,19
+31711,Abdoulaye Sadio Diallo,18,0,0,0.0,0,14,12,0,0,0.0,1,1,2,0,1,0,1,0,1,1,0,0,0,0,0,1
+40517,Gilles Cioni,90,0,0,0.0,0,55,38,0,0,0.0,0,0,4,0,0,0,4,1,2,0,0,3,2,3,0,14
+40528,Florian Marange,90,0,0,0.0,0,62,48,0,0,0.0,1,0,2,1,1,1,4,0,4,0,1,0,1,3,0,14
+401194,François Modesto,19,0,0,0.0,0,11,7,0,0,0.0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,5

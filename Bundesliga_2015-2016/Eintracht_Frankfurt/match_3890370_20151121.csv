@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5681,Makoto Hasebe,76,1,0,0.015044529,0,35,27,0,1,0.17665288,1,1,5,0,2,0,1,1,7,1,0,1,2,1,0,11
+7846,Luc Castaignos,21,0,0,0.0,0,4,2,0,0,0.0,1,1,1,0,0,0,0,0,0,2,1,0,0,0,0,3
+8320,Gian-Luca Waldschmidt,14,0,0,0.0,0,4,2,0,2,0.24231898600000001,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,2
+8504,Bastian Oczipka,90,0,0,0.0,0,45,34,0,1,0.11563285,2,2,6,1,0,0,3,1,7,1,0,1,1,2,1,11
+8667,Lukáš Hrádecký,90,0,0,0.0,0,39,28,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,0
+8670,Timothy Chandler,69,0,0,0.0,0,36,23,0,0,0.0,0,0,6,0,2,0,4,1,1,0,0,1,4,4,1,17
+8678,David Ángel Abraham,90,0,0,0.0,0,28,21,0,0,0.0,0,0,2,3,1,0,8,1,3,0,6,2,4,4,1,14
+9134,Aleksandar Ignjovski,64,1,0,0.052837487,0,10,4,0,0,0.0,0,0,3,1,3,3,2,1,2,1,0,0,3,2,0,13
+9216,Slobodan Medojević,90,2,1,0.2700489,1,35,26,0,0,0.0,1,1,2,1,1,0,2,1,2,2,2,1,4,1,0,16
+10896,Marc Stendera,90,2,0,0.099148766,0,41,32,1,2,0.25915387,5,5,4,2,2,0,9,4,11,3,0,1,0,5,2,50
+21156,Stefan Aigner,90,2,0,0.35632053,0,24,14,0,0,0.0,2,2,5,0,3,2,6,3,3,3,1,0,4,4,1,16
+23268,Alexander Meier,90,1,0,0.10473782,0,27,14,0,1,0.052837487,0,0,0,1,1,1,9,0,1,1,4,0,0,0,0,17
+36359,Carlos Augusto Zambrano Ochandarte,90,0,0,0.0,0,40,26,0,0,0.0,2,2,9,3,4,1,3,3,11,1,5,1,1,3,2,13
+400622,Joel Gerezgiher,26,0,0,0.0,0,5,2,0,0,0.0,1,1,2,2,1,0,1,1,1,0,0,1,0,1,0,6

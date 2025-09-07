@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3248,Hamari Traoré,90,0,0,0.0,0,31,18,0,1,0.05596389,1,0,6,1,0,0,3,0,5,1,1,2,3,0,0,20
+4383,Nicolas de Roussel de Préville,87,2,0,0.117597068,1,41,25,0,3,0.163117167,5,2,12,1,8,2,4,0,5,4,0,1,1,0,0,16
+4545,Prince Oniangué,75,1,1,0.15405805,1,16,9,0,0,0.0,0,0,0,1,0,0,7,2,3,1,0,0,1,2,1,23
+6648,Aïssa Mandi,90,0,0,0.0,0,28,19,0,1,0.027356798,1,0,1,0,0,0,11,2,11,1,8,0,1,4,0,11
+7369,Aly Ndom,15,1,0,0.05596389,0,8,7,0,1,0.016778653,0,0,1,0,0,0,2,1,2,0,0,0,1,2,0,3
+7435,Anthony Weber,90,1,0,0.050965562,0,29,17,0,0,0.0,0,0,0,0,0,0,2,0,1,0,6,0,3,0,0,3
+7641,Johann Carrasso,90,0,0,0.0,0,31,8,0,0,0.0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0
+7815,Antoine Devaux,90,1,0,0.05827541,1,31,19,0,0,0.0,0,0,4,1,2,0,12,3,3,2,0,0,4,5,1,24
+26775,Thievy Guivane Bifouma Koulossa,82,2,0,0.120396725,0,20,13,0,0,0.0,4,1,5,0,2,0,13,0,6,3,1,0,2,1,0,21
+30291,Atila Turan,3,1,0,0.016206961,0,3,2,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0
+40521,Franck Signorino,90,0,0,0.0,0,41,23,1,1,0.15405805,1,1,0,2,1,0,4,3,2,1,6,0,2,3,1,14
+46801,Jaba Kankava,90,0,0,0.0,0,31,25,0,1,0.06652053,1,0,3,3,1,0,6,1,4,2,2,0,4,4,1,40
+131849,Antoine Conte,90,1,0,0.016778653,0,40,26,0,0,0.0,2,2,7,2,1,0,2,1,5,1,3,2,4,1,1,19
+401453,"David N""Gog",8,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2

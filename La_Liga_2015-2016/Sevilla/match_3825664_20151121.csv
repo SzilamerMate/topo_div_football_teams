@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3253,Adil Rami,90,1,0,0.045994226,1,38,27,0,0,0.0,0,0,6,0,0,0,2,0,7,1,8,1,2,1,0,4
+3497,Vicente Iborra De La Fuente,90,3,0,0.45388251300000004,1,35,18,0,1,0.20763439,0,0,1,2,2,1,8,1,2,0,0,0,1,1,0,17
+3637,Grzegorz Krychowiak,90,0,0,0.0,0,43,35,0,0,0.0,1,1,4,3,1,1,2,1,6,0,9,5,5,1,1,23
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,90,2,0,0.100015308,1,26,17,0,0,0.0,1,0,1,1,0,0,4,2,1,1,3,2,3,2,1,24
+6401,Kevin Gameiro,17,0,0,0.0,0,5,5,0,0,0.0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,3
+6823,Sergio Rico González,90,0,0,0.0,0,28,15,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+6841,Víctor Machín Pérez,90,2,0,0.16438898600000001,0,24,14,0,0,0.0,3,2,8,3,3,0,2,0,7,3,1,1,4,0,0,24
+7788,Ciro Immobile,73,1,0,0.20763439,1,11,6,0,0,0.0,1,0,5,1,0,0,1,0,1,2,0,0,2,0,0,21
+7948,Marco Andreolli,20,0,0,0.0,0,6,3,0,0,0.0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0
+8523,Yevhen Konoplyanka,29,1,0,0.03735481,0,10,6,0,2,0.16836848100000001,1,1,3,0,0,0,1,1,1,1,0,0,0,1,0,3
+10476,Timothée Kolodziejczak,70,1,0,0.016033525,1,33,23,0,0,0.0,1,1,9,2,0,0,3,0,2,0,4,0,1,2,0,5
+21210,Mariano Ferreira Filho,90,1,0,0.032035943,0,53,38,0,2,0.34608197700000004,1,1,7,1,0,0,2,1,6,1,2,4,1,2,1,12
+23816,José Antonio Reyes Calderón,61,1,0,0.03996614,0,24,16,0,3,0.158378951,1,1,6,0,0,0,3,1,7,4,0,1,2,1,0,20
+27483,Benoît Trémoulinas,90,0,0,0.0,0,42,29,0,0,0.0,1,0,1,0,0,0,5,1,6,0,3,3,2,1,0,2

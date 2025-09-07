@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5584,Giancarlo González Castro,90,0,0,0.0,0,29,24,0,0,0.0,1,1,8,0,0,0,4,2,3,1,8,0,5,2,2,10
+5605,Oscar Hiljemark,14,0,0,0.0,0,6,4,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,5
+6719,Franco Damián Vázquez,90,1,0,0.008209623,0,23,16,1,1,0.26389578,6,5,10,3,8,1,7,1,7,8,1,1,0,2,0,28
+7055,Stefano Sorrentino,90,0,0,0.0,0,35,26,0,0,0.0,0,0,3,0,0,0,1,0,5,0,0,0,0,0,0,2
+7461,Luca Rigoni,76,1,1,0.26389578,1,20,15,0,0,0.0,0,0,0,4,0,0,4,0,0,0,2,0,1,1,0,19
+8102,Edoardo Goldaniga,26,0,0,0.0,0,8,8,0,0,0.0,0,0,2,0,0,0,1,1,0,0,5,2,2,1,1,5
+8552,Robin Quaison,82,1,0,0.0075571197,0,26,18,0,2,0.054805718,1,0,5,2,2,1,6,0,5,4,3,0,3,0,0,23
+10032,Achraf Lazaar,90,1,0,0.020305913,0,47,32,0,0,0.0,2,0,6,1,1,0,4,1,3,1,4,0,5,3,1,29
+23329,Abdelhamid El Kaoutari,90,0,0,0.0,0,38,30,0,0,0.0,0,0,8,1,1,1,8,4,3,0,3,2,2,5,0,23
+24061,Aljaž Struna,90,0,0,0.0,0,25,18,0,0,0.0,0,0,5,2,2,1,2,1,2,0,4,0,0,2,0,14
+30512,Aleksandar Trajkovski,90,1,0,0.034499805,0,35,24,0,0,0.0,3,1,5,3,1,0,3,0,5,4,1,0,3,0,0,26
+30735,Mato Jajalo,90,0,0,0.0,0,42,35,0,0,0.0,1,1,4,3,3,1,2,1,7,2,5,2,6,1,0,27
+30769,Andrea Rispoli,64,0,0,0.0,0,29,18,0,1,0.008209623,0,0,4,1,0,0,3,2,5,2,2,0,3,3,0,13
+30928,Roberto Vitiello,8,0,0,0.0,0,4,4,0,0,0.0,0,0,1,0,0,0,2,1,1,0,1,0,4,1,1,6

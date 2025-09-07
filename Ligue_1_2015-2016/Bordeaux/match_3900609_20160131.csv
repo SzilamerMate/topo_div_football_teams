@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2946,Frédéric Guilbert,90,0,0,0.0,0,39,35,0,0,0.0,0,0,4,3,0,0,3,0,4,0,4,1,1,1,0,13
+3150,Jaroslav Plašil,71,1,0,0.034730885,0,44,40,0,0,0.0,2,1,8,1,1,0,2,0,1,0,1,1,0,2,0,15
+3184,Enzo Crivelli,16,0,0,0.0,0,5,4,0,1,0.07136118,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,7
+3356,Valentín Vada,80,2,0,0.14940554,0,55,48,0,5,0.243594594,0,0,6,1,4,0,2,1,5,0,1,2,1,1,0,17
+3408,Thomas Touré,10,4,1,0.253648316,1,10,9,0,0,0.0,1,1,2,0,0,0,0,0,2,0,0,0,0,0,0,3
+3779,Cédric Yambéré,90,2,0,0.123679115,1,38,34,0,0,0.0,0,0,2,0,1,0,3,2,7,0,6,2,4,2,0,6
+4509,Jérôme Prior,90,0,0,0.0,0,43,25,0,0,0.0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,1
+4628,Diego Armando Valentin Contento,90,1,0,0.393515,0,48,38,0,1,0.053156674,1,1,5,3,2,1,4,1,3,0,1,2,2,1,0,18
+6739,Diego Alejandro Rolan Silva,90,3,1,0.38702250699999996,2,61,52,1,3,0.6064329700000001,6,5,14,1,0,0,6,1,13,3,0,0,3,1,1,19
+7130,Cheick Tidiane Diabaté,74,4,2,0.351343209,2,22,9,0,0,0.0,0,0,1,0,3,2,4,1,3,0,1,0,0,1,0,8
+7552,Clément Chantôme,90,0,0,0.0,0,55,52,0,0,0.0,0,0,8,1,1,0,3,2,6,1,2,0,1,2,0,23
+10448,Adam Ounas,90,4,0,0.111671939,1,39,33,1,3,0.225384536,6,3,8,0,2,1,3,0,5,4,0,0,2,0,0,17
+30338,André Biyogo Poko,90,0,0,0.0,0,60,48,0,1,0.028366907,2,1,10,1,0,0,6,4,5,1,4,4,4,6,2,17
+40518,Abdoulaye Traoré,19,0,0,0.0,0,14,14,0,0,0.0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0,2

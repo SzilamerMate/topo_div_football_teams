@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3121,Moustapha Elhadji Diallo,90,0,0,0.0,0,31,25,0,0,0.0,0,0,2,1,0,0,4,0,7,4,2,3,3,1,0,30
+3122,Yannis Salibur,86,5,0,0.099571195,2,28,20,0,1,0.049497187,2,2,6,5,1,0,3,0,3,1,0,1,0,2,0,22
+3124,Jérémy Sorbon,90,0,0,0.0,0,20,15,0,0,0.0,0,0,3,0,1,0,4,3,7,0,9,3,3,4,2,10
+3213,Jimmy Briand,19,0,0,0.0,0,9,6,0,0,0.0,1,0,0,1,2,0,0,0,2,0,0,0,0,0,0,5
+3301,Nicolas Benezet,31,2,0,0.13602026,1,19,15,0,0,0.0,3,2,7,0,0,0,0,0,3,3,0,0,1,0,0,7
+3322,Jonas Lössl,90,0,0,0.0,0,26,16,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+3348,Younousse Sankharé,90,1,0,0.17032716,0,37,32,0,1,0.04337101,1,0,14,1,1,0,4,1,7,1,1,1,2,1,0,28
+3363,Marcus Coco,71,1,0,0.020231834,0,13,9,0,2,0.17865461700000002,3,2,8,1,4,2,3,0,5,4,0,0,1,1,0,24
+7308,Laurent Dos Santos,90,0,0,0.0,0,33,20,0,1,0.06393299,0,0,3,0,0,0,3,1,4,0,1,2,3,3,0,23
+7483,Mana Dembélé,4,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+20199,Lars Christian Jacobsen,90,0,0,0.0,0,22,17,0,0,0.0,0,0,3,1,0,0,0,0,0,0,2,1,1,0,0,13
+23784,Nill De Pauw,59,1,0,0.049497187,1,20,11,0,0,0.0,0,0,3,0,0,0,1,0,4,0,2,1,1,0,0,19
+40527,Brou Benjamin Angoua,90,0,0,0.0,0,10,9,0,0,0.0,0,0,0,1,0,0,2,0,0,0,6,1,0,1,0,10
+401512,Lionel Mathis,90,0,0,0.0,0,52,44,0,0,0.0,0,0,2,0,2,1,2,2,6,0,1,1,0,2,0,36

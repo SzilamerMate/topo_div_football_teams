@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3556,Serge Gakpé,30,0,0,0.0,0,11,10,1,1,0.34526,0,0,3,1,0,0,2,0,1,2,0,0,1,1,0,5
+4369,Issa Cissokho,7,0,0,0.0,0,3,3,0,0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+5717,Diego Sebastián Laxalt Suárez,90,3,2,0.47556481,2,49,40,0,2,0.4615928905,1,0,5,1,1,0,1,1,8,0,0,1,2,1,0,16
+6894,Ezequiel Muñoz,90,1,0,0.021366464,1,49,43,0,0,0.0,0,0,9,4,1,1,6,1,7,0,8,0,5,3,1,31
+7148,Mattia Perin,90,0,0,0.0,0,35,23,0,0,0.0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0
+7456,Diego Perotti,90,0,0,0.0,0,48,37,1,1,0.04595962,2,2,16,0,2,0,4,0,1,5,0,0,5,1,0,16
+7464,Cristian Daniel Ansaldi,90,1,0,0.0111262305,0,60,42,0,0,0.0,1,1,6,1,2,1,5,5,6,1,3,1,1,5,3,16
+7475,Tomás Eduardo Rincón Hernández,80,0,0,0.0,0,34,29,0,1,0.021366464,0,0,3,0,1,0,5,1,6,2,5,1,1,3,1,12
+8180,Leonardo Pavoletti,90,3,1,0.82916159,1,29,22,0,2,0.031065400700000002,0,0,3,5,0,0,6,0,2,4,0,0,1,0,0,10
+9940,Armando Izzo,90,0,0,0.0,0,40,33,0,0,0.0,0,0,9,2,1,0,2,1,2,0,13,2,4,1,1,20
+10530,Jules Olivier Ntcham,90,1,0,0.023579068,0,23,17,0,1,0.03343493,1,0,6,3,0,0,4,2,3,2,1,0,0,2,1,19
+10881,Diogo José Rosário Gomes Figueiras,60,0,0,0.0,0,40,35,0,0,0.0,1,1,4,1,0,0,1,0,6,1,2,0,1,1,0,13
+26728,Alberto Facundo Costa,90,1,0,0.0074863327,1,60,50,0,0,0.0,1,1,10,2,0,0,1,1,6,4,1,0,0,1,0,14
+30772,Panagiotis Tachtsidis,3,0,0,0.0,0,5,3,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4683,Adam Hloušek,90,0,0,0.0,0,52,41,0,0,0.0,0,0,7,3,2,2,4,0,1,0,5,0,1,0,0,19
+5557,Timo Werner,45,2,0,0.116952267,1,15,8,0,0,0.0,0,0,4,0,1,0,6,1,4,0,1,0,1,1,0,14
+5591,Filip Kostić,90,1,0,0.03635055,0,36,22,0,3,0.914279822,2,2,13,2,2,1,5,1,7,6,0,0,4,1,1,19
+8243,Daniel Didavi,67,4,1,1.08933626,2,24,15,0,1,0.1126426,4,2,5,1,3,0,5,0,2,0,0,1,2,5,0,22
+8270,Daniel Schwaab,90,0,0,0.0,0,49,35,0,0,0.0,2,1,4,1,2,0,3,1,4,0,3,0,2,3,1,20
+8557,Martin Harnik,45,1,0,0.79681826,0,16,10,0,0,0.0,3,1,3,1,0,0,3,0,2,0,0,0,1,0,0,15
+8956,Timo Baumgartl,90,1,0,0.1126426,0,59,51,0,0,0.0,1,0,10,0,0,0,7,2,3,0,11,0,2,5,2,14
+8959,Christian Gentner,90,3,0,0.16488212200000002,0,46,36,0,1,0.047200304,2,2,10,1,1,0,1,1,6,0,1,0,1,1,0,22
+9082,Przemysław Tytoń,90,0,0,0.0,0,24,14,0,0,0.0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,0,1
+9409,Daniel Ginczek,90,2,0,0.089746606,1,30,17,0,1,0.19337523,3,2,3,5,2,0,9,0,3,0,0,0,1,0,0,26
+10332,Odisseas Vlachodimos,23,0,0,0.0,0,8,5,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+11395,Lukas Rupp,6,0,0,0.0,0,4,4,0,0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+12626,Emiliano Adrián Insúa Zapata,90,0,0,0.0,0,49,36,0,3,0.141018449,3,3,7,3,1,1,4,0,4,1,3,2,0,3,0,18
+34558,Sereso Geoffroy Gonzaroua Dié,84,0,0,0.0,0,39,34,1,1,0.8822858,3,0,11,1,3,0,4,3,11,2,2,2,0,4,2,18

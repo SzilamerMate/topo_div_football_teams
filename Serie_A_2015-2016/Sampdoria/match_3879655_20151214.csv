@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6334,Luis Fernando Muriel Fruto,21,1,0,0.03179748,0,8,6,0,0,0.0,1,1,2,0,1,1,1,0,1,1,0,0,0,0,0,1
+6759,Roberto Soriano,90,2,0,0.042498865999999996,2,32,27,0,0,0.0,0,0,11,3,2,1,7,0,4,0,1,2,0,2,0,15
+7009,Édgar Osvaldo Barreto Cáceres,65,1,0,0.19920796,0,26,18,0,1,0.020344958,0,0,0,1,1,1,3,1,3,0,1,2,1,2,0,9
+7012,Vasco Regini,90,1,0,0.1340547,1,52,37,0,0,0.0,1,1,5,0,1,0,6,3,1,0,5,1,5,5,1,14
+7018,Emiliano Viviano,90,0,0,0.0,0,40,27,0,0,0.0,0,0,4,0,0,0,0,0,8,0,0,0,0,0,0,0
+7137,Ervin Zukanović,90,1,1,0.047725253,1,35,27,0,0,0.0,0,0,8,2,0,0,5,0,4,0,14,0,3,1,0,9
+7473,Lorenzo De Silvestri,90,0,0,0.0,0,56,42,0,3,0.26921963000000004,1,1,6,3,1,0,3,1,4,0,2,0,2,1,0,15
+7773,Federico Bonazzoli,7,1,0,0.034098692,1,2,2,0,1,0.0225254,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9884,Niklas Moisander,90,0,0,0.0,0,36,29,0,0,0.0,0,0,3,0,0,0,6,2,1,0,5,1,2,2,1,6
+15318,Lazaros Christodoulopoulos,83,2,0,0.123712408,0,25,16,0,0,0.0,4,1,5,1,4,1,1,1,3,2,1,1,3,1,0,15
+16586,Fernando Lucas Martins,90,0,0,0.0,0,57,51,0,1,0.034098692,0,0,4,2,0,0,2,1,6,0,3,2,2,2,1,11
+19850,Antonio Cassano,69,1,0,0.009778676,0,33,19,0,0,0.0,0,0,0,0,5,0,2,0,1,3,0,0,0,1,0,7
+27595,Carlos Mario Carbonero Mancilla,90,1,0,0.07525066,0,31,27,0,0,0.0,1,0,3,4,0,0,6,0,6,1,1,3,1,1,0,29
+36364,Dávid Ivan,25,0,0,0.0,0,11,8,0,0,0.0,0,0,2,0,0,0,2,1,0,0,0,0,0,1,0,7

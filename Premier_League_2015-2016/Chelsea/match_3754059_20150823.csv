@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3381,Nemanja Matić,90,1,0,0.056344714,1,54,49,0,1,0.30049768,0,0,4,3,0,0,5,1,8,0,2,1,2,3,0,17
+3445,Radamel Falcao García Zárate,13,1,0,0.08517626,0,6,3,0,0,0.0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,6
+3456,Kurt Happy Zouma,90,0,0,0.0,0,37,33,0,0,0.0,0,0,3,3,0,0,5,1,0,0,11,0,0,1,0,6
+3472,Willian Borges da Silva,55,3,0,0.278037776,1,29,25,0,1,0.047791492,0,0,8,0,1,1,2,1,0,0,0,0,0,1,0,10
+3478,Francesc Fàbregas i Soler,90,0,0,0.0,0,82,63,0,1,0.073150575,0,0,7,1,0,0,2,2,4,1,1,0,1,2,1,16
+3509,Thibaut Courtois,90,0,0,0.0,0,32,15,0,0,0.0,0,0,3,0,0,0,0,0,7,0,0,0,0,0,0,0
+3621,Eden Hazard,90,1,0,0.30049768,0,68,60,1,5,0.56445667,3,3,21,1,5,1,1,0,10,3,0,0,1,0,0,8
+3645,Gary Cahill,35,0,0,0.0,0,2,2,0,0,0.0,0,0,0,1,0,0,0,0,1,1,4,0,0,0,0,2
+3957,César Azpilicueta Tanco,90,2,1,0.14764149000000001,1,57,45,0,0,0.0,1,0,3,0,0,0,2,0,8,0,4,1,1,1,0,9
+3958,Pedro Eliezer Rodríguez Ledesma,83,3,1,0.34864449200000003,1,41,34,0,3,0.35904941,4,4,14,2,3,0,4,2,8,1,0,0,3,2,0,13
+5198,Diego da Silva Costa,77,4,1,1.258655965,1,34,29,0,1,0.050146386,5,3,8,0,2,0,3,0,3,2,1,1,2,0,0,3
+5475,John Michael Nchekwube Obinna,7,0,0,0.0,0,3,2,0,0,0.0,0,0,1,0,0,0,1,1,1,0,0,0,0,1,1,1
+5594,Branislav Ivanović,90,0,0,0.0,0,38,31,0,0,0.0,0,0,3,2,0,0,2,0,0,0,2,0,2,0,0,7
+20287,John Terry,90,0,0,0.0,0,40,37,0,0,0.0,0,0,2,1,0,0,4,1,4,0,2,0,0,1,0,4

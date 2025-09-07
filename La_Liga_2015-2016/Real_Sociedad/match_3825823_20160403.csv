@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3023,Yuri Berchiche Izeta,90,0,0,0.0,0,45,33,0,1,0.026211845,0,0,6,0,1,0,2,1,4,0,4,7,5,2,0,19
+5560,Carlos Alberto Vela Garrido,85,2,0,0.043458397,1,21,13,0,1,0.115322724,2,0,5,2,4,0,4,1,4,5,0,0,1,2,1,22
+6633,Markel Bergara Larrañaga,90,2,1,0.074257453,1,24,19,0,0,0.0,1,1,0,3,1,0,6,2,4,2,0,4,1,3,1,20
+6665,Íñigo Martínez Berridi,90,1,0,0.115322724,0,19,12,0,0,0.0,1,0,4,1,2,2,2,1,3,1,11,2,3,1,0,7
+6669,David Zurutuza Veillet,58,1,0,0.026211845,0,31,21,0,0,0.0,2,2,6,2,4,0,5,3,5,1,0,5,2,3,2,20
+6671,Asier Illarramendi Andonegi,90,1,0,0.033351794,0,37,24,1,1,0.05132001,0,0,5,4,0,0,7,4,5,4,0,5,2,6,2,31
+6679,Aritz Elustondo Irribaria,39,0,0,0.0,0,10,7,0,0,0.0,0,0,1,0,0,0,1,0,1,1,1,2,0,1,0,4
+6685,Mikel Oyarzabal Ugarte,90,1,0,0.015560674,0,18,10,0,0,0.0,3,1,3,1,4,2,5,2,9,2,1,2,3,2,1,18
+6690,Xabier Prieto Argarate,90,0,0,0.0,0,36,25,0,0,0.0,0,0,3,0,4,2,10,0,6,1,1,2,1,1,0,12
+6694,Gerónimo Rulli,90,0,0,0.0,0,35,14,0,0,0.0,0,0,1,0,2,0,0,0,2,0,0,0,0,0,0,0
+6770,Esteban Félix Granero Molina,32,0,0,0.0,0,15,11,0,0,0.0,0,0,1,0,1,1,1,0,1,0,0,0,2,1,0,15
+8724,Carlos Martínez Díez,51,0,0,0.0,0,16,13,0,0,0.0,1,1,0,1,0,0,5,1,3,0,3,1,1,2,0,2
+16539,Diego Antonio Reyes Rosales,90,0,0,0.0,0,15,10,0,0,0.0,0,0,2,0,0,0,1,0,2,0,7,3,3,0,0,4
+16622,Mikel González de Martín Martínez,5,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0

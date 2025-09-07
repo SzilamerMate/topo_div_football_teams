@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2993,Stéphane Darbion,90,0,0,0.0,0,44,31,0,3,0.0835807027,0,0,8,3,4,0,2,0,5,1,0,0,0,0,0,33
+3002,Benjamin Nivet,40,1,0,0.03907683,1,24,17,0,1,0.036933474,0,0,2,2,1,0,3,2,1,0,0,1,0,2,2,7
+3010,Corentin Jean,90,4,0,0.161107175,2,14,9,0,1,0.03907683,1,0,6,0,3,2,8,0,2,3,0,0,1,0,0,12
+3161,Chaouki Ben Saada,26,1,0,0.036933474,1,24,10,0,1,0.09322126,0,0,5,0,0,0,0,0,5,0,0,0,1,0,0,11
+7301,Lossémy Karaboué,64,1,0,0.006949005,0,32,24,0,1,0.05465584,3,2,6,0,2,1,3,1,3,3,0,0,2,1,1,8
+7376,Yoann Court,50,1,0,0.015364628,0,19,14,0,2,0.023006297000000002,2,1,8,1,0,0,3,0,4,2,0,0,4,0,0,13
+7415,Jessy Pi,90,3,0,0.05166905769999999,0,46,32,0,1,0.015364628,4,4,15,1,1,1,2,0,8,0,2,4,4,0,0,21
+7488,Thomas Ayasse,76,2,0,0.109278552,0,33,24,0,0,0.0,0,0,1,3,1,0,3,0,1,0,4,3,1,1,0,17
+13730,Matthieu Saunier,90,0,0,0.0,0,49,42,0,0,0.0,0,0,10,1,1,0,4,1,12,0,14,3,3,1,1,14
+18162,Chris Mavinga,90,0,0,0.0,0,35,32,0,0,0.0,0,0,9,1,0,0,3,2,5,1,5,0,3,3,1,13
+29133,Brayan Andrés Perea Vargas,14,0,0,0.0,0,5,2,0,0,0.0,0,0,0,1,0,0,3,0,1,0,0,0,0,1,0,6
+34953,Denis Petrić,90,0,0,0.0,0,28,17,0,0,0.0,0,0,4,0,0,0,0,0,5,0,0,0,0,0,0,1
+148132,Quentin Othon,90,0,0,0.0,0,58,42,0,0,0.0,0,0,2,0,0,0,7,0,1,0,6,1,1,5,0,19
+401479,Calvin Anele Ngcongca,90,0,0,0.0,0,43,34,0,1,0.030326676,0,0,3,0,1,1,7,2,1,0,6,1,2,2,2,11

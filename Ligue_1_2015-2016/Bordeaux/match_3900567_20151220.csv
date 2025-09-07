@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2946,Frédéric Guilbert,90,0,0,0.0,0,22,17,0,0,0.0,0,0,3,1,0,0,5,3,2,0,6,4,0,4,0,17
+3150,Jaroslav Plašil,90,0,0,0.0,0,45,42,0,0,0.0,1,0,2,0,4,0,4,0,3,0,1,1,2,1,0,32
+3184,Enzo Crivelli,84,0,0,0.0,0,21,16,1,1,0.48945096,0,0,0,1,0,0,11,1,2,2,1,0,3,1,0,33
+3196,Wahbi Khazri,90,3,1,0.516028232,2,35,22,0,2,0.33286910999999997,2,2,4,2,2,1,7,2,8,5,1,0,5,3,0,29
+3356,Valentín Vada,18,0,0,0.0,0,11,8,0,0,0.0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,3
+3779,Cédric Yambéré,90,0,0,0.0,0,29,21,0,0,0.0,0,0,1,0,1,1,1,1,2,0,11,0,1,1,1,7
+4628,Diego Armando Valentin Contento,90,0,0,0.0,0,38,31,0,0,0.0,1,1,3,2,2,1,5,3,5,1,4,3,4,5,2,13
+5110,Henri Saivet,90,3,0,0.187050099,0,44,37,0,0,0.0,3,1,7,1,0,0,6,3,8,1,1,1,2,4,1,34
+6739,Diego Alejandro Rolan Silva,30,1,0,0.2548351,0,9,5,0,0,0.0,1,0,5,1,1,1,1,0,2,1,0,1,0,0,0,17
+7130,Cheick Tidiane Diabaté,6,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,2
+10448,Adam Ounas,60,3,0,0.219146822,1,18,11,0,0,0.0,4,1,8,0,0,0,3,1,3,3,0,1,2,2,1,18
+30338,André Biyogo Poko,90,0,0,0.0,0,59,43,0,1,0.01340668,4,2,11,2,3,1,9,8,4,4,6,6,6,8,5,30
+40518,Abdoulaye Traoré,72,0,0,0.0,0,34,30,0,1,0.010515012,1,1,5,2,2,0,1,1,6,1,0,0,1,1,1,17
+40533,Cédric Carrasso,90,0,0,0.0,0,32,15,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0

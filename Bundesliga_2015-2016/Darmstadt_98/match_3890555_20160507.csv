@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+8306,Christian Mathenia,90,0,0,0.0,0,38,20,0,0,0.0,0,0,9,0,1,1,0,0,13,0,0,0,0,0,0,0
+8388,Jérôme Gondorf,90,1,1,0.18335845,1,18,10,1,1,0.43462187,0,0,2,2,0,0,7,2,3,0,3,1,3,3,1,46
+9217,Aytac Sulu,90,0,0,0.0,0,16,5,0,1,0.11381994,0,0,1,1,3,2,7,3,4,0,4,2,6,4,0,15
+9219,Tobias Kempe,41,0,0,0.0,0,8,6,0,1,0.066247456,0,0,2,0,0,0,3,1,2,0,2,0,2,2,1,12
+9222,Fabian Holland,90,0,0,0.0,0,29,17,0,0,0.0,0,0,1,2,1,1,5,3,6,0,1,1,1,5,2,30
+9401,Marcel Heller,88,1,0,0.025512526,0,14,6,1,1,0.18335845,0,0,6,2,0,0,5,0,3,1,0,1,1,1,0,17
+9404,Luca Caldirola,90,0,0,0.0,0,13,7,0,0,0.0,0,0,0,1,4,3,4,0,4,0,4,1,6,0,0,21
+9723,Sandro Wagner,90,5,1,0.6716684085,2,24,12,0,0,0.0,1,1,4,6,3,1,9,0,2,2,1,0,0,0,0,20
+11134,Konstantin Rausch,76,0,0,0.0,0,17,8,0,0,0.0,2,0,4,1,0,0,2,0,0,0,2,1,2,2,0,14
+13675,Mario Vrančić,49,0,0,0.0,0,8,6,0,0,0.0,0,0,0,0,3,3,3,0,0,0,0,1,0,0,0,7
+20522,György Garics,90,0,0,0.0,0,17,13,0,0,0.0,0,0,0,3,0,0,4,2,1,0,6,0,1,3,1,28
+22017,Felix Platte,14,1,0,0.15562771,0,7,2,0,0,0.0,0,0,1,2,1,1,0,0,1,0,0,0,1,0,0,3
+40467,Peter Niemeyer,90,0,0,0.0,0,17,10,0,1,0.04897753,0,0,1,4,0,0,3,1,4,0,1,2,1,1,0,36
+40483,Benjamin Gorka,2,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3371,Mario Barwuah Balotelli,1,0,0,0.0,0,2,2,0,0,0.0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1
+5661,M''Baye Babacar Niang,68,1,0,0.048375677,0,14,12,0,0,0.0,1,0,3,0,0,0,4,1,5,2,0,0,3,1,1,13
+5683,Keisuke Honda,90,4,0,0.149755429,1,44,32,0,0,0.0,6,5,11,1,0,0,4,2,4,3,3,0,1,3,2,15
+5688,Carlos Arturo Bacca Ahumada,89,1,0,0.07408365,1,22,14,0,4,0.26108917500000006,0,0,2,0,0,0,2,1,4,2,3,0,1,1,1,14
+6360,Cristian Eduardo Zapata Valencia,90,0,0,0.0,0,58,51,0,0,0.0,0,0,6,0,1,0,2,1,7,2,4,1,6,1,0,9
+7026,Giacomo Bonaventura,90,2,0,0.147211235,1,54,45,0,6,0.35083509600000007,0,0,5,1,1,0,2,1,5,2,2,2,5,2,0,9
+7036,Gianluigi Donnarumma,90,0,0,0.0,0,25,21,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+7147,Andrea Bertolacci,90,1,0,0.054171238,0,51,45,0,1,0.023758056,2,0,8,1,2,1,4,1,6,0,1,0,2,1,0,20
+7463,Ignazio Abate,90,1,0,0.025175594,0,67,51,0,1,0.023871874,0,0,10,1,1,0,3,2,0,0,5,2,3,3,1,10
+8668,Kevin-Prince Boateng,22,1,0,0.01055375,0,11,7,0,0,0.0,0,0,3,2,1,0,2,0,1,2,0,0,0,0,0,7
+8874,Luca Antonelli,90,2,1,0.23314226,1,81,64,0,1,0.07408365,2,0,11,0,3,2,5,3,7,0,3,1,5,5,1,20
+10919,Juraj Kucka,90,4,0,0.287387732,0,39,34,0,0,0.0,4,2,12,3,2,0,2,1,10,2,1,0,2,1,0,26
+40945,Alex Rodrigo Dias da Costa,90,2,0,0.164517726,0,45,43,0,1,0.057305034,1,1,4,0,0,0,2,0,5,0,8,1,2,1,0,5

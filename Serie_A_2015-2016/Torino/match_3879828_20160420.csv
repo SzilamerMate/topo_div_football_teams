@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3034,Kamil Glik,90,0,0,0.0,0,50,42,0,0,0.0,0,0,8,1,1,1,1,0,3,0,11,0,0,0,0,6
+6965,Bruno da Silva Peres,90,0,0,0.0,0,56,48,1,2,0.7925618699999999,3,1,13,0,1,0,1,1,6,1,3,0,0,1,1,14
+7465,Daniele Baselli,70,2,0,0.042345114,1,26,19,0,1,0.15190773,3,2,8,1,1,0,3,1,2,3,1,0,1,1,1,20
+7470,Joel Chukwuma Obi,90,1,0,0.03864082,1,37,29,0,3,0.063351615,1,0,9,3,4,1,6,4,4,1,2,0,4,5,1,28
+7471,Andrea Belotti,90,4,1,0.982955362,3,27,20,0,1,0.016737161,2,1,8,2,3,3,7,0,4,3,2,1,0,0,0,10
+7476,Emiliano Moretti,90,0,0,0.0,0,40,39,0,0,0.0,0,0,5,2,1,1,5,2,0,0,5,0,2,3,0,17
+7479,Cristian Molinaro,28,0,0,0.0,0,12,12,0,2,0.134120213,1,0,3,0,0,0,2,1,1,1,1,0,1,2,1,7
+12619,Josef Alexander Martínez Mencia,90,4,1,0.8473724349999999,1,25,19,0,0,0.0,1,1,6,2,0,0,8,1,4,1,0,0,1,1,1,10
+16202,Nikola Maksimović,90,0,0,0.0,0,49,43,0,0,0.0,1,0,6,1,1,1,2,1,2,0,8,1,1,2,0,10
+28289,Gastón Alexis Silva Perdomo,62,2,0,0.03254323,1,55,46,0,4,0.110190632,2,1,5,1,1,0,1,0,3,0,1,1,1,1,0,12
+34881,Daniele Padelli,90,0,0,0.0,0,40,26,0,0,0.0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+40351,Alessandro Gazzi,94,1,0,0.10851226,0,51,43,0,0,0.0,0,0,4,4,0,0,1,0,4,1,1,2,3,0,0,14
+40430,Giuseppe Vives,20,0,0,0.0,0,5,3,0,0,0.0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,4

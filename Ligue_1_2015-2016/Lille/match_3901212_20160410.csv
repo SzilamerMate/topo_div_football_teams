@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3211,Florent Balmont,57,0,0,0.0,0,40,34,0,1,0.029144462,1,1,7,2,1,1,0,0,4,0,1,0,0,0,0,14
+3425,Morgan Amalfitano,90,2,1,0.81913853,1,37,30,0,0,0.0,4,1,4,0,0,0,0,0,7,1,1,2,1,0,0,2
+3446,Djibril Sidibé,90,1,1,0.30238315,1,62,53,0,0,0.0,2,2,9,0,2,1,7,4,5,3,1,1,1,5,2,17
+3625,Sofiane Boufal,84,1,0,0.029687606,0,38,27,1,1,0.3598567,8,6,18,2,2,0,4,2,5,5,0,0,0,2,0,9
+3677,Bakary Adama Soumaoro,33,0,0,0.0,0,15,15,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3
+6716,Sébastien Corchia,90,1,0,0.009609384,0,42,26,0,1,0.062417638,2,1,8,0,3,1,7,1,4,1,1,2,3,4,0,13
+10330,Gadji Celi Carmen Junior Tallo,6,1,0,0.062417638,0,2,2,1,1,0.30238315,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,3
+11332,Ibrahim Amadou,90,0,0,0.0,0,38,32,0,0,0.0,0,0,5,3,2,1,5,0,4,0,2,4,3,5,0,24
+15996,Éderzito António Macedo Lopes,90,1,1,0.19720021,1,33,26,1,2,0.81913853,3,2,5,3,4,2,7,0,0,0,0,0,1,0,0,8
+29057,Renato Civelli,90,0,0,0.0,0,25,17,0,0,0.0,0,0,2,1,0,0,3,2,3,0,1,0,1,3,0,5
+40484,Vincent Enyeama,90,0,0,0.0,0,41,24,0,0,0.0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0
+40522,Rio Antonio Zoba Mavuba,9,0,0,0.0,0,2,2,0,0,0.0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,6
+40523,Marko Baša,90,0,0,0.0,0,34,32,0,0,0.0,0,0,4,0,1,0,1,1,3,0,3,0,2,1,0,2
+40697,Mounir Obbadi,81,2,1,0.38900116199999996,1,51,48,1,2,0.20680959399999999,1,1,8,2,1,1,4,2,4,2,0,1,2,4,0,27

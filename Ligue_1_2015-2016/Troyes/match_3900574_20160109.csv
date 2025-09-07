@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3002,Benjamin Nivet,45,0,0,0.0,0,21,18,0,0,0.0,0,0,0,2,2,0,1,0,2,3,1,1,4,0,0,17
+3010,Corentin Jean,90,1,0,0.022979109,0,19,17,0,3,0.13674555900000002,3,1,5,2,2,1,6,2,4,3,0,1,1,2,1,22
+4413,Aloïs Confais,90,0,0,0.0,0,29,23,0,0,0.0,1,1,2,2,2,0,5,2,5,0,2,3,1,3,1,21
+7193,Paul Bernardoni,90,0,0,0.0,0,32,14,0,0,0.0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0
+7283,Thiago Xavier Rodrigues Corrêa,75,1,0,0.08933864,1,18,15,0,0,0.0,0,0,1,3,0,0,7,4,4,1,2,3,3,5,0,29
+7301,Lossémy Karaboué,45,1,0,0.006996013,0,18,13,1,1,0.024040248,3,2,3,0,0,0,5,1,5,2,1,0,0,2,0,11
+7336,Jimmy Cabot,54,0,0,0.0,0,16,10,0,0,0.0,6,2,3,1,2,0,3,3,3,1,0,2,1,3,1,21
+7376,Yoann Court,36,1,0,0.031752713,0,5,3,0,0,0.0,0,0,3,4,1,0,6,3,1,0,0,1,2,5,1,16
+7415,Jessy Pi,90,2,0,0.099922301,1,40,27,0,1,0.022979109,1,1,5,0,1,0,2,1,10,0,0,1,3,2,0,23
+13730,Matthieu Saunier,90,0,0,0.0,0,36,30,0,0,0.0,0,0,11,4,0,0,4,2,10,1,7,0,1,3,2,13
+15796,Babacar Gueye,15,0,0,0.0,0,4,4,0,0,0.0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,4
+26752,Mouhamadou Dabo,90,0,0,0.0,0,42,33,0,0,0.0,3,3,5,3,2,1,2,0,8,0,5,2,2,2,0,16
+401470,Fabien Camus,90,3,1,0.11351256,2,26,17,0,2,0.24424663,3,1,9,0,2,2,3,0,4,2,0,0,1,0,0,25
+401479,Calvin Anele Ngcongca,90,1,0,0.15490799,0,29,26,0,0,0.0,0,0,2,0,0,0,3,1,1,1,4,1,0,2,1,12

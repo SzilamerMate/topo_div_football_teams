@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2981,Alban Lafont,90,0,0,0.0,0,36,20,0,0,0.0,0,0,5,0,1,1,0,0,4,0,0,0,0,0,0,0
+3024,Jacques François Moubandje,90,0,0,0.0,0,41,26,0,1,0.07933651,3,1,3,0,2,1,4,1,6,1,1,1,2,2,1,8
+3030,Wergiton do Rosário Calmon,20,1,0,0.0703465,0,10,7,0,1,0.16791323,0,0,2,0,1,0,1,0,0,0,0,0,2,0,0,2
+3036,Alexis Blin,90,1,0,0.043779776,0,61,48,0,1,0.03222753,0,0,2,1,2,0,4,4,6,1,2,0,1,4,1,15
+3189,Étienne Didot,81,2,0,0.048480035,1,64,44,1,5,0.476973816,1,0,4,5,2,0,6,3,5,0,3,1,2,5,1,20
+4349,Issa Diop,90,0,0,0.0,0,51,37,0,1,0.045639418,0,0,9,4,0,0,2,0,7,0,4,0,0,2,0,10
+4447,Martin Braithwaite Christensen,90,5,1,1.008543654,3,21,14,0,0,0.0,1,1,6,2,3,1,3,1,7,2,1,0,0,1,0,11
+6723,Wissam Ben Yedder,90,5,2,2.17132076,4,17,9,0,1,0.012522541,1,1,6,0,1,0,8,0,8,0,0,0,2,0,0,13
+8677,Marcel Tisserand,90,0,0,0.0,0,39,31,0,0,0.0,0,0,2,3,3,2,4,0,5,0,2,1,2,1,0,10
+11540,Óscar Guido Trejo,9,3,1,1.05192907,2,9,8,0,0,0.0,1,1,6,1,0,0,0,0,5,2,1,0,1,0,0,3
+16418,Adrien Regattin,70,0,0,0.0,0,32,25,0,0,0.0,0,0,2,2,3,2,3,1,1,1,1,0,2,2,0,25
+16522,Tongo Hamed Doumbia,90,4,0,0.347052315,1,40,37,0,2,0.3863421,1,1,8,4,0,0,10,1,9,4,0,2,1,3,0,18
+31174,Jean-Daniel Akpa Akpro,45,0,0,0.0,0,18,9,0,0,0.0,1,1,3,3,1,1,3,1,3,1,2,1,0,2,1,14
+40641,Pavle Ninkov,45,0,0,0.0,0,20,12,0,0,0.0,0,0,2,1,1,0,1,1,1,0,1,0,1,1,0,7

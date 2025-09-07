@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3098,Victor Wanyama,90,2,0,0.052173503,1,55,46,0,0,0.0,3,1,9,2,2,1,10,3,12,2,3,1,0,4,2,21
+3272,Oriol Romeu Vidal,90,0,0,0.0,0,43,36,0,0,0.0,3,2,6,3,1,0,7,1,6,0,2,0,4,5,1,22
+3300,Maya Yoshida,90,0,0,0.0,0,48,36,0,0,0.0,1,1,2,0,0,0,4,0,4,0,2,1,3,1,0,4
+3328,James Ward-Prowse,19,0,0,0.0,0,6,5,0,1,0.033650845,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,5
+3329,Cédric Ricardo Alves Soares,90,2,0,0.01785436,0,43,23,0,2,0.110174786,2,1,8,1,3,2,6,1,7,1,5,1,6,4,0,19
+3629,Sadio Mané,24,0,0,0.0,0,10,7,0,0,0.0,1,1,2,1,1,0,0,0,1,0,0,0,0,0,0,3
+3651,Matt Targett,90,0,0,0.0,0,45,36,0,1,0.09619129,1,0,2,0,1,0,0,0,6,1,2,0,2,0,0,9
+3685,Jay Rodriguez,12,1,0,0.077718936,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+3828,Steven Davis,71,0,0,0.0,0,46,36,0,3,0.214308325,0,0,6,2,1,0,4,1,4,0,0,1,0,2,0,17
+3842,Shane Long,66,4,0,0.213698457,2,19,13,0,2,0.095539879,2,1,4,2,0,0,2,0,4,4,0,0,1,0,0,9
+3960,José Miguel da Rocha Fonte,90,0,0,0.0,0,33,24,0,1,0.11171945,0,0,1,1,0,0,6,1,2,0,5,2,3,3,1,8
+9958,Steven Caulker,90,3,0,0.247095305,2,47,33,0,1,0.009797629,0,0,5,0,0,0,6,1,3,1,12,1,3,1,0,9
+11062,Graziano Pellè,78,3,0,0.214971939,1,37,27,0,2,0.126564586,1,1,1,1,1,1,5,0,3,2,1,1,0,0,0,8
+20201,Maarten Stekelenburg,90,0,0,0.0,0,26,16,0,0,0.0,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0

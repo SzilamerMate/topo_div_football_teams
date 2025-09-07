@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3288,Miguel Ángel Britos Cabrera,90,1,0,0.13310002,0,18,9,0,0,0.0,2,1,1,2,0,0,2,0,2,0,9,0,1,1,0,5
+3302,Nordin Amrabat,16,1,0,0.12790407,0,5,2,0,0,0.0,2,1,2,1,0,0,0,0,2,2,0,0,1,0,0,1
+3309,Sebastian Prödl,90,3,0,0.312346668,0,17,11,0,0,0.0,0,0,1,2,0,0,1,1,3,0,5,1,0,1,0,0
+3454,Troy Deeney,90,0,0,0.0,0,48,29,0,4,0.3234003725,0,0,3,1,2,0,6,0,4,4,2,1,1,0,0,8
+3522,Heurelho da Silva Gomes,90,0,0,0.0,0,32,13,0,0,0.0,0,0,4,0,0,0,0,0,5,0,0,0,1,0,0,0
+3626,Ben Watson,90,0,0,0.0,0,40,28,0,4,0.44408868999999995,0,0,3,1,0,0,0,0,1,0,0,2,2,0,0,7
+3721,Etienne Capoue,90,1,0,0.0152173275,0,40,29,0,0,0.0,6,3,5,4,4,1,5,2,17,3,0,0,0,3,1,8
+3725,José Holebas,90,1,0,0.05486972,0,36,28,0,0,0.0,2,1,3,0,0,0,3,2,5,3,5,3,1,3,0,10
+3991,Allan Romeo Nyom,90,0,0,0.0,0,32,22,0,0,0.0,1,0,2,3,0,0,9,5,6,0,3,3,4,9,4,12
+5458,Odion Jude Ighalo,74,6,0,1.182926265,3,17,14,0,1,0.031748116,3,2,6,0,0,0,1,0,4,3,1,2,2,0,0,10
+5540,Valon Behrami,85,0,0,0.0,0,29,22,0,0,0.0,0,0,3,2,2,1,9,4,8,2,0,1,0,7,0,22
+23488,Mario Suárez Mata,21,0,0,0.0,0,9,5,0,0,0.0,0,0,2,1,0,0,2,2,1,0,0,3,0,2,2,4
+40118,Ikechi Anya,5,0,0,0.0,0,2,1,0,0,0.0,1,0,1,0,0,0,1,1,0,0,0,1,0,1,1,2
+43081,Almen Abdi,69,1,0,0.031748116,0,23,19,0,0,0.0,1,1,3,4,1,1,5,3,3,0,0,1,2,3,0,8

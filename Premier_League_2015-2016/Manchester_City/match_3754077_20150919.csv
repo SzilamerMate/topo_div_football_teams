@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3054,Fernando Luiz Rosa,90,2,0,0.10812049800000001,1,101,94,0,0,0.0,3,2,12,0,2,0,9,4,7,1,2,0,3,5,3,21
+3087,Gnégnéri Yaya Touré,90,7,0,0.860117143,2,82,63,0,3,0.11274784400000001,9,7,15,4,1,0,4,1,8,1,1,0,0,2,1,14
+3089,Kevin De Bruyne,90,4,1,0.203129935,1,84,65,0,4,0.45165755399999996,5,4,13,2,1,0,1,1,7,1,1,1,0,1,0,22
+3090,Nicolás Hernán Otamendi,90,4,0,0.247480867,2,86,80,0,0,0.0,0,0,17,2,0,0,7,2,4,0,2,0,2,4,0,9
+3233,Raheem Sterling,65,0,0,0.0,0,34,25,0,2,0.47394082000000004,4,1,8,0,2,0,1,0,6,1,0,0,1,0,0,15
+3237,Sergio Leonel Agüero del Castillo,90,5,0,0.7923356699999999,1,19,18,1,1,0.05759658,6,3,7,0,0,0,1,0,4,2,0,0,0,0,0,6
+3291,Joe Hart,90,0,0,0.0,0,23,21,0,0,0.0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0
+3389,Eliaquim Mangala,45,0,0,0.0,0,45,38,0,0,0.0,0,0,6,0,0,0,2,2,4,2,0,0,1,2,0,8
+3598,Wilfried Guemiand Bony,25,3,0,0.279094599,0,5,4,0,1,0.044305798,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+3708,Kelechi Promise Iheanacho,7,0,0,0.0,0,4,2,0,0,0.0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,3
+5596,Aleksandar Kolarov,83,1,0,0.007846762,0,69,56,0,1,0.04544337,1,0,1,1,0,0,2,1,6,0,1,2,1,1,1,8
+6821,Jesús Navas González,90,1,0,0.030596884,1,82,62,0,5,0.190466984,1,1,17,0,1,0,0,0,6,0,0,0,2,0,0,9
+7110,Bacary Sagna,90,0,0,0.0,0,87,76,0,3,0.421360147,0,0,7,0,0,0,6,3,3,0,1,0,2,3,1,10
+19288,Martín Gastón Demichelis,45,0,0,0.0,0,39,35,0,2,0.10602621100000001,1,1,8,2,0,0,3,2,3,0,0,2,0,2,1,5

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3394,Laurent Koscielny,90,0,0,0.0,0,50,41,0,0,0.0,0,0,11,3,2,1,5,2,4,0,2,2,1,2,0,7
+3461,Petr Čech,90,0,0,0.0,0,29,18,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+3475,Per Mertesacker,90,0,0,0.0,0,51,46,0,0,0.0,0,0,2,0,0,0,1,0,3,0,3,0,0,1,0,2
+3496,Mesut Özil,90,1,0,0.024718713,0,108,84,1,5,0.6048921810000001,1,0,18,0,5,0,1,1,4,2,0,0,1,1,0,5
+3498,Ignacio Monreal Eraso,90,0,0,0.0,0,94,82,0,1,0.24243128,0,0,5,0,1,1,4,2,6,0,1,1,0,2,2,6
+3511,Héctor Bellerín Moruno,90,1,0,0.045087036,0,68,63,0,0,0.0,1,1,15,0,1,1,2,0,5,1,1,0,1,0,0,5
+3517,Aaron Ramsey,90,7,1,1.1902207269999998,3,123,114,1,4,0.203777663,1,1,25,2,0,0,2,0,10,3,1,0,1,1,0,6
+3525,Alex Oxlade-Chamberlain,63,1,0,0.029070292,0,31,22,0,1,0.03983675,1,1,7,0,1,0,4,2,2,0,1,0,0,3,0,4
+3528,Kieran Gibbs,15,0,0,0.0,0,17,14,0,1,0.041664135,0,0,2,0,0,0,2,0,0,3,0,0,2,0,0,4
+3604,Olivier Giroud,79,2,1,0.19128832,1,19,14,0,0,0.0,0,0,0,1,0,0,5,1,0,0,0,0,1,1,0,4
+3668,Theo Walcott,27,1,0,0.030138908,0,10,8,0,1,0.14443657,1,1,2,0,2,0,0,0,0,2,0,0,0,0,0,1
+3713,Calum Chambers,11,2,0,0.18610070499999998,1,3,2,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+5581,Joel Nathaniel Campbell Samuels,75,1,1,0.14589794,1,36,26,0,0,0.0,0,0,5,2,1,0,4,1,3,2,0,0,1,3,1,8
+6631,Mathieu Flamini,90,0,0,0.0,0,105,101,0,1,0.045087036,0,0,11,1,1,1,4,1,7,1,1,1,1,3,0,5

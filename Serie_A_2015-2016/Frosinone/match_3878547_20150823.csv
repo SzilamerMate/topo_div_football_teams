@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7462,Aleandro Rosi,75,0,0,0.0,0,44,35,0,1,0.005181062,0,0,6,0,1,0,4,1,5,2,2,0,4,2,0,5
+7699,Daniele Verde,7,1,0,0.0067657474,1,3,1,0,0,0.0,0,0,2,0,0,0,1,0,2,0,0,0,0,0,0,2
+11608,Danilo Soddimo,67,2,1,0.267644101,1,23,16,0,0,0.0,0,0,6,1,1,0,2,1,7,2,1,4,1,1,1,15
+11672,Samuele Longo,83,1,0,0.035335574,0,9,8,0,1,0.027881736,1,0,1,1,0,0,6,0,3,1,1,0,1,0,0,21
+20636,Mirko Gori,90,2,0,0.038706708,1,58,42,0,0,0.0,4,2,8,3,1,0,5,1,18,3,2,2,4,4,1,25
+23470,Luca Paganini,90,1,0,0.08360952,0,32,24,1,3,0.326440864,2,2,3,1,1,0,5,0,6,3,0,1,3,1,0,12
+24235,Federico Dionisi,90,2,0,0.073065456,0,23,15,0,0,0.0,2,2,7,3,4,2,11,2,2,8,0,1,1,4,1,19
+30911,Robert Gucher,90,2,0,0.011839726,0,44,30,0,2,0.154974356,2,2,8,1,0,0,7,5,6,0,5,0,3,6,2,26
+30927,Massimiliano Carlini,23,0,0,0.0,0,4,4,0,0,0.0,0,0,5,0,2,0,0,0,1,1,0,0,0,0,0,5
+31721,Matteo Ciofani,15,0,0,0.0,0,16,13,0,0,0.0,0,0,4,1,0,0,0,0,1,1,1,0,0,0,0,2
+32037,Nicola Leali,90,0,0,0.0,0,24,15,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+174418,Modibo Diakité,90,1,0,0.12144871,0,30,27,0,0,0.0,0,0,2,0,0,0,4,1,3,0,8,1,4,2,0,10
+296873,Roberto Crivello,90,1,0,0.09886401,0,37,29,0,2,0.0892963675,1,1,10,0,1,0,1,1,3,3,3,0,2,1,0,16
+386509,Adriano Russo,90,0,0,0.0,0,36,29,0,1,0.0061528785,0,0,2,0,0,0,7,1,3,0,6,0,5,3,0,12

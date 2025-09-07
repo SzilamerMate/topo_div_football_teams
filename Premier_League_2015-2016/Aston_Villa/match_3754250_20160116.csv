@@ -1,0 +1,13 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3436,Idrissa Gana Gueye,90,3,0,0.089560128,0,47,41,0,0,0.0,2,1,4,5,2,0,8,6,11,0,5,0,2,8,1,34
+3450,Jordan Ayew,94,1,0,0.04348758,0,35,27,0,1,0.0926743,7,3,9,3,1,0,0,0,9,5,0,0,6,0,0,30
+3583,Ashley Westwood,90,1,0,0.10850642,0,50,41,0,1,0.03985851,0,0,6,1,2,2,2,0,5,0,1,1,0,0,0,19
+6800,Carles Gil de Pareja Vicent,66,0,0,0.0,0,31,24,0,0,0.0,1,1,7,0,1,0,2,0,2,0,0,0,3,0,0,16
+7153,Jordan Veretout,90,1,0,0.007321767,0,69,45,0,2,0.241338535,1,1,9,3,2,0,4,0,5,2,3,0,2,1,0,18
+9533,Leandro Bacuna,90,2,0,0.1360221,1,77,58,0,2,0.15199400000000002,2,1,6,2,1,1,4,1,4,1,5,1,1,2,0,7
+18672,Mark Bunn,90,0,0,0.0,0,35,27,0,0,0.0,0,0,1,1,0,0,0,0,10,0,0,0,0,0,0,2
+19362,Rudy Gestede,24,1,1,0.07806587,1,13,9,0,1,0.20208935,2,1,1,0,1,1,1,0,3,1,0,0,3,0,0,5
+20285,Joleon Lescott,90,0,0,0.0,0,48,39,0,0,0.0,0,0,9,0,0,0,3,0,2,0,19,0,1,0,0,2
+24380,Tetchi Jores Charlemagne Ulrich Okore,90,0,0,0.0,0,46,41,0,0,0.0,0,0,3,0,1,1,8,3,1,0,5,3,0,3,0,8
+27146,Aly Cissokho,90,2,0,0.0485836335,2,61,45,0,0,0.0,1,1,4,1,1,0,3,2,5,0,7,2,4,2,0,6
+28247,Libor Kozák,90,3,0,0.5366734,1,29,16,0,1,0.021357313,2,1,4,0,2,1,7,0,4,1,0,0,0,0,0,11

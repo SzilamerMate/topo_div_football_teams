@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3063,Danilo Luiz da Silva,90,2,0,0.044805596,0,56,39,0,0,0.0,1,1,5,0,0,0,1,0,4,0,4,0,3,0,0,7
+3990,Jesé Rodríguez Ruiz,26,2,0,0.09932911999999999,2,5,3,0,0,0.0,3,2,4,2,0,0,1,0,0,0,0,0,1,0,0,7
+4926,Francisco Román Alarcón Suárez,18,0,0,0.0,0,13,11,0,1,0.05950156,1,1,3,0,0,0,1,0,2,1,0,0,0,0,0,5
+5200,Lucas Vázquez Iglesias,90,0,0,0.0,0,39,29,1,4,0.20256887350000002,3,1,7,2,4,0,1,0,3,3,1,1,3,0,0,19
+5201,Sergio Ramos García,90,1,0,0.04132487,0,71,62,0,1,0.023576386,0,0,10,2,3,1,3,1,7,0,1,3,2,2,1,9
+5202,José Ignacio Fernández Iglesias,90,1,0,0.11028741,0,38,35,0,0,0.0,1,0,3,4,1,0,2,2,4,2,2,0,2,2,1,24
+5456,Mateo Kovačić,6,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+5463,Luka Modrić,84,0,0,0.0,0,55,44,0,4,0.20061988600000003,6,5,14,2,3,1,3,1,7,2,1,1,2,3,0,15
+5485,Raphaël Varane,90,1,0,0.07719966,0,52,43,0,0,0.0,0,0,9,1,0,0,0,0,4,0,8,0,2,0,0,8
+5539,Carlos Henrique Casimiro,90,1,0,0.023576386,0,64,55,0,1,0.10589248,2,2,6,2,3,1,6,4,5,1,5,1,6,5,2,21
+5597,Keylor Navas Gamboa,90,0,0,0.0,0,29,18,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+5695,James David Rodríguez Rubio,72,4,0,0.1912691785,2,62,49,0,2,0.12392534,3,3,10,0,1,0,3,0,4,3,0,1,1,1,0,13
+6399,Gareth Frank Bale,90,6,1,0.5723128660000001,2,38,30,0,2,0.129086396,3,2,11,2,4,1,2,0,6,2,0,1,0,0,0,7
+21147,Borja Mayoral Moya,64,0,0,0.0,0,12,9,0,0,0.0,0,0,1,1,0,0,5,1,0,2,0,0,1,1,0,17

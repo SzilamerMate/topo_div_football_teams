@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6941,Jasmin Kurtič,90,0,0,0.0,0,31,26,0,2,0.067453512,2,2,6,0,0,0,3,0,1,0,5,0,2,0,0,17
+6983,Remo Freuler,57,1,0,0.06975568,0,18,12,0,0,0.0,0,0,5,1,0,0,5,1,3,2,0,1,1,3,1,20
+6992,Andrea Masiello,90,0,0,0.0,0,35,28,0,0,0.0,0,0,4,2,2,1,2,1,2,0,10,2,4,1,1,12
+6994,Marten de Roon,90,1,0,0.03137922,1,39,25,0,0,0.0,0,0,1,1,0,0,3,2,2,0,1,3,1,2,1,32
+7002,Rafael Tolói,90,0,0,0.0,0,33,27,0,0,0.0,0,0,2,2,1,1,3,2,2,1,7,2,1,2,0,8
+7006,Alejandro Darío Gómez,90,2,0,0.033038250000000005,1,35,25,0,1,0.021342961,2,1,12,3,1,0,3,2,6,2,0,1,1,2,1,22
+7157,Marco Sportiello,90,0,0,0.0,0,27,19,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+8420,Luca Cigarini,33,0,0,0.0,0,27,23,0,0,0.0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,6
+8657,Andrea Conti,90,0,0,0.0,0,54,47,0,1,0.043695405,0,0,7,1,2,0,3,0,3,0,4,3,2,2,0,10
+8871,Marco Borriello,26,0,0,0.0,0,6,5,0,0,0.0,1,0,2,0,0,0,1,0,2,1,1,0,3,0,0,7
+11722,Boukary Dramé,90,2,0,0.053749859999999997,0,59,42,0,0,0.0,0,0,8,1,1,0,3,1,6,2,3,3,0,2,0,17
+19847,Alessandro Diamanti,79,1,0,0.036074292,0,61,42,0,2,0.033038250000000005,2,1,9,2,4,0,1,1,8,5,0,1,0,1,1,18
+36770,Mauricio Ricardo Pinilla Ferreira,64,2,0,0.065038366,0,12,6,0,0,0.0,1,1,1,2,1,0,2,0,0,1,2,0,0,1,0,17
+40333,Cristian Raimondi,11,0,0,0.0,0,3,1,0,0,0.0,2,0,1,0,0,0,2,0,0,0,0,1,0,1,0,3

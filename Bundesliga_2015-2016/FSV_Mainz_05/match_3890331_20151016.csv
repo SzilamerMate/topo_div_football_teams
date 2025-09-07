@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3630,Loris Karius,90,0,0,0.0,0,38,31,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,1
+6337,Yoshinori Muto,82,3,0,0.7542295900000001,2,13,9,0,1,0.04871315,3,0,3,1,1,0,6,1,1,1,0,0,0,1,0,24
+6925,Jairo Samperio Bustara,69,1,0,0.081484236,0,20,10,0,0,0.0,2,0,3,3,2,1,3,1,4,4,1,2,2,1,0,24
+8539,Danny Latza,84,0,0,0.0,0,78,62,0,2,0.070654812,0,0,5,0,0,0,4,1,3,0,0,3,3,2,0,23
+8548,Daniel Brosinski,90,0,0,0.0,0,71,54,0,0,0.0,2,0,7,1,0,0,2,0,6,0,4,1,2,2,0,20
+8555,Pablo Ezequiel De Blasis,90,1,0,0.0198903,0,30,21,0,1,0.10256396,3,1,7,3,3,1,2,1,3,3,1,2,0,1,1,18
+8559,Stefan Bell,90,0,0,0.0,0,60,51,0,0,0.0,0,0,11,1,0,0,2,2,3,1,1,5,4,2,0,8
+8679,Yunus Mallı,90,2,0,0.15127711,1,29,23,0,1,0.20499374,7,2,5,0,5,1,3,1,3,2,0,0,0,1,1,23
+8943,Florian Niederlechner,8,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+9223,Phillipp Klement,21,1,0,0.08309721,0,12,10,0,0,0.0,0,0,2,0,0,0,0,0,1,1,0,0,1,0,0,3
+11397,Suat Serdar,6,0,0,0.0,0,3,3,0,0,0.0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,7
+13319,Niko Bungert,90,0,0,0.0,0,69,59,0,1,0.03155932,2,2,9,2,0,0,4,0,3,0,4,3,0,1,0,13
+20037,Julian Baumgartlinger,90,1,0,0.050764512,0,51,41,0,1,0.01655709,0,0,6,2,4,2,7,3,2,0,3,1,2,5,1,43
+20871,Pierre Bengtsson,90,2,0,0.094415694,1,68,46,0,1,0.51767653,2,1,12,1,0,0,3,1,5,0,0,3,2,1,1,15

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3071,Pierrick Capelle,4,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5
+3078,Abdoul Razzagui Camara,90,1,0,0.068591855,0,25,16,0,0,0.0,2,0,8,2,0,0,5,0,4,2,0,1,0,3,0,17
+3111,Gilles Sunu,72,1,0,0.015028752,0,12,10,0,0,0.0,0,0,5,0,3,0,6,1,2,2,0,0,1,1,0,14
+3185,Thomas Mangani,86,1,1,0.08282371,1,42,37,0,0,0.0,3,1,4,0,0,0,3,1,4,1,1,1,2,3,1,19
+3203,Yoann Andreu,90,0,0,0.0,0,45,30,0,0,0.0,0,0,5,1,1,0,5,0,3,0,3,0,2,3,0,11
+3431,Vincent Manceau,90,0,0,0.0,0,43,31,0,0,0.0,1,1,2,0,1,0,5,3,3,1,0,0,0,5,1,14
+3549,Romain Thomas,90,0,0,0.0,0,27,23,0,0,0.0,0,0,2,1,0,0,4,2,7,0,5,1,1,4,0,10
+4441,Billy Ketkeophomphone,60,0,0,0.0,0,20,14,0,0,0.0,1,0,5,1,0,0,3,2,5,1,0,0,3,2,1,14
+4469,Guy Adolphe N''Gosso Massouma,90,0,0,0.0,0,35,29,0,1,0.026465377,0,0,0,1,2,0,4,2,5,0,1,0,1,4,0,13
+4547,Ludovic Butelle,90,0,0,0.0,0,29,21,0,0,0.0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+5219,Romain Saïss,90,0,0,0.0,0,28,26,0,0,0.0,0,0,4,2,0,0,2,2,6,0,6,0,0,2,0,10
+5676,Cheikh N''Doye,90,1,0,0.026465377,0,34,19,0,0,0.0,1,1,5,5,3,2,7,0,5,1,2,0,0,1,0,18
+7207,Férébory Doré,30,0,0,0.0,0,15,13,0,0,0.0,0,0,3,3,0,0,1,0,2,0,1,0,0,0,0,4
+401542,Goran Karanović,18,1,0,0.01839078,1,2,2,0,0,0.0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1

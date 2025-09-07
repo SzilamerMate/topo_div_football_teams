@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2947,Anthony Lopes,90,0,0,0.0,0,26,21,0,0,0.0,0,0,2,0,0,0,0,0,2,0,1,0,0,0,0,0
+2983,Jérémy Morel,90,0,0,0.0,0,50,38,0,0,0.0,1,0,5,1,0,0,4,2,5,1,3,0,1,2,0,19
+3103,Milan Biševac,90,0,0,0.0,0,54,51,0,0,0.0,1,1,3,0,1,1,3,3,5,1,3,1,2,3,0,17
+3118,Jordan Ferri,90,1,0,0.0467948,1,80,70,0,1,0.025749234,3,2,12,2,4,0,7,4,10,2,0,0,0,5,3,32
+3156,Rafael Pereira da Silva,90,0,0,0.0,0,82,67,0,1,0.0467948,3,1,9,1,3,1,9,5,10,2,2,5,2,8,1,36
+3162,Gnaly Maxwell Cornet,30,1,0,0.025749234,0,14,11,0,1,0.005345608,1,0,6,0,0,0,0,0,1,0,0,0,0,0,0,3
+3236,Sergi Darder Moll,68,0,0,0.0,0,54,44,0,1,0.11266189,0,0,7,1,0,0,1,0,6,2,1,3,1,0,0,12
+3361,Clément Grenier,41,1,0,0.009562438,0,24,20,0,1,0.02286137,3,1,1,1,0,0,1,1,1,0,0,0,1,1,0,8
+3372,Rachid Ghezzal,22,1,1,0.109847695,1,18,13,0,0,0.0,3,2,6,1,0,0,0,0,3,1,0,1,0,0,0,6
+3451,Alexandre Lacazette,90,2,1,0.273770088,2,29,20,0,0,0.0,4,1,1,3,3,1,1,0,4,0,0,0,1,0,0,14
+5480,Corentin Tolisso,90,1,0,0.02286137,0,91,79,0,0,0.0,0,0,11,2,2,1,9,3,11,2,6,1,0,7,1,41
+6600,Claudio Beauvue,60,4,0,0.276160997,1,20,10,0,1,0.07093297,0,0,4,0,2,0,3,0,1,0,0,1,1,1,0,11
+6982,Maxime Gonalons,90,1,0,0.11266189,1,73,69,0,0,0.0,2,2,6,1,1,1,4,3,6,0,5,0,1,4,2,14
+18868,Mathieu Valbuena,49,1,0,0.07093297,0,35,27,0,3,0.25165343,0,0,6,1,2,1,0,0,3,0,0,0,1,0,0,15

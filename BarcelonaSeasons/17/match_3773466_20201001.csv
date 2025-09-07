@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3501,Philippe Coutinho Correia,71,2,0,0.178120644,1,53,47,1,1,0.16714483,2,2,13,0,2,0,3,1,2,0,1,0,1,2,0,8
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,80,68,0,0,0.0,0,0,2,3,3,1,2,1,5,0,2,3,5,1,1,21
+5211,Jordi Alba Ramos,90,0,0,0.0,0,75,65,0,0,0.0,1,0,6,0,1,0,0,0,7,2,1,1,5,0,0,16
+5213,Gerard Piqué Bernabéu,90,0,0,0.0,0,40,34,0,0,0.0,0,0,5,0,0,0,1,0,5,0,3,1,2,1,0,5
+5487,Antoine Griezmann,45,1,0,0.03504776,0,21,19,0,0,0.0,0,0,2,0,1,0,3,1,1,0,0,0,1,1,0,9
+5503,Lionel Andrés Messi Cuccittini,90,2,0,0.198667724,1,77,61,0,2,0.178120644,6,5,13,2,5,1,0,0,7,2,0,0,1,0,0,13
+6379,Sergi Roberto Carnicer,90,1,1,0.16067164,1,60,56,0,0,0.0,0,0,6,2,1,0,2,1,3,0,2,0,3,2,1,9
+6590,Norberto Murara Neto,90,0,0,0.0,0,36,25,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+6826,Clément Lenglet,90,0,0,0.0,0,41,33,0,0,0.0,1,1,3,2,0,0,1,0,2,0,0,0,0,1,0,9
+8118,Frenkie de Jong,90,0,0,0.0,0,57,51,0,1,0.15700933,3,3,14,1,3,1,2,2,6,1,0,1,1,2,0,9
+22390,Francisco António Machado Mota de Castro Trincão,19,0,0,0.0,0,2,1,0,0,0.0,0,0,2,1,1,0,1,0,0,1,0,0,0,0,0,4
+30486,Pedro González López,19,0,0,0.0,0,9,7,0,0,0.0,0,0,3,0,1,0,2,2,1,0,0,1,0,2,1,6
+30756,Anssumane Fati,71,1,1,0.16714483,1,38,33,0,0,0.0,8,7,9,1,3,0,4,0,1,2,0,0,1,2,0,15
+32480,Ronald Federico Araújo da Silva,45,0,0,0.0,0,11,9,0,0,0.0,0,0,0,0,1,0,1,1,0,1,2,0,2,1,0,1

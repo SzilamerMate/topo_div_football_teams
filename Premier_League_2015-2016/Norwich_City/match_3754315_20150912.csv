@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3286,Nathan Redmond,90,1,0,0.008400766,0,34,28,0,3,0.127283622,0,0,5,0,1,0,1,1,1,3,0,0,0,1,0,13
+3576,Martin Olsson,18,0,0,0.0,0,6,2,0,0,0.0,1,1,1,0,1,1,2,1,0,0,2,0,2,1,1,2
+4807,Cameron Jerome,81,3,1,0.599142334,1,22,15,0,0,0.0,1,1,5,1,1,0,7,0,4,1,0,0,1,1,0,11
+4808,Andre Wisdom,90,0,0,0.0,0,58,39,0,1,0.008400766,0,0,4,1,1,0,7,0,8,1,1,0,2,4,0,7
+9463,Alexander Banor Tettey,90,1,0,0.02029139,0,43,35,0,0,0.0,0,0,1,3,2,1,3,2,4,0,7,0,2,2,1,12
+9578,Jonathan Howson,90,1,0,0.030436665,0,43,37,1,1,0.22474217,1,1,8,1,0,0,3,3,4,2,0,0,1,3,0,18
+10966,Wes Hoolahan,72,1,1,0.14814475,1,45,41,1,4,0.7602624940000001,2,2,12,3,0,0,4,2,7,3,1,2,2,4,1,19
+10967,Robert Brady,90,2,0,0.08376940000000001,1,61,44,0,0,0.0,0,0,6,1,0,0,7,3,3,0,0,3,3,6,3,13
+16334,Graham Dorrans,18,0,0,0.0,0,5,4,0,0,0.0,0,0,0,0,0,0,2,2,2,0,0,1,2,2,1,4
+21212,Russell Martin,90,0,0,0.0,0,39,29,0,0,0.0,0,0,7,1,0,0,2,0,3,0,3,1,1,0,0,4
+22594,Matt Jarvis,72,1,1,0.22474217,1,34,25,0,0,0.0,2,1,5,0,2,0,1,0,0,2,0,1,0,1,0,6
+23635,John Ruddy,90,0,0,0.0,0,38,21,0,0,0.0,0,0,4,0,0,0,0,0,3,0,0,0,0,0,0,0
+23663,Dieumerci Mbokani Bezua,9,1,0,0.043514222,0,3,3,0,0,0.0,0,0,1,0,1,1,3,0,0,2,0,0,0,0,0,0
+31296,Sébastien Aymar Bassong Nguena,90,1,0,0.16112016,0,46,37,0,0,0.0,1,1,9,0,2,2,1,0,5,0,10,1,2,0,0,11

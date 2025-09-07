@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3321,Patrick van Aanholt,90,1,0,0.011866985,0,49,39,0,1,0.01919701,3,2,11,0,0,0,2,1,3,0,2,0,1,1,0,10
+3337,Jermain Defoe,19,2,0,0.57143454,1,2,1,0,0,0.0,2,2,1,0,1,0,0,0,2,0,0,0,0,0,0,2
+3658,DeAndre Yedlin,18,0,0,0.0,0,11,6,0,0,0.0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,4
+4417,Ola Toivonen,90,1,0,0.07716916,0,45,30,0,1,0.1955369,0,0,2,2,0,0,4,0,5,0,0,0,1,0,0,21
+4429,Yann Gérard M''Vila,90,0,0,0.0,0,95,70,0,2,0.1709381,1,1,9,1,3,2,3,1,12,1,5,2,2,2,1,12
+6300,Sebastián Coates Nión,90,0,0,0.0,0,35,28,0,0,0.0,1,1,2,0,0,0,7,2,4,0,8,1,5,2,0,22
+6871,Costel Fane Pantilimon,90,0,0,0.0,0,32,18,0,0,0.0,0,0,3,0,0,0,0,0,7,0,0,0,0,0,0,1
+7171,Fabio Borini,56,2,0,0.17584949,0,21,12,0,0,0.0,2,1,5,0,0,0,5,0,3,2,0,0,3,2,0,15
+9554,Steven Fletcher,71,1,0,0.009991567,0,21,15,0,1,0.030631742,5,4,6,0,0,0,5,0,2,0,0,0,0,0,0,21
+10503,Billy Jones,90,1,0,0.01919701,0,52,32,0,1,0.07716916,4,3,15,1,1,0,3,1,11,3,3,0,2,1,0,23
+16890,John O''Shea,90,0,0,0.0,0,40,34,0,0,0.0,0,0,1,1,1,1,5,1,8,0,14,1,1,2,0,16
+18751,Jack Rodwell,72,5,0,0.373176012,2,40,30,0,3,0.271801095,4,4,9,2,0,0,4,3,6,1,0,0,2,3,2,14
+22281,Duncan Watmore,90,2,0,0.08656040000000001,0,16,14,0,1,0.102825336,2,1,9,0,3,1,4,0,6,4,0,0,2,0,0,14
+42902,Adam Johnson,34,1,0,0.06787557,0,21,14,0,0,0.0,0,0,4,0,0,0,1,0,2,2,0,0,1,0,0,5

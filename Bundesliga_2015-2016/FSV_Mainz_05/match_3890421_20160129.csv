@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3630,Loris Karius,90,0,0,0.0,0,33,21,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,1
+5467,Leon Aderemi Balogun,90,1,0,0.12048405,0,39,30,0,0,0.0,0,0,4,0,1,1,5,3,4,1,6,2,1,3,0,11
+6337,Yoshinori Muto,66,0,0,0.0,0,20,13,0,0,0.0,1,1,3,3,0,0,9,1,2,1,0,0,5,2,1,27
+6925,Jairo Samperio Bustara,88,2,0,0.038166679999999994,0,43,26,1,2,0.263212126,4,2,7,1,3,0,1,1,11,4,0,2,5,1,0,28
+8539,Danny Latza,90,0,0,0.0,0,60,44,0,6,0.431259602,0,0,5,0,1,0,5,3,4,0,1,2,2,3,3,32
+8548,Daniel Brosinski,90,1,0,0.011525466,0,43,30,0,0,0.0,0,0,4,1,2,2,1,0,2,1,1,1,4,1,0,12
+8555,Pablo Ezequiel De Blasis,2,0,0,0.0,0,1,0,0,0,0.0,1,1,2,0,0,0,0,0,1,1,0,0,0,0,0,2
+8559,Stefan Bell,90,3,0,0.197442744,0,36,26,0,0,0.0,0,0,10,2,0,0,6,1,7,0,1,2,0,4,0,11
+8561,Fabian Frei,12,0,0,0.0,0,5,4,0,0,0.0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,6
+8679,Yunus Mallı,78,1,0,0.059897434,1,22,13,0,0,0.0,3,0,3,1,2,1,1,0,5,0,0,0,2,0,0,24
+8817,Jhon Andrés Córdoba Copete,24,1,0,0.0637721,0,7,6,0,0,0.0,0,0,5,1,1,1,1,0,1,1,0,0,0,0,0,9
+9098,Christian Clemens,90,3,1,0.304621916,1,30,20,0,0,0.0,1,0,4,1,1,0,1,1,8,0,1,0,1,1,0,28
+18399,Gaëtan Bussmann,90,1,0,0.04825952,0,50,32,0,0,0.0,0,0,1,1,1,1,4,1,2,0,4,2,10,3,0,33
+20037,Julian Baumgartlinger,90,0,0,0.0,0,43,40,0,1,0.028045755,0,0,5,5,1,1,4,3,2,1,1,1,1,4,1,58

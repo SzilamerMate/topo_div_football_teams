@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2985,Ludovic Baal,23,0,0,0.0,0,13,9,0,0,0.0,1,0,1,0,3,0,3,1,1,0,0,0,2,1,1,4
+2990,Benjamin André,90,0,0,0.0,0,57,42,0,0,0.0,0,0,3,5,4,2,7,3,9,5,3,0,2,4,1,32
+3018,Giovanni-Guy Yann Sio,90,0,0,0.0,0,32,20,1,2,0.37087886999999997,1,0,4,2,2,1,8,0,2,2,0,0,2,0,0,18
+3022,Fallou Diagne,90,0,0,0.0,0,38,30,0,0,0.0,0,0,3,3,1,1,0,0,3,1,4,1,5,0,0,6
+3354,Benoît Guy Robert Costil,90,0,0,0.0,0,31,11,0,0,0.0,0,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0
+3424,Cheikh M''Bengue,90,0,0,0.0,0,56,46,0,0,0.0,0,0,3,1,1,1,4,1,3,0,3,2,1,4,0,13
+4475,Romain Danzé,90,0,0,0.0,0,50,39,0,0,0.0,0,0,4,0,0,0,2,0,1,1,1,1,3,0,0,8
+4602,Yoann Gourcuff,78,2,0,0.29036061,0,43,36,0,2,0.081269011,4,3,11,1,2,0,1,1,5,2,0,2,1,1,1,19
+4909,Jeremie Boga,18,0,0,0.0,0,13,12,0,1,0.44776282,4,3,5,0,0,0,0,0,2,2,0,0,0,0,0,2
+5477,Ousmane Dembélé,67,2,2,0.27296152,2,21,19,0,0,0.0,3,1,10,0,1,1,3,0,2,5,1,1,1,2,0,15
+5667,Kamil Grosicki,72,4,1,0.321272661,3,18,14,1,1,0.18550795,0,0,2,0,0,0,1,0,0,1,0,0,1,0,0,16
+8672,Gélson da Conceição Tavares Fernandes,90,2,0,0.470262717,0,50,42,0,1,0.14773434,2,2,8,0,2,0,3,1,6,1,1,1,4,3,1,30
+18921,Joris Gnagnon,12,0,0,0.0,0,9,9,0,0,0.0,0,0,0,1,1,1,1,0,2,1,0,1,0,0,0,1
+40699,Sylvain Armand,90,0,0,0.0,0,51,38,1,1,0.08745357,0,0,6,2,1,0,1,0,5,0,3,5,3,1,0,14

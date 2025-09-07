@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3009,Kylian Mbappé Lottin,18,1,1,0.28323528,1,2,2,0,1,0.22801748,1,0,2,0,0,0,0,0,0,0,0,0,1,0,0,4
+3245,Thomas Lemar,85,3,0,0.42689138699999996,0,56,38,0,2,0.42841211399999996,6,6,13,0,6,1,0,0,11,0,1,0,3,0,0,20
+3246,Guido Marcelo Carrillo,89,5,2,0.817828859,3,32,24,0,1,0.06357432,1,1,6,0,0,0,4,1,5,0,0,0,3,2,0,28
+3374,Andrea Raggi,90,0,0,0.0,0,44,31,1,1,0.46154976,1,0,6,0,0,0,2,1,4,0,5,3,3,1,1,18
+3406,Jérémy Toulalan,90,0,0,0.0,0,58,52,0,0,0.0,2,1,9,2,1,0,0,0,6,1,0,1,1,0,0,29
+3444,Danijel Subašić,90,0,0,0.0,0,30,24,0,0,0.0,0,0,6,0,0,0,0,0,5,0,0,0,0,0,0,1
+3553,Lacina Traoré,1,0,0,0.0,0,2,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3955,Tiemoué Bakayoko,90,2,0,0.100887062,0,51,46,0,1,0.032490827,0,0,7,4,2,1,7,2,2,2,1,2,3,5,1,44
+4454,Farès Bahlouli,5,0,0,0.0,0,0,0,0,0,0.0,0,0,0,1,0,0,2,2,0,0,0,0,0,2,0,4
+8277,Wallace Fortuna dos Santos,90,0,0,0.0,0,37,32,0,0,0.0,0,0,8,1,1,1,4,0,3,1,5,2,1,1,0,9
+9931,Hélder Wander Sousa Azevedo Costa,90,2,0,0.244991074,1,42,32,1,4,1.22472993,2,1,21,1,4,1,8,3,4,2,0,2,4,5,3,48
+10805,Ricardo Alberto Silveira de Carvalho,90,0,0,0.0,0,43,37,0,1,0.15937237,1,1,4,0,0,0,2,0,1,0,4,3,0,1,0,7
+18953,Vágner Silva de Souza,72,3,0,1.0121982699999998,3,32,22,0,2,0.045477996,2,0,6,0,0,0,4,1,5,2,0,0,4,2,1,26
+27558,Elderson Uwa Echiejile,90,1,0,0.046571195,0,69,59,0,0,0.0,0,0,6,2,1,0,3,2,12,1,2,0,2,3,1,19

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5558,Rafael Márquez Álvarez,90,0,0,0.0,0,39,30,0,0,0.0,0,0,2,1,2,1,1,1,3,0,6,1,0,1,1,5
+7020,Jacopo Sala,90,0,0,0.0,0,60,34,0,1,0.01875519,1,0,13,1,1,0,9,3,4,0,1,1,3,4,1,19
+7770,Federico Viviani,90,3,0,0.101032428,0,77,63,0,2,0.119730917,1,1,5,2,2,0,2,1,11,0,0,1,0,1,0,19
+7949,Artur Ioniţă,90,2,0,0.093413915,0,25,22,0,0,0.0,2,0,7,3,1,0,9,2,3,0,1,0,2,5,0,43
+8274,Pierluigi Gollini,90,0,0,0.0,0,36,18,0,0,0.0,0,0,5,0,2,0,0,0,4,0,0,0,0,0,0,0
+8421,Matteo Bianchetti,12,0,0,0.0,0,6,4,0,0,0.0,1,0,4,1,0,0,2,1,0,0,2,0,1,2,1,5
+11339,Paweł Wszołek,78,0,0,0.0,0,24,13,0,2,0.09578614299999999,1,1,5,3,0,0,6,0,1,3,0,0,5,0,0,12
+11342,Eros Pisano,90,2,0,0.119730917,0,40,30,0,0,0.0,1,1,6,3,3,1,4,1,6,3,3,2,4,3,1,13
+11494,Luca Siligardi,77,1,0,0.010609439,0,25,14,0,1,0.15164767,2,1,7,0,1,0,2,0,4,1,0,0,4,0,0,22
+20252,Luca Toni,90,4,1,0.99431694,1,25,14,0,1,0.031555902,3,1,4,0,1,1,7,0,3,2,0,0,0,0,0,6
+26442,Boško Janković,13,0,0,0.0,0,3,2,0,0,0.0,0,0,2,1,0,0,2,1,0,2,0,0,0,1,0,4
+31488,Vangelis Moras,90,0,0,0.0,0,31,25,0,0,0.0,0,0,3,1,0,0,4,1,6,0,5,1,0,2,0,11
+32119,Leandro Greco,81,0,0,0.0,0,42,34,0,1,0.038041852,3,1,9,0,1,1,3,0,6,1,0,0,0,2,0,17
+386651,Juan Ignacio Gómez Taleb,9,0,0,0.0,0,4,3,0,0,0.0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,4

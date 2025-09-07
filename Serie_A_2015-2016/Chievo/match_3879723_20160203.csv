@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6951,Filippo Costa,9,0,0,0.0,0,11,6,0,1,0.03445244,1,1,5,0,0,0,0,0,3,0,0,0,1,0,0,1
+7041,Nicola Rigoni,90,1,0,0.02224456,0,33,27,0,0,0.0,0,0,2,1,1,0,1,0,2,0,2,1,2,0,0,23
+7042,Ivan Radovanović,81,0,0,0.0,0,42,33,0,0,0.0,0,0,4,0,0,0,3,1,5,1,3,2,0,1,1,14
+7043,Roberto Inglese,90,1,0,0.03445244,0,15,10,0,0,0.0,0,0,0,5,4,1,7,1,4,1,0,0,1,1,1,19
+7045,Valter Birsa,71,1,0,0.0724984,0,17,11,0,0,0.0,4,2,3,2,2,0,3,0,2,1,0,1,2,1,0,21
+7049,Lucas Nahuel Castro,33,0,0,0.0,0,19,11,0,1,0.02224456,0,0,2,2,0,0,3,2,2,3,1,0,1,3,2,10
+8278,Nicolás Federico Spolli,90,0,0,0.0,0,36,28,0,0,0.0,1,1,4,4,3,2,4,0,1,0,4,2,2,2,0,8
+8644,Sergio Pellissier,90,2,0,0.122879887,0,17,14,0,0,0.0,0,0,2,2,1,1,4,1,4,1,2,0,2,1,1,26
+8645,Massimo Gobbi,90,0,0,0.0,0,41,32,0,0,0.0,2,1,7,0,0,0,1,0,4,0,3,2,5,0,0,11
+8877,Boštjan Cesar,90,1,0,0.02111051,0,29,25,0,0,0.0,1,1,1,1,1,1,3,1,2,0,5,1,3,1,0,7
+11426,Andrea Seculin,90,0,0,0.0,0,36,20,0,0,0.0,0,0,3,0,0,0,0,0,8,0,0,0,0,0,0,0
+18946,Paul-José M''Poku Ebunge,19,1,0,0.027001552,0,11,7,0,0,0.0,2,1,2,2,1,1,1,0,2,1,0,1,1,0,0,5
+23324,Nicolas Sebastian Frey,90,0,0,0.0,0,58,40,0,0,0.0,0,0,5,2,1,0,0,0,5,0,5,0,2,0,0,17
+386657,Giampiero Pinzi,57,0,0,0.0,0,15,11,0,0,0.0,0,0,1,2,1,1,3,2,1,0,2,0,5,2,0,27

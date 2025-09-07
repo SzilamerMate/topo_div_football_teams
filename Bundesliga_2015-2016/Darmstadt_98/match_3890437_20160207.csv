@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+8306,Christian Mathenia,90,0,0,0.0,0,27,15,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+8388,Jérôme Gondorf,90,1,0,0.044518042,1,21,14,0,1,0.05706782,1,0,1,3,3,2,6,3,7,1,1,2,5,4,0,35
+9217,Aytac Sulu,90,2,1,0.236815803,1,8,4,0,0,0.0,0,0,1,1,1,1,1,0,2,0,8,2,3,1,0,9
+9219,Tobias Kempe,73,1,0,0.019043535,1,35,23,0,1,0.039550893,4,2,9,0,1,0,4,1,7,1,2,2,1,2,1,18
+9401,Marcel Heller,90,2,0,0.278491896,0,27,12,0,0,0.0,1,0,7,1,0,0,4,1,4,1,0,0,1,2,1,24
+9404,Luca Caldirola,90,0,0,0.0,0,34,26,0,1,0.18061946,0,0,1,4,3,2,5,1,0,0,2,0,5,5,1,25
+9723,Sandro Wagner,93,0,0,0.0,0,32,12,0,0,0.0,4,0,5,4,3,2,7,0,6,3,2,0,2,0,0,21
+11134,Konstantin Rausch,17,0,0,0.0,0,13,7,0,1,0.015489467,0,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0
+12383,Florian Jungwirth,90,0,0,0.0,0,31,24,0,0,0.0,0,0,2,0,1,1,4,4,4,0,5,2,5,4,2,17
+13675,Mario Vrančić,7,1,0,0.05706782,0,3,2,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,2
+35033,Slobodan Rajković,90,2,1,0.573937167,1,21,13,1,1,0.19726491,0,0,0,2,0,0,0,0,3,0,11,2,2,0,0,16
+40467,Peter Niemeyer,90,0,0,0.0,0,27,18,0,0,0.0,0,0,0,1,2,1,1,0,6,0,8,1,2,1,0,30
+40477,Jan Rosenthal,83,0,0,0.0,0,23,17,0,1,0.097872436,1,0,1,2,2,2,5,1,5,0,2,1,3,1,0,27

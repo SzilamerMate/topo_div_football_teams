@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3263,Craig Cathcart,45,0,0,0.0,0,33,25,0,0,0.0,1,1,3,0,0,0,4,1,4,2,2,0,1,3,1,11
+3288,Miguel Ángel Britos Cabrera,90,1,0,0.06994894,0,24,21,0,0,0.0,0,0,4,1,1,0,3,1,5,0,11,0,0,2,1,7
+3302,Nordin Amrabat,11,0,0,0.0,0,9,6,0,0,0.0,1,0,2,0,1,0,0,0,2,2,0,1,2,0,0,4
+3306,Nathan Aké,90,2,0,0.08298213,2,45,33,0,0,0.0,0,0,5,1,0,0,4,1,5,0,5,1,1,2,0,12
+3309,Sebastian Prödl,90,2,1,0.145584634,1,23,19,0,0,0.0,0,0,2,0,0,0,2,0,1,0,9,1,1,1,0,5
+3454,Troy Deeney,90,2,1,0.81280542,1,40,29,0,2,0.097375555,0,0,5,4,0,0,6,0,3,5,3,0,2,0,0,13
+3522,Heurelho da Silva Gomes,90,0,0,0.0,0,24,15,0,0,0.0,0,0,3,0,0,0,0,0,7,0,0,0,0,0,0,0
+3626,Ben Watson,90,0,0,0.0,0,45,40,0,2,0.039280149,1,1,1,2,1,0,4,2,4,1,0,1,3,2,1,15
+4828,Adlène Guédioura,90,2,0,0.059436801,0,69,46,1,5,0.389399922,1,1,7,2,1,0,6,0,7,3,3,4,3,1,0,23
+5458,Odion Jude Ighalo,90,3,0,0.29813033,0,30,24,0,2,0.167941286,1,0,3,1,0,0,4,2,2,2,0,2,0,2,1,13
+6870,José Manuel Jurado Marín,79,2,0,0.059853613,1,40,34,0,3,0.121763527,2,0,18,0,3,1,0,0,4,2,1,2,3,0,0,13
+23488,Mario Suárez Mata,25,2,0,0.15750176,0,15,11,0,1,0.15845345,1,0,2,1,0,0,0,0,2,0,1,1,0,0,0,7
+36983,Juan Carlos Paredes Reasco,45,1,0,0.018938597,0,20,16,0,0,0.0,0,0,1,0,0,0,0,0,3,0,3,0,1,0,0,6
+43081,Almen Abdi,65,5,0,0.32858852,1,46,37,0,1,0.09367104,2,2,7,0,1,1,2,0,3,2,0,1,2,1,0,13

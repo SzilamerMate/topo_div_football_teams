@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3416,Gabriel Moisés Antunes da Silva,90,0,0,0.0,0,45,29,0,1,0.026026111,3,2,7,2,0,0,3,2,11,1,2,2,3,2,1,17
+5554,Blerim Džemaili,88,3,0,0.07616788000000001,0,38,32,0,0,0.0,3,2,11,0,1,0,3,0,3,2,0,1,4,2,0,27
+5717,Diego Sebastián Laxalt Suárez,90,0,0,0.0,0,29,20,0,2,0.146260545,5,2,7,1,1,0,10,2,3,2,3,2,2,3,2,16
+6894,Ezequiel Muñoz,90,1,0,0.025304785,0,21,12,0,0,0.0,0,0,1,1,0,0,5,0,4,0,5,1,4,3,0,20
+7022,Jesús Joaquín Fernández Sáez de la Torre,71,1,0,0.047467694,0,34,23,0,3,0.205152646,2,0,9,0,3,1,3,2,4,2,0,3,4,2,1,13
+7176,Sebastian De Maio,90,1,1,0.45185205,1,19,15,0,0,0.0,0,0,1,0,0,0,1,0,3,0,7,0,3,0,0,12
+7461,Luca Rigoni,66,2,0,0.08008895,0,28,22,0,1,0.046768457,3,1,1,1,1,0,5,1,7,1,0,0,1,2,1,26
+7464,Cristian Daniel Ansaldi,90,1,0,0.075078815,1,34,21,0,1,0.05210465,8,5,10,1,1,0,7,1,6,1,2,3,4,3,1,26
+8180,Leonardo Pavoletti,90,4,0,0.220159678,2,16,12,0,3,0.136719299,1,1,1,5,1,1,12,0,1,1,0,0,0,1,0,18
+24683,Diego Ángel Capel Trinidad,19,0,0,0.0,0,8,7,0,0,0.0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,8
+30772,Panagiotis Tachtsidis,24,2,0,0.079686497,2,15,12,1,1,0.45185205,0,0,1,0,0,0,1,0,5,1,1,0,0,1,0,13
+34355,Riccardo Fiamozzi,2,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+38312,Eugenio Lamanna,90,0,0,0.0,0,27,14,0,0,0.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+40457,Giovanni Marchese,90,1,0,0.083866075,0,52,39,0,0,0.0,0,0,5,4,0,0,2,1,2,0,7,2,2,2,0,11

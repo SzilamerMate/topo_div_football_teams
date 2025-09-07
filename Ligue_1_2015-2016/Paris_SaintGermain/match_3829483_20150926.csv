@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2995,Ángel Fabián Di María Hernández,81,4,1,0.403122325,1,47,29,1,2,0.14599078199999999,1,0,13,0,0,0,1,0,6,4,0,0,1,1,0,12
+3166,Marco Verratti,90,0,0,0.0,0,105,96,0,0,0.0,2,2,11,1,6,0,3,2,11,5,0,0,3,2,0,23
+3295,Thiago Emiliano da Silva,90,0,0,0.0,0,78,73,0,0,0.0,0,0,2,1,2,1,4,1,3,0,3,0,1,2,0,4
+3481,Serge Aurier,90,3,1,0.47515386000000004,2,67,57,0,0,0.0,1,1,7,3,1,0,4,0,5,1,2,1,2,2,0,23
+3672,Zlatan Ibrahimović,90,5,1,0.678503158,2,33,21,0,0,0.0,1,1,5,3,4,1,2,0,5,2,3,0,1,1,0,7
+3745,Lucas Rodrigues Moura da Silva,64,0,0,0.0,0,25,18,0,1,0.1628035,4,3,10,0,0,0,2,0,0,1,1,0,0,1,0,4
+4319,Edinson Roberto Cavani Gómez,26,1,1,0.053787798,1,4,4,0,0,0.0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+4325,Thiago Motta,26,0,0,0.0,0,39,37,0,0,0.0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,5
+4326,Layvin Kurzawa,90,0,0,0.0,0,65,54,0,0,0.0,5,2,10,0,2,1,8,5,6,1,5,1,2,6,2,15
+4370,Javier Matías Pastore,90,1,0,0.03365926,0,70,62,2,6,0.6385196750000001,1,0,12,0,0,0,3,0,6,2,0,1,4,0,0,15
+4372,Marcos Aoás Corrêa,90,0,0,0.0,0,95,92,0,0,0.0,0,0,5,1,1,1,2,0,2,0,5,1,5,0,0,12
+4440,Kevin Trapp,90,0,0,0.0,0,20,17,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,1,0,0,1
+8515,Benjamin Stambouli,64,0,0,0.0,0,60,54,0,0,0.0,1,1,4,0,2,0,7,4,5,0,3,0,1,5,3,13
+351521,Ezequiel Iván Lavezzi,9,1,0,0.10629551,1,10,10,0,0,0.0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0

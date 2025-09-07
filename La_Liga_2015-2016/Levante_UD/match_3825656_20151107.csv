@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5678,Jefferson Andrés Lerma Solís,45,2,0,0.350411136,0,15,10,0,1,0.18404688,1,0,1,0,1,0,2,0,4,0,0,1,1,0,0,9
+6647,Zouhair Feddal,90,1,0,0.058512475,0,54,47,0,0,0.0,1,1,11,1,0,0,3,0,4,0,6,3,1,1,0,4
+6659,Víctor Camarasa Ferrando,90,1,1,0.069895245,1,49,41,0,1,0.013532886,2,0,12,0,3,0,1,0,7,3,1,0,0,0,0,12
+6668,José Luis Morales Nogales,78,4,0,0.179687085,2,35,25,0,4,0.5536525050000001,7,1,7,0,2,1,5,0,4,1,0,1,2,0,0,16
+6684,Roger Martí Salvador,64,3,0,0.5067095500000001,2,15,12,0,1,0.3234203,1,1,0,1,1,0,3,1,3,0,0,0,0,1,1,11
+6730,Rubén Iván Martínez Andrade,90,0,0,0.0,0,24,15,0,0,0.0,0,0,3,0,1,1,0,0,5,0,0,0,0,0,0,0
+6784,Antonio García Aranda,90,0,0,0.0,0,53,42,0,1,0.01997602,2,0,5,3,1,0,2,0,9,4,3,2,1,1,0,10
+6787,Pedro López Muñoz,90,0,0,0.0,0,64,51,0,0,0.0,1,1,3,1,2,1,2,0,3,1,4,3,2,1,0,15
+23791,Víctor Casadesús Castaño,45,1,0,0.009804751,0,27,16,0,2,0.065463694,2,2,6,3,0,0,4,0,3,0,1,0,1,1,0,7
+23943,Rubén García Santos,90,1,0,0.06584517,1,54,34,0,2,0.171970229,5,2,10,2,0,0,8,4,8,1,2,0,4,5,1,18
+24149,José Antonio García Rabasco,12,1,0,0.044533115,0,9,7,0,0,0.0,0,0,2,0,0,0,0,0,1,0,1,0,2,0,0,6
+26012,David Navarro Pedrós,90,2,0,0.230989835,0,45,33,0,0,0.0,0,0,4,0,0,0,3,1,4,0,3,1,0,2,0,5
+27122,Simão Mate,90,0,0,0.0,0,56,39,0,0,0.0,1,0,7,3,0,0,5,1,5,0,5,5,1,2,1,13
+27250,Nabil Ghilas,26,1,0,0.013532886,0,1,0,0,0,0.0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,7

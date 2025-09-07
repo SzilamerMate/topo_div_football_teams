@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3057,Jonjo Shelvey,90,1,0,0.024175812,0,56,37,1,2,0.43811144,5,5,9,2,2,1,10,4,6,0,0,2,0,6,1,22
+3065,Paul Dummett,30,0,0,0.0,0,10,7,0,0,0.0,0,0,1,0,0,0,1,0,0,0,2,3,0,0,0,7
+3076,Ayoze Pérez Gutiérrez,90,5,1,0.534570793,1,27,21,0,1,0.08954911,8,5,12,4,0,0,7,1,4,3,0,3,2,2,0,45
+3081,Jamaal Lascelles,90,0,0,0.0,0,35,33,0,0,0.0,0,0,9,0,0,0,2,1,9,2,15,4,2,2,0,13
+3091,Moussa Sissoko,68,2,0,0.117084947,1,45,30,0,2,0.062263765,3,2,11,1,0,0,5,2,6,0,1,2,0,3,1,23
+3096,Rob Elliot,90,0,0,0.0,0,43,23,0,0,0.0,0,0,3,0,0,0,0,0,11,0,0,0,0,0,0,0
+3165,Emmanuel Rivière,45,1,0,0.08604375,0,13,12,0,1,0.063562,1,0,0,2,1,0,7,0,3,1,0,0,1,0,0,28
+3391,Rolando Aarons,22,0,0,0.0,0,4,3,0,0,0.0,2,0,1,0,0,0,1,0,3,0,0,0,0,0,0,4
+3567,Georginio Wijnaldum,90,1,0,0.069007844,0,38,30,0,2,0.08606011,2,1,8,1,2,1,6,2,5,2,0,1,4,3,2,24
+3650,Daryl Janmaat,90,2,0,0.059557315,1,59,44,0,1,0.08604375,1,1,4,2,0,0,3,0,6,1,6,1,0,2,0,17
+3722,Steven Taylor,90,1,0,0.063562,0,36,31,0,0,0.0,0,0,6,0,0,0,3,0,6,0,7,2,4,1,0,4
+4269,Aleksandar Mitrović,45,2,0,0.133777645,0,20,14,0,2,0.07213354699999999,3,3,3,0,1,0,5,0,2,0,1,0,0,0,0,9
+9649,Jack Colback,90,0,0,0.0,0,49,36,0,2,0.09687272799999999,2,1,4,2,5,3,7,3,11,1,6,1,4,6,1,27
+16072,Vurnon Anita,60,0,0,0.0,0,35,30,0,0,0.0,0,0,4,2,1,1,2,0,5,0,2,2,2,2,0,22

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3500,Granit Xhaka,90,0,0,0.0,0,86,81,0,2,0.036946255,0,0,7,0,1,0,1,0,1,1,5,2,2,0,0,19
+3959,Andreas Christensen,90,0,0,0.0,0,95,91,0,0,0.0,0,0,11,1,2,0,0,0,5,0,2,0,1,0,0,13
+5550,Yann Sommer,90,0,0,0.0,0,40,38,0,0,0.0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0
+5632,Thorgan Hazard,75,2,0,0.407778568,0,32,23,0,0,0.0,2,1,8,4,2,1,6,0,1,1,0,0,2,2,0,23
+8238,Mahmoud Dahoud,67,2,0,0.077371005,1,49,39,0,2,0.10126663799999999,0,0,7,2,4,0,1,1,3,2,1,2,2,1,1,18
+8307,Martin Hinteregger,90,1,0,0.02193511,0,56,47,0,0,0.0,1,0,5,1,0,0,7,4,5,0,3,2,5,5,2,29
+8395,Håvard Nordtveit,90,0,0,0.0,0,96,82,0,0,0.0,0,0,19,0,2,2,0,0,4,0,3,3,3,0,0,5
+8671,Branimir Hrgota,15,1,0,0.07503672,0,5,5,0,0,0.0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,4
+8804,Jonas Hofmann,11,0,0,0.0,0,11,11,0,1,0.07503672,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,5
+8806,Lars Edi Stindl,90,2,0,0.174690424,1,72,62,0,5,0.581516788,1,1,6,3,1,0,3,2,5,3,0,2,1,3,1,38
+8810,Raffael Caetano de Araújo,90,5,1,0.185241186,4,43,33,0,1,0.022989308,3,2,10,2,2,0,2,0,6,1,0,0,2,0,0,20
+8813,Patrick Herrmann,23,1,0,0.04805735,0,11,8,0,0,0.0,0,0,3,0,2,1,1,1,3,2,0,0,2,1,0,4
+8814,Nico Elvedi,90,0,0,0.0,0,52,46,0,0,0.0,1,0,5,2,0,0,3,2,6,0,2,0,1,2,0,15
+11283,Fabian Johnson,79,1,0,0.3961849,1,35,28,1,1,0.00905987,0,0,3,0,0,0,5,0,2,0,1,0,3,1,0,8

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2995,Ángel Fabián Di María Hernández,90,2,0,0.152618536,0,105,77,0,2,0.137705955,7,4,18,0,2,0,0,0,6,0,0,0,0,0,0,5
+3026,Adrien Rabiot,90,1,0,0.06500695,1,111,101,0,1,0.099566214,3,2,20,0,1,0,3,1,14,0,1,0,0,2,0,19
+3295,Thiago Emiliano da Silva,90,0,0,0.0,0,120,114,0,0,0.0,0,0,24,0,1,1,2,1,14,0,4,0,1,1,0,5
+3481,Serge Aurier,90,1,0,0.08528275,1,51,44,0,0,0.0,1,1,4,2,0,0,6,3,5,2,2,1,0,3,1,19
+3672,Zlatan Ibrahimović,19,1,0,0.07055698,0,13,9,0,0,0.0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+3745,Lucas Rodrigues Moura da Silva,71,2,0,0.143291116,0,34,28,0,0,0.0,3,2,6,0,1,0,2,0,3,2,0,0,0,0,0,14
+3956,David Luiz Moreira Marinho,90,0,0,0.0,0,112,102,0,0,0.0,0,0,27,0,0,0,1,0,10,0,2,1,2,1,0,4
+4319,Edinson Roberto Cavani Gómez,90,3,0,0.16458574799999998,1,23,21,0,2,0.15320684,1,1,1,2,0,0,2,0,0,0,1,1,0,1,0,13
+4325,Thiago Motta,90,0,0,0.0,0,101,88,0,0,0.0,0,0,12,1,1,0,6,2,3,1,1,0,1,3,0,12
+4375,Blaise Matuidi,45,0,0,0.0,0,48,47,0,1,0.08528275,0,0,8,1,0,0,2,0,4,1,1,0,1,0,0,8
+4440,Kevin Trapp,90,0,0,0.0,0,19,18,0,0,0.0,0,0,2,0,1,1,0,0,2,0,0,0,0,0,0,0
+26613,Maxwell Scherrer Cabelino Andrade,90,1,0,0.07204306,0,68,59,0,1,0.071454756,1,0,7,1,0,0,0,0,4,0,2,0,1,0,0,3
+351521,Ezequiel Iván Lavezzi,45,1,0,0.058951605,0,23,16,0,1,0.026879793,2,1,7,0,0,0,1,1,1,1,0,0,0,1,0,3

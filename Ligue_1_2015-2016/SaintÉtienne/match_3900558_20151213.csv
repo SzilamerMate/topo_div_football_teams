@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2944,Benjamin Corgnet,5,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+3179,Nolan Roux,85,1,0,0.1099785,0,24,21,0,0,0.0,0,0,2,1,0,0,4,0,2,2,3,0,0,0,0,10
+3200,Renaud Cohade,69,0,0,0.0,0,38,28,0,0,0.0,0,0,4,3,0,0,9,3,3,0,0,0,0,3,2,17
+3414,Vincent Pajot,90,0,0,0.0,0,40,36,0,1,0.044177722,1,0,4,3,3,2,7,1,4,3,2,0,4,2,0,21
+4258,Ronaël Pierre-Gabriel,21,0,0,0.0,0,16,10,0,0,0.0,1,1,1,0,0,0,1,1,2,0,0,0,2,1,1,4
+4259,Stéphane Ruffier,90,0,0,0.0,0,44,23,0,0,0.0,0,0,6,0,0,0,0,0,4,0,0,0,0,0,0,0
+4260,Romain Hamouma,90,0,0,0.0,0,40,25,0,2,0.18492719,1,1,6,2,2,0,1,0,6,4,1,0,1,1,0,16
+4263,Loïc Perrin,90,0,0,0.0,0,39,30,0,0,0.0,0,0,3,1,2,0,5,2,2,0,17,2,0,2,1,7
+4382,Kévin Malcuit,90,1,0,0.03625982,0,25,16,0,0,0.0,2,1,5,2,3,1,2,0,6,0,2,2,3,0,0,17
+4431,Kévin Monnet-Paquet,85,2,0,0.192845092,0,17,12,0,0,0.0,3,1,6,0,3,0,10,2,8,3,0,0,2,2,1,19
+4766,Neal Maupay,5,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+7200,Fabien Lemoine,90,0,0,0.0,0,54,40,0,0,0.0,2,1,7,2,1,0,3,1,10,1,3,0,4,2,0,27
+7347,Pierre-Yves Polomat,90,1,0,0.014584738,0,52,39,0,1,0.1099785,0,0,4,1,3,1,8,3,4,1,3,1,1,5,0,12
+401468,Moustapha Bayal Sall,90,0,0,0.0,0,30,25,0,0,0.0,1,1,6,2,4,0,3,3,8,0,12,0,0,3,1,7

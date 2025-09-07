@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5543,Haris Seferović,90,2,0,0.140579015,1,37,23,1,3,0.389890882,1,1,9,0,3,1,0,0,3,3,0,0,1,0,0,21
+5681,Makoto Hasebe,90,0,0,0.0,0,48,39,0,2,0.08028621799999999,0,0,4,2,2,1,1,0,3,1,4,1,4,0,0,19
+5687,Takashi Inui,45,0,0,0.0,0,10,7,0,1,0.022574876,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0,18
+7846,Luc Castaignos,82,1,0,0.071106374,0,14,9,0,0,0.0,4,3,3,3,1,0,3,0,3,0,0,1,2,1,0,12
+8320,Gian-Luca Waldschmidt,8,1,0,0.06592056,1,1,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+8504,Bastian Oczipka,90,1,0,0.022574876,0,37,31,0,2,0.150131305,2,1,6,1,1,0,3,1,5,1,0,2,2,1,0,9
+8667,Lukáš Hrádecký,90,0,0,0.0,0,39,32,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,0
+8678,David Ángel Abraham,90,2,0,0.164963308,1,39,35,0,0,0.0,0,0,5,1,0,0,3,1,3,0,8,0,0,2,0,9
+8812,Marco Russ,75,1,0,0.03913744,0,26,19,0,0,0.0,0,0,1,1,1,1,1,1,1,1,0,0,1,1,0,11
+9134,Aleksandar Ignjovski,45,1,0,0.044456504,1,27,19,0,1,0.06592056,0,0,6,2,0,0,1,0,3,1,1,0,2,1,0,9
+21156,Stefan Aigner,90,0,0,0.0,0,32,24,0,2,0.158718744,4,2,6,3,1,1,5,2,2,3,0,0,4,4,1,30
+36359,Carlos Augusto Zambrano Ochandarte,90,0,0,0.0,0,35,29,0,0,0.0,1,1,10,2,1,0,3,3,4,0,4,1,1,3,1,12
+400619,Stefan Reinartz,90,1,1,0.28781137,1,46,38,0,0,0.0,1,1,3,3,1,0,3,0,8,3,3,2,0,1,0,26
+400622,Joel Gerezgiher,15,3,0,0.127516602,1,5,3,0,0,0.0,1,1,2,0,1,0,0,0,1,2,0,1,1,0,0,5

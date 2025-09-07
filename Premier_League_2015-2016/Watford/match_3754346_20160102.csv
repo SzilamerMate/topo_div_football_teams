@@ -1,0 +1,13 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3263,Craig Cathcart,90,0,0,0.0,0,24,9,0,0,0.0,0,0,2,0,0,0,4,0,5,0,5,1,1,2,0,5
+3288,Miguel Ángel Britos Cabrera,90,0,0,0.0,0,30,20,0,0,0.0,0,0,2,0,1,1,1,0,4,0,8,0,0,0,0,5
+3454,Troy Deeney,90,1,0,0.10710593,1,39,20,0,1,0.025119396,0,0,6,0,1,1,13,1,6,1,0,0,2,1,1,9
+3522,Heurelho da Silva Gomes,90,0,0,0.0,0,21,8,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+3626,Ben Watson,90,2,0,0.057282729,1,52,38,0,1,0.21778537,0,0,2,0,1,0,2,1,4,0,5,4,1,1,0,19
+3721,Etienne Capoue,90,1,0,0.41539562,0,73,59,0,1,0.059964977,2,0,10,1,1,0,4,2,7,3,1,6,1,3,1,14
+3725,José Holebas,90,1,0,0.059964977,0,58,48,0,2,0.124545424,8,6,10,1,1,0,7,2,5,1,3,2,2,4,1,10
+3991,Allan Romeo Nyom,90,0,0,0.0,0,45,33,0,0,0.0,4,1,6,3,1,0,4,3,6,1,6,0,3,3,1,11
+4828,Adlène Guédioura,11,0,0,0.0,0,6,4,0,0,0.0,1,0,0,0,0,0,2,0,4,0,0,0,0,2,0,6
+5458,Odion Jude Ighalo,90,3,0,0.37870906000000004,2,13,10,0,0,0.0,5,2,3,0,4,2,7,1,7,6,0,0,2,1,1,12
+6870,José Manuel Jurado Marín,79,1,0,0.018543497,0,46,37,0,0,0.0,5,3,7,0,1,0,2,0,6,2,0,2,1,0,0,6
+43081,Almen Abdi,90,2,0,0.044406202,0,48,38,0,1,0.040908344,1,1,4,1,1,0,3,2,7,2,2,3,4,3,0,19

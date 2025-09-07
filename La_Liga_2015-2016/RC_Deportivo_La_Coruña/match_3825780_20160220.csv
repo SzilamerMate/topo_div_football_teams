@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5582,Celso Borges Mora,77,1,0,0.052377507,0,49,42,0,1,0.087832324,1,1,7,2,0,0,3,0,5,0,0,0,2,0,0,6
+5724,Fayçal Fajr,90,2,0,0.0138430822,1,62,48,0,4,0.268428468,6,4,9,0,2,0,4,0,4,3,0,1,2,1,0,10
+6728,Federico Nicolás Cartabia,13,0,0,0.0,0,5,4,0,1,0.030596633,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+6733,Pedro Mosquera Parada,90,2,0,0.031760468,0,89,81,0,3,0.326593637,1,0,7,2,4,2,6,3,9,4,3,2,1,4,2,14
+6734,Luis Carlos Correia Pinto,23,0,0,0.0,0,14,9,0,1,0.0054895272,1,1,2,0,2,1,1,0,0,1,2,1,1,1,0,5
+6738,Juan Francisco Moreno Fuertes,67,1,0,0.024778219,0,39,32,0,0,0.0,1,1,5,0,0,0,3,1,2,0,2,3,3,1,1,5
+6777,Sidnei Rechel da Silva Júnior,25,0,0,0.0,0,18,17,0,0,0.0,0,0,5,0,0,0,3,1,2,0,0,0,0,3,1,4
+6869,Alejandro Arribas Garrido,90,1,0,0.06743931,0,50,45,0,0,0.0,0,0,9,1,3,1,2,0,8,1,7,3,2,1,0,9
+6913,Fernando Navarro i Corbacho,90,0,0,0.0,0,66,49,0,0,0.0,1,1,15,0,2,1,8,2,10,1,2,1,1,7,1,16
+7782,Luis Alberto Romero Alconchel,90,6,0,0.46467585299999997,2,47,28,0,0,0.0,5,4,8,2,0,0,2,0,6,2,1,0,2,0,0,6
+23800,Laureano Sanabria Ruiz,65,0,0,0.0,0,34,26,0,0,0.0,2,1,1,0,1,1,2,1,3,0,4,0,2,1,0,6
+23806,Alejandro Bergantiños García,90,1,0,0.057892554,1,52,41,0,3,0.139690462,1,1,5,0,0,0,5,3,5,4,0,0,2,4,1,9
+27243,Oriol Riera Magem,90,3,0,0.23063754700000003,0,17,13,0,1,0.008353555,0,0,1,0,5,1,13,0,0,3,0,1,1,0,0,11
+27305,Germán Darío Lux,90,0,0,0.0,0,37,24,0,0,0.0,0,0,5,0,0,0,0,0,6,0,0,0,0,0,0,0

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5560,Carlos Alberto Vela Garrido,90,2,0,0.062660176,0,33,27,0,0,0.0,4,2,10,1,4,1,4,0,4,4,0,1,1,0,0,10
+6605,Joseba Zaldúa Bengoetxea,90,0,0,0.0,0,59,48,0,1,0.08692266,2,0,7,3,1,0,6,1,4,2,0,0,3,6,0,18
+6633,Markel Bergara Larrañaga,83,0,0,0.0,0,47,36,0,0,0.0,2,2,5,6,1,0,3,2,5,0,0,0,1,2,1,17
+6665,Íñigo Martínez Berridi,90,1,0,0.11927813,0,68,60,0,0,0.0,2,2,16,2,1,0,2,1,7,0,2,3,0,1,1,6
+6669,David Zurutuza Veillet,83,1,0,0.20885725,0,52,38,0,0,0.0,4,3,6,0,2,1,4,1,8,3,1,1,2,2,1,11
+6671,Asier Illarramendi Andonegi,90,1,0,0.006373878,0,85,64,0,1,0.014459576,1,1,8,0,1,0,5,3,3,1,4,1,4,4,1,14
+6673,Sergio Canales Madrazo,72,2,0,0.09307001000000001,0,34,29,0,1,0.20885725,1,0,3,2,1,1,2,0,3,0,0,0,2,1,0,18
+6674,Alberto De La Bella Madureño,90,0,0,0.0,0,76,55,0,1,0.006373878,2,0,6,0,0,0,3,1,1,1,0,0,2,2,0,6
+6677,Imanol Agirretxe Arruti,90,2,0,0.119362283,0,22,15,0,0,0.0,3,0,1,1,1,0,11,1,5,2,0,0,0,2,1,7
+6694,Gerónimo Rulli,90,0,0,0.0,0,39,24,0,0,0.0,0,0,5,0,0,0,0,0,6,0,0,0,0,0,0,0
+6899,Rubén Pardo Gutiérrez,7,0,0,0.0,0,4,3,0,1,0.032439623,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2
+8522,Armindo Tué Na Bangna,18,1,0,0.019473689,1,14,10,0,0,0.0,5,4,7,0,0,0,0,0,3,0,0,0,1,0,0,1
+8584,Jonathas Cristian de Jesus,7,0,0,0.0,0,1,1,0,1,0.010637059,2,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+16539,Diego Antonio Reyes Rosales,90,1,0,0.010637059,0,61,49,0,0,0.0,0,0,6,1,0,0,6,3,1,1,2,1,1,4,1,9

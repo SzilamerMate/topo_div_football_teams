@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6941,Jasmin Kurtič,90,4,0,0.1135449646,0,43,28,0,1,0.13446024,2,2,8,2,0,0,1,1,3,0,3,1,1,1,0,14
+6952,Alberto Grassi,76,1,0,0.13446024,0,29,22,0,0,0.0,1,1,3,3,1,0,0,0,6,2,4,3,0,0,0,8
+6992,Andrea Masiello,81,0,0,0.0,0,43,33,0,1,0.024260487,0,0,8,0,2,2,3,1,3,1,3,3,2,1,1,8
+6994,Marten de Roon,90,0,0,0.0,0,51,40,0,1,0.0069358586,0,0,5,5,0,0,5,1,7,2,2,0,2,1,1,24
+7006,Alejandro Darío Gómez,90,4,0,0.089515823,1,46,28,1,3,0.25660489,7,4,14,0,3,1,2,0,7,2,0,0,1,0,0,8
+7157,Marco Sportiello,90,0,0,0.0,0,19,16,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+8420,Luca Cigarini,14,0,0,0.0,0,8,6,0,1,0.052501414,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+12759,Maximiliano Nicol Moralez,90,2,1,0.209145947,2,54,36,0,3,0.10372937800000001,0,0,16,3,6,3,7,2,5,4,1,1,0,4,1,22
+31725,Gaetano Monachello,29,0,0,0.0,0,2,1,0,0,0.0,1,0,0,2,0,0,1,0,1,0,0,0,0,0,0,6
+38237,Gabriel Alejandro Paletta,90,0,0,0.0,0,31,28,0,0,0.0,1,1,5,1,3,3,4,1,1,0,8,0,2,1,1,7
+40333,Cristian Raimondi,9,0,0,0.0,0,7,7,0,0,0.0,0,0,1,2,0,0,1,0,0,0,0,0,1,0,0,2
+40426,Guglielmo Stendardo,90,1,0,0.047458943,0,36,32,0,1,0.028653625,0,0,4,0,0,0,2,0,2,0,5,2,2,0,0,4
+49439,Germán Gustavo Denis,61,2,0,0.139499137,0,13,11,0,0,0.0,1,0,0,2,1,0,3,0,1,1,0,0,1,0,0,4
+386607,Gianpaolo Bellini,90,1,0,0.018920794,0,36,27,0,0,0.0,0,0,2,2,3,2,1,0,7,2,5,4,4,1,0,9

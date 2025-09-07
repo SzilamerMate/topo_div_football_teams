@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5584,Giancarlo González Castro,90,1,0,0.18696366,0,37,26,0,1,0.099381104,0,0,0,0,0,0,1,0,0,0,5,1,0,0,0,1
+5605,Oscar Hiljemark,90,0,0,0.0,0,43,32,0,1,0.014858323,0,0,2,1,0,0,0,0,5,1,2,0,3,0,0,22
+6719,Franco Damián Vázquez,90,3,1,0.813876999,1,64,45,0,0,0.0,5,2,16,5,10,1,3,0,10,4,0,0,1,0,0,20
+7055,Stefano Sorrentino,90,0,0,0.0,0,26,18,0,0,0.0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0
+7792,Giuseppe Pezzella,72,0,0,0.0,0,47,33,0,0,0.0,1,0,4,3,1,1,1,0,5,1,2,0,2,0,0,7
+8552,Robin Quaison,33,1,0,0.021714672,0,19,13,0,0,0.0,1,1,4,1,3,1,5,2,2,0,0,0,1,2,1,14
+10032,Achraf Lazaar,18,1,0,0.014858323,0,10,9,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,2
+23846,Uroš Đurđević,45,0,0,0.0,0,10,7,0,0,0.0,2,1,0,3,0,0,2,0,2,3,0,0,1,0,0,8
+24061,Aljaž Struna,90,1,1,0.4497637,1,50,35,0,2,0.21944783,1,0,6,3,1,1,3,0,3,0,2,0,4,2,0,14
+30512,Aleksandar Trajkovski,90,2,0,0.126216827,1,29,23,0,1,0.012113799,4,1,10,1,3,1,5,0,3,3,1,1,1,0,0,16
+30735,Mato Jajalo,90,2,0,0.489182604,0,60,52,0,0,0.0,1,0,8,2,0,0,4,1,8,0,1,0,2,1,0,20
+30928,Roberto Vitiello,90,0,0,0.0,0,48,43,0,1,0.18696366,0,0,12,3,1,1,2,0,6,0,3,1,0,0,0,13
+38389,Alberto Gilardino,45,1,0,0.24141747,0,10,7,0,1,0.0182632,0,0,0,1,2,0,3,0,2,3,1,0,3,0,0,4
+40349,Ivaylo Chochev,57,1,0,0.1051375,0,33,26,0,0,0.0,0,0,7,1,0,0,2,1,2,1,0,2,0,2,0,15

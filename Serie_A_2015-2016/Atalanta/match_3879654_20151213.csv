@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6941,Jasmin Kurtič,90,0,0,0.0,0,42,31,0,0,0.0,1,0,8,3,1,0,5,0,2,0,1,2,1,1,0,14
+6952,Alberto Grassi,69,0,0,0.0,0,28,21,0,0,0.0,2,0,2,2,4,1,3,1,4,0,2,1,2,1,0,12
+6994,Marten de Roon,90,1,0,0.061850734,0,53,37,0,0,0.0,0,0,4,2,2,2,6,2,5,1,4,2,2,5,1,42
+7006,Alejandro Darío Gómez,90,3,0,0.062103241,1,29,17,0,0,0.0,1,0,7,0,3,1,1,0,5,0,0,0,1,0,0,19
+7157,Marco Sportiello,90,0,0,0.0,0,40,25,0,0,0.0,0,0,5,0,0,0,0,0,8,0,0,0,0,0,0,0
+12759,Maximiliano Nicol Moralez,64,0,0,0.0,0,21,16,0,1,0.022162646,0,0,3,1,1,0,2,1,3,1,0,0,1,1,1,12
+31231,Davide Brivio,90,0,0,0.0,0,54,38,0,1,0.07981367,1,1,7,0,0,0,2,0,6,0,1,0,2,1,0,16
+31725,Gaetano Monachello,12,0,0,0.0,0,1,1,0,0,0.0,2,0,0,1,0,0,0,0,2,1,0,0,0,0,0,6
+38237,Gabriel Alejandro Paletta,90,1,0,0.022162646,0,38,26,0,0,0.0,1,0,3,1,2,2,5,3,3,0,6,0,2,5,2,18
+40333,Cristian Raimondi,78,0,0,0.0,0,56,39,0,2,0.049521198999999995,0,0,6,5,1,0,6,1,2,0,2,1,7,4,0,23
+40426,Guglielmo Stendardo,21,0,0,0.0,0,6,6,0,0,0.0,0,0,1,2,1,0,1,0,1,0,2,0,0,1,0,9
+45590,Nicolò Cherubin,90,0,0,0.0,0,27,20,0,0,0.0,0,0,2,2,0,0,4,1,4,0,2,0,3,1,1,8
+49439,Germán Gustavo Denis,90,2,0,0.114188984,0,27,17,0,0,0.0,0,0,3,2,0,0,8,0,2,0,0,0,0,0,0,12
+386607,Gianpaolo Bellini,26,0,0,0.0,0,12,11,0,0,0.0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,7

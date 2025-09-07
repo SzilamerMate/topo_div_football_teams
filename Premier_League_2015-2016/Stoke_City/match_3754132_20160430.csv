@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3325,Marko Arnautović,55,3,1,0.337399196,1,18,10,0,1,0.037075195,5,3,9,0,1,0,5,1,3,0,0,1,0,1,0,4
+3467,Erik Pieters,90,0,0,0.0,0,56,40,0,1,0.09783947,0,0,5,0,1,1,2,1,7,0,3,1,6,1,1,10
+3480,Geoff Cameron,90,0,0,0.0,0,41,33,0,0,0.0,1,0,9,2,1,0,1,1,8,0,9,2,3,1,0,11
+3533,Xherdan Shaqiri,77,0,0,0.0,0,24,14,0,1,0.034050263,3,2,6,2,1,0,0,0,3,0,1,1,2,0,0,14
+3603,Mame Biram Diouf,13,0,0,0.0,0,6,3,0,0,0.0,0,0,1,1,0,0,0,0,2,1,0,0,1,0,0,3
+3636,Charlie Adam,85,1,0,0.007855822,0,48,35,0,0,0.0,3,2,7,4,3,0,5,1,9,2,0,0,0,4,0,16
+3643,Phil Bardsley,90,0,0,0.0,0,32,27,0,1,0.08146572,0,0,5,0,2,1,7,5,2,1,2,0,1,6,4,11
+3670,Jonathan Walters,35,0,0,0.0,0,7,4,0,1,0.081151485,2,0,2,0,0,0,1,0,2,2,0,0,2,0,0,3
+4035,Ryan Shawcross,90,0,0,0.0,0,29,24,0,0,0.0,0,0,2,2,0,0,0,0,1,0,8,0,0,0,0,3
+4040,Peter Crouch,90,4,0,0.250430648,2,34,16,1,1,0.1953329,1,0,1,0,2,1,8,0,0,1,2,0,0,0,0,8
+4346,Gilbert Gianelli Imbula Wanga,90,1,0,0.081151485,0,36,31,0,1,0.11563966,3,1,9,1,1,0,2,0,4,1,1,0,0,0,0,8
+6560,Marc Muniesa Martínez,5,0,0,0.0,0,2,2,0,0,0.0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,0,2
+9625,Glenn Whelan,90,2,0,0.048133630999999996,1,37,33,0,0,0.0,0,0,3,1,0,0,3,2,9,0,6,1,2,3,1,17
+41185,Jakob Haugaard,90,0,0,0.0,0,41,28,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0

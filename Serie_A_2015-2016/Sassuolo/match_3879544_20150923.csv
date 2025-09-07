@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5461,Šime Vrsaljko,90,2,0,0.106216952,0,67,46,0,0,0.0,0,0,8,2,3,2,6,3,5,0,6,4,5,5,1,21
+6859,Nicola Sansone,90,1,0,0.07986111,0,37,32,0,4,0.352967925,2,0,10,0,4,1,2,0,2,2,1,0,0,1,0,11
+6948,Sergio Floccari,72,4,1,0.275728007,3,21,16,0,0,0.0,4,2,4,1,1,0,3,2,3,2,1,0,1,2,1,13
+7109,Matteo Politano,64,3,0,0.210731494,0,38,31,0,1,0.048338957,5,3,13,0,0,0,3,1,5,0,1,3,0,1,0,11
+7113,Simone Missiroli,90,0,0,0.0,0,55,46,0,2,0.046769416,2,1,12,1,3,2,2,0,8,2,0,2,6,0,0,22
+7119,Francesco Acerbi,90,0,0,0.0,0,49,45,0,0,0.0,0,0,8,3,2,2,1,1,7,0,7,1,0,1,1,7
+7127,Francesco Magnanelli,90,0,0,0.0,0,68,59,1,2,0.134099428,0,0,4,3,4,3,6,6,6,1,2,0,2,6,1,28
+7131,Domenico Berardi,26,2,0,0.073935036,1,25,19,0,1,0.06074173,2,0,7,0,0,0,1,0,3,2,0,0,0,0,0,9
+7132,Andrea Consigli,90,0,0,0.0,0,41,30,0,0,0.0,0,0,1,0,1,1,0,0,3,0,0,0,0,0,0,0
+7457,Gregoire Defrel,18,1,0,0.06074173,0,12,12,0,1,0.07986111,0,0,2,1,0,0,2,0,1,1,0,0,0,0,0,3
+7698,Joseph Alfred Duncan,13,1,0,0.041604828,0,6,6,0,0,0.0,1,0,3,0,0,0,2,1,2,0,0,0,0,2,1,5
+8848,Paolo Cannavaro,90,0,0,0.0,0,26,19,0,0,0.0,0,0,2,1,0,0,3,2,0,0,2,1,3,2,1,14
+10030,Davide Biondini,77,0,0,0.0,0,43,37,0,0,0.0,2,0,4,3,2,0,3,2,5,1,2,1,3,2,0,26
+10031,Marcello Gazzola,90,0,0,0.0,0,27,23,0,0,0.0,1,0,2,0,0,0,1,0,3,0,4,0,2,1,0,5

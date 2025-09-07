@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3016,Allan Saint-Maximin,45,0,0,0.0,0,13,9,0,0,0.0,0,0,4,0,0,0,1,1,2,2,0,0,1,1,0,5
+3164,Marcelo Antônio Guedes Filho,90,1,0,0.17503858,0,76,65,0,0,0.0,0,0,11,4,0,0,2,0,3,0,9,1,1,1,0,15
+3530,Hiroki Sakai,90,0,0,0.0,0,57,44,0,1,0.08932529,1,0,6,0,0,0,2,0,5,1,2,0,0,1,0,24
+5664,Salif Sané,90,1,0,0.015746854,1,68,61,0,0,0.0,0,0,5,2,4,1,3,1,8,2,2,2,6,1,0,16
+8551,Felix Klaus,45,0,0,0.0,0,12,9,0,0,0.0,3,0,3,1,1,0,1,0,3,3,0,0,2,0,0,11
+8947,Ron-Robert Zieler,90,0,0,0.0,0,29,24,0,0,0.0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,1
+11845,Artur Sobiech,90,1,0,0.08932529,0,17,15,0,1,0.086615615,1,1,2,1,2,1,9,1,3,2,1,0,0,1,1,17
+13126,Miiko Martín Albornoz Inola,90,0,0,0.0,0,53,45,0,0,0.0,1,0,2,1,1,1,7,1,4,0,1,1,2,5,1,19
+20027,Mevlüt Erdinç,20,0,0,0.0,0,0,0,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+24244,Uffe Manich Bech,90,2,0,0.065371178,0,34,23,0,0,0.0,3,1,2,4,1,1,8,0,4,3,1,0,1,4,0,24
+38524,Hiroshi Kiyotake,90,3,1,0.92783273,1,64,54,0,1,0.015746854,3,2,8,0,0,0,3,1,3,2,0,0,1,1,1,6
+400613,Leon Andreasen,70,0,0,0.0,0,38,29,0,2,0.212457854,0,0,8,3,0,0,3,0,4,1,2,0,1,1,0,18
+400614,Christian Schulz,90,0,0,0.0,0,59,48,0,1,0.027951904,0,0,4,2,0,0,1,1,0,0,3,2,1,1,0,10

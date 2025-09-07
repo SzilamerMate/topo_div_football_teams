@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3293,Jesse Lingard,90,3,1,0.288863921,1,35,27,0,1,0.060069412,5,0,11,1,1,0,5,2,6,2,0,0,0,3,0,31
+3294,Juan Manuel Mata García,90,3,1,0.8908096799999999,1,70,59,0,1,0.027070703,0,0,12,0,3,0,1,0,4,1,0,0,3,1,0,15
+3311,Daley Blind,90,0,0,0.0,0,73,58,0,0,0.0,0,0,12,0,2,2,6,1,8,1,3,1,2,2,1,20
+3314,Phil Jones,29,0,0,0.0,0,24,18,0,0,0.0,1,0,1,0,0,0,0,0,2,0,1,0,3,0,0,4
+3333,David de Gea Quintana,90,0,0,0.0,0,34,26,0,0,0.0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+3538,Wayne Mark Rooney,81,3,0,0.07766421000000001,0,47,35,0,2,0.078317441,2,1,12,2,0,0,4,0,4,1,1,1,0,0,0,12
+3602,Faustino Marcos Alberto Rojo,75,0,0,0.0,0,52,36,0,1,0.0084179,0,0,4,4,0,0,7,2,6,0,2,1,0,3,1,17
+3606,Ander Herrera Agüera,9,0,0,0.0,0,10,9,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2
+3612,Ashley Young,61,0,0,0.0,0,45,35,0,0,0.0,0,0,4,1,1,0,3,0,4,0,0,0,0,0,0,3
+4751,Michael Carrick,90,1,0,0.032271978,0,117,104,0,1,0.027987175,0,0,12,0,0,0,1,0,5,2,1,0,1,1,0,6
+10779,Cameron Borthwick-Jackson,15,0,0,0.0,0,9,7,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4
+10958,Chris Smalling,90,0,0,0.0,0,55,45,0,1,0.10561759,0,0,18,1,1,0,2,0,7,1,4,3,0,0,0,6
+18414,Bastian Schweinsteiger,90,1,0,0.060069412,0,97,83,0,1,0.022606332,1,0,14,3,2,0,10,4,7,4,0,1,3,7,1,22
+20039,Anthony Martial,90,2,0,0.11403549,1,34,30,0,2,0.28550205,4,1,15,0,1,0,7,0,4,5,0,0,2,0,0,15

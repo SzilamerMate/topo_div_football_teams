@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3075,Javier Manquillo Gaitán,45,0,0,0.0,0,33,30,0,0,0.0,0,0,3,0,0,0,1,0,0,0,3,2,1,1,0,4
+3261,Benjamin Mendy,45,0,0,0.0,0,28,22,0,1,0.113826245,1,1,7,0,0,0,2,1,2,1,1,1,0,2,1,5
+3420,Rémy Cabella,90,3,1,0.335686808,3,64,60,0,0,0.0,1,0,13,1,1,0,4,1,7,4,0,0,2,3,0,8
+3457,Michy Batshuayi Tunga,90,3,0,0.314715313,0,25,19,0,1,0.03293923,1,1,2,4,0,0,4,0,5,3,2,0,2,0,0,7
+3543,Steve Mandanda,90,0,0,0.0,0,36,29,0,0,0.0,0,0,3,0,0,0,0,0,11,0,0,0,0,0,0,0
+3639,Georges-Kévin Nkoudou Mbida,90,2,0,0.136916785,2,43,34,1,1,0.48270556,1,0,19,2,3,1,1,0,10,4,0,0,3,0,0,15
+4351,Bouna Sarr,45,2,1,0.51564479,1,27,22,0,1,0.10757224,2,0,10,1,1,1,1,0,2,1,0,2,2,1,0,9
+7472,Nicolas Alexis Julio N'Koulou Ndoubena,90,0,0,0.0,0,74,65,0,0,0.0,0,0,11,1,0,0,5,1,8,0,7,0,0,4,1,9
+7857,Brice Dja Djédjé,90,2,0,0.08833887400000001,1,53,47,0,1,0.014864187,1,0,4,1,4,0,0,0,5,0,0,1,2,0,0,11
+8572,Karim Rekik,90,0,0,0.0,0,79,76,0,0,0.0,0,0,9,0,0,0,1,1,6,0,4,0,0,1,0,8
+10036,Jacques-Alaixys Romao,45,0,0,0.0,0,32,27,0,0,0.0,0,0,6,1,1,0,2,1,4,0,2,0,0,2,0,14
+18874,Mauricio Aníbal Isla Isla,90,0,0,0.0,0,57,49,0,3,0.2033042454,0,0,5,1,2,1,3,3,6,0,2,3,0,3,0,23
+23933,Abdelaziz Barrada,80,2,0,0.1252328054,1,62,45,0,1,0.2528886,2,0,7,0,1,0,3,2,4,1,3,1,1,3,2,17
+25199,Lucas Silva Borges,10,0,0,0.0,0,6,3,0,0,0.0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,2

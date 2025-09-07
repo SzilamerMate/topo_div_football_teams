@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3610,Roque Mesa Quevedo,90,2,0,0.032347218,0,93,79,0,1,0.10375104,1,1,17,2,4,0,5,3,12,1,0,3,0,3,1,16
+6608,Nabil El Zhar,69,1,0,0.060325276,0,30,21,0,2,0.107047019,4,0,7,1,1,0,2,1,5,0,0,1,1,2,1,14
+6721,Willian José da Silva,90,4,0,0.404595555,2,31,23,0,1,0.4532154,3,1,8,1,2,2,10,2,5,5,1,0,0,2,2,13
+6927,David García Santana,90,0,0,0.0,0,66,55,0,0,0.0,0,0,5,1,0,0,2,1,2,0,3,2,2,2,0,11
+6928,Pedro Taunausú Domínguez Placeres,90,1,0,0.100148514,1,49,41,0,0,0.0,5,4,10,0,3,1,5,3,6,4,0,0,3,5,1,28
+6929,José Vicente Gómez Umpiérrez,21,0,0,0.0,0,10,6,0,0,0.0,0,0,0,1,0,0,1,1,0,0,1,0,1,1,0,7
+6932,Dani Castellano Betancor,90,0,0,0.0,0,61,49,0,0,0.0,1,0,11,2,1,1,7,1,3,2,2,3,4,3,0,14
+6934,Jerónimo Figueroa Cabrera,82,1,0,0.028808223,0,66,52,0,1,0.100148514,6,4,14,0,0,0,2,1,7,2,0,2,0,2,1,12
+7692,Mauricio Lemos Merladet,90,1,0,0.003936899,0,47,37,0,0,0.0,1,1,15,1,0,0,2,0,5,1,2,0,2,0,0,5
+8167,Sergio Ezequiel Araújo,16,2,0,0.55696644,2,4,4,0,0,0.0,2,1,4,1,0,0,1,0,2,3,1,0,0,0,0,4
+8440,Aythami Artiles Oliva,90,0,0,0.0,0,64,54,0,0,0.0,0,0,8,0,0,0,3,0,6,0,8,0,2,0,0,6
+10755,Jonathan Viera Ramos,74,1,1,0.7835,1,53,45,0,3,0.11106595699999999,8,4,20,0,6,0,3,2,4,5,0,0,0,2,2,16
+24144,Ángel Montoro Sánchez,8,0,0,0.0,0,3,3,0,0,0.0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,5
+26753,Javier Varas Herrera,90,0,0,0.0,0,35,25,0,0,0.0,0,0,1,0,1,1,0,0,6,0,0,0,0,0,0,0

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3016,Allan Saint-Maximin,12,0,0,0.0,0,3,1,0,0,0.0,2,1,1,1,1,1,2,0,1,0,0,0,0,1,0,5
+3164,Marcelo Antônio Guedes Filho,90,1,0,0.10823989,0,25,14,0,0,0.0,0,0,1,0,0,0,1,0,3,0,8,1,0,0,0,10
+3530,Hiroki Sakai,90,0,0,0.0,0,37,29,0,0,0.0,0,0,6,1,2,1,6,2,5,0,8,1,5,4,1,20
+5664,Salif Sané,90,1,0,0.057739176,1,27,21,0,0,0.0,2,1,4,2,1,1,2,1,8,0,6,2,5,2,0,17
+8542,Felipe Trevizan Martins,90,0,0,0.0,0,16,12,0,0,0.0,0,0,6,2,3,0,1,1,1,0,4,4,1,1,1,5
+8558,Charlison Benschop,18,0,0,0.0,0,2,2,0,0,0.0,0,0,1,1,0,0,0,0,2,1,0,0,0,0,0,5
+8947,Ron-Robert Zieler,90,0,0,0.0,0,33,23,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+11845,Artur Sobiech,90,2,2,0.91130602,2,18,12,0,0,0.0,1,0,1,1,3,1,8,0,2,4,1,0,3,1,0,15
+12316,Oliver Sorg,72,0,0,0.0,0,8,4,0,0,0.0,1,0,0,0,0,0,0,0,3,0,0,2,2,0,0,12
+13126,Miiko Martín Albornoz Inola,90,0,0,0.0,0,25,18,0,0,0.0,0,0,0,2,1,0,6,3,1,0,1,2,5,4,1,12
+20027,Mevlüt Erdinç,12,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24914,Edgar Prib,78,0,0,0.0,0,14,9,1,1,0.28512272,2,0,7,3,2,0,2,0,4,1,1,0,1,2,0,23
+38524,Hiroshi Kiyotake,78,1,0,0.034958694,0,22,14,0,1,0.057739176,4,3,3,0,2,1,2,2,1,0,0,0,0,2,0,8
+400613,Leon Andreasen,90,0,0,0.0,0,26,17,1,1,0.6261833,1,0,2,2,3,1,8,0,5,2,0,0,0,1,0,19

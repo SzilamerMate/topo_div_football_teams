@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3379,Alphonse Areola,90,0,0,0.0,0,15,11,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+5588,Antonio Rukavina,7,0,0,0.0,0,7,5,0,0,0.0,0,0,1,1,0,0,1,0,1,0,0,0,0,1,0,1
+6357,Jonathan dos Santos Ramírez,90,0,0,0.0,0,34,28,0,0,0.0,0,0,2,1,0,0,4,2,4,2,0,3,6,2,1,37
+6609,Denis Suárez Fernández,90,0,0,0.0,0,50,28,0,3,0.243751994,0,0,3,3,4,2,4,1,2,6,0,0,0,1,1,22
+6752,Víctor Ruíz Torre,90,0,0,0.0,0,51,34,0,0,0.0,0,0,3,0,1,1,2,0,6,0,4,5,6,0,0,8
+6772,Mario Gaspar Pérez Martínez,90,1,0,0.06798219,0,43,30,0,0,0.0,1,0,2,1,1,0,2,0,4,0,0,0,2,0,0,9
+6783,Samuel García Sánchez,24,0,0,0.0,0,16,11,0,0,0.0,2,0,1,1,1,0,3,0,2,0,0,0,0,1,0,6
+6827,Daniele Bonera,83,0,0,0.0,0,29,23,0,0,0.0,0,0,0,1,1,1,1,0,2,0,2,1,1,1,0,6
+6828,Jaume Vicent Costa Jordá,90,0,0,0.0,0,63,51,0,1,0.05259096,0,0,3,1,1,0,7,3,3,1,1,0,5,5,0,14
+6829,Samuel Castillejo Azuaga,90,2,0,0.086322834,0,32,18,0,0,0.0,2,2,9,1,1,0,3,1,6,1,0,1,9,1,1,31
+6862,Cédric Bakambu,58,1,0,0.021423241,0,11,7,0,0,0.0,0,0,2,1,0,0,3,0,1,4,0,0,1,0,0,18
+18867,Matías Nahuel Leiva Esquivel,66,0,0,0.0,0,19,11,0,1,0.021423241,0,0,2,1,0,0,4,0,1,1,0,1,1,0,0,16
+22819,Bruno Soriano Llido,90,1,0,0.14203793,0,60,43,0,0,0.0,0,0,6,3,2,1,5,2,8,0,3,1,4,5,1,15
+26009,Roberto Soldado Rillo,32,0,0,0.0,0,9,6,0,0,0.0,2,2,2,1,0,0,1,0,1,0,0,0,0,1,0,5

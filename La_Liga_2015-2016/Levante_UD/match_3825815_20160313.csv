@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5678,Jefferson Andrés Lerma Solís,90,1,0,0.01588772,0,48,32,0,0,0.0,1,0,8,1,0,0,3,2,8,2,0,5,0,2,2,9
+6647,Zouhair Feddal,90,1,0,0.07916026,1,37,25,0,0,0.0,0,0,2,0,1,0,3,1,6,0,3,1,1,3,0,5
+6659,Víctor Camarasa Ferrando,5,0,0,0.0,0,3,1,0,0,0.0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,5
+6668,José Luis Morales Nogales,90,1,0,0.05220275,0,24,17,0,2,0.41934759,4,0,11,0,1,0,5,2,2,3,0,0,3,3,2,24
+6787,Pedro López Muñoz,17,0,0,0.0,0,7,7,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2
+7141,Giuseppe Rossi,75,2,1,0.16786562,1,19,13,0,2,0.10024839199999999,2,1,5,3,1,0,3,0,2,3,0,0,3,0,0,26
+23791,Víctor Casadesús Castaño,15,0,0,0.0,0,7,4,0,0,0.0,0,0,2,1,1,0,1,0,2,1,0,0,0,0,0,4
+23843,Diego Mariño Villar,90,0,0,0.0,0,32,23,0,0,0.0,0,0,4,0,1,0,0,0,10,0,0,0,0,0,0,0
+24149,José Antonio García Rabasco,90,0,0,0.0,0,74,50,0,4,0.18865891899999998,0,0,6,2,1,1,3,3,8,0,1,2,2,3,1,16
+25134,Deyverson Brum Silva Acosta,85,5,0,0.549821196,3,29,13,0,0,0.0,7,3,6,0,5,2,7,1,5,2,0,2,2,1,1,29
+26023,Juan Francisco García García,90,0,0,0.0,0,44,27,1,2,0.10385414,4,2,3,0,1,1,6,1,5,0,0,5,0,3,0,11
+26211,Joan Verdú Fernández,90,1,0,0.015812632,0,36,30,0,1,0.05220275,2,0,5,1,2,0,3,0,6,2,0,2,1,0,0,9
+27122,Simão Mate,73,2,0,0.065332422,1,34,26,0,0,0.0,1,1,3,5,1,1,4,0,4,1,0,5,2,1,0,15
+27656,Carl Medjani,90,1,0,0.044166237,0,29,20,0,0,0.0,0,0,5,1,0,0,3,2,2,0,1,2,1,2,1,6

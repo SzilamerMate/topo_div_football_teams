@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3009,Kylian Mbappé Lottin,31,0,0,0.0,0,13,8,1,1,0.1192348,1,0,2,1,0,0,1,0,4,1,0,0,0,1,0,6
+3193,Bernardo Mota Veiga de Carvalho e Silva,90,0,0,0.0,0,44,31,0,0,0.0,5,3,18,0,5,1,5,1,4,3,1,0,1,1,1,28
+3217,Jemerson de Jesus Nascimento,90,0,0,0.0,0,50,40,0,1,0.006159355,1,0,7,3,2,2,6,3,6,0,3,2,2,6,1,20
+3245,Thomas Lemar,59,0,0,0.0,0,26,21,0,1,0.030851148,4,2,8,0,0,0,1,0,3,4,0,0,2,0,0,19
+3246,Guido Marcelo Carrillo,32,0,0,0.0,0,5,4,0,0,0.0,1,1,1,0,0,0,1,0,2,1,0,0,1,0,0,6
+3247,Fábio Henrique Tavares,90,1,0,0.061877567,1,45,38,0,1,0.1376352,2,0,7,2,3,0,3,1,5,1,2,0,0,2,1,15
+3374,Andrea Raggi,90,2,0,0.23883849000000001,1,34,27,0,0,0.0,0,0,9,0,1,0,1,0,4,0,0,1,0,1,0,6
+3406,Jérémy Toulalan,90,1,0,0.006159355,1,74,58,0,0,0.0,0,0,7,1,0,0,3,2,5,0,2,1,2,2,0,19
+3444,Danijel Subašić,90,0,0,0.0,0,24,19,0,0,0.0,0,0,4,0,0,0,0,0,7,0,0,0,0,0,0,0
+4454,Farès Bahlouli,22,1,1,0.1192348,1,19,17,0,0,0.0,1,1,5,0,0,0,3,3,0,1,1,0,0,3,1,7
+5727,Nabil Dirar,58,1,0,0.06226277,0,20,15,0,0,0.0,4,4,8,1,1,1,1,1,2,3,0,0,1,1,0,8
+10805,Ricardo Alberto Silveira de Carvalho,90,0,0,0.0,0,45,41,0,0,0.0,0,0,3,1,0,0,3,0,4,0,3,3,2,0,0,10
+18953,Vágner Silva de Souza,68,1,0,0.030851148,0,16,14,0,0,0.0,2,1,6,2,1,1,3,0,2,2,3,0,1,0,0,15
+27558,Elderson Uwa Echiejile,90,0,0,0.0,0,25,19,0,0,0.0,1,1,3,5,0,0,5,1,2,0,2,0,3,4,1,8

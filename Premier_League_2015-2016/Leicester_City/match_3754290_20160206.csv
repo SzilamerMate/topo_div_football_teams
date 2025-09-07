@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3270,Danny Simpson,90,0,0,0.0,0,26,17,0,0,0.0,1,1,2,2,1,0,1,1,5,0,4,2,8,1,0,11
+3307,Marc Albrighton,85,1,0,0.009397321,1,43,24,0,2,0.41325636,1,1,7,0,1,0,2,1,7,0,0,1,2,2,0,15
+3312,Demarai Gray,14,0,0,0.0,0,11,9,0,0,0.0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,3
+3631,Nathan Dyer,5,0,0,0.0,0,1,1,0,0,0.0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,1
+3662,Danny Drinkwater,90,2,0,0.044625501,1,41,32,0,2,0.241635791,1,0,2,1,0,0,3,2,8,1,3,1,3,3,1,28
+3671,José Leonardo Ulloa,10,0,0,0.0,0,3,1,0,0,0.0,0,0,0,1,0,0,4,0,2,0,0,0,0,0,0,3
+3810,Shinji Okazaki,80,1,0,0.25852212,0,19,12,0,0,0.0,0,0,2,2,4,2,8,0,4,3,0,1,0,0,0,11
+3812,Christian Fuchs,90,0,0,0.0,0,46,34,1,3,0.22862152800000002,2,2,2,2,1,0,7,6,3,0,7,4,3,6,2,19
+3813,Wes Morgan,90,0,0,0.0,0,18,10,0,0,0.0,1,1,4,2,0,0,2,1,2,0,5,3,1,1,0,9
+3814,Riyad Mahrez,76,1,1,0.31686345,1,17,8,1,2,0.17352737000000001,4,3,8,1,2,0,1,0,7,2,0,0,2,0,0,11
+3815,Kasper Schmeichel,90,0,0,0.0,0,29,9,0,0,0.0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0
+3961,N''Golo Kanté,90,0,0,0.0,0,35,33,0,0,0.0,3,3,5,0,3,0,10,4,9,3,3,7,5,7,0,37
+10960,Jamie Vardy,90,4,0,0.7166017499999999,2,18,14,0,1,0.25852212,3,2,4,2,0,0,9,1,4,3,0,1,0,1,1,7
+40123,Robert Huth,90,3,2,0.294370548,2,12,9,0,0,0.0,0,0,1,1,1,0,4,3,2,0,9,3,5,3,0,11

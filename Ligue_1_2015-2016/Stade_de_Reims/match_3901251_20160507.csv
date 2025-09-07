@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4383,Nicolas de Roussel de Préville,90,4,0,0.368837063,0,35,23,0,3,0.38683124999999996,3,0,10,0,2,0,5,2,7,3,0,1,2,2,0,9
+4545,Prince Oniangué,90,3,0,0.3718383945,1,40,37,0,0,0.0,0,0,2,0,0,0,2,0,5,2,0,2,1,0,0,26
+6648,Aïssa Mandi,90,0,0,0.0,0,38,33,0,0,0.0,0,0,5,0,0,0,4,2,4,0,10,2,5,2,0,6
+7363,Diego Rigonato Rodrigues,90,4,0,0.22865538800000001,0,36,24,0,1,0.13990428,2,0,5,3,4,1,2,1,5,1,2,1,4,2,1,11
+7367,Grejohn Kyei,66,0,0,0.0,0,21,14,0,1,0.06585044,7,5,7,2,3,0,1,0,3,2,0,0,0,1,0,11
+7635,Gaëtan Charbonnier,16,1,0,0.029881965,0,12,8,0,0,0.0,1,1,3,0,0,0,1,0,2,0,0,0,1,1,0,3
+7815,Antoine Devaux,90,0,0,0.0,0,38,33,0,0,0.0,1,1,4,1,2,0,6,4,8,4,1,2,2,5,1,26
+18783,Omenuke Mfulu,45,0,0,0.0,0,30,24,0,0,0.0,1,1,5,1,1,0,4,2,1,0,1,1,1,4,1,7
+26775,Thievy Guivane Bifouma Koulossa,24,0,0,0.0,0,6,3,0,0,0.0,1,1,2,1,0,0,1,1,0,0,0,1,0,1,1,9
+30291,Atila Turan,90,1,0,0.03036734,0,32,24,0,1,0.20660582,0,0,4,0,1,0,4,2,6,0,4,4,0,3,0,13
+46801,Jaba Kankava,74,1,0,0.15792944,1,29,24,0,1,0.008873788,0,0,6,1,1,0,4,0,3,0,2,1,2,3,0,25
+131849,Antoine Conte,45,0,0,0.0,0,30,20,0,1,0.1332133,0,0,4,1,0,0,0,0,4,0,0,1,2,0,0,4
+401454,Kossi Agassa,90,0,0,0.0,0,41,32,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+401455,Mohamed Fofana,90,0,0,0.0,0,21,17,0,0,0.0,0,0,4,1,0,0,3,1,3,0,6,2,4,2,0,12

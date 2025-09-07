@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3045,Ismaël Traoré,90,0,0,0.0,0,38,34,0,0,0.0,0,0,5,1,0,0,3,2,1,0,3,0,1,2,0,8
+3071,Pierrick Capelle,1,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3078,Abdoul Razzagui Camara,89,2,0,0.836408152,1,42,31,0,2,0.14662508999999999,2,2,12,1,1,0,3,1,3,6,1,0,0,2,0,10
+3185,Thomas Mangani,83,1,0,0.020352514,0,74,58,0,6,0.512951079,1,0,6,0,2,0,9,3,10,0,3,0,1,3,1,23
+3203,Yoann Andreu,90,0,0,0.0,0,79,59,0,1,0.010477275,1,0,7,2,1,0,3,0,9,1,3,0,3,0,0,9
+3431,Vincent Manceau,90,0,0,0.0,0,56,46,0,0,0.0,2,0,5,0,2,2,5,1,5,1,1,3,2,4,0,18
+3549,Romain Thomas,90,2,0,0.20915165,1,43,38,0,0,0.0,1,1,2,3,3,3,6,3,3,0,6,0,3,3,0,11
+4441,Billy Ketkeophomphone,84,5,1,0.414264108,2,29,22,0,0,0.0,2,1,5,2,2,1,13,2,5,4,1,1,3,3,1,26
+4547,Ludovic Butelle,90,0,0,0.0,0,32,23,0,0,0.0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0
+5219,Romain Saïss,90,0,0,0.0,0,51,42,0,1,0.061960142,0,0,3,1,1,1,2,0,3,0,1,0,1,0,0,17
+5676,Cheikh N''Doye,90,4,0,0.202976524,1,36,27,0,2,0.17098698,2,0,6,1,4,1,3,1,5,4,1,1,0,2,1,26
+7207,Férébory Doré,90,2,0,0.26838282999999996,0,28,21,0,0,0.0,8,4,4,5,2,0,2,1,4,3,1,2,0,1,1,18
+401481,Slimane Sissoko,6,0,0,0.0,0,3,1,0,0,0.0,0,0,1,0,0,0,2,0,0,1,0,1,0,0,0,3
+401483,Olivier Auriac,7,1,0,0.10807942,1,2,1,0,0,0.0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,4

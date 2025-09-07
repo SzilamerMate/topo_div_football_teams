@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+8306,Christian Mathenia,90,0,0,0.0,0,34,19,0,1,0.012854898,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0
+8388,Jérôme Gondorf,90,0,0,0.0,0,28,17,0,1,0.0352423,1,0,5,1,4,3,9,1,10,3,2,0,4,4,1,29
+9217,Aytac Sulu,90,1,0,0.16367432,0,15,11,0,1,0.015156181,0,0,0,0,3,3,3,1,1,0,6,2,2,1,0,2
+9219,Tobias Kempe,86,2,0,0.047467718,2,20,12,1,2,0.38983108,0,0,4,2,0,0,3,0,3,2,1,3,3,1,0,23
+9222,Fabian Holland,4,1,0,0.009343921,0,2,0,0,0,0.0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,2
+9224,Sandro Sirigu,21,0,0,0.0,0,3,0,0,0,0.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+9401,Marcel Heller,90,1,0,0.055131722,1,21,11,0,1,0.009343921,3,3,4,3,1,0,3,1,2,3,0,0,2,2,0,14
+9404,Luca Caldirola,90,0,0,0.0,0,24,20,0,0,0.0,1,0,2,1,2,1,6,1,1,0,3,3,2,3,1,15
+9723,Sandro Wagner,90,3,1,0.254167839,1,36,15,0,3,0.16241477999999998,1,0,4,5,3,1,16,1,5,0,2,0,2,2,0,16
+12383,Florian Jungwirth,90,2,0,0.12870913,1,35,19,0,0,0.0,2,1,4,2,1,0,8,4,10,1,4,2,4,5,4,21
+13675,Mario Vrančić,79,1,1,0.58379626,1,20,12,0,0,0.0,2,0,2,2,2,1,3,0,5,0,0,0,1,2,0,20
+35033,Slobodan Rajković,90,0,0,0.0,0,18,10,0,0,0.0,0,0,3,0,1,1,4,0,4,0,2,0,2,1,0,9
+40467,Peter Niemeyer,69,0,0,0.0,0,17,7,0,0,0.0,0,0,0,0,0,0,2,0,2,0,3,1,5,0,0,18
+40483,Benjamin Gorka,11,0,0,0.0,0,3,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1

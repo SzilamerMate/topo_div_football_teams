@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3385,Alexis Alejandro Sánchez Sánchez,28,1,0,0.40497968,1,13,9,0,2,0.1410076384,0,0,4,1,0,0,1,0,1,0,0,0,2,0,0,12
+3478,Francesc Fàbregas i Soler,90,2,1,0.41478141,2,67,57,2,3,0.8364909469999999,4,4,6,1,4,0,5,3,8,2,0,0,3,4,2,24
+3958,Pedro Eliezer Rodríguez Ledesma,90,3,0,0.1996101184,1,30,23,1,1,0.16832207,4,4,10,2,6,2,1,0,5,1,0,0,1,0,0,17
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,52,42,0,0,0.0,1,0,4,0,1,0,5,3,2,1,4,0,0,3,1,6
+5211,Jordi Alba Ramos,80,0,0,0.0,0,54,40,1,1,0.1578835,3,2,9,4,1,1,2,0,3,2,2,5,0,1,0,9
+5503,Lionel Andrés Messi Cuccittini,90,7,2,0.9145966576,3,44,37,0,2,0.19213642,6,5,8,0,3,1,2,1,3,1,0,0,0,1,1,18
+6357,Jonathan dos Santos Ramírez,7,0,0,0.0,0,12,12,0,1,0.40497968,1,1,1,0,0,0,1,1,0,0,0,1,0,1,0,3
+6593,Martín Montoya Torralbo,90,0,0,0.0,0,68,60,1,1,0.08127289,2,1,4,2,0,0,4,2,8,2,3,0,6,2,1,13
+7068,Marc Bartra Aregall,10,0,0,0.0,0,5,5,0,0,0.0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0,1
+12737,David Villa Sánchez,62,2,1,0.416858947,2,19,16,0,0,0.0,1,1,1,2,0,0,3,0,0,0,0,0,0,0,0,12
+20131,Xavier Hernández Creus,83,1,1,0.1578835,1,70,63,0,2,0.306796023,3,2,10,0,3,0,2,2,5,2,0,0,0,2,0,13
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,39,20,0,0,0.0,0,0,4,0,0,0,0,0,5,0,0,0,0,0,0,0
+22102,Adriano Correia Claro,90,0,0,0.0,0,42,31,0,0,0.0,0,0,10,1,2,0,2,2,4,0,9,1,2,2,1,8
+27053,Alexandre Dimitri Song-Billong,90,0,0,0.0,0,48,41,0,0,0.0,0,0,7,2,2,1,3,1,11,4,3,1,3,1,0,13

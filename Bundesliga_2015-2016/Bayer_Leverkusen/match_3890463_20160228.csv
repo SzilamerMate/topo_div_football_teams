@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3058,Javier Hernández Balcázar,90,1,1,0.618619,1,27,18,0,3,0.085231507,2,1,1,1,1,0,5,0,4,2,0,2,0,0,0,15
+5494,Robbie Kruse,26,0,0,0.0,0,8,6,0,0,0.0,0,0,0,0,1,1,2,1,1,1,0,0,2,1,0,7
+5555,Julian Brandt,64,0,0,0.0,0,24,19,0,1,0.01931781,1,1,3,0,2,0,7,1,4,2,0,1,0,2,1,19
+6309,Tin Jedvaj,45,0,0,0.0,0,23,16,0,0,0.0,1,1,9,2,0,0,2,0,1,0,2,2,1,1,0,5
+7039,Hakan Çalhanoğlu,90,4,0,0.047018369600000005,2,68,45,0,0,0.0,2,0,5,0,1,1,4,1,8,0,4,1,2,2,1,25
+8211,Benjamin Henrichs,5,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+8212,Wendell Nascimento Borges,90,1,0,0.04506865,0,59,47,0,1,0.027615549,1,0,6,3,2,2,4,2,5,0,3,3,2,3,0,23
+8213,Karim Bellarabi,90,3,0,0.082287534,1,18,10,0,1,0.0062341946,10,6,10,0,3,1,1,0,6,3,0,0,1,0,0,12
+8219,Admir Mehmedi,85,3,0,0.05647522499999999,0,32,22,1,1,0.618619,2,2,7,4,2,0,5,0,5,4,2,2,4,3,0,24
+8221,Jonathan Tah,45,0,0,0.0,0,23,19,0,0,0.0,0,0,3,1,1,1,3,2,0,0,3,1,2,2,2,12
+8805,Christoph Kramer,90,0,0,0.0,0,58,48,0,1,0.023106296,3,2,11,4,1,0,8,3,8,3,2,0,2,4,1,35
+8918,Roberto Hilbert,90,0,0,0.0,0,67,41,0,1,0.035354175,5,4,9,0,2,1,2,1,6,3,12,2,5,1,1,20
+9363,André Ramalho Silva,90,0,0,0.0,0,69,54,0,1,0.025484372,1,1,10,2,1,0,7,1,10,1,3,1,1,4,1,19
+15581,Bernd Leno,90,0,0,0.0,0,30,25,0,0,0.0,0,0,1,0,0,0,0,0,4,1,0,0,0,0,0,1

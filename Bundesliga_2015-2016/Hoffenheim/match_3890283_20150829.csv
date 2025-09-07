@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5537,Fabian Lukas Schär,90,1,0,0.017293101,0,70,61,0,0,0.0,0,0,14,1,1,0,1,0,8,0,10,0,0,0,0,4
+5548,Steven Zuber,66,3,0,0.124809726,0,17,12,0,0,0.0,4,1,6,2,1,0,2,1,4,2,0,0,2,1,0,11
+6039,Sebastian Rudy,23,0,0,0.0,0,30,24,0,2,0.84746579,0,0,4,0,0,0,2,1,1,0,1,1,0,1,1,8
+6322,Niklas Süle,90,1,0,0.06313053,0,71,65,0,0,0.0,1,1,5,1,1,1,3,1,5,0,6,0,2,3,0,9
+8215,Kevin Volland,90,1,0,0.0388415,0,34,15,0,1,0.053610552,0,0,8,3,4,0,4,0,3,1,1,1,0,0,0,9
+8311,Jonathan Schmid,24,2,0,0.197415183,1,10,7,0,2,0.092221963,1,0,4,0,0,0,2,0,2,2,0,0,0,0,0,3
+8387,Mark Uth,75,2,0,0.14943036999999998,0,12,7,0,1,0.15372987,2,0,1,0,0,0,3,0,5,2,1,0,0,1,0,9
+8393,Oliver Baumann,90,0,0,0.0,0,47,44,0,0,0.0,0,0,3,0,0,0,0,0,10,0,0,0,0,0,0,0
+8404,Eugen Polanski,90,0,0,0.0,0,54,41,0,0,0.0,4,4,11,3,2,1,8,3,9,0,2,1,1,4,1,18
+8556,Pirmin Schwegler,67,0,0,0.0,0,45,33,0,1,0.09728155,0,0,4,0,1,1,4,1,4,1,1,0,1,1,0,9
+9397,Pavel Kadeřábek,90,1,0,0.053380463,0,38,27,0,0,0.0,1,0,4,1,0,0,2,0,4,1,4,1,1,0,0,8
+19836,Kevin Kuranyi,90,2,0,0.8861173999999999,1,31,20,0,2,0.092334633,1,1,2,4,1,1,5,0,2,1,1,0,1,0,0,1
+27317,Eduardo Jesús Vargas Rojas,15,0,0,0.0,0,13,11,0,0,0.0,0,0,1,0,0,0,2,2,0,1,0,0,0,2,1,4
+40538,Jin-Su Kim,90,1,0,0.040185813,0,53,45,0,1,0.10178214,0,0,2,2,1,0,0,0,5,0,5,0,2,0,0,14

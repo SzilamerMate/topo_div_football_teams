@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3043,Christian Dannemann Eriksen,68,2,0,0.078292782,1,54,45,0,3,0.10801318800000001,1,1,8,0,1,0,3,1,5,0,1,1,0,3,1,3
+3077,Jan Vertonghen,90,0,0,0.0,0,65,59,0,0,0.0,0,0,7,2,0,0,4,0,4,0,7,0,3,0,0,10
+3083,Heung-Min Son,22,1,0,0.047776617,0,9,8,0,2,0.050298654,0,0,3,2,0,0,1,0,3,2,0,0,1,1,0,8
+3086,Ben Davies,90,3,0,0.07363259999999999,0,67,60,0,1,0.11409354,0,0,5,2,0,0,5,1,6,1,5,3,3,2,0,4
+3094,Bamidele Alli,82,6,1,0.332977396,2,37,30,0,3,0.16754485500000002,2,0,11,0,2,0,4,0,5,6,0,1,3,1,0,12
+3099,Hugo Lloris,90,0,0,0.0,0,27,22,0,0,0.0,0,0,3,0,0,0,0,0,7,0,0,0,0,0,0,0
+3205,Kyle Walker,90,1,0,0.022571472,0,63,56,0,2,0.038453998,1,0,7,0,0,0,1,0,5,1,1,3,2,0,0,8
+3310,Tom Carroll,90,1,0,0.017405177,1,83,73,0,4,0.098943192,0,0,5,1,1,0,6,3,8,1,2,2,3,3,1,19
+3585,Erik Lamela,87,2,0,0.103400929,0,39,27,0,0,0.0,2,1,11,6,1,0,7,5,5,4,2,0,1,6,2,15
+4831,Nacer Chadli,8,0,0,0.0,0,5,4,0,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+10955,Harry Kane,90,3,0,0.15136744200000002,0,26,20,0,0,0.0,1,0,2,1,1,0,1,0,4,3,0,1,1,0,0,8
+10956,Eric Dier,90,0,0,0.0,0,74,58,0,0,0.0,0,0,9,0,1,1,2,0,9,0,8,1,2,0,0,15
+16067,Josh Onomah,3,0,0,0.0,0,3,3,0,0,0.0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0
+20005,Toby Alderweireld,90,0,0,0.0,0,80,69,1,1,0.10009919,0,0,18,0,0,0,3,0,4,0,9,1,1,2,0,3

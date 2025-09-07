@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2936,Christophe Kerbrat,90,0,0,0.0,0,68,55,0,0,0.0,0,0,15,1,1,1,4,3,5,1,5,1,0,3,1,12
+3121,Moustapha Elhadji Diallo,45,0,0,0.0,0,29,20,0,0,0.0,2,1,3,0,1,0,0,0,3,1,0,0,0,0,0,7
+3122,Yannis Salibur,90,4,0,0.07186545800000001,2,34,21,0,0,0.0,6,5,13,0,4,2,3,2,8,4,0,0,0,2,1,13
+3124,Jérémy Sorbon,90,0,0,0.0,0,70,61,0,0,0.0,0,0,12,1,0,0,1,1,8,1,5,0,1,1,1,4
+3213,Jimmy Briand,90,2,0,0.175855746,0,32,24,0,1,0.028864652,0,0,3,1,2,1,6,1,3,3,0,0,2,1,0,10
+3301,Nicolas Benezet,90,2,0,0.29941781599999995,0,32,13,0,1,0.16374204,4,3,10,0,4,2,5,1,6,1,1,0,1,1,0,10
+3322,Jonas Lössl,90,0,0,0.0,0,28,27,0,0,0.0,0,0,4,0,0,0,0,0,7,0,0,0,0,0,0,0
+3364,Jonathan Martins-Pereira,90,0,0,0.0,0,75,59,0,2,0.118919207,1,1,8,0,1,0,4,3,6,1,0,0,0,3,1,10
+4434,Thibault Giresse,45,3,1,0.845648152,1,33,21,0,5,0.406937838,0,0,5,0,1,0,2,0,5,0,0,1,0,1,0,5
+4799,Sloan Privat,19,2,0,0.195755396,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20027,Mevlüt Erdinç,71,2,0,0.26935124,0,13,11,0,1,0.27647784,0,0,2,1,0,0,1,0,2,2,0,0,0,0,0,5
+30182,Dorian Lévêque,90,1,0,0.008338305,0,62,48,0,0,0.0,0,0,9,1,2,1,3,1,5,0,4,1,2,2,0,4
+401512,Lionel Mathis,90,0,0,0.0,0,90,75,0,0,0.0,0,0,11,1,3,1,8,3,2,0,0,0,1,6,2,19

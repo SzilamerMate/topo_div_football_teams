@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3167,Antonio Rüdiger,25,0,0,0.0,0,13,11,0,0,0.0,0,0,5,0,0,0,1,1,0,0,1,0,0,1,0,6
+3531,Mohamed Salah,90,3,0,0.292111756,1,42,36,0,1,0.076642,1,0,10,1,4,0,3,0,6,5,0,0,1,1,0,15
+5669,Wojciech Szczęsny,90,0,0,0.0,0,32,29,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+6849,Lucas Digne,90,1,0,0.028849851,0,58,38,0,0,0.0,2,2,3,0,1,0,10,4,3,1,7,3,1,6,2,13
+6947,Miralem Pjanić,90,2,0,0.056027988,0,125,98,0,1,0.02395476,1,1,19,0,4,0,4,2,7,0,1,1,0,2,1,10
+6962,Radja Nainggolan,90,4,1,0.425170763,1,38,29,0,0,0.0,0,0,6,1,2,0,3,1,7,2,0,0,3,1,0,22
+6964,Alessandro Florenzi,90,1,0,0.027627202,1,54,44,0,4,0.413402089,2,1,8,3,2,1,2,2,5,3,1,2,4,2,1,23
+6973,Edin Džeko,90,5,0,0.868042044,0,23,17,0,0,0.0,2,1,6,2,2,1,7,0,4,2,0,0,2,0,0,13
+7048,Konstantinos Manolas,90,0,0,0.0,0,56,50,0,0,0.0,0,0,9,1,1,1,2,1,5,0,2,3,2,1,0,10
+7051,Daniele De Rossi,90,1,0,0.02395476,0,116,102,1,4,0.827567492,1,1,13,1,0,0,4,2,6,0,3,0,4,2,1,12
+7468,Iago Falqué Silva,18,0,0,0.0,0,12,8,0,0,0.0,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,3
+7961,Leandro Castán da Silva,65,0,0,0.0,0,37,33,0,0,0.0,0,0,11,4,0,0,1,0,4,1,2,1,3,1,0,15
+8104,Vassilis Torosidis,72,0,0,0.0,0,54,51,0,1,0.08287858,0,0,3,1,0,0,2,2,1,0,3,0,2,2,0,9

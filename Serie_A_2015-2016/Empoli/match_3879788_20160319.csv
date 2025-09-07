@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5660,Piotr Zieliński,62,1,0,0.061668795,0,33,24,0,1,0.02346604,2,1,2,2,0,0,0,0,4,0,1,1,3,0,0,17
+7054,Manuel Pucciarelli,90,3,0,0.18411961300000002,1,25,18,0,0,0.0,3,0,5,1,2,1,3,1,4,2,0,0,0,3,1,21
+7150,Riccardo Saponara,90,1,0,0.032838408,0,38,24,0,1,0.04625659,3,2,9,3,2,0,4,2,5,1,1,0,0,2,0,18
+7151,Mário Rui Silva Duarte,90,1,0,0.010087339,0,42,31,0,2,0.09528524099999999,2,1,4,1,3,2,0,0,7,0,0,1,3,0,0,12
+7155,Vincent Laurini,42,0,0,0.0,0,33,32,0,0,0.0,1,0,2,0,0,0,0,0,1,1,2,0,0,0,0,5
+7160,Lorenzo Tonelli,90,1,0,0.03259327,0,102,95,0,2,0.08068711299999999,0,0,12,2,3,0,4,1,6,1,4,3,3,1,1,11
+8187,Marcel Büchel,28,0,0,0.0,0,19,13,0,1,0.13218041,0,0,1,0,0,0,1,0,2,1,0,0,1,0,0,4
+8664,Andrea Costa,90,0,0,0.0,0,100,88,0,0,0.0,0,0,16,0,2,1,2,1,6,0,5,2,1,1,1,2
+11508,Łukasz Skorupski,90,0,0,0.0,0,25,22,0,0,0.0,0,0,1,0,1,1,0,0,4,0,0,0,0,0,0,0
+16308,Leandro Daniel Paredes,90,2,0,0.026483353,1,107,84,0,1,0.03259327,1,1,9,3,4,1,1,1,5,0,2,4,2,1,0,15
+18028,Levan Mchedlidze,5,1,0,0.13218041,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+31172,Luca Bittante,48,0,0,0.0,0,31,25,0,0,0.0,1,0,1,2,0,0,5,1,2,0,2,0,2,3,0,14
+40251,Daniele Croce,90,0,0,0.0,0,24,19,0,1,0.1314294,2,0,7,0,0,0,4,0,7,3,1,0,4,1,0,31
+40252,Massimo Maccarone,85,2,0,0.15489544,1,9,6,0,0,0.0,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,12

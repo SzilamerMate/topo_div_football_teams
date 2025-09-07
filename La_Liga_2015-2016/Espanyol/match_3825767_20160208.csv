@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4741,Juan Rafael Fuentes Hernández,53,0,0,0.0,0,31,29,0,0,0.0,0,0,6,2,0,0,2,1,3,0,0,2,0,1,0,4
+5719,Marco Asensio Willemsen,90,1,0,0.06512924,1,44,36,0,2,0.11152699599999999,4,0,11,2,3,1,3,2,4,2,0,1,1,3,2,14
+6624,Jorge Franco Alviz,45,2,0,0.11152699599999999,0,23,18,0,0,0.0,4,1,6,1,2,0,2,0,0,1,0,0,1,1,0,8
+6701,Joan Jordán Moreno,90,0,0,0.0,0,80,70,0,1,0.07048885,4,2,10,2,0,0,4,0,5,1,1,3,2,1,0,11
+6762,Álvaro González Soberón,90,1,0,0.07048885,0,54,39,0,0,0.0,0,0,11,1,1,1,10,5,1,0,4,0,1,6,3,8
+6766,Gerard Moreno Balaguero,90,0,0,0.0,0,38,30,0,0,0.0,4,2,2,0,1,1,5,0,0,2,1,1,1,0,0,14
+6791,Javier López Rodríguez,90,0,0,0.0,0,72,51,0,1,0.068416,1,1,7,1,0,0,6,0,5,0,1,2,2,2,0,7
+6792,Pau López Sabata,45,0,0,0.0,0,14,11,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+6838,Hernán Arsenio Pérez González,45,0,0,0.0,0,30,18,0,0,0.0,2,1,4,2,0,0,2,0,2,1,0,2,0,0,0,8
+6867,Papa Kouly Diop,90,0,0,0.0,0,66,54,0,0,0.0,1,1,10,2,2,1,6,3,7,2,0,3,3,3,2,10
+15297,Mickaël Ciani,90,0,0,0.0,0,77,59,0,0,0.0,0,0,11,1,1,1,6,3,5,1,6,2,1,4,1,15
+24072,Salvador Sevilla López,37,1,0,0.068416,0,18,10,0,0,0.0,0,0,3,0,0,0,2,0,3,0,2,0,1,0,0,4
+27241,Víctor Guillermo Álvarez Delgado,90,0,0,0.0,0,47,38,0,0,0.0,3,3,6,2,2,1,6,3,2,1,0,1,1,3,1,10
+31904,Giedrius Arlauskis,45,0,0,0.0,0,19,9,0,0,0.0,0,0,3,0,0,0,1,1,7,0,0,0,0,1,1,2

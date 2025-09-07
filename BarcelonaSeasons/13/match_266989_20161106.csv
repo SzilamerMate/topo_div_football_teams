@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4320,Neymar da Silva Santos Junior,90,0,0,0.0,0,46,34,1,8,0.973868077,10,8,19,1,5,1,1,0,3,5,0,0,1,1,0,27
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,44,40,0,0,0.0,1,1,2,3,3,2,5,2,5,2,3,1,2,5,0,21
+5246,Luis Alberto Suárez Díaz,90,4,1,0.78271837,3,31,27,0,2,0.174745286,5,4,4,1,4,0,0,0,3,2,0,0,0,0,0,15
+5470,Ivan Rakitić,71,2,0,0.18889289,1,38,34,0,1,0.09605295,1,0,2,0,1,0,0,0,3,0,0,0,2,0,0,20
+5492,Samuel Yves Umtiti,90,1,0,0.028198622,0,55,50,0,0,0.0,2,1,11,0,1,1,4,3,4,0,6,2,2,3,0,6
+5503,Lionel Andrés Messi Cuccittini,90,6,1,0.749353683,3,45,35,1,2,0.57235158,8,7,16,0,6,0,1,0,4,4,0,0,0,0,0,18
+5506,Javier Alejandro Mascherano,90,0,0,0.0,0,68,65,0,0,0.0,0,0,8,3,2,0,6,3,3,1,8,2,7,3,2,14
+6379,Sergi Roberto Carnicer,90,0,0,0.0,0,51,48,0,0,0.0,2,1,4,1,0,0,6,4,5,0,11,3,4,5,1,15
+6609,Denis Suárez Fernández,85,1,0,0.09605295,0,49,43,0,0,0.0,4,3,12,3,2,0,3,3,4,1,1,0,1,3,0,35
+6849,Lucas Digne,90,0,0,0.0,0,46,35,0,0,0.0,2,2,7,1,2,1,3,1,4,1,6,2,2,2,0,18
+6998,Rafael Alcântara do Nascimento,5,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+10802,André Filipe Tavares Gomes,19,0,0,0.0,0,9,8,0,0,0.0,0,0,3,0,0,0,1,1,0,0,0,0,1,1,1,7
+20055,Marc-André ter Stegen,90,0,0,0.0,0,37,29,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0

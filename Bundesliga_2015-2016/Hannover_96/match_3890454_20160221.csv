@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3016,Allan Saint-Maximin,9,1,0,0.010585849,0,2,2,0,0,0.0,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0,3
+3530,Hiroki Sakai,90,0,0,0.0,0,65,49,0,1,0.0230601,1,0,5,0,0,0,7,2,9,0,1,2,3,2,1,16
+5664,Salif Sané,90,4,0,0.19495150100000003,1,49,30,0,2,0.034099324,1,1,11,3,4,0,10,3,12,4,1,2,4,5,0,26
+8541,Kenan Karaman,90,4,0,0.133842629,2,43,27,0,1,0.040890228,3,2,17,0,2,0,2,0,11,2,0,1,5,2,0,22
+8947,Ron-Robert Zieler,90,0,0,0.0,0,25,23,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+11845,Artur Sobiech,90,0,0,0.0,0,22,16,0,2,0.050771357,0,0,0,1,3,1,7,1,3,2,0,0,1,1,0,14
+12294,Andre Hoffmann,45,0,0,0.0,0,33,28,0,0,0.0,0,0,3,1,0,0,0,0,5,2,1,0,0,0,0,12
+13126,Miiko Martín Albornoz Inola,90,0,0,0.0,0,59,41,0,1,0.010415659,0,0,7,0,4,2,7,4,5,0,0,1,0,4,2,21
+20359,Hugo Miguel Pereira de Almeida,45,1,0,0.024910504,0,17,10,0,0,0.0,1,1,0,0,0,0,5,0,1,0,0,0,0,0,0,5
+23341,Alexander Milosevic,90,1,0,0.09216282,1,29,27,0,0,0.0,0,0,1,1,2,2,2,0,2,0,3,3,2,1,0,9
+24244,Uffe Manich Bech,81,2,0,0.063950328,1,24,18,0,0,0.0,2,1,5,1,3,1,2,0,5,1,0,0,2,1,0,20
+24914,Edgar Prib,45,1,0,0.025860853,1,21,17,0,2,0.157087894,0,0,2,3,0,0,2,0,1,2,0,0,0,1,0,17
+30287,Ceyhun Gülselam,90,2,0,0.040377851,1,66,49,0,2,0.07279837,0,0,8,4,1,0,4,3,8,0,3,2,3,4,0,13
+38524,Hiroshi Kiyotake,45,0,0,0.0,0,37,23,0,3,0.134587536,1,1,2,0,0,0,1,0,2,2,0,0,0,0,0,5

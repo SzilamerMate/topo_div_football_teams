@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7142,Luca Rossettini,90,0,0,0.0,0,19,17,0,0,0.0,0,0,2,1,1,1,4,0,1,1,7,2,3,2,0,7
+7169,Adam Masina,90,0,0,0.0,0,44,37,0,1,0.006299975,2,1,3,1,0,0,3,2,8,0,5,0,3,3,0,24
+7174,Antonio Mirante,90,0,0,0.0,0,36,11,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+7175,Erick Antonio Pulgar Farfán,90,0,0,0.0,0,41,35,0,0,0.0,1,0,7,2,1,0,6,4,9,1,4,0,1,6,2,16
+7704,Alex Ferrari,90,1,0,0.048188284,0,40,30,0,0,0.0,2,1,11,2,1,0,6,1,9,2,6,4,2,2,0,30
+7965,Lorenzo Crisetig,36,0,0,0.0,0,16,11,0,0,0.0,0,0,4,3,1,0,1,0,3,2,2,0,1,0,0,7
+8103,Mattia Destro,72,2,0,0.14302113,1,9,7,0,0,0.0,1,0,6,3,0,0,11,0,1,1,0,0,4,0,0,18
+8284,Amadou Diawara,54,1,0,0.006299975,0,29,23,0,1,0.048188284,1,1,4,1,0,0,1,0,4,0,1,2,0,0,0,16
+8851,Saphir Sliti Taïder,90,1,0,0.0038214892,0,45,35,0,1,0.008830144,0,0,11,1,5,0,4,4,4,1,2,4,0,4,3,21
+8873,Marios Oikonomou,90,2,0,0.17391376,0,25,20,1,1,0.1371135,0,0,5,1,2,2,4,0,1,0,7,1,1,1,0,10
+15415,Matteo Mancosu,18,0,0,0.0,0,2,0,0,0,0.0,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,4
+30770,Filippo Falco,12,0,0,0.0,0,14,11,0,1,0.04218232,1,1,3,1,2,1,1,0,2,2,0,0,0,0,0,2
+34565,Anthony Mounier,90,1,1,0.1371135,1,31,22,0,4,0.1562783922,4,1,14,4,4,1,6,2,3,2,0,2,4,4,2,28
+45591,Franco Brienza,78,4,0,0.357803787,1,22,12,0,2,0.22685750999999998,2,0,6,0,3,0,4,0,5,2,0,0,0,0,0,10

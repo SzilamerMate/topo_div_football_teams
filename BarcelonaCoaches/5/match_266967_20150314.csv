@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3958,Pedro Eliezer Rodríguez Ledesma,21,1,0,0.09793044,1,14,10,0,1,0.043820497,1,0,4,0,0,0,0,0,3,0,0,0,0,0,0,4
+4320,Neymar da Silva Santos Junior,69,3,0,0.295987495,1,53,41,0,0,0.0,3,2,24,0,1,0,2,0,2,1,0,1,1,0,0,6
+4691,Claudio Andrés Bravo Muñoz,90,0,0,0.0,0,26,21,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+5213,Gerard Piqué Bernabéu,90,0,0,0.0,0,65,58,0,0,0.0,0,0,6,2,0,0,2,1,6,0,14,1,4,1,1,7
+5246,Luis Alberto Suárez Díaz,90,0,0,0.0,0,28,23,0,2,0.131622922,5,3,3,0,1,1,2,0,2,2,0,0,1,0,0,10
+5470,Ivan Rakitić,61,1,0,0.14665367,0,62,53,1,1,0.069931775,1,0,3,0,3,0,1,0,3,2,2,0,2,0,0,7
+5503,Lionel Andrés Messi Cuccittini,90,4,2,1.03238663,2,75,58,0,2,0.27635571999999997,15,13,23,1,3,0,1,0,1,4,0,0,3,0,0,8
+6379,Sergi Roberto Carnicer,90,0,0,0.0,0,94,85,0,1,0.042069335,1,1,11,0,1,0,3,1,9,1,5,1,1,2,0,9
+6593,Martín Montoya Torralbo,90,0,0,0.0,0,102,95,0,0,0.0,2,1,15,1,1,0,3,2,5,1,0,2,1,2,1,9
+6998,Rafael Alcântara do Nascimento,90,1,0,0.043820497,0,73,71,0,2,0.24085181500000002,7,6,21,0,4,1,5,2,8,4,3,0,3,3,1,12
+7068,Marc Bartra Aregall,90,0,0,0.0,0,65,61,0,0,0.0,2,2,13,0,1,0,7,4,3,0,8,1,2,4,1,6
+20131,Xavier Hernández Creus,29,1,0,0.046866212,0,34,30,0,0,0.0,0,0,5,0,1,0,1,1,2,0,0,1,0,1,1,2
+22102,Adriano Correia Claro,90,0,0,0.0,0,69,60,0,0,0.0,2,1,11,0,0,0,2,0,7,0,4,1,3,1,0,4

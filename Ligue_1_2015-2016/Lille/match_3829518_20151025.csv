@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3211,Florent Balmont,74,2,0,0.066309374,1,31,26,0,1,0.030714303,2,1,4,2,3,0,2,1,4,0,1,0,3,1,1,13
+3357,Baptiste Guillaume,90,0,0,0.0,0,18,12,0,0,0.0,3,0,2,0,3,0,4,2,7,0,1,2,3,2,0,21
+3446,Djibril Sidibé,90,2,0,0.133154943,1,71,52,0,1,0.038754594,2,1,4,2,3,2,11,2,5,1,2,0,4,6,0,22
+3625,Sofiane Boufal,90,1,0,0.086996414,0,30,21,0,3,0.205538343,5,4,11,3,1,0,4,0,7,7,0,0,3,2,0,17
+3673,Yassine Benzia,58,0,0,0.0,0,22,12,0,0,0.0,0,0,2,1,2,1,5,1,1,1,0,0,2,1,0,15
+3677,Bakary Adama Soumaoro,90,1,0,0.030714303,1,43,38,0,0,0.0,0,0,3,0,0,0,2,2,1,0,3,0,1,2,1,8
+4446,Soualiho Meïté,32,0,0,0.0,0,18,13,0,0,0.0,1,0,3,2,2,0,1,1,2,0,0,0,2,1,0,10
+6716,Sébastien Corchia,90,2,1,0.24896131999999999,1,28,14,0,0,0.0,1,1,8,1,3,1,3,0,9,1,1,1,4,2,0,8
+7441,Marvin Martin,58,1,0,0.062231213,0,26,18,0,0,0.0,2,2,3,1,1,0,5,1,6,1,0,0,2,3,0,16
+9102,Serhou Guirassy,32,0,0,0.0,0,8,5,0,0,0.0,0,0,1,1,2,0,3,0,1,0,0,0,0,0,0,0
+23835,Yaw Yeboah,16,0,0,0.0,0,6,3,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+29057,Renato Civelli,90,1,0,0.058945403,0,45,29,0,0,0.0,0,0,8,2,2,2,1,0,6,0,6,0,1,0,0,4
+40484,Vincent Enyeama,90,0,0,0.0,0,28,20,0,0,0.0,0,0,6,0,0,0,0,0,3,0,0,0,0,0,0,0
+40522,Rio Antonio Zoba Mavuba,90,0,0,0.0,0,48,38,0,0,0.0,1,0,5,1,3,3,7,3,10,3,2,1,2,3,2,25

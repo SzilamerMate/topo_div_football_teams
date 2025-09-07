@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3034,Kamil Glik,90,0,0,0.0,0,35,32,0,0,0.0,0,0,3,0,2,2,4,2,1,0,7,2,1,2,1,15
+3660,Davide Zappacosta,85,1,1,0.016819866,1,43,31,0,1,0.014220099,3,2,6,1,0,0,2,0,7,2,0,1,2,1,0,23
+6965,Bruno da Silva Peres,5,0,0,0.0,0,2,2,0,2,0.156096402,1,1,1,0,0,0,1,1,0,0,0,0,0,1,0,4
+7149,Marco Benassi,90,2,0,0.245919746,1,22,13,0,0,0.0,3,1,3,2,1,0,1,0,6,2,0,0,4,0,0,23
+7465,Daniele Baselli,21,1,0,0.37777355,1,16,9,0,1,0.12486237,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,9
+7471,Andrea Belotti,75,3,0,0.215239637,0,19,13,0,2,0.14512229,0,0,9,0,5,0,6,4,5,3,0,1,2,5,1,28
+7474,Afriyie Acquah,69,3,0,0.116437472,1,18,12,0,1,0.11261075,1,1,7,1,3,1,2,0,9,3,0,0,3,1,0,13
+7476,Emiliano Moretti,90,0,0,0.0,0,48,37,0,1,0.04717537,0,0,6,0,2,1,2,0,3,0,2,0,0,2,0,14
+7479,Cristian Molinaro,90,1,0,0.059323564,0,48,37,0,0,0.0,4,2,14,0,2,0,6,2,5,1,1,2,3,5,1,16
+8193,Maximiliano Gastón López,90,4,1,0.5345920160000001,3,31,19,0,3,0.165425591,1,1,2,3,1,0,11,2,8,3,1,0,0,2,0,21
+12619,Josef Alexander Martínez Mencia,15,1,0,0.05064851,0,2,2,0,0,0.0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,1
+34881,Daniele Padelli,90,0,0,0.0,0,28,22,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+40427,Cesare Bovo,90,0,0,0.0,0,64,52,0,0,0.0,2,2,2,2,1,0,3,1,4,0,3,1,0,3,1,14
+40430,Giuseppe Vives,90,0,0,0.0,0,50,42,0,1,0.37777355,0,0,11,0,2,2,8,1,7,0,6,0,1,1,0,29

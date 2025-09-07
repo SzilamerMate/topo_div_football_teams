@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3275,Henrikh Mkhitaryan,90,3,0,0.1335782348,0,46,34,0,3,0.211536848,4,3,5,2,3,1,5,1,5,6,0,0,3,2,1,18
+3712,Pierre-Emerick Aubameyang,90,4,1,1.32754703,3,15,11,0,1,0.06060817,2,1,5,0,1,1,2,0,2,2,0,0,0,0,0,10
+5559,Marco Reus,68,2,0,0.14778559000000002,1,23,21,0,0,0.0,3,0,3,1,1,0,4,3,3,0,0,0,3,4,1,16
+5572,Mats Hummels,90,1,0,0.085311905,0,90,77,0,0,0.0,2,2,16,0,4,0,1,0,7,0,5,1,0,0,0,5
+5658,Łukasz Piszczek,45,1,0,0.06452585,0,43,38,0,1,0.23768193,5,2,7,1,0,0,2,0,5,1,1,0,2,0,0,5
+5684,Shinji Kagawa,45,0,0,0.0,0,25,19,0,0,0.0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,5
+6330,Adnan Januzaj,22,0,0,0.0,0,9,6,1,1,0.36501777,0,0,4,1,0,0,0,0,1,2,0,1,0,0,0,1
+8225,Roman Bürki,90,0,0,0.0,0,31,28,0,0,0.0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+8233,Gonzalo Castro Randon,45,3,0,0.160227261,2,24,21,0,1,0.2032934,2,0,3,1,0,0,1,0,1,1,0,0,1,0,0,9
+8244,Sokratis Papastathopoulos,90,0,0,0.0,0,95,84,0,1,0.027602319,0,0,3,0,0,0,4,0,3,0,3,0,3,0,0,6
+8808,Matthias Ginter,45,1,0,0.07014556,0,33,27,0,0,0.0,0,0,3,0,1,0,0,0,2,0,0,0,0,0,0,5
+8816,Julian Weigl,90,0,0,0.0,0,79,73,0,0,0.0,0,0,6,2,4,2,8,3,4,3,1,1,1,4,1,18
+10287,İlkay Gündoğan,90,4,0,0.248202273,1,100,86,0,1,0.07857255,4,3,10,1,3,0,2,2,12,2,0,1,3,2,2,10
+11458,Marcel Schmelzer,90,2,0,0.061983053,0,86,63,0,1,0.08389871,3,1,9,0,2,1,6,2,3,0,3,0,3,3,0,10

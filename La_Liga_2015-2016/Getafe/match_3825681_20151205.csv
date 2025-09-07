@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6614,Alexis Ruano Delgado,90,1,1,0.070277505,1,32,28,0,0,0.0,0,0,5,0,0,0,2,0,4,1,1,1,1,1,0,1
+6625,Vicente Guaita Panadero,90,0,0,0.0,0,25,12,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+6627,Damián Nicolás Suárez Suárez,90,1,0,0.017604867,0,59,44,0,0,0.0,3,0,2,1,0,0,1,1,5,1,1,1,0,1,1,9
+6720,Pablo Sarabia García,90,2,0,0.09449848899999999,2,45,36,0,0,0.0,3,0,23,4,2,0,2,2,6,5,0,2,0,2,1,21
+6745,Mehdi Lacen,90,0,0,0.0,0,60,56,0,0,0.0,0,0,2,2,0,0,3,2,4,1,1,2,1,3,1,26
+6861,Juan Torres Ruiz,90,0,0,0.0,0,21,15,0,0,0.0,1,1,5,2,0,0,4,1,3,1,3,2,2,1,1,9
+6907,Pedro León Sánchez Gil,29,0,0,0.0,0,14,9,1,2,0.10726602,2,2,2,1,0,0,1,0,0,1,0,1,2,0,0,14
+15893,Víctor Rodríguez Romero,79,0,0,0.0,0,45,42,0,0,0.0,2,1,6,1,2,0,0,0,4,1,0,2,1,0,0,21
+16426,Wanderson Maciel Sousa Campos,61,1,0,0.034723762,0,21,20,0,1,0.017604867,3,3,6,4,0,0,2,0,2,1,1,2,2,1,0,24
+23416,Stefan Šćepović,45,0,0,0.0,0,13,9,0,0,0.0,0,0,3,0,1,0,0,0,0,2,0,1,0,0,0,1
+24035,Álvaro Vázquez García,45,0,0,0.0,0,14,11,0,2,0.07254408400000001,0,0,0,2,0,0,1,0,0,2,0,2,1,0,0,8
+26020,Ángel Lafita Castillo,90,2,0,0.07254408400000001,0,30,22,0,0,0.0,3,2,5,2,4,0,4,0,3,3,0,0,0,0,0,11
+27054,Roberto Lago Soto,90,0,0,0.0,0,47,44,0,0,0.0,1,0,5,2,0,0,4,3,0,1,1,1,1,3,0,16
+27401,Bernard Mensah,11,0,0,0.0,0,15,14,0,0,0.0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,2

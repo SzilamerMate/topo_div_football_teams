@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6561,Luis Hernández Rodríguez,90,0,0,0.0,0,61,54,0,0,0.0,0,0,6,2,0,0,4,1,4,0,5,4,0,1,1,7
+6581,Jonathan Rodríguez Menéndez,65,1,0,0.045846704,0,18,11,0,0,0.0,6,1,3,2,1,1,1,1,1,2,0,0,4,1,1,13
+6610,Iván Cuéllar Sacristán,90,0,0,0.0,0,33,17,0,0,0.0,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0
+6880,Arnaldo Antonio Sanabria Ayala,90,1,0,0.20789348,0,14,12,0,0,0.0,3,2,5,2,0,0,8,0,1,1,0,0,3,1,0,13
+6926,Alen Halilović,90,1,0,0.009701396,0,35,23,0,0,0.0,9,4,10,0,6,0,1,0,4,2,0,0,2,0,0,12
+8818,Jorge Meré Pérez,90,0,0,0.0,0,48,40,0,0,0.0,0,0,3,1,0,0,5,1,3,0,9,1,1,1,1,7
+16332,Ognjen Vranješ,90,0,0,0.0,0,42,34,0,0,0.0,0,0,1,3,1,1,6,4,4,1,5,1,1,6,1,17
+18398,Omar Mascarell González,90,0,0,0.0,0,56,42,0,0,0.0,0,0,3,2,1,0,6,3,4,1,4,0,2,4,2,28
+23994,Alejandro Menéndez Díez,25,0,0,0.0,0,17,11,0,1,0.061521895,1,0,1,0,0,0,3,2,0,0,0,1,1,2,1,7
+24173,Carlos Castro García,25,0,0,0.0,0,3,0,0,0,0.0,1,1,1,0,0,0,4,0,0,2,0,0,0,0,0,1
+24686,Roberto Canella Suárez,76,0,0,0.0,0,43,34,0,0,0.0,0,0,4,1,0,0,2,0,3,0,2,2,1,1,0,9
+25057,Alejandro Barrera García,14,1,0,0.061521895,1,10,8,0,0,0.0,1,1,1,1,0,0,3,3,1,0,0,0,0,3,0,10
+27526,Rachid Aït-Atmane,90,0,0,0.0,0,63,46,0,1,0.20789348,2,1,7,2,3,1,7,4,13,1,2,3,2,5,1,27
+40822,Daniel Arnaud N''Di	,65,1,0,0.030539505,0,22,14,0,1,0.009701396,3,1,4,2,3,0,7,0,3,4,0,0,4,0,0,7

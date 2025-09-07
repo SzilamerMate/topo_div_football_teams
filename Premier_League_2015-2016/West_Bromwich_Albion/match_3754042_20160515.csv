@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3479,Sam Field,5,0,0,0.0,0,2,1,0,0,0.0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,0,0
+3514,James McClean,85,3,0,0.07950126399999999,0,22,10,0,1,0.2599237,3,2,6,1,1,0,7,1,7,2,0,1,1,3,0,37
+3523,Craig Dawson,90,1,0,0.2599237,0,41,29,0,2,0.122818546,1,0,2,1,1,0,4,0,7,0,3,2,2,0,0,9
+3596,Gareth McAuley,90,0,0,0.0,0,22,12,0,0,0.0,0,0,0,1,0,0,6,0,1,0,10,0,1,4,0,7
+3967,Claudio Ariel Yacob,90,1,0,0.01739929,0,38,26,0,0,0.0,1,1,4,1,2,1,8,5,4,1,1,1,0,8,3,38
+4022,Darren Fletcher,90,0,0,0.0,0,32,20,0,1,0.029434314,3,1,3,1,1,1,2,1,7,0,2,0,0,2,0,15
+4041,José Salomón Rondón Giménez,90,7,1,0.623454184,1,18,11,0,1,0.034083907,3,1,2,1,4,1,10,0,12,2,0,2,4,0,0,19
+4053,Ben Foster,90,0,0,0.0,0,20,10,0,0,0.0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0
+4129,Tyler Roberts,19,1,0,0.6280385,0,8,4,0,0,0.0,2,2,1,1,0,0,0,0,6,2,0,0,1,0,0,6
+9485,Craig Gardner,90,0,0,0.0,0,36,24,0,1,0.068982005,3,1,0,1,0,0,8,1,3,0,1,0,2,3,0,20
+9628,James Grant Chester,45,0,0,0.0,0,23,17,0,0,0.0,1,0,0,0,0,0,1,0,5,0,2,0,0,1,0,5
+11012,Jonathan Grant Evans,90,0,0,0.0,0,39,30,0,0,0.0,1,1,4,3,0,0,7,1,2,0,9,3,2,5,0,19
+20527,Jonas Olsson,45,0,0,0.0,0,9,5,0,0,0.0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,2
+22702,Jonathan Leko,71,0,0,0.0,0,18,15,1,1,0.13778277,7,5,10,2,1,0,4,3,7,1,0,0,4,4,3,18

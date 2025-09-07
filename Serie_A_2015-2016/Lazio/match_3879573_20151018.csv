@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3145,Keita Baldé Diao,45,1,0,0.026455345,1,19,14,1,1,0.5613465,4,3,10,2,0,0,2,1,1,0,0,0,0,1,0,9
+5589,Sergej Milinković-Savić,90,4,0,0.162234753,1,48,30,0,0,0.0,0,0,4,4,1,1,6,4,5,2,1,3,1,4,3,26
+7107,Danilo Cataldi,90,1,0,0.016885323,0,51,43,0,1,0.036519613,1,0,9,3,2,1,3,2,10,0,0,1,3,2,0,24
+7776,Antonio Candreva,76,2,0,0.081238339,0,49,30,0,3,0.132506933,2,0,11,0,1,0,1,0,5,3,0,0,1,1,0,10
+7785,Senad Lulić,90,1,0,0.036519613,1,55,44,0,1,0.009602647,3,1,12,2,0,0,3,3,13,1,1,1,1,3,0,13
+8172,Felipe Anderson Pereira Gomes,90,2,1,0.570949147,1,46,28,0,0,0.0,3,0,13,2,3,0,3,2,5,1,0,3,3,3,1,25
+8296,Alessandro Matri,26,0,0,0.0,0,5,3,0,0,0.0,1,1,2,1,0,0,3,0,1,0,0,0,1,0,0,6
+8443,Dušan Basta,90,0,0,0.0,0,68,54,0,0,0.0,2,1,11,2,1,1,4,3,9,1,3,0,3,3,1,19
+8847,Santiago Juan Gentiletti Selak,90,0,0,0.0,0,57,47,0,0,0.0,2,2,15,1,0,0,4,3,10,0,2,1,3,3,2,9
+9939,Maurício dos Santos Nascimento,90,1,0,0.050768808,0,48,41,0,0,0.0,2,1,11,3,1,1,3,0,2,0,8,1,3,1,0,23
+12491,Federico Marchetti,90,0,0,0.0,0,23,17,0,0,0.0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1
+19286,Miroslav Klose,64,0,0,0.0,0,15,8,0,0,0.0,2,1,1,1,0,0,2,0,1,0,1,0,0,0,0,7
+22828,Ricardo Kishna,14,0,0,0.0,0,6,1,0,0,0.0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,4
+33311,Ogenyi Eddy Onazi,45,0,0,0.0,0,41,30,0,0,0.0,0,0,6,2,0,0,6,2,10,1,0,2,2,3,1,14

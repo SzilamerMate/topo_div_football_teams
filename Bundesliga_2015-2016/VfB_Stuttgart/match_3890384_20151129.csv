@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5494,Robbie Kruse,22,0,0,0.0,0,5,2,0,0,0.0,1,1,1,0,1,0,1,0,2,0,0,0,1,0,0,12
+5557,Timo Werner,81,1,0,0.10692147,0,14,9,0,1,0.042349007,3,2,5,1,3,1,1,0,5,2,0,0,3,0,0,20
+5591,Filip Kostić,90,2,0,0.032758504,0,38,22,1,1,0.7130934,4,2,9,2,0,0,3,0,6,7,1,1,3,2,0,19
+8243,Daniel Didavi,90,2,1,0.755442407,2,30,24,0,0,0.0,0,0,1,3,3,0,3,0,4,4,0,1,1,1,0,25
+8270,Daniel Schwaab,90,0,0,0.0,0,31,21,0,0,0.0,2,2,2,1,1,0,0,0,2,0,4,2,1,0,0,20
+8550,Alexandru Iulian Maxim,68,0,0,0.0,0,30,15,0,0,0.0,3,3,5,1,1,0,1,0,7,0,0,1,3,0,0,14
+8956,Timo Baumgartl,90,0,0,0.0,0,23,15,0,0,0.0,0,0,5,0,1,0,1,1,3,0,8,1,5,1,0,8
+8959,Christian Gentner,90,0,0,0.0,0,42,25,0,1,0.02348777,0,0,1,2,0,0,3,0,5,0,3,0,2,0,0,20
+9082,Przemysław Tytoń,90,0,0,0.0,0,24,7,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+9266,Borys Tashchy,9,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,4
+11395,Lukas Rupp,85,3,0,0.07367296400000001,0,27,22,0,0,0.0,2,2,3,1,0,0,3,2,8,0,0,2,3,3,0,45
+12626,Emiliano Adrián Insúa Zapata,90,0,0,0.0,0,35,24,0,0,0.0,1,1,5,2,2,1,4,2,2,0,3,2,2,2,0,13
+28601,Marvin Wanitzek,5,0,0,0.0,0,5,4,0,0,0.0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,2
+40470,Georg Niedermeier,90,0,0,0.0,0,17,10,0,0,0.0,0,0,0,1,0,0,3,1,2,0,5,2,1,2,0,7

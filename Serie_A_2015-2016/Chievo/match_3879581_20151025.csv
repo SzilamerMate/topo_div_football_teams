@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6950,Alberto Paloschi,81,0,0,0.0,0,13,10,0,1,0.0452116,2,0,0,2,1,0,4,0,4,4,1,0,1,0,0,15
+7041,Nicola Rigoni,90,0,0,0.0,0,31,27,0,0,0.0,0,0,3,0,1,0,2,1,7,1,0,1,1,1,1,20
+7043,Roberto Inglese,9,0,0,0.0,0,5,2,0,0,0.0,0,0,0,1,0,0,3,0,1,0,0,0,0,0,0,3
+7045,Valter Birsa,27,0,0,0.0,0,15,12,0,1,0.04513582,3,3,5,0,0,0,0,0,1,0,0,0,0,0,0,8
+7049,Lucas Nahuel Castro,90,2,0,0.36339703,0,37,26,0,0,0.0,3,1,5,2,1,0,4,3,5,0,2,3,5,3,0,29
+7050,Fabrizio Cacciatore,90,0,0,0.0,0,47,33,0,0,0.0,2,0,5,2,0,0,1,0,4,0,5,2,2,0,0,16
+7052,Alessandro Gamberini,90,0,0,0.0,0,34,23,0,0,0.0,0,0,2,0,2,1,1,1,5,1,8,2,2,1,1,6
+7803,Albano Benjamín Bizzarri,90,0,0,0.0,0,35,15,0,0,0.0,0,0,5,0,0,0,0,0,3,0,0,0,0,0,0,0
+8644,Sergio Pellissier,19,1,0,0.04513582,0,3,1,0,1,0.09988753,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,4
+8645,Massimo Gobbi,90,1,0,0.01838584,0,48,33,0,0,0.0,0,0,1,1,1,0,1,0,10,0,5,0,5,0,0,19
+8877,Boštjan Cesar,90,1,0,0.123555966,0,36,28,0,0,0.0,0,0,0,1,2,2,3,1,4,1,5,2,3,2,0,20
+11643,Riccardo Meggiorini,90,1,0,0.0452116,1,22,12,0,0,0.0,0,0,1,9,2,1,6,0,3,1,1,2,3,0,0,25
+40247,Simone Pepe,71,1,0,0.034913093,0,35,23,0,1,0.2635095,1,0,3,0,2,1,1,1,7,2,1,1,1,1,0,17
+386657,Giampiero Pinzi,63,0,0,0.0,0,31,22,0,1,0.034913093,0,0,1,0,1,1,6,4,4,1,1,4,1,6,0,25

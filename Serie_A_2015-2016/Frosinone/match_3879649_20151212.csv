@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7462,Aleandro Rosi,82,0,0,0.0,0,29,25,0,0,0.0,1,0,5,5,0,0,5,0,3,2,2,3,4,2,0,15
+8661,Daniel Pavlovic,90,1,0,0.0061163604,0,58,35,0,3,0.4390933345,1,0,6,1,0,0,4,0,3,0,5,0,2,1,0,13
+9898,Aleksandar Tonev,28,1,0,0.013963698,0,11,9,0,1,0.04065419,3,2,5,0,1,0,0,0,1,2,1,0,0,0,0,3
+11608,Danilo Soddimo,90,3,0,0.0316138215,1,60,43,0,3,0.035242429,4,3,13,0,4,0,6,4,7,2,1,2,2,6,3,21
+13613,Daniel Ciofani,90,2,0,0.355978962,0,16,8,0,1,0.027992006,3,2,1,2,1,0,5,1,2,2,2,0,0,1,1,12
+20636,Mirko Gori,77,0,0,0.0,0,30,20,0,1,0.040639162,0,0,3,2,2,0,2,0,7,0,0,1,2,0,0,34
+20970,Nicolás Ignacio Castillo Mora,13,1,0,0.014955653,0,7,7,0,1,0.013963698,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3
+23349,Paolo Sammarco,90,1,1,0.29901645,1,38,32,0,0,0.0,1,1,4,1,1,0,3,2,9,1,2,0,3,3,0,21
+23470,Luca Paganini,62,0,0,0.0,0,18,9,0,1,0.0061163604,1,0,2,2,4,3,4,2,2,2,0,1,2,2,1,21
+24235,Federico Dionisi,90,5,0,0.10388862500000001,1,19,13,0,0,0.0,3,1,5,3,3,0,6,0,3,4,0,0,1,0,0,17
+30911,Robert Gucher,8,0,0,0.0,0,8,6,0,0,0.0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,5
+32037,Nicola Leali,90,0,0,0.0,0,24,16,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+174418,Modibo Diakité,90,1,0,0.1176299,0,42,27,0,0,0.0,0,0,7,0,1,1,1,1,6,0,10,0,0,1,0,9
+387847,Leonardo Blanchard,90,0,0,0.0,0,37,25,0,0,0.0,0,0,8,0,0,0,2,0,0,0,5,0,2,0,0,6

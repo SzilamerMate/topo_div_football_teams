@@ -1,0 +1,13 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5557,Timo Werner,90,1,0,0.019487798,0,17,8,0,0,0.0,0,0,6,0,3,0,5,1,5,1,0,1,1,2,0,30
+5591,Filip Kostić,90,0,0,0.0,0,32,13,0,4,0.299508884,3,2,6,1,4,1,1,1,5,2,1,0,3,1,0,37
+8243,Daniel Didavi,90,4,1,0.8237376160000001,2,22,14,0,0,0.0,0,0,1,1,3,2,1,1,4,1,0,1,3,1,1,32
+8270,Daniel Schwaab,90,0,0,0.0,0,20,12,0,0,0.0,0,0,2,1,0,0,4,1,0,0,2,1,2,2,1,17
+9082,Przemysław Tytoń,90,0,0,0.0,0,36,15,0,0,0.0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0
+9266,Borys Tashchy,16,0,0,0.0,0,9,7,0,0,0.0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,10
+9728,Florian Klein,90,2,0,0.045715937,0,32,17,0,1,0.021698123,1,1,3,3,1,1,5,1,7,0,0,2,4,5,1,36
+11395,Lukas Rupp,74,0,0,0.0,0,16,14,0,0,0.0,4,4,3,1,0,0,5,3,2,0,2,0,1,4,0,27
+12626,Emiliano Adrián Insúa Zapata,90,0,0,0.0,0,17,14,0,0,0.0,0,0,1,1,2,0,3,2,2,0,3,1,2,2,1,18
+27639,Artem Kravets,90,1,0,0.021698123,0,16,8,0,0,0.0,1,0,4,3,1,0,11,0,2,3,0,0,1,1,0,37
+38172,Toni Šunjić,90,0,0,0.0,0,19,15,0,0,0.0,1,1,1,0,0,0,8,4,4,0,2,0,3,6,2,21
+40470,Georg Niedermeier,90,1,0,0.06375006,0,11,7,0,0,0.0,0,0,0,0,1,1,7,0,1,0,3,4,1,2,0,9

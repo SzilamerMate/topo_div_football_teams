@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3416,Gabriel Moisés Antunes da Silva,90,1,0,0.010769921,0,45,31,0,0,0.0,2,1,6,1,1,0,2,1,7,1,1,2,1,1,0,11
+5554,Blerim Džemaili,80,1,0,0.027358428,0,42,34,0,1,0.024196113,0,0,6,2,0,0,5,2,5,2,3,1,0,4,0,23
+6894,Ezequiel Muñoz,90,0,0,0.0,0,49,39,0,0,0.0,0,0,4,4,3,0,4,2,5,0,7,1,3,3,2,23
+7022,Jesús Joaquín Fernández Sáez de la Torre,37,0,0,0.0,0,12,8,0,0,0.0,1,1,2,1,1,0,0,0,3,1,0,1,0,0,0,5
+7148,Mattia Perin,90,0,0,0.0,0,33,20,0,0,0.0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+7176,Sebastian De Maio,90,0,0,0.0,0,53,40,0,0,0.0,0,0,9,3,0,0,8,5,5,1,6,1,4,6,2,14
+7461,Luca Rigoni,90,0,0,0.0,0,44,37,0,1,0.028659904,0,0,1,5,0,0,4,0,3,0,2,2,1,1,0,23
+7464,Cristian Daniel Ansaldi,90,1,0,0.006922334,0,50,37,0,1,0.010769921,3,1,5,1,2,0,5,0,3,2,1,1,2,2,0,27
+7702,Alessio Cerci,53,1,0,0.02589792,1,22,18,0,0,0.0,4,1,6,0,3,2,2,0,3,3,0,0,0,0,0,18
+7852,Tim Matavž,10,0,0,0.0,0,4,2,0,0,0.0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,1
+8180,Leonardo Pavoletti,90,1,0,0.024196113,1,25,15,0,1,0.02589792,1,1,2,8,0,0,10,1,5,2,1,0,3,1,0,18
+9940,Armando Izzo,90,0,0,0.0,0,50,41,0,0,0.0,0,0,3,3,3,1,5,1,4,1,6,1,1,2,1,12
+10530,Jules Olivier Ntcham,57,2,0,0.14715244,0,25,21,0,2,0.034280762,2,2,6,1,0,0,0,0,3,1,0,0,0,0,0,21
+24683,Diego Ángel Capel Trinidad,33,0,0,0.0,0,13,10,0,0,0.0,1,0,2,2,1,0,1,0,6,2,0,1,0,0,0,9

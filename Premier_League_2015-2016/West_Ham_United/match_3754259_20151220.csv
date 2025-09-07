@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3062,Aaron Cresswell,90,0,0,0.0,0,44,24,0,1,0.028657885,1,0,5,1,0,0,5,1,4,0,4,0,3,1,0,13
+3316,James Tomkins,90,1,0,0.07773302,0,32,23,0,0,0.0,0,0,1,0,0,0,4,0,6,0,7,1,3,2,0,13
+3349,Michail Antonio,84,1,0,0.024128826,0,22,12,0,0,0.0,2,0,10,4,1,1,4,3,5,3,3,1,7,3,1,18
+3482,James Collins,90,3,0,0.17203677700000003,0,12,6,0,0,0.0,0,0,0,1,0,0,2,0,1,0,11,2,6,0,0,2
+3623,Adrián San Miguel del Castillo,90,0,0,0.0,0,35,21,0,0,0.0,0,0,4,0,0,0,0,0,7,0,0,0,0,0,0,0
+3684,Cheikhou Kouyaté,90,0,0,0.0,0,19,15,0,0,0.0,1,0,4,1,0,0,2,0,5,0,2,2,3,0,0,19
+3843,Angelo Obinze Ogbonna,90,1,0,0.026919754,0,12,6,0,0,0.0,0,0,1,1,1,1,4,2,1,0,7,1,3,2,1,8
+3874,Mark Noble,90,1,0,0.057022456,0,38,32,0,0,0.0,2,1,2,0,2,1,1,0,6,1,1,1,1,0,0,6
+3897,Pedro Mba Obiang Avomo,18,0,0,0.0,0,6,4,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,6
+20543,Nikica Jelavić,90,0,0,0.0,0,13,8,0,2,0.08115128199999999,2,1,3,2,1,1,11,0,5,1,3,0,3,0,0,15
+21254,Carl Jenkinson,6,0,0,0.0,0,2,1,0,0,0.0,1,1,1,0,0,0,1,0,0,0,0,0,2,1,0,2
+27053,Alexandre Dimitri Song-Billong,72,0,0,0.0,0,24,20,0,2,0.018894142000000003,1,1,9,0,1,0,1,0,10,0,0,0,2,1,0,19
+27853,Mauro Matías Zárate,59,2,0,0.018894142000000003,2,20,10,0,1,0.0336885,3,1,6,0,0,0,0,0,2,2,1,0,1,0,0,4
+28559,Enner Remberto Valencia Lastra,31,2,0,0.051425855,1,11,8,0,1,0.076704904,1,1,3,0,0,0,1,0,3,0,0,0,3,0,0,5

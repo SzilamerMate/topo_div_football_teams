@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3167,Antonio Rüdiger,90,0,0,0.0,0,37,28,0,0,0.0,0,0,6,0,0,0,2,0,4,0,7,0,3,1,0,5
+3531,Mohamed Salah,57,1,0,0.028355725,0,26,24,0,2,0.016691864,2,0,4,0,0,0,1,0,2,1,0,0,2,0,0,8
+5669,Wojciech Szczęsny,90,0,0,0.0,0,37,22,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0
+6849,Lucas Digne,90,1,0,0.06153917,0,41,21,0,0,0.0,1,0,3,4,0,0,3,0,6,1,2,1,0,0,0,14
+6962,Radja Nainggolan,90,3,0,0.0291175077,0,34,22,1,1,0.2790901,2,1,8,1,2,0,4,1,11,4,1,1,2,3,1,20
+6964,Alessandro Florenzi,33,0,0,0.0,0,9,5,0,0,0.0,1,0,3,0,0,0,4,1,1,2,0,2,2,1,0,7
+6973,Edin Džeko,90,4,1,1.733572659,1,34,18,0,0,0.0,0,0,4,2,3,0,16,1,2,6,1,0,1,2,1,28
+7048,Konstantinos Manolas,90,0,0,0.0,0,34,25,0,0,0.0,0,0,7,2,1,1,5,1,3,1,8,0,1,4,0,10
+7468,Iago Falqué Silva,90,1,0,0.016236594,0,38,31,0,0,0.0,1,0,6,1,0,0,1,0,8,4,0,1,1,0,0,30
+8104,Vassilis Torosidis,90,0,0,0.0,0,41,33,0,1,0.23619018,0,0,4,6,3,0,1,0,1,1,3,1,3,1,0,14
+15818,Gervais Lombe Yao Kouassi,80,2,1,0.51528028,1,16,14,0,1,0.061917685,2,2,13,1,2,1,4,0,3,0,0,0,3,1,0,14
+20169,Seydou Kéita,18,1,0,0.20461722,0,4,3,0,0,0.0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,1
+23241,William Vainqueur,72,1,0,0.034793384,0,36,33,0,0,0.0,2,1,5,2,0,0,4,1,4,0,4,2,1,2,1,14
+27949,Juan Manuel Iturbe Arévalo,10,0,0,0.0,0,1,1,0,0,0.0,3,2,3,0,1,0,1,1,0,0,0,0,1,1,1,2

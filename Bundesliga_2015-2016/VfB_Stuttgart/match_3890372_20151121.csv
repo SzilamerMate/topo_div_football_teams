@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5557,Timo Werner,90,2,0,0.10717904,0,37,26,0,1,0.03872899,1,0,3,0,1,0,8,1,3,2,0,0,2,1,0,12
+5591,Filip Kostić,86,1,0,0.02924288,1,58,39,0,2,0.117381658,1,1,11,0,2,0,5,1,5,4,0,1,5,2,1,23
+8243,Daniel Didavi,90,6,0,0.31123577799999996,2,46,41,0,2,0.12796206,3,2,8,0,2,0,6,1,5,2,1,0,0,2,1,20
+8270,Daniel Schwaab,90,0,0,0.0,0,70,58,0,0,0.0,0,0,6,1,1,0,6,1,3,0,5,0,2,1,1,5
+8956,Timo Baumgartl,90,1,0,0.07789499,0,51,41,0,0,0.0,0,0,6,2,1,1,6,1,3,0,4,0,4,3,0,17
+8959,Christian Gentner,90,3,0,0.18217377,1,79,63,0,1,0.022438752,2,2,7,1,5,0,4,1,5,1,0,1,0,2,0,15
+9262,Philip Heise,4,0,0,0.0,0,8,4,0,0,0.0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+9728,Florian Klein,90,1,0,0.022438752,0,58,48,0,1,0.03753763,0,0,6,0,2,0,6,1,6,3,0,1,3,1,1,11
+10332,Odisseas Vlachodimos,90,0,0,0.0,0,28,17,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+11395,Lukas Rupp,31,0,0,0.0,0,27,25,0,1,0.01398049,0,0,2,0,0,0,1,1,0,0,0,0,0,1,0,9
+12626,Emiliano Adrián Insúa Zapata,90,3,0,0.090884583,1,72,53,0,2,0.134346404,1,1,11,3,0,0,5,2,6,1,1,2,3,2,0,15
+34558,Sereso Geoffroy Gonzaroua Dié,59,0,0,0.0,0,41,31,0,0,0.0,0,0,1,1,0,0,1,0,3,1,0,0,1,1,0,9
+35496,Jan Kliment,64,0,0,0.0,0,20,15,0,1,0.064758636,4,1,4,1,0,0,4,2,2,3,0,0,0,2,1,16
+38172,Toni Šunjić,26,1,0,0.061178558,0,9,7,0,0,0.0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1

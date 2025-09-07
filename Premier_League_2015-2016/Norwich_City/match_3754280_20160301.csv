@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3286,Nathan Redmond,90,3,1,0.193122733,1,41,31,0,1,0.044460665,9,5,15,2,1,0,2,1,11,3,0,1,4,1,1,20
+4807,Cameron Jerome,90,5,0,0.762606125,1,28,18,0,0,0.0,3,0,3,4,1,1,1,0,1,2,0,0,2,0,0,8
+9452,Gary O''Neil,55,1,0,0.024063457,0,40,31,0,1,0.11456732,0,0,5,1,0,0,0,0,4,0,0,2,1,0,0,6
+9461,Timm Klose,90,1,0,0.033219136,0,37,30,0,0,0.0,0,0,6,1,0,0,4,1,1,0,4,1,3,2,0,11
+9463,Alexander Banor Tettey,35,0,0,0.0,0,22,17,0,0,0.0,1,1,7,0,0,0,1,1,2,0,0,0,0,1,1,4
+9578,Jonathan Howson,90,2,0,0.052242792200000006,0,48,38,0,0,0.0,2,2,7,1,2,0,4,2,6,0,4,2,1,3,1,16
+9930,Ryan Bennett,59,0,0,0.0,0,33,28,0,0,0.0,0,0,4,2,0,0,0,0,0,0,0,2,1,0,0,6
+10499,Ivo Daniel Ferreira Mendonca Pinto,90,0,0,0.0,0,55,45,0,0,0.0,1,1,9,2,0,0,2,1,6,0,1,0,1,1,0,13
+10966,Wes Hoolahan,90,0,0,0.0,0,77,58,1,4,0.237524997,2,2,17,1,3,0,5,2,5,7,0,1,2,5,1,13
+10967,Robert Brady,90,1,0,0.01684013,0,53,39,0,2,0.1324658372,2,0,9,1,0,0,1,0,5,2,2,1,1,1,0,9
+21212,Russell Martin,90,0,0,0.0,0,41,29,0,1,0.30842608,0,0,2,1,0,0,3,0,0,0,5,1,3,1,0,5
+23635,John Ruddy,90,0,0,0.0,0,32,21,0,0,0.0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+23663,Dieumerci Mbokani Bezua,31,0,0,0.0,0,8,5,0,1,0.033219136,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,1

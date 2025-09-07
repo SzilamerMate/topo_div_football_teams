@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2955,Ronny Rodelin,90,3,0,0.223273172,1,30,17,0,0,0.0,1,0,2,0,0,0,3,0,7,2,1,1,0,2,0,11
+2959,Julien Féret,90,1,1,0.69824195,1,42,29,0,1,0.3138733,1,1,6,2,2,0,2,0,4,0,2,1,5,0,0,16
+2963,Rémy Vercoutre,90,0,0,0.0,0,23,11,0,0,0.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+2992,Vincent Bessat,90,1,0,0.07287923,0,38,23,0,2,0.13262849,1,1,9,2,0,0,1,0,5,0,0,1,1,0,0,7
+3038,Andy Delort,90,3,0,0.165068787,1,28,16,1,2,0.77112118,3,2,7,6,3,1,5,1,8,3,0,3,0,1,0,16
+4386,Damien Da Silva,90,1,0,0.3138733,0,34,30,0,0,0.0,1,1,7,0,2,2,6,2,5,0,4,4,1,4,1,13
+7344,Jordan Adéoti,89,0,0,0.0,0,27,24,0,0,0.0,2,2,5,0,0,0,1,1,6,2,1,2,2,1,1,22
+7444,Alaeddine Yahia,90,1,0,0.05903394,0,26,17,0,1,0.031695295,0,0,2,2,3,2,4,2,2,0,8,1,3,3,0,8
+7726,Jeff Louis,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+13592,Alexandre Raineau,45,0,0,0.0,0,16,13,0,0,0.0,1,0,1,1,1,1,4,1,1,0,3,0,0,1,0,6
+22111,Dennis Appiah,90,0,0,0.0,0,46,23,0,1,0.108847365,4,1,4,3,1,0,1,0,5,1,4,1,3,1,0,21
+40698,Nicolas Seube,90,1,0,0.022857478,0,25,20,0,0,0.0,0,0,2,0,0,0,5,2,5,0,1,0,3,2,0,19
+40701,Jordan Leborgne,45,0,0,0.0,0,16,13,0,0,0.0,0,0,1,2,0,0,2,0,1,0,3,0,1,0,0,8

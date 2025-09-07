@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3379,Alphonse Areola,90,0,0,0.0,0,25,19,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,0
+6357,Jonathan dos Santos Ramírez,65,2,0,0.060421184,1,29,18,0,0,0.0,1,1,6,3,1,0,2,1,4,0,0,0,2,1,1,11
+6609,Denis Suárez Fernández,90,3,0,0.087516832,1,36,23,0,0,0.0,4,2,14,2,4,1,4,2,8,0,1,1,1,4,1,15
+6622,Tomás Pina Isla,17,0,0,0.0,0,7,6,0,0,0.0,0,0,2,3,1,0,0,0,3,0,0,0,1,0,0,3
+6752,Víctor Ruíz Torre,90,0,0,0.0,0,47,43,0,0,0.0,0,0,14,2,0,0,2,0,3,0,3,3,3,0,0,6
+6761,Leonardo Carrilho Baptistão,12,0,0,0.0,0,7,3,0,0,0.0,2,0,1,1,1,1,1,0,1,1,0,0,0,0,0,5
+6771,Manuel Trigueros Muñoz,73,0,0,0.0,0,37,30,0,1,0.026293095,2,1,6,3,1,1,2,1,4,0,2,2,6,1,1,10
+6772,Mario Gaspar Pérez Martínez,90,0,0,0.0,0,59,50,0,0,0.0,2,1,9,1,1,0,1,1,2,0,3,0,0,1,0,4
+6862,Cédric Bakambu,78,0,0,0.0,0,22,17,0,1,0.02196179,2,2,5,1,2,1,1,0,5,0,0,1,2,0,0,22
+6935,Adrián Marín Gómez,90,0,0,0.0,0,54,42,0,1,0.016733332,1,1,7,1,0,0,4,2,4,0,3,4,2,3,0,9
+7034,Mateo Pablo Musacchio,90,0,0,0.0,0,48,43,0,0,0.0,1,0,8,0,4,3,6,0,4,0,6,1,2,1,0,5
+18867,Matías Nahuel Leiva Esquivel,25,0,0,0.0,0,9,5,0,0,0.0,1,0,2,0,0,0,1,0,3,1,0,3,0,0,0,2
+22819,Bruno Soriano Llido,90,3,1,0.184297995,1,55,46,0,1,0.038459394,2,1,5,3,3,0,7,2,2,0,2,1,0,3,1,23
+26009,Roberto Soldado Rillo,90,1,0,0.016733332,0,27,21,0,0,0.0,2,1,3,4,2,0,5,2,2,0,0,0,1,3,1,14

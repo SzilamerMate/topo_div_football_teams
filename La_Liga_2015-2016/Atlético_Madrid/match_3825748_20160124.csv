@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5199,Jorge Resurrección Merodio,90,1,0,0.029700108,0,73,59,0,1,0.086564064,0,0,4,0,2,2,7,5,5,1,1,1,0,6,0,16
+5249,Diego Roberto Godín Leal,90,0,0,0.0,0,43,38,0,1,0.14193808,0,0,7,1,3,3,3,1,5,0,5,0,0,1,1,6
+5487,Antoine Griezmann,90,6,0,0.641755264,0,43,33,0,1,0.04208864,2,1,7,1,2,0,4,0,6,2,1,0,1,0,0,10
+5633,Yannick Ferreira Carrasco,45,4,0,0.306478115,1,34,26,0,1,0.046294995,9,6,16,3,1,0,0,0,3,0,1,0,0,0,0,3
+6320,Filipe Luís Kasmirski,90,0,0,0.0,0,73,57,0,1,0.045393206,6,3,19,0,2,0,6,1,6,1,4,1,2,2,0,9
+6375,Juan Francisco Torres Belén,90,0,0,0.0,0,67,51,0,3,0.245121898,2,2,10,2,1,0,3,2,9,4,0,0,3,2,0,6
+6376,Stefan Savić,90,0,0,0.0,0,45,37,0,0,0.0,0,0,1,0,0,0,4,1,8,0,14,1,1,1,0,4
+6377,Ángel Martín Correa,11,0,0,0.0,0,5,3,0,2,0.18945586,1,0,2,1,0,0,1,0,1,1,0,0,0,0,0,4
+6378,Jan Oblak,90,0,0,0.0,0,18,12,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+6381,Saúl Ñíguez Esclapez,75,4,0,0.0917073404,1,47,42,0,0,0.0,1,1,10,1,0,0,4,0,2,1,5,1,5,1,0,11
+6384,Gabriel Fernández Arenas,90,5,0,0.14461981249999997,1,91,71,0,1,0.1587695,1,1,13,1,1,0,9,4,10,0,0,0,1,4,2,14
+6744,Luciano Vietto,79,1,0,0.046294995,0,27,24,0,2,0.0181831074,5,4,8,3,2,0,5,0,5,2,1,0,2,0,0,9
+17622,Jackson Arley Martínez Valencia,15,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+19668,Augusto Matías Fernández,45,0,0,0.0,0,30,23,0,0,0.0,0,0,4,1,1,0,8,3,1,0,0,2,2,4,1,13

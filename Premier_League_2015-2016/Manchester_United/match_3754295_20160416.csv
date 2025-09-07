@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2988,Memphis Depay,90,4,0,0.345802259,0,60,47,0,1,0.07614128,1,1,16,0,3,0,4,2,3,4,0,0,3,2,0,14
+3267,Luis Antonio Valencia Mosquera,90,0,0,0.0,0,75,65,1,1,0.21557319,0,0,12,1,1,0,4,1,3,0,0,0,1,2,0,14
+3293,Jesse Lingard,24,0,0,0.0,0,16,13,0,0,0.0,0,0,1,1,0,0,0,0,2,0,0,0,0,0,0,5
+3294,Juan Manuel Mata García,89,3,0,0.162469446,1,64,55,0,3,0.374485587,1,1,9,0,0,0,2,1,4,2,0,0,0,1,0,7
+3296,Marouane Fellaini-Bakkioui,90,1,0,0.09494225,0,64,56,0,0,0.0,0,0,13,3,1,0,4,2,12,4,3,1,1,2,1,25
+3311,Daley Blind,90,0,0,0.0,0,89,78,0,4,0.255044106,0,0,20,1,0,0,3,0,11,0,3,2,1,1,0,12
+3318,Marcus Rashford,75,2,1,0.50025087,1,17,10,0,1,0.0821064,2,1,2,0,1,0,1,1,3,1,1,0,0,1,1,15
+3333,David de Gea Quintana,90,0,0,0.0,0,20,12,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+3465,Timothy Evans Fosu-Mensah,1,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3538,Wayne Mark Rooney,66,1,0,0.024919877,1,44,34,0,0,0.0,2,2,7,0,2,1,3,3,4,0,0,0,0,3,1,11
+3600,Morgan Schneiderlin,90,0,0,0.0,0,59,54,0,0,0.0,0,0,5,2,0,0,2,2,3,2,3,2,1,2,0,25
+3602,Faustino Marcos Alberto Rojo,90,2,0,0.14102931000000002,0,62,50,0,1,0.022710025,0,0,6,1,0,0,7,2,5,1,2,0,1,5,2,22
+10958,Chris Smalling,90,1,0,0.07973881,0,50,43,0,0,0.0,0,0,6,0,0,0,4,1,1,0,1,0,1,1,0,8
+20039,Anthony Martial,15,0,0,0.0,0,9,7,0,1,0.2906161,2,2,5,0,2,0,0,0,1,2,0,0,0,0,0,3

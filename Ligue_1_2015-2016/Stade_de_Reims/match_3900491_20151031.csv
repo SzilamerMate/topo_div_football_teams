@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3248,Hamari Traoré,90,0,0,0.0,0,33,26,0,0,0.0,0,0,3,1,1,0,3,1,3,0,2,4,2,2,0,18
+3980,Johny Placide,90,0,0,0.0,0,37,14,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,1
+4383,Nicolas de Roussel de Préville,90,1,0,0.0878634,1,25,12,0,2,0.054764400000000005,1,0,14,2,5,2,7,2,7,7,0,1,3,2,1,18
+4545,Prince Oniangué,90,1,0,0.30103976,1,31,26,0,0,0.0,0,0,5,0,2,1,1,0,1,1,2,1,2,0,0,6
+7363,Diego Rigonato Rodrigues,18,0,0,0.0,0,8,4,0,0,0.0,1,1,2,0,1,1,1,1,0,1,0,0,1,1,0,3
+7367,Grejohn Kyei,24,0,0,0.0,0,7,6,0,0,0.0,2,2,2,1,0,0,5,0,0,3,0,0,0,1,0,3
+7375,Theoson Jordan Siebatcheu,72,1,0,0.04233213,0,16,10,0,0,0.0,1,0,1,0,0,0,18,1,5,3,0,1,4,2,1,14
+7435,Anthony Weber,90,1,0,0.079737894,0,30,25,0,0,0.0,0,0,4,2,1,1,2,0,3,0,8,1,5,0,0,7
+7498,Mickaël Tacalfred,90,1,0,0.040503744,0,26,21,0,0,0.0,0,0,4,3,0,0,4,2,7,1,5,1,1,2,1,14
+7815,Antoine Devaux,90,1,0,0.010679486,1,31,28,0,2,0.090165572,2,1,4,0,1,0,6,2,7,2,1,1,5,4,1,9
+7817,Frédéric Bulot,80,2,0,0.054512592,1,38,23,0,2,0.082835874,1,0,10,0,0,0,3,2,8,2,2,0,1,2,1,8
+40521,Franck Signorino,90,0,0,0.0,0,45,31,0,0,0.0,0,0,3,0,1,1,5,1,7,2,8,1,6,4,0,17
+95699,Alexi Peuget,66,0,0,0.0,0,34,23,0,0,0.0,0,0,1,1,1,0,2,1,1,0,2,2,3,1,0,10
+401488,Odaïr Junior Lopes Fortes,10,0,0,0.0,0,3,3,0,2,0.38890315999999997,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,1

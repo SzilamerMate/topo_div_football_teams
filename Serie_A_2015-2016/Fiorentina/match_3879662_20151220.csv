@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3112,Anton Ciprian Tătărușanu,90,0,0,0.0,0,44,28,0,0,0.0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0
+3964,Marcos Alonso Mendoza,90,2,0,0.070428556,0,68,55,0,2,0.047017239,3,2,11,1,0,0,3,0,2,2,3,0,5,0,0,16
+5255,Matías Vecino Falero,90,2,0,0.057192547,1,78,72,0,4,0.09074153,2,2,15,3,1,0,7,3,6,1,0,2,2,6,1,22
+6305,Milan Badelj,90,0,0,0.0,0,101,93,0,2,0.041902115,2,1,8,3,0,0,1,1,7,1,0,3,4,1,0,17
+6830,Facundo Sebastián Roncaglia,90,1,0,0.00615154,0,96,88,0,0,0.0,1,1,5,1,0,0,2,1,8,0,3,2,4,1,0,11
+6997,Borja Valero Iglesias,80,1,0,0.023247916,1,48,40,0,0,0.0,2,2,6,1,3,1,5,1,5,3,0,0,1,2,0,19
+7033,Nikola Kalinić,90,2,1,0.30905680999999996,2,20,17,0,0,0.0,0,0,3,2,2,2,1,0,2,2,0,1,0,0,0,11
+7139,Josip Iličić,57,3,1,0.073035516,2,34,29,0,2,0.10090191700000001,0,0,7,0,1,0,2,0,2,2,0,0,1,0,0,7
+7777,Federico Bernardeschi,90,1,0,0.027004419,1,52,48,2,3,0.33490061299999996,5,2,10,3,2,0,1,1,5,2,1,0,3,1,0,13
+8275,Davide Astori,90,0,0,0.0,0,81,73,0,0,0.0,2,2,4,4,1,0,1,0,2,0,5,2,2,1,0,9
+23488,Mario Suárez Mata,10,1,0,0.023948628,1,14,14,0,0,0.0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,0,5
+25931,Gonzalo Javier Rodríguez,90,0,0,0.0,0,94,84,0,0,0.0,0,0,5,0,1,1,6,3,5,0,6,0,4,3,1,7
+26192,Matías Ariel Fernández Fernández,33,1,0,0.035750575,0,24,21,0,0,0.0,0,0,6,0,2,0,2,1,4,0,0,0,0,1,0,7

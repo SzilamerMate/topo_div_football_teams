@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3486,Fernando Llorente Torres,19,0,0,0.0,0,10,7,0,0,0.0,0,0,1,1,1,0,0,0,2,1,0,0,0,0,0,10
+3497,Vicente Iborra De La Fuente,69,2,1,0.249345714,1,21,9,0,1,0.18512167,0,0,1,4,2,0,3,0,1,1,0,0,1,0,0,9
+3637,Grzegorz Krychowiak,90,1,0,0.11998888,0,44,36,0,1,0.036990445,1,0,5,1,1,0,4,2,9,0,4,3,3,3,1,18
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,90,1,0,0.025310352,1,32,26,0,0,0.0,0,0,3,1,0,0,4,3,6,0,3,0,5,3,3,16
+6356,Michael Krohn-Dehli,90,3,1,0.436576695,1,48,37,1,5,0.552400694,0,0,4,4,2,1,3,2,2,0,0,3,1,2,1,22
+6401,Kevin Gameiro,71,3,0,0.279747976,2,21,15,1,3,0.424936804,4,4,7,0,1,1,5,0,6,2,1,0,0,0,0,16
+6672,Jorge Andújar Moreno,90,1,0,0.033353202,0,33,24,0,0,0.0,1,1,9,3,5,2,4,3,3,1,4,3,5,3,1,26
+6823,Sergio Rico González,90,0,0,0.0,0,31,21,0,0,0.0,0,0,1,0,0,0,0,0,7,0,0,0,1,0,0,0
+6841,Víctor Machín Pérez,90,0,0,0.0,0,27,21,0,1,0.076630354,1,0,7,2,2,0,2,2,5,3,1,1,4,2,2,31
+7948,Marco Andreolli,90,1,0,0.1570675,0,16,11,0,0,0.0,0,0,2,1,0,0,2,0,1,0,5,0,5,0,0,10
+10476,Timothée Kolodziejczak,90,0,0,0.0,0,22,14,0,0,0.0,0,0,5,3,1,1,4,0,2,0,5,1,2,2,0,15
+21210,Mariano Ferreira Filho,2,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+23816,José Antonio Reyes Calderón,21,0,0,0.0,0,6,2,0,0,0.0,0,0,1,0,0,0,0,0,1,0,1,0,2,0,0,10
+27483,Benoît Trémoulinas,88,0,0,0.0,0,29,17,0,0,0.0,0,0,4,2,2,1,2,0,2,0,0,1,2,0,0,11

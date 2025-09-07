@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3037,Mousa Sidi Yaya Dembélé,10,0,0,0.0,0,9,8,0,1,0.07296237,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0,1
+3043,Christian Dannemann Eriksen,90,7,2,0.2671703355,4,55,40,0,2,0.113497222,2,1,8,0,0,0,8,4,5,1,1,0,3,4,3,12
+3077,Jan Vertonghen,90,0,0,0.0,0,58,51,0,1,0.1019386,1,1,8,2,1,0,8,2,4,1,3,0,1,3,1,10
+3086,Ben Davies,90,0,0,0.0,0,55,44,0,3,0.267910843,1,0,7,1,1,1,4,1,4,0,2,2,1,2,0,14
+3094,Bamidele Alli,90,1,0,0.03298261,1,42,34,0,3,0.097166568,6,2,13,4,4,1,4,2,8,3,1,4,2,2,2,22
+3099,Hugo Lloris,90,0,0,0.0,0,31,26,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+3205,Kyle Walker,90,0,0,0.0,0,52,40,0,0,0.0,1,0,5,3,1,0,6,4,7,0,1,0,1,6,2,15
+3297,Andros Townsend,34,5,0,0.282907125,2,20,13,0,0,0.0,2,2,16,0,0,0,2,1,3,1,0,0,1,1,1,7
+3534,Clinton Mua N''Jie,27,2,0,0.065455186,0,9,5,0,1,0.044581052,2,1,3,1,0,0,0,0,1,1,0,0,0,0,0,2
+3585,Erik Lamela,56,0,0,0.0,0,30,23,0,3,0.23231776999999998,2,2,8,2,2,0,0,0,4,2,1,0,2,0,0,11
+4831,Nacer Chadli,63,2,0,0.108056314,2,19,14,0,1,0.031658754,0,0,9,1,0,0,1,0,3,1,2,0,1,0,0,10
+10955,Harry Kane,80,3,0,0.332376124,2,25,22,0,2,0.06390422600000001,2,1,7,1,1,1,4,0,4,1,1,0,0,0,0,8
+10956,Eric Dier,90,0,0,0.0,0,55,50,0,0,0.0,0,0,10,4,0,0,2,0,4,1,1,1,1,1,0,15
+20005,Toby Alderweireld,90,1,0,0.06965841,0,65,59,0,0,0.0,0,0,9,0,0,0,2,0,5,0,10,1,2,0,0,3

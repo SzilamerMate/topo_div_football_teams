@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6334,Luis Fernando Muriel Fruto,90,3,1,0.348240952,2,38,21,1,3,0.208428475,5,2,6,3,1,1,7,0,4,3,0,0,0,2,0,24
+6759,Roberto Soriano,90,2,1,0.122125715,1,47,35,0,0,0.0,1,0,19,1,6,0,4,3,4,1,0,1,2,3,2,16
+6822,Carlos Joaquín Correa,78,2,0,0.105838665,1,39,33,0,2,0.050916963999999995,2,1,6,2,4,0,4,0,1,2,0,0,0,0,0,18
+7011,Fabio Quagliarella,12,0,0,0.0,0,8,4,0,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+7018,Emiliano Viviano,90,0,0,0.0,0,35,24,0,0,0.0,0,0,6,0,1,0,0,0,7,0,0,0,0,0,0,1
+7020,Jacopo Sala,24,0,0,0.0,0,14,11,0,0,0.0,1,1,2,0,0,0,2,2,2,0,0,0,2,2,1,5
+7962,Andrea Ranocchia,90,0,0,0.0,0,30,26,0,0,0.0,0,0,2,4,1,1,1,0,3,0,6,0,4,0,0,12
+9884,Niklas Moisander,90,0,0,0.0,0,47,44,0,0,0.0,0,0,6,0,2,2,2,1,0,0,5,3,2,1,0,12
+15318,Lazaros Christodoulopoulos,45,1,0,0.061309736,0,13,9,0,0,0.0,1,0,5,1,1,0,1,0,2,0,0,1,0,1,0,6
+25505,José Rodolfo Pires Ribeiro,90,0,0,0.0,0,40,29,1,1,0.3043585,0,0,2,0,1,0,6,3,9,1,0,2,5,4,0,14
+36364,Dávid Ivan,90,1,0,0.03188857,0,58,49,0,0,0.0,1,0,8,0,4,1,5,4,1,0,4,4,3,5,3,22
+40429,Angelo Palombo,90,0,0,0.0,0,40,31,0,0,0.0,1,0,6,0,1,1,0,0,6,1,2,2,1,0,0,21
+174418,Modibo Diakité,21,0,0,0.0,0,10,7,0,0,0.0,0,0,2,1,0,0,0,0,1,1,0,0,0,0,0,2
+387417,Mattia Cassani,90,0,0,0.0,0,38,26,0,0,0.0,0,0,7,3,1,1,0,0,4,0,4,3,1,0,0,8

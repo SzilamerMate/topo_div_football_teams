@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6561,Luis Hernández Rodríguez,90,0,0,0.0,0,37,31,0,0,0.0,0,0,2,0,0,0,4,0,5,0,6,5,2,2,0,4
+6581,Jonathan Rodríguez Menéndez,90,1,0,0.003810785,0,45,28,1,3,0.635333895,4,1,13,0,4,2,4,1,9,1,0,1,1,3,1,17
+6602,Miguel Ángel Guerrero Martín,69,3,1,0.69605582,2,15,8,0,0,0.0,3,2,2,3,2,2,4,0,1,2,2,0,1,0,0,12
+6610,Iván Cuéllar Sacristán,90,0,0,0.0,0,29,12,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0
+6926,Alen Halilović,82,3,1,0.6149145949999999,1,23,18,0,0,0.0,3,2,8,1,1,0,1,1,6,2,0,0,1,1,1,13
+8818,Jorge Meré Pérez,90,0,0,0.0,0,27,22,0,0,0.0,1,1,1,1,0,0,5,1,2,0,9,1,1,4,1,12
+13107,Sergio Álvarez Díaz,90,0,0,0.0,0,36,23,0,0,0.0,4,3,2,2,3,3,3,2,8,0,1,0,3,2,1,26
+16332,Ognjen Vranješ,90,0,0,0.0,0,38,29,0,0,0.0,1,0,2,3,1,0,4,3,4,1,5,4,3,4,0,19
+23848,Carlos Carmona Bonet,80,2,0,0.195889856,1,25,18,0,1,0.206668,0,0,4,3,1,0,2,2,5,2,1,2,4,2,0,33
+23994,Alejandro Menéndez Díez,10,0,0,0.0,0,3,2,0,0,0.0,0,0,2,0,0,0,1,0,0,0,1,1,0,0,0,3
+24173,Carlos Castro García,21,0,0,0.0,0,7,6,0,0,0.0,1,1,0,0,0,0,1,0,2,1,2,0,0,0,0,1
+24263,Ismael López Blanco,90,1,0,0.206668,1,50,34,0,0,0.0,2,2,5,0,0,0,3,1,8,0,2,1,1,3,0,11
+27526,Rachid Aït-Atmane,90,1,0,0.007909192,0,32,25,0,2,0.25072206599999997,0,0,3,1,1,0,6,4,8,1,0,0,3,5,2,17
+40822,Daniel Arnaud N''Di	,8,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0

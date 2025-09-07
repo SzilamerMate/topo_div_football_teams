@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3287,Nathaniel Chalobah,14,0,0,0.0,0,22,22,0,0,0.0,0,0,2,2,0,0,1,1,1,1,0,0,0,1,1,5
+3949,Manolo Gabbiadini,26,3,1,0.11998471499999999,1,9,9,0,1,0.04277422,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,5
+5457,Ivan Strinić,90,1,0,0.01603849,0,73,69,0,1,0.024436228,1,1,6,1,1,0,3,1,4,1,3,1,0,1,1,6
+5497,Gonzalo Gerardo Higuaín,64,7,2,1.492281751,2,28,21,0,0,0.0,4,3,7,0,2,1,0,0,3,3,1,0,1,0,0,1
+5630,Dries Mertens,90,5,0,0.350225691,2,46,32,0,3,0.173912082,4,0,16,1,0,0,2,1,2,0,0,0,0,1,0,13
+5675,Kalidou Koulibaly,90,0,0,0.0,0,82,71,0,0,0.0,0,0,7,1,1,0,5,2,7,1,1,2,1,2,1,7
+7024,Jorge Luiz Frello Filho,90,1,0,0.024436228,1,150,135,1,3,0.28381463,1,1,11,3,1,0,3,2,1,0,1,0,2,3,0,20
+7025,Marek Hamšík,76,1,1,0.04764789,1,102,93,0,2,0.093839286,1,0,16,0,0,0,2,1,7,3,2,0,1,1,1,12
+7028,José Manuel Reina Páez,90,0,0,0.0,0,40,36,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+7029,José María Callejón Bueno,73,0,0,0.0,0,57,51,1,2,0.08324764700000001,0,0,4,0,2,1,4,4,2,0,0,0,0,4,1,15
+7030,Raúl Albiol i Tortajada,90,1,1,0.23795742,1,58,53,0,0,0.0,0,0,3,1,0,0,2,0,1,1,3,1,1,1,0,3
+7031,Elseid Hysaj,90,2,0,0.079344248,1,77,67,0,1,0.045076154,1,1,13,1,2,1,2,0,7,2,1,0,5,1,0,12
+7035,Allan Marques Loureiro,90,2,0,0.081230103,0,81,75,0,0,0.0,4,4,13,1,3,2,2,1,3,1,1,0,2,2,0,20
+16495,Omar El Kaddouri,17,1,0,0.048785742,0,13,11,0,2,0.077193907,0,0,2,0,0,0,1,1,0,0,0,0,1,1,0,5

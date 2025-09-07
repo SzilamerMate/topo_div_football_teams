@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3008,Benjamin Lecomte,90,0,0,0.0,0,44,18,0,0,0.0,0,0,3,0,0,0,0,0,11,0,0,0,0,0,0,0
+3102,Yann Jouffre,90,0,0,0.0,0,50,38,2,4,0.30250306650000003,0,0,8,2,2,1,2,0,4,1,2,0,1,0,0,26
+3140,François Bellugou,90,0,0,0.0,0,45,39,0,0,0.0,0,0,4,1,1,0,1,0,7,1,4,1,1,0,0,15
+5209,Raphaël Adelino José Guerreiro,90,0,0,0.0,0,60,53,0,1,0.16397111,0,0,9,2,0,0,2,1,2,1,8,3,2,1,0,18
+6335,Lamine Gassama,90,0,0,0.0,0,39,28,0,1,0.07629987,4,2,5,0,1,1,3,1,4,1,6,3,2,1,1,10
+7199,Vincent Le Goff,11,0,0,0.0,0,9,7,0,0,0.0,0,0,2,0,0,0,0,0,1,0,1,1,1,0,0,5
+7211,Zargo Touré,90,2,2,0.20966289300000002,2,29,26,0,0,0.0,1,1,2,0,0,0,3,0,4,0,12,1,3,1,0,15
+7365,Rémi Mulumba,29,0,0,0.0,0,12,10,0,0,0.0,0,0,0,3,1,0,0,0,1,0,0,0,0,0,0,17
+7567,Maxime Barthelmé,79,0,0,0.0,0,24,21,0,1,0.4481032,3,1,12,0,6,0,4,2,4,2,2,0,1,2,2,16
+7615,Abdul Majeed Waris,69,0,0,0.0,0,10,6,0,0,0.0,1,0,2,0,2,1,2,0,4,1,0,0,0,0,0,11
+7766,Walid Mesloub,21,1,0,0.13264816,0,14,10,0,0,0.0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,10
+24646,Rafidine Abdullah,61,0,0,0.0,0,36,31,0,0,0.0,2,2,4,6,1,0,0,0,4,1,2,2,0,0,0,23
+33178,Benjamin Moukandjo Bilé,90,6,0,1.1016102535,2,19,13,0,0,0.0,5,2,6,1,2,0,5,0,4,2,1,0,0,0,0,13
+45688,Hamadou Karamoko,90,0,0,0.0,0,22,19,0,0,0.0,0,0,2,1,0,0,1,0,1,0,3,1,1,1,0,10

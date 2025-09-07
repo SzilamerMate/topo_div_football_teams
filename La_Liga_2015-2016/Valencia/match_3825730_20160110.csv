@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3638,Shkodran Mustafi,90,1,0,0.08331778,0,49,37,0,1,0.27937365,0,0,9,3,2,2,5,2,5,1,12,1,3,3,2,14
+4406,Aymen Abdennour,90,0,0,0.0,0,59,49,0,0,0.0,0,0,10,1,0,0,5,0,2,0,5,2,8,2,0,7
+5718,Rodrigo Moreno Machado,90,2,0,0.29047420799999996,0,30,23,0,1,0.041533455,2,1,9,1,0,0,3,0,3,4,0,0,1,0,0,16
+5741,Enzo Nicolás Pérez,56,1,0,0.04232746,0,30,25,0,2,0.064337347,2,2,4,3,2,0,2,1,4,1,0,1,3,1,0,10
+6402,Francisco Alcácer García,90,1,0,0.056224655,1,17,10,0,0,0.0,1,0,3,1,1,0,6,0,4,1,0,0,0,1,0,15
+6594,Santiago Mina Lorenzo,70,2,0,0.076221987,1,28,18,0,0,0.0,1,0,5,0,4,2,4,0,2,1,0,0,0,0,0,9
+6595,Daniel Parejo Muñoz,90,1,0,0.04619376,1,50,42,0,0,0.0,5,2,8,1,2,0,4,3,3,0,2,1,3,3,0,27
+6663,Antonio Barragán Fernández,90,0,0,0.0,0,44,39,0,0,0.0,2,0,2,1,2,0,3,1,4,0,5,3,7,1,1,10
+6751,Javier Fuego Martínez,34,0,0,0.0,0,26,22,0,0,0.0,0,0,2,3,1,0,2,0,2,1,0,1,1,0,0,13
+6898,Jaume Doménech Sánchez,90,0,0,0.0,0,47,31,0,0,0.0,0,0,6,0,0,0,0,0,11,0,0,0,0,0,0,0
+7005,João Pedro Cavaco Cancelo,45,0,0,0.0,0,33,25,0,1,0.038486082,6,3,7,2,1,1,4,1,4,0,0,3,1,2,0,6
+7797,Rodrigo Javier De Paul,90,2,0,0.080019537,0,48,33,0,4,0.167731073,3,1,12,0,1,0,3,2,7,0,0,1,1,2,1,21
+20542,Álvaro Negredo Sánchez,20,0,0,0.0,0,8,5,0,0,0.0,0,0,0,1,0,0,0,0,1,0,0,1,2,0,0,4
+27480,Lucas Alfonso Orbán Alegre,45,0,0,0.0,0,24,15,0,0,0.0,2,1,2,0,1,1,4,1,1,0,5,0,2,4,0,9

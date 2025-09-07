@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5461,Šime Vrsaljko,90,0,0,0.0,0,57,43,0,1,0.08125726,0,0,6,1,1,0,4,1,5,3,3,1,1,2,0,14
+6859,Nicola Sansone,90,2,0,0.0390552,2,36,23,0,2,0.185491417,5,4,11,2,1,0,1,0,5,6,0,1,0,1,0,18
+6963,Lorenzo Pellegrini,22,0,0,0.0,0,12,6,0,1,0.03069326,0,0,2,1,1,1,2,1,1,0,0,1,0,1,0,7
+6978,Marcello Trotta,14,1,0,0.06351998,0,2,1,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+7109,Matteo Politano,88,2,0,0.185491417,0,30,23,0,2,0.101738173,2,1,6,0,1,0,5,0,1,2,0,1,1,1,0,14
+7118,Federico Peluso,90,0,0,0.0,0,53,43,0,0,0.0,0,0,2,2,0,0,3,1,5,0,4,2,5,2,1,11
+7119,Francesco Acerbi,90,0,0,0.0,0,50,47,0,1,0.00836194,1,1,11,2,0,0,5,1,6,1,5,1,4,2,0,9
+7120,Claud Adjapong,2,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7127,Francesco Magnanelli,90,0,0,0.0,0,72,65,0,0,0.0,0,0,6,2,4,1,4,2,7,2,0,1,3,3,2,27
+7132,Andrea Consigli,90,0,0,0.0,0,38,23,0,0,0.0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0
+7698,Joseph Alfred Duncan,90,1,0,0.08125726,0,42,32,0,0,0.0,2,0,5,4,0,0,2,2,5,1,0,1,3,2,1,36
+8093,Diego Falcinelli,76,1,0,0.038218193,0,14,11,0,0,0.0,1,0,1,0,0,0,4,1,2,1,1,1,2,1,1,24
+10030,Davide Biondini,68,0,0,0.0,0,19,11,0,0,0.0,0,0,3,1,2,1,1,0,2,0,2,1,0,0,0,21
+10033,Luca Antei,90,0,0,0.0,0,36,27,0,0,0.0,0,0,2,1,2,1,7,2,4,0,7,0,3,5,1,12

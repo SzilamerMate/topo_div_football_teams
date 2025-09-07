@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2968,Elias Kachunga,20,0,0,0.0,0,5,3,0,0,0.0,0,0,2,1,1,0,2,0,0,0,1,0,0,0,0,4
+3097,Pascal Groß,90,3,0,0.060281693,0,77,52,0,4,0.32681161200000003,3,3,7,0,2,1,4,0,9,2,0,0,3,1,0,38
+3221,Markus Suttner,87,2,0,0.0366006364,0,36,25,0,3,0.10703304699999999,0,0,2,0,0,0,4,0,4,0,4,1,2,0,0,14
+5481,Mathew Leckie,90,4,0,0.20360972900000002,0,28,23,0,2,0.0419402534,5,3,7,2,2,0,8,0,6,6,0,2,5,0,0,21
+8394,Robert Bauer,10,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+8405,Benjamin Hübner,90,0,0,0.0,0,27,18,0,0,0.0,0,0,1,1,0,0,3,0,1,0,7,0,3,0,0,6
+9103,Lukas Hinterseer,70,3,0,0.089652465,1,41,24,0,1,0.045441777,0,0,2,2,2,0,4,0,4,4,1,0,2,0,0,17
+9106,Marvin Matip,90,0,0,0.0,0,31,22,0,0,0.0,0,0,9,1,0,0,2,0,6,0,7,2,1,0,0,3
+12304,Alfredo Morales,90,0,0,0.0,0,36,16,0,0,0.0,2,1,2,1,1,0,5,1,2,1,0,0,1,1,0,19
+12319,Ramazan Özcan,90,0,0,0.0,0,40,24,0,0,0.0,0,0,4,0,0,0,0,0,9,0,0,0,0,0,0,0
+13332,Romain Brégerie,3,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+40459,Roger de Oliveira Bernardo,90,0,0,0.0,0,42,30,0,0,0.0,2,2,1,4,5,2,8,1,4,2,3,1,2,3,0,24
+40460,Tobias Levels,90,0,0,0.0,0,56,50,0,0,0.0,0,0,6,1,2,1,4,2,6,2,2,1,5,3,0,24
+40463,Stefan Lex,80,1,0,0.2002189,1,15,7,0,0,0.0,0,0,1,2,1,1,2,0,0,1,0,0,0,0,0,36

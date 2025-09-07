@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5543,Haris Seferović,45,1,0,0.029665554,0,27,16,0,2,0.135248263,2,0,6,2,2,0,2,0,5,1,0,0,0,1,0,12
+5681,Makoto Hasebe,90,2,0,0.034851609,0,55,40,0,0,0.0,3,2,8,0,2,1,2,0,7,0,3,1,2,1,0,5
+6317,Marco Jhonfai Fabián De La Mora,90,0,0,0.0,0,39,30,0,4,0.194246677,2,0,6,2,2,0,5,1,8,0,2,0,1,2,0,21
+8667,Lukáš Hrádecký,90,0,0,0.0,0,30,23,0,0,0.0,0,0,5,0,0,0,0,0,3,0,0,0,0,0,0,0
+8669,Mijat Gaćinović,1,0,0,0.0,0,1,1,0,0,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+8678,David Ángel Abraham,90,0,0,0.0,0,46,41,0,1,0.029665554,0,0,4,0,2,1,4,2,3,1,4,3,3,3,1,9
+8812,Marco Russ,90,1,0,0.076481715,0,39,27,0,0,0.0,2,1,4,1,5,1,4,0,4,0,2,0,3,0,0,10
+9216,Slobodan Medojević,10,0,0,0.0,0,3,3,0,0,0.0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,3
+10896,Marc Stendera,80,1,0,0.043383725,1,47,37,0,0,0.0,1,1,9,2,2,0,8,6,7,2,0,0,3,7,2,37
+18888,Szabolcs Huszti,45,0,0,0.0,0,24,18,0,0,0.0,2,0,1,0,2,1,4,3,3,4,0,0,1,4,0,15
+20950,Yanni Regäsel,90,0,0,0.0,0,50,39,0,0,0.0,2,1,2,0,2,1,4,2,7,0,4,0,2,3,0,15
+21156,Stefan Aigner,89,2,0,0.135248263,1,19,12,0,0,0.0,0,0,0,4,0,0,3,0,3,0,0,0,1,0,0,13
+23268,Alexander Meier,90,1,0,0.06648047,0,33,16,0,0,0.0,0,0,1,0,1,1,2,0,2,0,3,0,0,0,0,10
+36359,Carlos Augusto Zambrano Ochandarte,90,0,0,0.0,0,51,41,0,0,0.0,1,1,5,1,4,2,4,0,7,0,8,0,4,1,0,11

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+8306,Christian Mathenia,90,0,0,0.0,0,27,9,0,0,0.0,0,0,7,0,0,0,0,0,3,0,0,0,0,0,0,0
+8388,Jérôme Gondorf,90,1,0,0.06972286,0,26,16,0,0,0.0,2,2,3,3,1,0,7,4,7,0,0,1,1,4,2,39
+9217,Aytac Sulu,90,1,0,0.091260135,1,19,7,0,0,0.0,0,0,2,3,2,1,1,0,2,0,13,0,0,0,0,12
+9219,Tobias Kempe,15,0,0,0.0,0,5,5,0,1,0.18783149,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,2
+9401,Marcel Heller,90,2,0,0.20762842999999997,0,9,5,0,0,0.0,4,2,9,2,2,0,4,1,6,1,0,0,0,1,1,14
+9404,Luca Caldirola,90,0,0,0.0,0,34,18,0,1,0.091260135,0,0,2,1,1,1,6,3,2,0,5,1,3,4,2,18
+9723,Sandro Wagner,87,2,2,1.36270195,2,23,13,0,1,0.22401983,0,0,3,2,2,2,9,0,4,1,1,1,3,0,0,6
+11134,Konstantin Rausch,75,3,0,0.1949079584,1,34,20,0,2,0.14598214999999998,2,0,7,1,1,0,8,2,13,4,0,0,1,4,2,19
+20522,György Garics,90,0,0,0.0,0,36,19,0,0,0.0,1,1,7,2,1,0,4,2,8,0,7,0,2,2,2,17
+35033,Slobodan Rajković,90,0,0,0.0,0,23,13,0,0,0.0,0,0,1,3,0,0,3,1,3,1,9,2,3,2,1,15
+40467,Peter Niemeyer,90,2,0,0.060014572,0,18,10,0,0,0.0,0,0,0,3,2,2,11,4,4,2,1,0,2,7,2,40
+40477,Jan Rosenthal,91,2,0,0.35020503999999997,1,24,15,1,2,0.4601150524,2,0,3,1,1,1,9,0,4,1,1,0,1,0,0,16
+40481,Dominik Stroh-Engel,3,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

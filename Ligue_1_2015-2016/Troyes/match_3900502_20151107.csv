@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2969,Karim Azamoum,4,1,0,0.033090297,1,1,1,0,0,0.0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,5
+2993,Stéphane Darbion,18,0,0,0.0,0,10,8,0,0,0.0,2,1,2,0,1,0,0,0,2,1,0,0,0,0,0,5
+3002,Benjamin Nivet,90,1,1,0.7835,1,64,52,0,2,0.08398154,3,2,8,3,2,0,4,3,7,1,0,3,3,3,1,42
+7193,Paul Bernardoni,90,0,0,0.0,0,32,17,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+7301,Lossémy Karaboué,90,0,0,0.0,0,79,65,0,1,0.048244108,2,2,14,1,2,1,0,0,11,3,2,2,2,0,0,13
+7336,Jimmy Cabot,90,3,0,0.203926328,2,39,33,0,2,0.257513067,4,2,11,3,0,0,6,1,6,0,0,0,1,2,1,29
+7376,Yoann Court,86,2,0,0.04818326,0,37,28,0,1,0.03500065,2,1,13,0,2,0,5,5,4,0,0,2,3,5,4,23
+7415,Jessy Pi,90,2,0,0.101625314,0,32,23,0,0,0.0,0,0,11,0,0,0,1,1,3,0,1,2,5,1,0,24
+26752,Mouhamadou Dabo,90,0,0,0.0,0,39,28,0,0,0.0,0,0,5,0,0,0,5,3,6,0,1,0,2,4,1,14
+29133,Brayan Andrés Perea Vargas,62,2,0,0.33773606,1,16,11,0,1,0.11589609,1,1,5,3,0,0,7,0,4,0,1,0,1,0,0,18
+42422,Dušan Veškovac,90,0,0,0.0,0,31,30,0,0,0.0,0,0,4,0,0,0,2,0,0,0,7,2,3,0,0,6
+401470,Fabien Camus,72,1,0,0.017356876,1,39,29,0,2,0.18294686,1,0,13,0,1,0,1,1,5,3,0,2,0,1,0,25
+401471,Henri Bienvenu Ntsama,28,0,0,0.0,0,7,6,0,0,0.0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,4
+401479,Calvin Anele Ngcongca,90,1,0,0.06963357,0,34,31,0,0,0.0,0,0,2,1,0,0,2,1,3,0,7,2,3,2,0,8

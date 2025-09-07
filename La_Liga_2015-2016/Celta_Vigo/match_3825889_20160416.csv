@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5217,Iago Aspas Juncal,47,2,0,0.36578528,1,21,16,0,0,0.0,3,0,4,1,1,0,2,0,1,2,0,1,0,1,0,6
+6038,John Guidetti,90,4,0,0.485309456,2,21,15,0,0,0.0,2,1,0,1,2,2,5,0,3,1,0,0,0,0,0,15
+6600,Claudio Beauvue,43,0,0,0.0,0,9,7,0,1,0.057059046,3,3,2,0,1,0,2,0,0,2,0,0,0,0,0,10
+6724,Manuel Agudo Durán,90,4,0,0.24305241700000002,1,67,39,0,2,0.37976602,5,3,14,1,5,2,2,2,10,5,0,0,0,2,1,15
+6794,Gustavo Daniel Cabral Cáceres,90,1,0,0.0551784,0,79,74,0,0,0.0,1,0,7,1,0,0,7,2,8,0,3,1,2,4,2,14
+6795,Rubén Blanco Veiga,90,0,0,0.0,0,20,16,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+6796,Nemanja Radoja,74,1,0,0.1407713,0,41,35,0,0,0.0,1,1,3,1,0,0,4,1,2,0,3,2,2,2,0,16
+6797,Daniel Wass,40,0,0,0.0,0,31,22,0,0,0.0,0,0,3,1,0,0,2,1,1,1,0,1,1,2,0,6
+6801,Pedro Pablo Hernández,16,1,1,0.10961585,1,19,16,0,0,0.0,0,0,5,1,1,0,0,0,1,1,0,0,0,0,0,1
+6802,Jonathan Castro Otto,90,1,0,0.08958673,0,67,60,1,1,0.10961585,4,4,13,2,2,1,5,1,10,1,0,2,1,3,0,16
+6804,Sergi Gómez Solà,90,0,0,0.0,0,65,61,0,0,0.0,0,0,9,1,0,0,1,0,4,0,0,0,1,0,0,10
+7105,Fabián Ariel Orellana Valenzuela,90,3,0,0.553639358,0,55,42,0,1,0.02919977,3,1,6,2,4,1,6,3,10,7,4,0,1,3,3,12
+7577,Carles Planas Antolínez,90,0,0,0.0,0,90,76,0,0,0.0,0,0,6,3,0,0,6,3,2,1,2,0,2,5,1,21
+27341,Marcelo Alfonso Díaz Rojas,50,1,0,0.044127643,0,44,40,0,1,0.072063886,0,0,2,0,3,2,3,1,3,2,0,0,2,3,0,16

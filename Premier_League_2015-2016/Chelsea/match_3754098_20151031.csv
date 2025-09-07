@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3339,Asmir Begović,90,0,0,0.0,0,29,15,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+3445,Radamel Falcao García Zárate,15,1,0,0.058804903,0,8,8,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,3
+3456,Kurt Happy Zouma,90,0,0,0.0,0,32,22,0,0,0.0,0,0,1,0,0,0,7,1,2,1,5,1,5,1,0,10
+3472,Willian Borges da Silva,90,0,0,0.0,0,41,27,0,1,0.0892515,3,3,13,0,10,2,3,3,9,5,0,2,1,3,1,15
+3478,Francesc Fàbregas i Soler,21,0,0,0.0,0,29,24,0,1,0.059240364,0,0,1,0,0,0,1,1,1,0,0,0,0,1,1,5
+3621,Eden Hazard,58,0,0,0.0,0,22,17,0,0,0.0,3,2,6,0,2,0,2,1,2,2,0,0,0,2,1,9
+3645,Gary Cahill,90,0,0,0.0,0,40,29,0,0,0.0,2,2,7,0,2,2,5,2,7,1,5,0,4,4,2,8
+3666,Robert Kenedy Nunes do Nascimento,32,1,0,0.061116748,0,28,24,0,0,0.0,2,1,4,0,0,0,2,0,5,0,0,1,1,1,0,8
+3957,César Azpilicueta Tanco,75,0,0,0.0,0,43,33,1,1,0.09733244,1,1,3,2,0,0,4,1,3,0,3,1,0,4,1,15
+5198,Diego da Silva Costa,90,1,0,0.059240364,0,21,18,0,1,0.061116748,3,2,5,4,1,0,9,1,3,5,0,0,4,4,0,17
+5475,John Michael Nchekwube Obinna,69,0,0,0.0,0,36,31,0,0,0.0,0,0,2,1,2,1,5,2,3,2,1,2,1,5,0,20
+20287,John Terry,90,0,0,0.0,0,38,36,0,0,0.0,0,0,2,0,0,0,5,0,3,0,6,0,5,1,0,8
+28100,Ramires Santos do Nascimento,90,2,1,0.18658394,1,40,32,0,1,0.060638227,4,3,5,3,5,0,4,1,6,2,2,0,6,3,1,18
+40122,Oscar dos Santos Emboaba Júnior,90,3,0,0.12572112000000002,1,42,31,0,0,0.0,4,0,6,0,1,0,8,5,7,2,3,1,2,7,2,29

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5683,Keisuke Honda,3,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5688,Carlos Arturo Bacca Ahumada,35,3,1,0.77607055,2,5,4,0,2,0.132861863,2,1,1,0,0,0,0,0,2,1,1,0,1,0,0,7
+6768,Diego López Rodríguez,90,0,0,0.0,0,26,24,0,0,0.0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+7026,Giacomo Bonaventura,90,2,0,0.103881666,0,40,25,0,0,0.0,1,0,12,2,4,0,1,0,4,0,4,0,2,0,0,8
+7147,Andrea Bertolacci,90,0,0,0.0,0,38,28,1,1,0.41217393,1,0,5,1,4,0,5,2,8,4,1,1,4,4,2,32
+7166,Riccardo Montolivo,90,2,0,0.101200119,1,84,77,0,1,0.23728265,2,2,12,0,2,0,2,0,7,2,2,3,2,2,0,18
+7168,Andrea Poli,5,0,0,0.0,0,6,4,0,0,0.0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,2
+7458,Alessio Romagnoli,90,0,0,0.0,0,51,47,0,0,0.0,0,0,5,2,2,2,7,1,5,0,4,0,1,4,1,16
+7463,Ignazio Abate,90,0,0,0.0,0,80,66,0,0,0.0,1,1,6,3,1,0,3,3,5,0,1,1,2,3,0,15
+7702,Alessio Cerci,87,2,0,0.063586605,0,23,16,0,0,0.0,0,0,7,3,3,0,0,0,4,4,0,0,2,0,0,14
+8874,Luca Antonelli,90,0,0,0.0,0,66,56,0,0,0.0,0,0,9,0,3,1,6,2,5,1,1,0,4,4,1,12
+10919,Juraj Kucka,85,0,0,0.0,0,31,26,0,1,0.08104828,3,2,8,2,6,0,1,0,0,2,5,0,1,0,0,17
+21272,Luiz Adriano de Souza da Silva,55,0,0,0.0,0,10,6,0,0,0.0,0,0,0,1,0,0,3,1,1,0,0,0,0,1,0,11
+40945,Alex Rodrigo Dias da Costa,90,1,0,0.08001886,0,40,37,0,0,0.0,0,0,3,0,1,1,3,0,0,0,7,1,3,0,0,8

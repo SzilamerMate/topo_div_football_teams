@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5624,Albin Ekdal,90,1,0,0.03352936,0,38,31,0,1,0.02869461,0,0,11,2,4,0,2,0,4,1,1,2,4,0,0,14
+8309,Michael Gregoritsch,90,5,0,0.1468124025,3,34,28,0,1,0.022494512,1,0,6,1,0,0,5,0,5,2,0,1,0,0,0,7
+8316,Dennis Diekmeier,90,0,0,0.0,0,36,30,0,1,0.031239524,2,0,5,0,2,1,0,0,2,0,2,0,1,0,0,8
+8321,Sven Schipplock,90,1,0,0.022494512,0,27,19,1,3,0.2630789075,3,1,5,5,1,1,9,1,2,1,1,0,2,1,0,24
+8323,Gideon Jung,45,1,0,0.046123795,0,25,21,0,0,0.0,1,0,0,1,2,1,0,0,5,2,0,0,0,0,0,4
+8547,Matthias Ostrzolek,90,1,0,0.007268704,0,34,25,0,1,0.19923538,1,0,6,0,4,2,1,0,3,3,0,2,5,1,0,12
+8560,René Adler,39,0,0,0.0,0,21,16,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0
+8891,Lewis Harry Holtby,82,1,1,0.22444215,1,42,35,0,4,0.135381331,1,0,6,1,3,3,4,1,7,1,0,0,0,1,1,20
+8895,Pierre-Michel Lasogga,8,1,0,0.026559412,0,1,1,0,0,0.0,0,0,1,0,0,0,4,1,0,0,0,0,0,1,0,1
+9407,Gojko Kačar,45,1,0,0.19923538,0,26,24,0,0,0.0,1,1,5,0,0,0,5,2,1,0,1,0,1,3,2,10
+24740,Ivo Iličević,90,3,0,0.067699107,2,40,30,0,1,0.24411999,8,4,21,0,1,0,1,0,9,3,0,0,2,0,0,10
+26791,Emir Spahić,90,1,0,0.08283622,0,43,35,0,0,0.0,0,0,8,1,0,0,3,0,4,0,8,2,1,1,0,6
+31437,Andreas Hirzel,51,0,0,0.0,0,21,11,0,0,0.0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0
+40468,Cleber Janderson Pereira Reis,90,1,0,0.24411999,0,49,39,0,0,0.0,1,1,4,0,0,0,5,1,7,1,3,2,1,4,0,9

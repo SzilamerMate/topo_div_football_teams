@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3500,Granit Xhaka,90,1,0,0.029946532,0,64,54,0,0,0.0,3,2,8,6,5,1,11,3,7,2,4,2,2,5,2,23
+3959,Andreas Christensen,90,0,0,0.0,0,45,34,0,0,0.0,0,0,3,0,1,1,3,1,4,0,4,1,0,1,1,14
+5550,Yann Sommer,90,0,0,0.0,0,43,29,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,0
+5632,Thorgan Hazard,12,2,0,0.30121432,1,10,8,0,0,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,2
+5835,Josip Drmic,40,0,0,0.0,0,16,12,0,1,0.10874379,1,1,1,2,0,0,7,0,0,0,0,0,3,0,0,4
+8238,Mahmoud Dahoud,50,0,0,0.0,0,17,11,0,0,0.0,2,2,1,4,1,0,0,0,2,1,0,2,3,0,0,17
+8395,Håvard Nordtveit,90,0,0,0.0,0,59,42,0,1,0.1878484,0,0,10,0,0,0,3,0,5,1,4,2,2,1,0,11
+8806,Lars Edi Stindl,90,3,0,0.185751603,1,38,29,0,1,0.030431613,2,1,3,3,4,1,4,2,4,3,0,1,2,2,1,14
+8809,Oscar Wendt,90,1,0,0.0070683183,1,67,47,0,2,0.18189869,1,0,10,0,1,0,2,2,11,1,4,3,4,2,1,18
+8810,Raffael Caetano de Araújo,87,1,0,0.25455943,1,26,23,0,0,0.0,3,1,3,0,1,0,5,1,6,0,0,0,1,1,0,11
+8814,Nico Elvedi,3,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11283,Fabian Johnson,90,3,0,0.189115937,1,38,27,0,1,0.029946532,5,2,6,1,1,0,2,1,6,0,0,1,1,1,0,9
+11285,Ibrahima Traoré,78,0,0,0.0,0,24,17,0,2,0.158358534,11,8,8,1,3,0,3,1,2,1,0,0,2,2,0,22
+26677,Álvaro Domínguez Soto,90,0,0,0.0,0,61,45,0,1,0.0070683183,1,1,4,1,1,1,7,2,3,1,10,0,1,3,0,4

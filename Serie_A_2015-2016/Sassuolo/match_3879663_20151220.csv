@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5461,Šime Vrsaljko,90,0,0,0.0,0,72,54,1,2,0.31868244,0,0,8,2,2,1,1,0,7,1,7,2,4,0,0,13
+6859,Nicola Sansone,90,1,0,0.100835726,0,38,25,0,3,0.22955612,4,3,12,0,2,0,3,0,3,3,0,0,2,0,0,12
+6948,Sergio Floccari,90,5,1,0.51721544,3,16,10,0,0,0.0,2,1,4,2,2,0,6,0,6,2,1,1,2,0,0,16
+6963,Lorenzo Pellegrini,81,2,0,0.0158601555,0,38,33,0,0,0.0,1,1,10,2,3,1,1,0,5,1,1,1,3,1,0,20
+7109,Matteo Politano,57,2,0,0.065981667,0,23,15,0,0,0.0,3,1,5,1,1,0,5,0,2,1,0,0,0,0,0,15
+7113,Simone Missiroli,90,1,0,0.019597536,0,75,62,0,1,0.0061662975,2,0,10,4,0,0,10,1,12,2,4,1,3,3,1,13
+7118,Federico Peluso,90,1,0,0.07618639,0,47,37,0,1,0.008737806,1,0,5,0,3,2,1,0,3,3,8,0,3,0,0,7
+7119,Francesco Acerbi,90,0,0,0.0,0,62,54,0,0,0.0,2,2,10,3,1,1,2,2,5,0,8,1,0,2,1,7
+7132,Andrea Consigli,90,0,0,0.0,0,36,29,0,0,0.0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0
+7698,Joseph Alfred Duncan,9,2,0,0.0383589775,1,5,5,0,0,0.0,3,2,2,0,0,0,1,0,2,1,0,0,1,0,0,2
+8848,Paolo Cannavaro,90,0,0,0.0,0,39,28,0,0,0.0,0,0,6,1,0,0,4,2,3,0,14,0,3,3,1,10
+10030,Davide Biondini,23,0,0,0.0,0,9,6,0,0,0.0,0,0,0,0,0,0,1,0,3,0,1,0,1,0,0,11
+27110,Antonio Floro Flores,33,2,0,0.34484013970000005,0,18,9,0,0,0.0,1,0,5,0,1,0,2,0,5,1,1,0,1,0,0,2
+30941,Karim Laribi,67,0,0,0.0,0,45,31,0,3,0.0731040165,0,0,2,1,1,1,6,1,3,0,2,0,3,3,0,22

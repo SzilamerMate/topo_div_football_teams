@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3277,Yohan Cabaye,90,1,0,0.048019875,0,46,33,0,0,0.0,0,0,3,1,4,1,9,4,8,3,0,2,4,9,2,27
+3448,Martin Kelly,90,1,0,0.019187449,0,55,39,0,1,0.02258899,2,1,5,2,0,0,9,5,5,1,4,0,1,6,4,15
+3464,James McArthur,75,0,0,0.0,0,27,25,0,0,0.0,3,2,4,1,1,0,2,1,8,4,3,1,4,2,0,30
+3469,Bakary Sako,83,3,0,0.12300311,1,30,21,0,0,0.0,3,2,8,1,1,0,0,0,4,4,1,1,4,0,0,19
+3507,Wilfried Zaha,45,0,0,0.0,0,9,5,0,1,0.048019875,2,2,5,1,1,0,2,0,7,3,1,0,0,0,0,10
+3589,Yannick Bolasie Yala,90,2,0,0.052771649000000004,1,26,15,0,0,0.0,7,4,11,1,2,0,5,3,3,4,0,0,2,3,2,15
+3619,Alex McCarthy,90,0,0,0.0,0,26,14,0,0,0.0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0
+3693,Damien Delaney,90,0,0,0.0,0,27,23,0,1,0.0074466243,0,0,4,2,0,0,3,2,2,0,6,2,2,3,0,9
+4884,Pape N''Diaye Souaré,90,1,0,0.0074466243,0,38,30,0,2,0.08639174399999999,3,3,4,0,0,0,2,1,2,0,8,0,2,1,0,11
+9641,Fraizer Campbell,45,1,0,0.23159643,0,10,8,0,0,0.0,0,0,2,2,0,0,5,1,4,2,0,0,1,2,0,11
+10457,Patrick Bamford,7,0,0,0.0,0,4,4,0,0,0.0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+15892,Jordon Mutch,15,0,0,0.0,0,12,3,0,0,0.0,2,1,4,0,1,0,0,0,0,0,0,0,0,0,0,3
+19688,Jason Puncheon,90,0,0,0.0,0,46,36,0,2,0.110546209,4,2,7,2,2,0,5,3,11,0,0,0,3,4,1,20
+43695,Brede Hangeland,90,2,0,0.121829148,1,33,27,0,0,0.0,1,1,2,1,0,0,6,3,4,0,5,1,1,4,1,5

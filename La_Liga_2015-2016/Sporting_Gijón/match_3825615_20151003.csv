@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6561,Luis Hernández Rodríguez,90,2,0,0.515239833,0,67,52,0,0,0.0,1,1,5,1,1,0,1,1,4,0,3,4,0,1,0,8
+6573,Bernardo José Espinosa Zúñiga,90,0,0,0.0,0,47,41,0,0,0.0,0,0,4,5,0,0,5,1,1,1,12,4,2,1,1,10
+6581,Jonathan Rodríguez Menéndez,73,0,0,0.0,0,24,15,0,1,0.04585386,2,2,4,1,2,1,4,3,4,2,0,0,1,3,1,10
+6602,Miguel Ángel Guerrero Martín,27,0,0,0.0,0,5,2,0,0,0.0,1,0,2,2,0,0,6,1,0,0,0,0,0,1,1,11
+6880,Arnaldo Antonio Sanabria Ayala,63,2,0,0.49239118400000004,0,21,16,0,0,0.0,1,0,5,1,4,1,10,0,3,1,0,0,1,0,0,13
+6926,Alen Halilović,81,2,1,0.16893263,1,28,22,0,1,0.014381984,4,3,8,1,2,0,1,0,8,3,0,0,1,0,0,7
+11537,Alberto García Cabrera,90,0,0,0.0,0,34,14,0,0,0.0,0,0,1,0,1,0,0,0,4,0,0,0,0,0,0,0
+13107,Sergio Álvarez Díaz,90,1,0,0.0583054,0,56,47,0,1,0.07432311,3,3,8,0,2,0,6,3,9,3,2,1,1,6,2,26
+18398,Omar Mascarell González,17,0,0,0.0,0,8,7,1,1,0.09980503,0,0,1,2,1,1,2,1,0,0,0,0,1,2,0,7
+18925,Ignacio Cases Mora,90,0,0,0.0,0,52,45,0,0,0.0,2,1,5,3,4,0,6,2,3,0,2,3,1,3,1,24
+23838,Pablo Pérez Rodríguez,9,1,0,0.007837405,0,1,1,0,0,0.0,0,0,0,1,0,0,0,0,2,1,0,1,0,0,0,5
+23994,Alejandro Menéndez Díez,90,4,1,0.237568734,1,27,21,0,0,0.0,2,1,3,1,1,0,8,2,5,1,1,1,1,4,1,16
+24686,Roberto Canella Suárez,90,0,0,0.0,0,58,42,0,1,0.10032966,1,1,4,1,0,0,6,1,3,1,3,4,3,6,0,18
+26633,Alberto Lora Ramos,90,0,0,0.0,0,39,34,0,0,0.0,1,0,0,2,3,1,3,1,6,0,3,2,3,2,0,19

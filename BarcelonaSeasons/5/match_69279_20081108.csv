@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3087,Gnégnéri Yaya Touré,90,1,0,0.0200548,1,42,39,0,0,0.0,1,1,4,2,0,0,2,2,4,0,7,0,3,2,0,11
+4324,Daniel Alves da Silva,90,1,0,0.006739047,0,60,51,1,3,0.71626323,4,0,10,2,1,1,12,4,12,1,2,1,5,9,3,22
+5213,Gerard Piqué Bernabéu,90,0,0,0.0,0,51,39,0,0,0.0,0,0,10,0,0,0,0,0,5,1,7,1,1,0,0,4
+5248,José Martín Cáceres Silva,22,0,0,0.0,0,13,11,0,0,0.0,0,0,1,0,0,0,0,0,2,0,2,1,0,0,0,1
+5503,Lionel Andrés Messi Cuccittini,90,3,0,0.254111447,1,51,42,1,3,0.73073325,13,12,18,0,6,0,2,1,6,3,0,0,1,1,1,6
+5558,Rafael Márquez Álvarez,68,2,0,0.13998343000000002,1,45,39,0,0,0.0,0,0,14,0,1,0,3,1,4,0,3,0,3,2,0,7
+11270,Eiður Smári Guðjohnsen,71,2,1,0.61664905,1,29,24,0,1,0.027499095,2,2,7,1,0,0,0,0,4,0,0,0,1,0,0,8
+15516,Thierry Henry,90,5,1,1.409807935,4,40,29,1,1,0.4131341,2,2,11,3,0,0,1,0,2,0,0,0,0,0,0,6
+18882,Aliaksandr Hleb,15,0,0,0.0,0,14,12,1,2,1.00190735,0,0,3,0,0,0,0,0,1,0,0,0,1,0,0,2
+19298,Samuel Eto''o Fils,75,6,4,1.66845456,5,31,23,0,3,0.3585423,3,2,8,0,2,0,0,0,3,0,0,0,1,0,0,12
+20125,Carles Puyol i Saforcada,90,0,0,0.0,0,40,31,0,0,0.0,4,2,7,1,0,0,8,3,5,0,5,4,2,6,2,15
+20131,Xavier Hernández Creus,90,1,0,0.0469439,0,82,71,0,3,0.34349838,4,4,7,0,2,0,1,0,4,2,0,0,0,1,0,9
+20169,Seydou Kéita,19,0,0,0.0,0,9,7,0,0,0.0,1,1,3,0,1,0,0,0,2,0,1,0,0,0,0,2
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,20,14,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0

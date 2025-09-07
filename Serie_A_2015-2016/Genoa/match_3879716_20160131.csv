@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5554,Blerim Džemaili,90,1,0,0.06248347,0,30,26,0,0,0.0,1,1,5,1,3,0,2,1,7,1,0,1,1,1,0,26
+5717,Diego Sebastián Laxalt Suárez,90,2,0,0.41947791999999995,1,38,30,0,0,0.0,2,1,9,2,1,1,4,1,10,2,3,0,2,3,0,19
+6894,Ezequiel Muñoz,90,1,0,0.043406975,0,26,20,0,0,0.0,0,0,3,1,0,0,4,2,2,0,6,3,1,3,1,13
+7022,Jesús Joaquín Fernández Sáez de la Torre,63,2,0,0.052758536999999994,0,38,28,0,0,0.0,5,4,6,0,1,0,0,0,6,3,1,0,0,0,0,5
+7148,Mattia Perin,90,0,0,0.0,0,16,7,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+7456,Diego Perotti,63,0,0,0.0,0,48,33,0,3,0.652808659,1,0,8,1,3,0,6,3,3,0,0,0,4,5,2,27
+7464,Cristian Daniel Ansaldi,90,0,0,0.0,0,44,27,0,0,0.0,4,2,19,2,1,0,2,1,7,3,3,2,3,2,1,9
+7467,Nicolás Andrés Burdisso,90,0,0,0.0,0,21,18,0,0,0.0,0,0,1,1,1,1,2,0,3,0,7,0,3,0,0,6
+7475,Tomás Eduardo Rincón Hernández,90,0,0,0.0,0,39,29,0,2,0.09654499,2,1,13,0,2,0,1,1,11,1,3,0,1,1,0,20
+7702,Alessio Cerci,27,1,0,0.0334034,0,9,5,0,0,0.0,0,0,5,0,1,1,1,0,1,0,0,0,0,0,0,6
+8180,Leonardo Pavoletti,91,3,0,0.636288864,1,20,15,0,2,0.065643007,0,0,1,3,2,1,2,1,1,4,0,0,1,1,1,16
+9940,Armando Izzo,90,0,0,0.0,0,54,36,0,0,0.0,1,1,4,2,0,0,2,2,4,0,7,3,3,2,2,15
+24683,Diego Ángel Capel Trinidad,27,1,0,0.03549144,0,12,9,0,2,0.09588687,0,0,5,0,2,0,2,1,4,0,0,0,0,1,0,6

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6713,Diego Javier Llorente Ríos,90,1,0,0.073863894,0,56,49,0,0,0.0,0,0,5,0,0,0,5,1,2,0,8,1,4,1,0,10
+6743,Manuel Rolando Iturra Urrutia,90,0,0,0.0,0,47,39,0,0,0.0,0,0,3,3,1,1,7,4,4,2,0,6,2,5,3,14
+6914,Roberto Román Triguero,90,0,0,0.0,0,39,32,0,0,0.0,0,0,3,2,2,0,5,0,1,0,1,6,3,2,0,15
+7900,Tiago Manuel Dias Correia,90,4,0,0.0534198173,0,31,16,0,1,0.015525621,3,3,11,4,0,0,3,1,4,2,1,2,2,2,1,13
+11539,Adrián Embarba Blázquez,72,2,0,0.180064321,1,26,15,0,0,0.0,1,1,5,1,2,1,9,1,3,2,0,1,0,2,1,17
+24138,Joaquín José Marín Ruiz,90,0,0,0.0,0,48,30,0,1,0.17380159,2,2,4,2,1,0,4,1,7,1,1,0,0,3,1,13
+24255,Juan Carlos Martín Corral,90,0,0,0.0,0,27,18,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+24782,Jonhatan Montiel Caballero,45,0,0,0.0,0,13,7,0,0,0.0,3,1,6,0,1,0,1,0,7,4,2,1,1,0,0,5
+26222,José Eduardo Rosa Vale de Castro,45,0,0,0.0,0,39,34,0,0,0.0,0,0,5,0,0,0,2,0,3,0,3,0,0,1,0,8
+26685,Nicolás Ladislao Fedor Flores,45,0,0,0.0,0,11,9,0,0,0.0,1,1,1,1,0,0,1,0,1,1,0,0,1,0,0,5
+26690,Alberto Mateus Contreiras Gonçalves,45,3,2,0.66592671,3,6,5,0,0,0.0,0,0,2,1,0,0,2,0,3,0,2,0,2,0,0,11
+26797,Francisco Medina Luna,90,1,0,0.019643383,0,43,25,0,2,0.0181884953,3,2,13,1,3,0,4,1,5,2,0,1,2,1,1,8
+26848,Roberto Trashorras Gayoso,90,0,0,0.0,0,107,86,1,2,0.271586314,1,0,13,2,3,0,2,2,10,3,1,1,2,2,1,9
+27144,Antonio Amaya Carazo,18,0,0,0.0,0,3,2,0,0,0.0,0,0,0,0,0,0,1,0,0,0,3,0,1,1,0,4

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6559,Juan Carlos Pérez López,65,1,0,0.04573023,1,22,18,0,1,0.20421289,2,0,4,0,0,0,5,0,3,0,1,0,0,1,0,3
+6569,Roberto José Rosales Altuve,90,0,0,0.0,0,48,33,0,0,0.0,3,1,8,1,1,0,7,4,8,2,1,3,3,6,3,17
+6707,Charles Días Barbosa de Oliveira,90,1,0,0.081158854,0,15,13,0,0,0.0,2,0,2,1,0,0,7,1,1,3,2,0,2,3,0,18
+6727,Raúl Albentosa Redal,59,1,0,0.11674457,1,20,14,0,0,0.0,1,1,4,2,1,1,2,1,1,0,3,3,0,1,0,5
+6764,Pablo Fornals Malla,90,3,0,0.108123254,0,59,48,0,1,0.04573023,0,0,4,1,1,1,5,3,11,1,0,5,1,5,2,22
+6878,Miguel Torres Gómez,90,0,0,0.0,0,52,36,0,1,0.19567762,0,0,3,2,1,1,2,2,2,0,1,3,3,2,0,17
+8234,Ignacio Camacho Barnola,90,1,0,0.19567762,0,60,46,0,0,0.0,1,1,4,3,3,0,8,4,3,0,1,3,4,4,1,21
+8264,Adnane Tighadouini,25,0,0,0.0,0,17,12,0,1,0.08353175,4,1,2,0,2,0,1,0,2,1,0,0,0,1,0,3
+8419,Duje Čop,45,1,0,0.20421289,0,26,20,0,0,0.0,2,0,8,2,1,0,3,2,2,2,0,1,1,2,0,17
+10868,Ricardo Jorge Luz Horta,45,0,0,0.0,0,14,11,0,1,0.081158854,1,1,4,1,1,1,0,0,1,2,1,1,0,0,0,7
+25859,Sérgio Paulo Barbosa Valente,90,1,0,0.7835,1,63,38,0,1,0.11674457,5,2,10,4,6,0,4,3,4,4,0,2,0,3,0,16
+26103,Idriss Carlos Kameni,90,0,0,0.0,0,23,17,0,0,0.0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0
+26669,Weligton Róbson Pena de Oliveira,90,1,0,0.08353175,0,35,23,0,0,0.0,0,0,4,2,1,0,2,1,7,0,4,5,2,1,1,5
+27184,Marcos Alberto Angeleri,31,0,0,0.0,0,7,6,0,0,0.0,0,0,1,1,0,0,2,1,0,0,1,0,0,2,0,4

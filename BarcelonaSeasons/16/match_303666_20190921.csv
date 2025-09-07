@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5213,Gerard Piqué Bernabéu,90,0,0,0.0,0,91,85,0,1,0.16091938,0,0,19,0,4,2,3,1,5,0,3,0,3,2,1,3
+5246,Luis Alberto Suárez Díaz,90,3,0,0.29473704,0,22,19,0,1,0.09181099,0,0,1,2,1,0,0,0,1,0,0,0,0,0,0,9
+5470,Ivan Rakitić,61,0,0,0.0,0,47,40,0,0,0.0,2,0,5,0,4,0,2,0,4,0,0,1,1,0,0,9
+5487,Antoine Griezmann,90,1,0,0.035693936,0,37,33,0,0,0.0,1,0,1,2,1,0,0,0,2,0,1,0,1,0,0,8
+5503,Lionel Andrés Messi Cuccittini,45,2,0,0.11923774499999999,1,35,25,0,2,0.098550376,5,3,7,0,2,1,0,0,2,1,0,0,0,0,0,2
+6374,Nélson Cabral Semedo,90,0,0,0.0,0,66,59,0,0,0.0,3,1,11,4,1,1,4,2,1,1,2,1,0,4,1,11
+6379,Sergi Roberto Carnicer,90,0,0,0.0,0,79,71,0,0,0.0,0,0,11,0,3,1,0,0,3,2,2,0,1,0,0,12
+6826,Clément Lenglet,90,1,0,0.022427276,0,91,89,0,0,0.0,0,0,11,1,0,0,3,3,4,0,5,0,1,3,2,8
+8118,Frenkie de Jong,90,0,0,0.0,0,91,86,0,1,0.022427276,5,4,18,1,5,0,3,3,6,0,1,1,0,3,1,5
+8206,Arturo Erasmo Vidal Pardo,29,1,0,0.06285644,0,27,22,0,0,0.0,0,0,1,1,1,0,1,1,2,0,1,0,2,1,1,4
+17304,Héctor Junior Firpo Adames,45,0,0,0.0,0,36,31,0,0,0.0,1,0,7,1,1,0,4,0,3,0,2,0,2,2,0,5
+20055,Marc-André ter Stegen,90,0,0,0.0,0,27,25,0,0,0.0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0
+25006,Carles Pérez Sayol,45,0,0,0.0,0,22,15,0,0,0.0,1,0,2,1,0,0,3,0,2,2,1,0,0,0,0,10
+30756,Anssumane Fati,45,0,0,0.0,0,20,15,0,0,0.0,2,2,10,0,0,0,0,0,1,2,0,0,0,0,0,4

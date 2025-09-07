@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3075,Javier Manquillo Gaitán,90,0,0,0.0,0,58,40,0,3,0.091054492,3,3,14,0,1,0,2,0,2,4,3,1,1,2,0,13
+3141,André-Frank Zambo Anguissa,21,0,0,0.0,0,13,8,0,0,0.0,1,1,3,0,0,0,2,2,3,1,0,0,1,2,1,22
+3181,Lassana Diarra,90,0,0,0.0,0,46,41,0,1,0.04032907,3,2,7,0,1,0,5,5,10,1,0,1,3,5,3,30
+3261,Benjamin Mendy,90,0,0,0.0,0,63,48,0,1,0.016438367,4,4,12,2,0,0,5,0,10,3,4,2,1,2,0,20
+3420,Rémy Cabella,45,0,0,0.0,0,21,21,0,1,0.020303192,2,1,6,1,1,0,3,1,2,3,1,1,1,3,1,14
+3457,Michy Batshuayi Tunga,90,4,0,0.451262816,1,16,11,0,3,0.612291323,4,3,5,1,0,0,8,0,3,3,1,0,0,2,0,14
+3543,Steve Mandanda,90,0,0,0.0,0,34,27,0,0,0.0,0,0,2,1,1,1,0,0,4,0,0,0,0,0,0,2
+3639,Georges-Kévin Nkoudou Mbida,45,4,0,0.616270231,1,8,7,0,1,0.2221441,2,2,9,0,4,0,1,0,3,4,0,0,0,0,0,21
+7472,Nicolas Alexis Julio N'Koulou Ndoubena,90,0,0,0.0,0,51,42,0,0,0.0,0,0,1,1,1,0,3,2,6,0,5,5,1,3,0,10
+8572,Karim Rekik,90,1,1,0.12559702,1,44,41,0,0,0.0,0,0,3,2,2,1,3,2,5,0,1,3,2,2,0,13
+15296,Romain Alessandrini,90,2,0,0.067363441,0,14,12,0,0,0.0,0,0,7,2,0,0,0,0,2,2,0,0,0,0,0,9
+18874,Mauricio Aníbal Isla Isla,10,0,0,0.0,0,7,7,0,0,0.0,1,1,3,1,1,0,1,1,1,0,0,1,0,1,0,6
+23933,Abdelaziz Barrada,69,1,0,0.033272248,0,43,37,1,2,0.16119526,2,2,5,3,1,0,1,1,3,0,0,1,0,1,0,16
+25199,Lucas Silva Borges,80,2,0,0.055901432,1,39,34,0,1,0.14886494,0,0,4,2,0,0,4,1,3,3,0,1,2,2,1,26

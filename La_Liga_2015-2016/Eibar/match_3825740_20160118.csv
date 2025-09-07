@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5687,Takashi Inui,71,2,1,0.127465818,1,22,15,0,0,0.0,2,1,5,0,0,0,2,0,1,3,0,0,2,0,0,9
+6557,Adrián González Morales,90,0,0,0.0,0,50,38,0,1,0.008967902,1,0,2,3,0,0,2,0,4,2,3,2,5,0,0,15
+6566,Borja González Tomás,90,3,2,1.115515073,3,15,11,1,2,0.14193445699999999,1,0,0,3,1,0,3,0,2,1,0,0,0,0,0,13
+6675,Antonio Manuel Luna Rodríguez,62,0,0,0.0,0,30,19,0,0,0.0,0,0,6,1,2,1,0,0,3,0,0,0,1,0,0,1
+6699,Ander Capa Rodríguez,90,1,0,0.044383567,0,45,30,0,0,0.0,3,2,6,2,2,0,2,1,5,1,4,2,1,2,1,11
+6700,Sergio Enrich Ametller,79,3,2,0.4004084,2,37,29,1,1,0.83175695,1,1,5,0,2,2,10,0,3,1,2,0,2,2,0,14
+6742,Sergio Gontán Gallardo,90,2,0,0.018373135999999998,1,41,26,2,5,0.458909606,4,3,10,2,2,1,8,4,4,1,0,0,2,5,2,19
+6775,Daniel García Carrillo,90,0,0,0.0,0,58,45,0,0,0.0,1,1,11,1,0,0,3,2,5,0,1,1,1,2,2,11
+6776,David Juncà Reñé,28,0,0,0.0,0,19,14,0,0,0.0,1,0,1,1,0,0,2,2,3,0,0,0,0,2,1,6
+6778,Iván Ramis Barrios,90,0,0,0.0,0,40,31,0,0,0.0,1,0,11,0,1,1,1,0,5,0,7,1,0,0,0,5
+6837,Mauro Javier Dos Santos,90,0,0,0.0,0,44,30,0,0,0.0,0,0,7,1,1,1,4,1,1,0,6,0,0,2,1,9
+7170,Simone Verdi,11,0,0,0.0,0,2,1,0,0,0.0,1,1,2,1,2,1,0,0,1,0,0,0,1,0,0,4
+10763,Asier Riesgo Unamuno,90,0,0,0.0,0,30,23,0,0,0.0,0,0,2,0,0,0,0,0,7,0,1,0,0,0,0,0
+24070,Saúl Berjón Pérez,19,1,0,0.008093512,0,10,6,0,0,0.0,1,1,2,0,0,0,1,1,0,0,0,0,0,1,1,1

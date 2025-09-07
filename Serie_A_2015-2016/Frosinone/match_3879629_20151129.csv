@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7462,Aleandro Rosi,90,1,0,0.0063048336,1,67,50,0,1,0.08451682,0,0,13,3,3,0,1,0,10,1,4,0,1,0,0,8
+11608,Danilo Soddimo,72,0,0,0.0,0,39,23,0,1,0.05098759,4,1,7,0,2,0,2,1,5,0,1,3,0,2,1,17
+13613,Daniel Ciofani,64,3,2,1.00638065,2,9,7,0,2,0.11746832600000001,1,0,1,0,4,0,3,0,2,0,1,0,1,1,0,19
+20636,Mirko Gori,90,1,0,0.023446219,0,52,40,0,0,0.0,2,2,6,3,4,1,7,3,6,0,3,1,0,4,0,23
+20970,Nicolás Ignacio Castillo Mora,26,0,0,0.0,0,9,6,0,0,0.0,0,0,1,1,2,1,4,0,1,3,0,0,0,0,0,9
+23349,Paolo Sammarco,90,2,0,0.0961186105,1,48,39,1,2,0.49971701,0,0,5,0,5,3,6,0,6,0,1,2,0,2,0,25
+23470,Luca Paganini,90,3,0,0.386006389,1,24,16,0,0,0.0,1,0,4,2,3,1,7,0,4,0,1,1,1,0,0,23
+24235,Federico Dionisi,90,6,1,0.5866289667000001,2,22,18,0,0,0.0,1,1,5,6,2,0,8,0,5,7,0,0,2,3,0,27
+32037,Nicola Leali,90,0,0,0.0,0,30,16,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+49440,Davide Bertoncini,29,0,0,0.0,0,18,14,0,0,0.0,0,0,1,0,0,0,1,0,1,0,4,0,1,0,0,4
+174418,Modibo Diakité,90,0,0,0.0,0,34,28,0,2,0.1674403836,0,0,3,3,2,1,2,1,2,0,6,2,1,1,0,10
+296873,Roberto Crivello,90,0,0,0.0,0,51,41,1,2,0.0679218437,1,1,5,2,1,0,0,0,3,1,3,0,1,0,0,6
+386512,Alessandro Frara,18,0,0,0.0,0,11,8,0,0,0.0,1,0,2,1,0,0,1,0,4,0,0,1,0,0,0,4
+387847,Leonardo Blanchard,61,0,0,0.0,0,25,18,0,0,0.0,0,0,2,4,1,1,2,0,0,0,2,0,1,1,0,5

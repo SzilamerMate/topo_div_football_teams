@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6386,Eneko Bóveda Altube,25,0,0,0.0,0,6,4,0,0,0.0,0,0,0,1,1,0,2,1,2,0,1,0,0,2,0,6
+6389,Mikel San José Domínguez,90,1,0,0.02617318,0,38,27,0,0,0.0,0,0,2,1,3,1,3,0,2,1,1,6,0,1,0,13
+6390,Markel Susaeta Laskurain,45,1,0,0.040145382,0,4,3,1,1,0.12232152,1,0,0,1,1,0,5,1,2,0,0,1,1,1,1,13
+6391,Raúl García Escudero,90,2,1,0.1274601873,1,30,20,0,1,0.009235918,2,2,4,4,2,1,10,2,3,3,3,3,2,4,2,28
+6393,Iñaki Williams Arthuer,65,2,1,0.20413028800000002,1,13,6,0,0,0.0,4,3,1,0,3,0,4,0,3,0,0,1,2,1,0,16
+6394,Aritz Aduriz Zubeldia,90,1,0,0.060644604,0,24,15,0,0,0.0,5,2,6,3,3,2,8,1,2,0,0,0,1,2,0,10
+6396,Beñat Etxebarria Urkiaga,87,0,0,0.0,0,46,26,0,1,0.059905443,2,1,2,5,4,1,4,0,7,1,0,2,2,2,0,27
+6576,Gorka Iraizoz Moreno,90,0,0,0.0,0,41,22,0,0,0.0,0,0,9,0,0,0,0,0,4,0,0,0,0,0,0,0
+6649,Óscar de Marcos Arana,90,0,0,0.0,0,32,22,1,3,0.29568435600000004,0,0,9,0,2,0,6,2,5,2,1,2,3,3,1,15
+6666,Sabin Merino Zuloaga,45,0,0,0.0,0,12,4,0,0,0.0,2,0,2,1,0,0,3,0,5,3,0,0,0,0,0,6
+6788,Xabier Etxeita Gorritxategi,90,0,0,0.0,0,22,17,0,0,0.0,0,0,4,0,1,0,6,0,4,0,1,0,1,1,0,7
+6789,Mikel Balenziaga Oruesagasti,90,0,0,0.0,0,37,29,0,0,0.0,1,0,5,0,3,2,1,0,4,0,1,2,3,1,0,11
+12191,Gorka Elustondo Urkola,3,0,0,0.0,0,3,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+26087,Carlos Gurpegi Nausia,90,1,0,0.059905443,0,35,28,0,0,0.0,0,0,1,1,4,3,4,0,3,1,7,4,1,2,0,10

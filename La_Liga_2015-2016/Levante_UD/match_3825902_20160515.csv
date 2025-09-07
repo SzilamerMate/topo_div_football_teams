@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5678,Jefferson Andrés Lerma Solís,90,2,0,0.0214608114,0,35,30,0,1,0.04186838,1,0,5,2,2,0,7,3,7,1,0,0,2,3,1,14
+6668,José Luis Morales Nogales,16,0,0,0.0,0,7,6,0,1,0.062322088,2,1,5,0,0,0,0,0,1,2,0,0,1,0,0,3
+6784,Antonio García Aranda,54,0,0,0.0,0,32,26,0,0,0.0,1,0,7,1,0,0,2,0,4,4,1,3,3,0,0,10
+8801,Iván López Mendoza,90,0,0,0.0,0,45,35,0,0,0.0,2,1,6,1,1,0,6,1,3,1,4,0,4,2,0,10
+23791,Víctor Casadesús Castaño,57,0,0,0.0,0,22,14,0,0,0.0,1,1,3,0,2,1,1,0,0,1,0,0,0,0,0,6
+23843,Diego Mariño Villar,90,0,0,0.0,0,48,28,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+23943,Rubén García Santos,90,2,0,0.060017169999999995,0,33,23,0,0,0.0,5,3,9,2,4,1,5,2,5,2,0,0,1,3,1,23
+24149,José Antonio García Rabasco,90,3,1,0.86792025,1,51,39,0,1,0.13803844,0,0,4,3,1,1,5,3,7,1,1,0,0,4,1,32
+25134,Deyverson Brum Silva Acosta,33,1,0,0.062322088,0,11,5,0,0,0.0,1,1,1,0,0,0,4,0,2,2,1,0,2,1,0,8
+26012,David Navarro Pedrós,90,0,0,0.0,0,48,40,0,0,0.0,0,0,5,1,0,0,2,0,0,0,3,0,0,2,0,9
+26023,Juan Francisco García García,36,0,0,0.0,0,16,11,0,0,0.0,1,0,2,0,0,0,3,3,1,0,1,1,1,3,1,2
+27122,Simão Mate,90,1,0,0.13803844,0,44,36,0,0,0.0,3,2,6,1,3,1,3,1,5,0,2,1,1,1,1,15
+27123,Jordi Xumetra Feliu,74,2,0,0.45295766,1,25,14,0,0,0.0,0,0,5,0,0,0,3,0,6,1,0,0,1,1,0,15
+27656,Carl Medjani,90,0,0,0.0,0,49,44,0,0,0.0,0,0,5,0,1,0,0,0,1,0,2,2,1,0,0,6

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2999,Presnel Kimpembe,90,0,0,0.0,0,64,55,0,0,0.0,0,0,4,0,0,0,7,2,6,1,4,2,1,6,0,14
+3025,Christopher Nkunku,90,0,0,0.0,0,81,76,0,2,0.044665626,0,0,12,3,3,0,4,2,2,1,1,1,1,3,0,17
+3745,Lucas Rodrigues Moura da Silva,90,4,2,1.372041636,3,63,47,0,2,0.07388570800000001,3,1,10,4,2,0,4,2,9,6,0,0,3,3,1,14
+4326,Layvin Kurzawa,90,4,0,0.21605647300000003,0,57,50,1,1,0.15288496,2,1,7,2,1,0,4,0,4,1,1,3,2,3,0,9
+4372,Marcos Aoás Corrêa,87,0,0,0.0,0,68,64,0,0,0.0,0,0,2,0,0,0,3,0,6,0,5,0,3,3,0,14
+4375,Blaise Matuidi,90,1,0,0.18792151,1,96,86,0,2,0.079724934,3,0,22,1,3,1,2,1,8,2,3,1,2,1,0,30
+4440,Kevin Trapp,45,0,0,0.0,0,8,7,0,0,0.0,0,0,2,0,1,1,0,0,2,0,0,0,0,0,0,1
+4902,Kevin Rimane,3,0,0,0.0,0,8,8,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7469,Salvatore Sirigu,45,0,0,0.0,0,23,21,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+8510,Jean-Kévin Augustin,90,1,0,0.07367071,1,18,13,0,0,0.0,2,1,5,0,2,1,3,1,2,4,4,0,1,1,1,9
+8515,Benjamin Stambouli,90,0,0,0.0,0,109,101,0,1,0.09951289,0,0,13,1,3,1,11,7,9,3,1,1,4,8,3,21
+20048,Gregory van der Wiel,90,1,0,0.04909676,0,96,86,0,0,0.0,3,2,8,0,1,0,2,1,3,2,3,3,0,2,0,9
+34539,Hervin Scicchitano Ongenda,90,3,0,0.056100028999999996,1,71,59,0,3,0.298410869,1,0,17,0,3,1,1,0,4,3,0,1,7,0,0,13

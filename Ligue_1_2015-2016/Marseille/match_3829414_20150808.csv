@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3254,Florian Thauvin,68,0,0,0.0,0,30,22,0,3,0.10584785599999999,3,3,12,0,0,0,2,1,4,2,0,0,1,1,0,5
+3261,Benjamin Mendy,90,1,0,0.006179578,0,72,59,0,1,0.24877286,0,0,10,0,0,0,3,2,15,2,2,4,2,3,0,17
+3457,Michy Batshuayi Tunga,90,4,0,0.590542644,1,14,9,0,1,0.09724145,0,0,0,3,0,0,4,0,4,5,1,0,1,0,0,8
+3543,Steve Mandanda,90,0,0,0.0,0,23,22,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+3639,Georges-Kévin Nkoudou Mbida,22,2,0,0.067595883,0,10,7,0,0,0.0,1,0,3,1,1,0,1,0,5,1,0,0,0,0,0,6
+3951,Mario Lemina,64,1,0,0.016370606,1,45,39,0,0,0.0,3,2,13,1,1,0,5,3,3,1,1,0,1,5,2,18
+4345,Lucas Ariel Ocampos,45,3,0,0.755459712,0,21,12,0,1,0.06934231,2,1,6,1,0,0,1,0,5,2,0,1,0,0,0,9
+4351,Bouna Sarr,26,2,0,0.12056734,1,17,15,0,0,0.0,2,0,5,0,0,0,1,0,4,1,0,0,0,0,0,2
+7857,Brice Dja Djédjé,90,0,0,0.0,0,75,63,0,0,0.0,3,2,11,1,3,0,7,1,7,6,3,1,0,2,1,10
+8572,Karim Rekik,90,0,0,0.0,0,66,58,0,0,0.0,0,0,10,2,1,0,5,2,2,0,4,0,3,3,1,10
+10036,Jacques-Alaixys Romao,90,1,0,0.03748452,0,52,43,0,0,0.0,0,0,6,0,1,0,9,1,8,1,5,1,2,6,0,13
+13634,Stéphane Sparagna,90,1,0,0.107702516,0,72,60,0,0,0.0,0,0,13,2,1,1,6,3,7,0,6,1,1,5,1,13
+15296,Romain Alessandrini,45,1,0,0.006231052,0,21,15,0,0,0.0,4,0,5,0,1,0,1,0,4,1,0,0,0,0,0,5
+23933,Abdelaziz Barrada,90,2,0,0.11493089000000001,0,82,54,0,6,0.5077527810000001,1,1,7,1,1,0,4,0,2,3,2,2,1,0,0,9

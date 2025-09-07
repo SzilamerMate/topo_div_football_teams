@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3044,Chancel Mbemba Mangulu,90,1,0,0.023575447,0,43,37,0,0,0.0,2,2,11,2,0,0,4,2,2,0,10,3,2,4,1,14
+3057,Jonjo Shelvey,90,4,0,0.182699562,2,66,48,0,1,0.023575447,0,0,5,2,0,0,5,1,6,0,2,0,1,2,1,12
+3076,Ayoze Pérez Gutiérrez,90,4,0,0.34531645000000005,1,34,25,0,0,0.0,6,4,6,1,5,0,6,2,9,3,0,2,3,2,2,18
+3081,Jamaal Lascelles,90,0,0,0.0,0,50,47,0,0,0.0,0,0,4,0,0,0,1,0,0,0,7,3,0,1,0,7
+3091,Moussa Sissoko,90,2,0,0.272309855,1,47,29,0,1,0.09701248,6,5,8,0,0,0,6,1,5,3,3,2,2,3,1,16
+3096,Rob Elliot,90,0,0,0.0,0,31,20,0,0,0.0,0,0,4,0,0,0,0,0,3,0,0,0,0,0,0,0
+3297,Andros Townsend,75,2,0,0.082200341,1,26,20,0,6,0.7223076549999999,2,2,17,0,0,0,2,1,3,6,0,1,3,1,0,17
+3567,Georginio Wijnaldum,90,0,0,0.0,0,51,46,1,2,0.161869017,4,2,8,0,1,0,3,0,9,3,2,1,0,1,0,13
+3650,Daryl Janmaat,70,0,0,0.0,0,33,26,0,0,0.0,0,0,6,2,0,0,0,0,4,2,2,4,1,0,0,8
+4269,Aleksandar Mitrović,90,4,1,0.58185123,2,26,20,0,1,0.024955885,1,0,3,5,1,1,10,0,1,2,1,0,3,1,0,9
+8061,Siem Stefan de Jong,29,0,0,0.0,0,15,13,0,0,0.0,0,0,1,0,1,0,4,0,3,1,1,0,1,2,0,7
+9649,Jack Colback,61,0,0,0.0,0,40,32,0,0,0.0,1,1,3,4,1,1,3,2,0,0,3,4,0,3,1,13
+16072,Vurnon Anita,20,0,0,0.0,0,17,14,0,1,0.025313828,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,6
+30289,Papiss Demba Cissé,15,0,0,0.0,0,4,4,0,0,0.0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0

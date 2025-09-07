@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3501,Philippe Coutinho Correia,90,3,1,0.5659711449999999,1,70,61,0,0,0.0,10,6,14,1,2,0,1,0,10,3,0,1,4,1,0,31
+5203,Sergio Busquets i Burgos,64,1,0,0.06945103,0,59,55,0,0,0.0,1,1,1,0,1,0,2,0,1,0,0,0,0,2,0,18
+5213,Gerard Piqué Bernabéu,79,0,0,0.0,0,57,54,0,0,0.0,0,0,7,0,0,0,1,1,4,0,0,1,1,1,0,4
+5216,Andrés Iniesta Luján,60,1,0,0.026246391,0,53,48,1,1,0.20992146,2,1,6,0,0,0,0,0,1,1,0,0,0,0,0,12
+5246,Luis Alberto Suárez Díaz,30,0,0,0.0,0,13,8,0,1,0.07338555,2,1,3,0,0,0,1,0,0,0,0,0,0,0,0,6
+5470,Ivan Rakitić,26,0,0,0.0,0,16,15,1,1,0.7637712,2,2,7,1,0,0,0,0,3,0,0,1,0,0,0,8
+5477,Ousmane Dembélé,90,3,2,1.0119968400000001,3,48,39,0,1,0.06945103,6,3,13,0,3,0,1,1,3,2,0,0,1,1,0,26
+5503,Lionel Andrés Messi Cuccittini,90,4,1,0.387051994,1,79,68,0,1,0.045645855,4,4,17,1,4,1,0,0,5,1,0,1,0,0,0,11
+5542,José Paulo Bezzera Maciel Júnior,90,1,1,0.8504193,1,55,53,0,1,0.053563748,1,0,4,0,2,0,1,1,3,0,1,0,0,1,0,25
+6196,Yerry Fernando Mina González,11,0,0,0.0,0,5,5,0,0,0.0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1,1
+6332,Thomas Vermaelen,90,0,0,0.0,0,56,51,0,0,0.0,0,0,7,3,0,0,2,1,5,0,3,1,2,2,0,2
+6374,Nélson Cabral Semedo,90,0,0,0.0,0,62,59,0,1,0.06494319,2,2,8,1,1,0,2,1,5,1,0,0,0,1,0,4
+6849,Lucas Digne,90,0,0,0.0,0,66,57,1,1,0.8504193,2,1,3,1,3,0,2,1,2,2,0,2,4,2,1,9
+8652,Jasper Cillessen,90,0,0,0.0,0,27,20,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6625,Vicente Guaita Panadero,90,0,0,0.0,0,25,18,0,0,0.0,0,0,1,0,0,0,0,0,7,0,0,0,0,0,0,0
+6627,Damián Nicolás Suárez Suárez,90,0,0,0.0,0,68,56,0,1,0.02405611,2,0,2,1,3,2,4,1,5,0,2,3,1,2,0,16
+6720,Pablo Sarabia García,75,2,0,0.110623102,1,45,25,0,3,0.52152422,5,2,9,2,3,0,1,0,2,3,0,1,0,0,0,15
+6736,Álvaro Medrán Just,90,3,0,0.137039034,1,44,36,0,1,0.06487159,4,2,7,3,5,1,2,0,4,2,1,0,0,0,0,19
+6745,Mehdi Lacen,90,0,0,0.0,0,55,48,0,1,0.030255707,0,0,11,2,0,0,2,0,12,2,0,0,0,1,0,17
+6856,Carlos Martín Vigaray,54,0,0,0.0,0,24,17,0,0,0.0,0,0,4,1,0,0,3,2,0,0,1,2,4,3,0,14
+6861,Juan Torres Ruiz,90,0,0,0.0,0,27,20,0,0,0.0,0,0,0,1,0,0,4,2,3,0,4,1,1,3,0,7
+6907,Pedro León Sánchez Gil,90,9,0,0.396899516,4,47,30,1,4,0.34202523900000004,15,11,20,0,1,0,1,0,9,2,0,0,2,0,0,12
+11675,Moisés Gómez Bordonado,65,0,0,0.0,0,26,21,0,0,0.0,2,1,5,0,0,0,1,1,5,1,0,0,1,1,0,11
+11813,Emiliano Buendía,25,1,0,0.11129247,0,23,19,0,0,0.0,1,1,6,0,1,0,0,0,2,1,1,0,1,0,0,3
+23416,Stefan Šćepović,36,2,1,0.25591115,2,12,12,0,2,0.123435576,0,0,2,0,0,0,1,0,1,2,1,0,1,0,0,4
+24035,Álvaro Vázquez García,90,1,0,0.38304046,0,17,12,0,2,0.119496525,2,0,0,2,1,1,6,1,2,1,0,1,1,1,0,16
+27092,Abdoul Karim Yoda,15,0,0,0.0,0,6,4,0,0,0.0,1,0,3,1,1,0,0,0,3,0,0,0,0,0,0,4
+27403,Santiago Vergini,90,1,0,0.006869377,0,45,32,0,0,0.0,1,1,5,2,0,0,3,2,5,0,1,5,0,3,0,11

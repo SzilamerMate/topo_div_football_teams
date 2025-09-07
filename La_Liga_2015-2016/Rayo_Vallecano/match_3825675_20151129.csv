@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4711,Pablo Hernández Domínguez,90,3,0,0.250490641,1,56,41,0,2,0.10476232599999999,1,1,8,1,1,0,2,0,3,2,2,0,1,1,0,7
+6713,Diego Javier Llorente Ríos,90,0,0,0.0,0,58,49,0,0,0.0,1,1,11,2,1,0,10,2,12,0,5,1,2,2,0,14
+6852,Jozabed Sánchez Ruiz,45,0,0,0.0,0,21,14,0,0,0.0,0,0,1,0,1,0,2,1,2,0,0,1,0,1,0,5
+6914,Roberto Román Triguero,90,0,0,0.0,0,62,52,0,0,0.0,2,2,5,3,0,0,4,2,7,0,3,2,0,2,0,8
+7900,Tiago Manuel Dias Correia,45,1,0,0.016881881,0,43,29,0,3,0.6509174799999999,3,1,9,0,1,0,2,1,3,2,0,0,0,1,0,5
+11298,José Ignacio Martínez García,90,2,0,0.1306454674,0,71,56,0,0,0.0,1,1,11,3,1,1,4,2,10,1,4,1,3,2,1,18
+11539,Adrián Embarba Blázquez,60,1,0,0.052911405,0,25,9,0,0,0.0,2,0,5,0,1,0,7,2,6,4,1,0,1,3,1,12
+11542,Javier Guerra Rodríguez,90,2,0,0.5189158,1,31,23,0,2,0.159171301,2,0,4,1,4,0,5,1,4,3,1,0,0,1,0,10
+23761,Alhassane Bangoura,30,0,0,0.0,0,22,14,0,4,0.49824420799999997,1,1,2,0,1,0,2,0,0,1,0,0,0,0,0,1
+24255,Juan Carlos Martín Corral,90,0,0,0.0,0,51,37,0,0,0.0,0,0,5,0,0,0,0,0,6,0,0,0,0,0,0,1
+26607,José Raúl Baena Urdiales,90,2,0,0.117548405,0,70,62,0,0,0.0,3,2,11,4,3,2,6,1,5,1,1,2,2,1,1,14
+26690,Alberto Mateus Contreiras Gonçalves,45,2,0,0.39760025,0,9,8,0,1,0.052809898,0,0,0,0,2,1,4,2,1,3,0,0,0,3,0,8
+26848,Roberto Trashorras Gayoso,90,2,0,0.122264906,1,51,39,0,0,0.0,2,2,4,4,1,0,4,2,6,1,2,1,2,3,1,15
+27144,Antonio Amaya Carazo,45,0,0,0.0,0,30,26,0,0,0.0,0,0,7,1,0,0,6,1,5,1,2,1,0,1,0,1

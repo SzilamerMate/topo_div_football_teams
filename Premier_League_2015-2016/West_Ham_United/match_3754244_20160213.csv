@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3062,Aaron Cresswell,90,1,0,0.01541059,0,53,39,0,0,0.0,1,0,8,0,1,0,1,0,6,0,0,4,2,0,0,17
+3349,Michail Antonio,69,1,0,0.12377208,1,19,8,0,0,0.0,1,0,4,3,2,1,2,0,3,1,1,1,4,0,0,8
+3482,James Collins,90,1,0,0.0708312,0,35,18,0,0,0.0,0,0,3,2,0,0,5,0,2,0,10,3,1,1,0,10
+3491,Dimitri Payet,90,2,1,0.518283557,2,52,34,1,3,0.122724175,2,1,7,0,1,0,1,0,4,3,0,0,0,0,0,12
+3586,Samuel Mark Byram,90,0,0,0.0,0,42,32,0,0,0.0,0,0,4,1,2,0,2,0,6,0,3,2,3,1,0,12
+3623,Adrián San Miguel del Castillo,90,0,0,0.0,0,31,14,0,0,0.0,0,0,5,0,0,0,0,0,8,0,0,0,0,0,0,0
+3843,Angelo Obinze Ogbonna,90,0,0,0.0,0,39,32,0,0,0.0,0,0,4,0,1,1,3,0,4,0,2,6,0,0,0,6
+3874,Mark Noble,90,1,1,0.0830776,1,60,45,0,2,0.067508864,2,1,3,0,0,0,5,1,7,1,0,2,2,1,0,11
+3897,Pedro Mba Obiang Avomo,90,1,0,0.028926473,0,49,33,0,0,0.0,2,2,2,3,3,0,4,3,10,4,1,2,2,3,0,22
+3963,Victor Moses,29,2,0,0.184658374,1,9,9,0,0,0.0,6,4,8,0,2,1,1,0,2,1,0,2,0,0,0,4
+4271,Andy Carroll,29,0,0,0.0,0,16,12,0,2,0.6354018,0,0,1,1,1,0,6,1,3,1,0,2,1,1,0,5
+27053,Alexandre Dimitri Song-Billong,61,0,0,0.0,0,36,29,0,0,0.0,2,1,2,1,0,0,5,4,10,0,0,0,0,5,1,17
+28559,Enner Remberto Valencia Lastra,61,1,0,0.010720102,1,10,6,0,0,0.0,0,0,7,0,4,0,8,0,1,4,0,1,1,1,0,7
+128704,Emmanuel Emenike,21,2,0,0.6354018,0,10,7,0,1,0.1325601,1,1,1,0,0,0,3,1,1,1,0,0,1,1,1,11

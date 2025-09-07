@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6614,Alexis Ruano Delgado,90,0,0,0.0,0,57,48,0,1,0.04515537,0,0,4,2,0,0,1,0,4,1,0,2,0,1,0,5
+6625,Vicente Guaita Panadero,90,0,0,0.0,0,37,24,0,0,0.0,1,1,3,0,0,0,0,0,5,0,0,0,0,0,0,0
+6627,Damián Nicolás Suárez Suárez,90,1,0,0.011252983,0,54,45,0,0,0.0,1,1,5,1,2,0,5,1,4,1,1,1,1,2,1,15
+6720,Pablo Sarabia García,61,2,0,0.20172381,2,42,21,0,1,0.035462946,1,1,9,1,2,0,0,0,3,2,0,0,2,0,0,15
+6736,Álvaro Medrán Just,24,0,0,0.0,0,23,22,0,0,0.0,0,0,6,1,1,0,2,0,1,2,0,0,0,0,0,3
+6745,Mehdi Lacen,90,0,0,0.0,0,90,77,0,0,0.0,1,1,15,1,5,0,5,2,5,3,0,1,1,4,0,14
+6856,Carlos Martín Vigaray,90,0,0,0.0,0,52,46,0,0,0.0,0,0,5,3,1,0,5,1,7,2,1,5,1,3,0,12
+6907,Pedro León Sánchez Gil,76,4,0,0.073596473,0,45,27,0,1,0.022397175,4,1,8,4,5,1,0,0,5,3,0,0,0,0,0,10
+11813,Emiliano Buendía,29,0,0,0.0,0,21,17,0,0,0.0,1,0,2,0,3,0,1,0,4,1,0,0,0,0,0,2
+15893,Víctor Rodríguez Romero,90,1,0,0.035462946,0,47,42,0,1,0.26258382,3,2,9,0,2,0,5,0,1,1,0,0,2,1,0,16
+24035,Álvaro Vázquez García,90,4,0,0.765372473,0,12,7,0,1,0.03411531,0,0,0,0,1,1,6,0,5,3,0,0,1,0,0,13
+25881,Juan Antonio Rodríguez Villamuela,66,0,0,0.0,0,41,37,0,1,0.023113428,1,0,6,0,3,0,2,0,4,2,1,1,0,1,0,13
+27403,Santiago Vergini,90,0,0,0.0,0,55,52,0,0,0.0,2,0,13,2,0,0,2,0,8,0,0,3,1,0,0,2
+27970,Ian González Nieto,14,1,0,0.26258382,0,11,9,0,0,0.0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6339,Gotoku Sakai,90,0,0,0.0,0,49,33,0,0,0.0,2,1,4,1,2,2,9,2,4,2,6,1,1,4,1,13
+6359,Johan Danon Djourou-Gbadjere,90,0,0,0.0,0,49,34,0,0,0.0,0,0,6,0,0,0,3,1,6,0,6,0,2,1,0,7
+8308,Aaron Hunt,90,1,0,0.040761277,0,35,24,0,1,0.06738162,0,0,5,3,2,1,5,2,2,2,0,1,2,3,0,18
+8309,Michael Gregoritsch,73,1,0,0.06738162,0,29,19,0,0,0.0,0,0,0,1,1,0,4,1,2,2,1,2,2,1,1,9
+8547,Matthias Ostrzolek,90,0,0,0.0,0,37,27,0,0,0.0,1,1,5,2,2,1,4,2,4,0,4,3,1,2,2,9
+8891,Lewis Harry Holtby,83,0,0,0.0,0,41,34,0,0,0.0,2,2,5,1,1,0,2,0,3,0,1,1,2,1,0,24
+8895,Pierre-Michel Lasogga,63,1,0,0.20410937,0,11,10,0,1,0.040761277,0,0,0,1,0,0,1,0,0,2,0,0,3,0,0,14
+9407,Gojko Kačar,90,0,0,0.0,0,30,21,0,0,0.0,0,0,2,5,1,0,7,1,6,0,1,1,2,3,0,23
+19289,Ivica Olić,27,1,0,0.051273946,0,9,5,0,0,0.0,0,0,0,2,0,0,1,0,2,0,0,0,1,0,0,10
+23499,Jaroslav Drobný,90,0,0,0.0,0,30,19,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0
+24205,Nabil Bahoui,17,0,0,0.0,0,4,3,0,1,0.06417712,1,1,0,1,0,0,1,0,1,0,1,0,0,0,0,3
+24740,Ivo Iličević,90,1,0,0.06417712,0,25,16,0,2,0.255383316,2,2,8,3,1,0,1,0,3,1,0,0,4,0,0,16
+26791,Emir Spahić,90,0,0,0.0,0,37,27,0,0,0.0,0,0,8,0,0,0,5,1,2,0,8,1,2,2,0,4
+40468,Cleber Janderson Pereira Reis,7,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1

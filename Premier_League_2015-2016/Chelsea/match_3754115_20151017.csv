@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3339,Asmir Begović,90,0,0,0.0,0,30,9,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+3381,Nemanja Matić,45,0,0,0.0,0,28,20,0,0,0.0,0,0,1,0,0,0,6,4,4,0,0,2,1,5,0,14
+3456,Kurt Happy Zouma,90,1,0,0.033593222,0,28,17,0,0,0.0,0,0,2,0,1,0,4,0,2,1,2,0,0,0,0,4
+3472,Willian Borges da Silva,91,1,0,0.007511349,1,36,31,1,4,0.875827078,3,2,12,3,4,0,4,1,6,5,2,1,0,2,0,18
+3478,Francesc Fàbregas i Soler,90,1,0,0.077776186,0,83,64,0,2,0.134348223,2,0,2,2,1,0,5,1,8,2,2,0,2,3,0,24
+3504,Ruben Loftus-Cheek,45,1,0,0.04386382,0,11,6,0,0,0.0,4,2,3,1,1,0,4,1,5,1,0,0,1,1,1,17
+3621,Eden Hazard,8,0,0,0.0,0,7,4,0,0,0.0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,1
+3957,César Azpilicueta Tanco,90,0,0,0.0,0,57,35,0,0,0.0,1,0,5,3,2,1,9,3,6,0,3,1,2,7,1,31
+3958,Pedro Eliezer Rodríguez Ledesma,82,2,0,0.06111979099999999,0,29,21,0,1,0.04386382,1,0,8,4,4,2,5,2,7,0,0,1,1,4,1,33
+5198,Diego da Silva Costa,90,2,1,0.7862650600000001,2,31,22,0,1,0.038559288,2,1,10,2,2,1,11,2,3,2,0,0,2,3,1,20
+12325,Abdul Rahman Baba,90,0,0,0.0,0,51,41,0,0,0.0,0,0,3,3,0,0,7,4,4,3,3,2,4,6,1,21
+20287,John Terry,90,1,0,0.08998033,0,37,34,0,0,0.0,0,0,1,0,0,0,5,1,0,0,4,0,1,1,0,6
+28100,Ramires Santos do Nascimento,90,0,0,0.0,0,37,30,0,0,0.0,2,1,4,5,4,2,15,5,7,0,3,1,4,7,1,43

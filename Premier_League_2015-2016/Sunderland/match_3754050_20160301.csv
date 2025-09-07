@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3196,Wahbi Khazri,90,1,0,0.04054051,0,49,36,0,3,0.40528823900000005,4,3,10,0,2,0,4,1,2,1,0,2,0,3,1,24
+3321,Patrick van Aanholt,90,2,0,0.062359546,0,44,33,0,0,0.0,1,0,6,0,1,0,0,0,4,3,2,0,2,0,0,19
+3337,Jermain Defoe,90,3,0,0.246182996,2,16,14,1,4,0.150000352,2,1,1,1,0,0,2,0,2,2,0,0,1,1,0,15
+3658,DeAndre Yedlin,90,0,0,0.0,0,53,32,1,2,0.056768113,3,2,8,2,2,1,5,2,5,3,0,1,5,4,1,23
+4429,Yann Gérard M''Vila,90,2,0,0.045368433,0,65,58,0,6,0.31809662600000005,0,0,17,1,2,1,0,0,14,1,2,1,2,0,0,11
+4746,Younes Kaboul,63,2,0,0.37272109600000003,0,30,20,0,0,0.0,0,0,5,0,0,0,3,1,2,0,2,0,1,1,0,12
+7171,Fabio Borini,11,1,1,0.006758516,1,8,3,0,0,0.0,0,0,1,0,0,0,2,1,1,0,0,0,1,1,0,3
+9539,Vito Mannone,90,0,0,0.0,0,42,29,0,0,0.0,0,0,2,0,2,1,0,0,5,0,0,0,0,0,0,0
+10783,Lee Cattermole,16,0,0,0.0,0,9,7,0,0,0.0,0,0,2,0,1,1,1,0,2,0,0,1,0,1,0,3
+13286,Lamine Koné,90,0,0,0.0,0,42,32,0,0,0.0,0,0,10,0,1,1,3,1,9,1,3,3,1,1,1,11
+13846,Jan Kirchhoff,63,0,0,0.0,0,42,30,0,0,0.0,0,0,7,1,2,1,4,2,5,1,3,1,1,2,1,17
+16295,Dame N''Doye,90,5,1,0.15188838,2,36,29,0,0,0.0,2,0,5,6,3,0,7,0,7,2,3,0,1,1,0,23
+16890,John O''Shea,27,0,0,0.0,0,8,3,0,0,0.0,0,0,0,1,0,0,3,1,1,0,1,0,1,1,0,4
+18751,Jack Rodwell,90,3,0,0.129909184,1,40,31,0,0,0.0,2,1,5,2,0,0,4,1,1,1,1,1,1,1,0,20

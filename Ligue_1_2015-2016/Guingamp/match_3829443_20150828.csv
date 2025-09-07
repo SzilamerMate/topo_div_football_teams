@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2936,Christophe Kerbrat,90,0,0,0.0,0,30,22,0,0,0.0,0,0,4,0,0,0,1,0,0,0,10,0,3,1,0,8
+3121,Moustapha Elhadji Diallo,76,1,0,0.09252494,0,27,23,0,0,0.0,0,0,3,3,0,0,7,3,7,0,3,1,2,6,3,22
+3124,Jérémy Sorbon,90,0,0,0.0,0,30,25,0,0,0.0,0,0,3,0,2,1,2,1,3,0,4,1,2,2,0,11
+3213,Jimmy Briand,90,3,0,0.193533745,1,30,20,1,2,0.8141066,1,1,8,1,2,1,3,1,8,8,0,0,2,1,0,20
+3301,Nicolas Benezet,90,2,1,0.043735955,2,31,27,0,3,0.21292823500000002,4,0,10,2,1,0,2,1,8,3,1,0,1,1,0,19
+3322,Jonas Lössl,90,0,0,0.0,0,23,12,0,0,0.0,1,1,1,0,1,1,0,0,4,0,0,0,0,0,0,0
+3348,Younousse Sankharé,90,1,0,0.046019237,0,38,29,0,0,0.0,2,0,9,1,1,1,4,0,7,1,0,0,0,3,0,31
+3363,Marcus Coco,91,1,0,0.0379159,0,17,7,0,1,0.046019237,3,2,5,3,5,0,6,1,5,1,0,0,1,4,0,16
+4799,Sloan Privat,75,2,1,1.5596907,2,13,10,0,1,0.07313045,0,0,2,1,0,0,6,0,4,2,1,0,0,0,0,10
+7483,Mana Dembélé,15,1,0,0.0541316,0,3,1,0,0,0.0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,1
+20199,Lars Christian Jacobsen,90,0,0,0.0,0,31,22,0,0,0.0,0,0,2,1,1,1,1,0,1,0,1,0,2,0,0,6
+401512,Lionel Mathis,14,0,0,0.0,0,9,8,1,2,0.08871592,0,0,0,0,0,0,1,1,1,0,1,0,0,1,1,3
+401513,Reynald Lemaître,90,0,0,0.0,0,36,22,0,0,0.0,1,0,4,1,0,0,5,2,4,0,6,1,4,5,0,19

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2947,Anthony Lopes,90,0,0,0.0,0,25,19,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+3118,Jordan Ferri,45,1,0,0.069237985,1,41,38,0,2,0.131743005,4,1,10,0,2,0,4,0,3,0,0,1,0,3,0,9
+3156,Rafael Pereira da Silva,90,2,1,0.54700814,1,63,57,0,1,0.021113984,4,3,12,1,2,1,4,2,9,0,3,1,1,3,1,13
+3162,Gnaly Maxwell Cornet,14,0,0,0.0,0,9,9,0,2,0.149451017,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+3236,Sergi Darder Moll,45,2,0,0.047794448,0,34,30,0,0,0.0,0,0,4,0,1,0,1,1,3,2,0,0,0,1,0,6
+3372,Rachid Ghezzal,45,2,0,0.157996193,0,33,28,0,1,0.17323588,6,4,10,1,2,1,3,2,2,1,0,0,1,2,1,9
+3451,Alexandre Lacazette,90,2,0,0.218696898,1,32,25,0,1,0.069237985,7,6,5,1,1,0,3,0,1,3,0,0,1,1,0,8
+4410,Christophe Jallet,90,1,0,0.065827705,1,78,63,0,1,0.043209773,2,1,3,2,1,0,4,2,2,3,2,1,1,3,1,15
+4463,Mapou Yanga-Mbiwa,76,0,0,0.0,0,58,56,0,0,0.0,0,0,10,4,0,0,2,1,3,1,4,0,0,2,0,8
+5480,Corentin Tolisso,90,1,0,0.021113984,0,69,61,0,0,0.0,1,1,16,6,4,1,5,1,7,1,2,1,3,2,0,18
+5492,Samuel Yves Umtiti,90,1,0,0.014760859,0,75,66,0,0,0.0,0,0,16,1,1,1,2,0,7,0,10,1,1,1,0,11
+6600,Claudio Beauvue,45,1,0,0.0089546805,1,14,12,0,1,0.026340956,0,0,4,0,0,0,3,1,1,0,1,0,1,1,1,7
+6982,Maxime Gonalons,90,0,0,0.0,0,72,63,0,0,0.0,1,1,12,2,2,0,9,3,5,1,1,0,2,5,1,23
+18868,Mathieu Valbuena,90,5,0,0.201779938,2,75,60,0,1,0.0089546805,3,1,10,1,2,0,2,0,7,1,0,0,0,0,0,13

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3098,Victor Wanyama,90,2,0,0.08931006799999999,2,44,37,0,0,0.0,2,2,9,2,4,0,6,2,13,0,2,2,1,3,1,17
+3272,Oriol Romeu Vidal,55,1,0,0.011724333,0,27,23,0,1,0.19884655,0,0,1,0,0,0,4,2,2,0,0,1,2,3,1,8
+3300,Maya Yoshida,90,0,0,0.0,0,50,36,0,0,0.0,0,0,3,1,1,0,2,1,6,0,0,0,1,2,0,8
+3328,James Ward-Prowse,75,1,0,0.0530097,1,23,17,0,2,0.32338782400000005,1,1,0,1,0,0,0,0,2,0,1,1,4,0,0,15
+3590,Rhu-endly Martina,45,0,0,0.0,0,19,16,0,1,0.03538879,1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,3
+3629,Sadio Mané,90,1,0,0.30014178,1,32,28,1,3,0.37031943,3,2,16,2,6,2,4,1,4,2,0,0,2,2,0,18
+3651,Matt Targett,45,0,0,0.0,0,20,18,0,1,0.0530097,1,1,2,0,0,0,0,0,1,0,1,0,1,0,0,5
+3669,Virgil van Dijk,90,0,0,0.0,0,26,21,0,1,0.04763532,0,0,4,1,1,1,5,2,6,0,7,2,0,2,0,8
+3828,Steven Davis,35,0,0,0.0,0,22,22,0,0,0.0,1,1,1,0,0,0,2,1,4,0,0,0,0,1,1,10
+3831,Dušan Tadić,90,2,0,0.21581692000000002,0,29,18,0,3,0.13049993299999998,2,0,4,1,2,1,1,0,3,2,0,0,1,0,0,9
+3842,Shane Long,15,0,0,0.0,0,9,7,0,1,0.08025907,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,6
+3960,José Miguel da Rocha Fonte,90,3,0,0.12109951999999999,2,63,52,0,0,0.0,0,0,11,1,0,0,2,0,4,1,2,0,0,0,0,6
+11062,Graziano Pellè,90,6,2,0.982574807,2,35,23,0,0,0.0,3,3,4,1,1,0,5,1,1,3,1,0,1,2,0,16
+20201,Maarten Stekelenburg,90,0,0,0.0,0,32,19,0,0,0.0,0,0,5,0,0,0,0,0,4,0,0,0,1,0,0,1

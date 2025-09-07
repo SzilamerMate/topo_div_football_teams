@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3186,Julian Draxler,90,4,1,0.305568255,1,31,24,0,2,0.18205327000000002,4,2,7,0,0,0,2,0,1,3,1,1,0,1,0,12
+3197,Dante Bonfim da Costa Santos,90,0,0,0.0,0,85,77,0,0,0.0,0,0,18,2,1,1,5,2,3,0,1,0,2,2,1,6
+3545,Luiz Gustavo Dias,90,3,0,0.68613106,1,72,67,0,0,0.0,0,0,11,2,0,0,5,2,6,0,0,0,1,2,0,17
+4600,Diego Orlando Benaglio,90,0,0,0.0,0,47,40,0,0,0.0,0,0,4,0,0,0,0,0,8,0,0,0,0,0,0,0
+5544,Ricardo Iván Rodríguez Araya,90,0,0,0.0,0,87,73,0,2,0.09138774,1,1,8,0,0,0,3,0,6,2,3,2,0,2,0,6
+8230,Josuha Guilavogui,90,1,0,0.0223164,1,79,75,0,1,0.02237597,1,1,9,2,0,0,4,0,9,1,2,1,1,1,0,18
+8386,Max Kruse,65,3,0,0.34266251,2,25,19,0,1,0.04153224,0,0,4,1,1,0,3,0,4,3,0,0,1,0,0,7
+8516,Ronaldo Aparecido Rodrigues,90,0,0,0.0,0,85,75,0,0,0.0,1,1,15,2,3,1,3,0,3,0,5,2,3,2,0,9
+8521,Daniel Caligiuri,11,0,0,0.0,0,3,3,0,0,0.0,2,0,3,0,0,0,1,0,1,0,0,0,0,0,0,3
+10281,André Schürrle,79,2,0,0.16724234,0,29,22,0,2,0.11281234500000001,2,1,5,1,2,0,3,1,6,3,0,0,2,1,1,14
+10790,Adelino André Vieira Freitas,90,2,0,0.029398533,0,61,47,1,3,0.346603417,4,3,15,1,3,0,3,1,6,3,1,0,3,1,0,13
+20200,Nicklas Bendtner,25,1,0,0.040723987,0,7,6,0,0,0.0,0,0,0,1,0,0,2,1,0,0,0,0,0,1,0,2
+24919,Sebastian Jung,90,1,0,0.008838862,0,84,68,0,1,0.6357567,2,1,14,1,1,0,1,0,4,1,1,0,1,0,0,9

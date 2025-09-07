@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3193,Bernardo Mota Veiga de Carvalho e Silva,90,1,1,0.10657987,1,18,16,0,1,0.033186577,1,1,10,0,4,1,2,0,2,2,0,2,0,1,0,19
+3204,Almamy Touré,34,0,0,0.0,0,15,11,0,0,0.0,0,0,0,1,0,0,0,0,1,0,3,2,2,0,0,4
+3245,Thomas Lemar,63,1,0,0.03569365,0,29,24,0,1,0.016697185,2,2,8,0,4,0,4,1,4,2,1,0,1,1,1,12
+3247,Fábio Henrique Tavares,90,0,0,0.0,0,45,35,1,1,0.3440622,1,1,2,0,2,1,7,2,6,0,2,2,0,4,0,15
+3374,Andrea Raggi,90,1,1,0.24577813,1,30,24,0,1,0.020277722,0,0,0,1,0,0,0,0,2,1,2,1,1,0,0,14
+3444,Danijel Subašić,90,0,0,0.0,0,36,14,0,0,0.0,0,0,5,0,0,0,0,0,4,0,0,0,0,0,0,0
+3553,Lacina Traoré,13,1,0,0.033186577,0,0,0,0,0,0.0,2,0,1,2,1,0,1,0,2,0,0,0,0,0,0,3
+3955,Tiemoué Bakayoko,90,0,0,0.0,0,40,26,0,0,0.0,2,2,3,3,3,0,10,1,4,1,1,1,2,3,0,17
+4464,Adama Traoré,56,0,0,0.0,0,29,24,1,1,0.24577813,0,0,9,2,1,0,2,0,4,2,0,0,2,1,0,15
+5727,Nabil Dirar,90,2,1,0.364339922,1,39,23,1,1,0.10657987,3,1,13,4,4,1,6,2,11,5,2,2,2,4,2,23
+6979,Stephan El Shaarawy,77,2,0,0.056391353000000005,0,23,19,0,0,0.0,0,0,8,0,0,0,5,0,2,2,1,0,1,0,0,9
+8277,Wallace Fortuna dos Santos,90,0,0,0.0,0,29,18,0,0,0.0,1,1,1,2,0,0,2,0,5,0,4,1,2,0,0,6
+10805,Ricardo Alberto Silveira de Carvalho,90,0,0,0.0,0,29,23,0,0,0.0,0,0,0,1,0,0,4,0,1,0,4,0,3,2,0,14
+11603,Mario Pašalić,27,0,0,0.0,0,8,6,0,0,0.0,0,0,3,0,0,0,2,0,2,1,0,1,0,0,0,7

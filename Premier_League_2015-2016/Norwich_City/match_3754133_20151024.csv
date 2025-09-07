@@ -1,0 +1,13 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3286,Nathan Redmond,90,3,0,0.192166391,1,50,32,0,3,0.24554817199999998,4,4,9,2,2,0,6,0,3,2,0,0,2,0,0,8
+4807,Cameron Jerome,13,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+9463,Alexander Banor Tettey,90,2,0,0.055738804,1,61,59,0,0,0.0,3,3,10,1,2,0,2,1,10,0,3,0,1,1,1,9
+9578,Jonathan Howson,90,2,0,0.059646568000000004,0,52,37,0,0,0.0,1,0,6,3,0,0,3,1,5,1,2,0,1,1,0,14
+9930,Ryan Bennett,90,1,0,0.039818533,0,45,40,0,0,0.0,0,0,4,1,0,0,2,1,2,0,15,0,2,1,0,4
+10966,Wes Hoolahan,77,2,0,0.123203658,0,47,38,0,2,0.042608057000000005,0,0,6,2,1,0,4,0,3,0,0,0,5,0,0,7
+10967,Robert Brady,90,0,0,0.0,0,83,55,0,1,0.02394382,3,2,21,1,0,0,1,0,5,0,4,3,0,0,0,7
+21212,Russell Martin,90,3,0,0.207635517,0,73,58,0,1,0.035392158,0,0,5,1,0,0,6,1,10,1,10,0,1,4,0,6
+22594,Matt Jarvis,90,1,0,0.03622137,0,43,26,0,3,0.257672289,3,2,12,0,0,0,5,1,1,1,0,0,2,1,0,4
+23635,John Ruddy,90,0,0,0.0,0,33,18,0,0,0.0,0,0,4,0,0,0,0,0,3,0,0,0,0,0,0,0
+23663,Dieumerci Mbokani Bezua,90,2,0,0.0637313,1,19,16,0,1,0.03853885,0,0,0,0,2,0,13,1,3,0,0,0,0,2,1,5
+31296,Sébastien Aymar Bassong Nguena,90,0,0,0.0,0,46,33,0,0,0.0,0,0,14,1,0,0,5,1,6,0,4,0,1,1,0,6

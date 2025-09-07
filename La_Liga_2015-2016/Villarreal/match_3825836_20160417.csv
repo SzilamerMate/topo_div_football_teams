@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3324,Eric Bertrand Bailly,90,1,0,0.18107606,0,22,20,0,0,0.0,2,2,5,1,1,0,2,1,6,1,7,0,2,2,0,7
+3379,Alphonse Areola,90,0,0,0.0,0,28,16,0,0,0.0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0
+6357,Jonathan dos Santos Ramírez,90,0,0,0.0,0,40,37,1,1,0.211052,0,0,2,2,2,2,3,2,7,4,1,0,0,2,0,25
+6609,Denis Suárez Fernández,71,1,0,0.039139174,0,30,13,0,0,0.0,2,0,8,1,0,0,1,1,1,3,1,3,2,1,1,15
+6735,Adrián López Álvarez,67,1,1,0.211052,1,34,21,0,1,0.04475993,1,0,2,1,1,1,3,0,1,0,0,0,1,1,0,16
+6737,Alfonso Pedraza Sag,60,1,0,0.055393353,1,15,10,0,1,0.023744179,2,1,4,2,1,0,1,0,3,2,0,1,2,0,0,13
+6752,Víctor Ruíz Torre,90,0,0,0.0,0,32,20,0,0,0.0,0,0,3,1,1,1,2,1,5,0,2,1,4,1,0,10
+6761,Leonardo Carrilho Baptistão,90,1,0,0.023744179,0,30,24,0,0,0.0,3,3,5,1,4,1,8,0,3,4,0,0,1,1,0,23
+6765,Rodrigo Hernández Cascante,19,0,0,0.0,0,12,9,0,0,0.0,0,0,3,0,0,0,1,1,0,1,1,1,3,1,0,5
+6771,Manuel Trigueros Muñoz,90,1,0,0.04475993,0,33,22,0,1,0.027608851,1,1,0,1,2,2,4,1,3,3,1,1,1,2,1,25
+6772,Mario Gaspar Pérez Martínez,90,1,0,0.027608851,0,49,32,0,0,0.0,0,0,1,3,0,0,8,1,2,0,2,2,6,4,0,14
+6862,Cédric Bakambu,23,0,0,0.0,0,7,4,0,0,0.0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,0,9
+6935,Adrián Marín Gómez,90,0,0,0.0,0,46,36,0,1,0.055393353,0,0,2,1,1,0,4,3,8,1,3,4,3,3,1,10
+18867,Matías Nahuel Leiva Esquivel,30,0,0,0.0,0,12,9,0,0,0.0,1,0,2,2,0,0,2,1,2,0,0,0,0,1,1,6

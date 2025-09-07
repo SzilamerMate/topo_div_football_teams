@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4913,Bojan Krkíc Pérez,5,0,0,0.0,0,4,4,0,0,0.0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0
+5216,Andrés Iniesta Luján,90,1,0,0.027552793,0,70,64,0,1,0.00610025,4,4,13,0,3,0,5,3,9,0,0,0,1,4,2,14
+5503,Lionel Andrés Messi Cuccittini,90,3,1,0.65344309,2,48,43,0,2,0.13183277,8,7,18,3,4,0,4,2,4,2,0,2,3,3,2,15
+5987,Giovani dos Santos Ramírez,10,0,0,0.0,0,4,4,1,1,0.37062803,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,4
+15516,Thierry Henry,85,3,0,0.33221446,1,16,14,0,1,0.1559478,0,0,10,0,4,2,1,1,3,5,1,0,0,1,0,14
+19757,Anderson Luís de Souza,90,5,1,0.773255433,3,83,66,0,3,0.671656,6,4,18,4,3,0,1,0,10,2,1,1,1,0,0,14
+20125,Carles Puyol i Saforcada,90,0,0,0.0,0,45,42,0,0,0.0,0,0,6,0,1,1,1,1,1,0,8,1,2,1,1,9
+20131,Xavier Hernández Creus,90,2,1,0.399402819,2,87,75,0,1,0.11495765,1,1,21,1,1,0,2,2,2,1,0,3,0,2,1,17
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,22,19,0,0,0.0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,1
+20177,Eric-Sylvain Bilal Abidal,90,0,0,0.0,0,69,60,0,1,0.020197833,1,1,7,2,2,2,4,2,7,0,3,1,0,4,1,13
+25873,Oleguer Presas Renom,90,0,0,0.0,0,42,37,0,1,0.14945343,1,0,4,1,1,0,3,0,5,2,5,0,1,2,0,16
+25879,Ronaldo de Assis Moreira,80,1,0,0.13929936,0,43,30,1,3,0.24213290299999998,3,2,10,1,2,0,2,1,2,1,0,0,0,1,1,9
+25919,Gabriel Alejandro Milito,90,1,0,0.1559478,1,70,63,0,0,0.0,1,1,6,0,1,0,1,0,6,1,9,0,1,0,0,3

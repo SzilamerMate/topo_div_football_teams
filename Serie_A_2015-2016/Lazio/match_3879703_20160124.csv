@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3103,Milan Biševac,90,0,0,0.0,0,53,46,0,0,0.0,0,0,4,0,0,0,1,0,3,0,2,0,3,0,0,14
+3145,Keita Baldé Diao,90,4,1,0.42259647,2,36,25,0,2,0.18763199000000003,7,4,20,0,1,0,1,0,3,3,0,1,0,0,0,4
+5589,Sergej Milinković-Savić,59,2,0,0.08513684399999999,1,30,17,0,1,0.03961533,2,0,4,0,2,1,6,1,4,2,1,0,2,1,1,16
+6991,Etrit Berisha,90,0,0,0.0,0,25,18,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+7107,Danilo Cataldi,90,2,1,0.059941958000000004,1,63,53,0,3,0.112097355,1,1,2,3,0,0,1,1,6,1,0,0,3,1,1,27
+7776,Antonio Candreva,90,4,2,0.907300256,2,56,44,1,4,0.3962799914,3,0,14,1,3,0,0,0,4,1,2,2,0,0,0,9
+7778,Ştefan Daniel Radu,90,1,0,0.02158069,0,52,43,0,0,0.0,1,1,9,2,0,0,5,1,11,0,4,1,0,3,0,10
+7785,Senad Lulić,90,2,0,0.060669629,0,80,56,0,2,0.18842422,2,1,22,1,0,0,6,1,9,4,1,1,1,2,1,14
+8172,Felipe Anderson Pereira Gomes,22,1,0,0.1111666,0,22,17,1,1,0.042648487,1,1,5,0,0,0,2,1,1,0,0,0,2,2,1,8
+8173,Marco Parolo,90,5,0,0.36719118939999995,1,44,38,0,2,0.053920294,1,1,4,4,2,1,7,2,8,1,1,1,5,3,2,36
+8296,Alessandro Matri,45,1,0,0.1660513,0,9,5,0,2,0.149441365,0,0,0,1,0,0,4,0,1,0,0,1,0,0,0,2
+11427,Filip Đorđević,45,1,0,0.15244345,0,11,5,0,0,0.0,1,1,2,1,2,1,3,0,3,1,0,0,1,1,0,10
+19286,Miroslav Klose,31,1,0,0.07510347,0,10,7,0,0,0.0,0,0,2,1,0,0,5,0,4,0,0,1,2,1,0,6
+26683,Abdoulay Konko,68,0,0,0.0,0,57,45,0,1,0.04757859,3,2,15,2,0,0,2,1,7,0,1,0,1,2,0,21

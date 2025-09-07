@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3610,Roque Mesa Quevedo,90,1,0,0.021463258,1,46,38,0,0,0.0,4,3,6,0,0,0,3,1,5,0,1,0,0,2,0,19
+6608,Nabil El Zhar,83,0,0,0.0,0,25,18,0,0,0.0,6,3,11,5,0,0,2,1,6,4,0,0,1,1,0,21
+6721,Willian José da Silva,16,1,0,0.023086978,0,10,8,0,0,0.0,0,0,2,0,0,0,3,0,1,0,0,1,0,0,0,0
+6928,Pedro Taunausú Domínguez Placeres,90,1,0,0.08469702,1,41,31,1,3,0.21708402100000002,4,2,12,2,4,2,5,1,6,2,1,1,3,1,1,36
+6929,José Vicente Gómez Umpiérrez,90,0,0,0.0,0,55,48,1,1,0.28228688,1,0,3,2,3,2,7,2,10,0,2,1,1,4,1,23
+6934,Jerónimo Figueroa Cabrera,24,0,0,0.0,0,12,10,0,0,0.0,3,3,3,1,0,0,0,0,2,1,1,1,0,0,0,7
+7906,David Simón Rodríguez Santana,90,0,0,0.0,0,55,41,0,1,0.17326063,1,1,5,3,0,0,4,1,10,1,3,0,7,3,0,23
+7907,Pedro Bigas Rigo,90,0,0,0.0,0,34,30,0,0,0.0,2,2,5,1,3,1,3,3,4,0,12,3,4,3,1,15
+8167,Sergio Ezequiel Araújo,74,2,1,0.29810231,1,25,20,0,2,0.19486824800000002,2,2,6,3,2,1,10,1,5,2,3,0,0,1,1,13
+8440,Aythami Artiles Oliva,90,0,0,0.0,0,34,20,0,0,0.0,0,0,2,1,1,1,3,1,3,0,8,5,2,3,0,11
+10755,Jonathan Viera Ramos,66,4,1,0.5479342110000001,1,24,17,0,1,0.08469702,1,0,5,0,2,1,5,1,4,1,0,0,0,1,0,16
+15602,Juan Carlos Valerón Santana,7,0,0,0.0,0,8,8,0,1,0.023086978,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26448,Javier Garrido Behovide,90,0,0,0.0,0,48,37,0,0,0.0,0,0,1,1,0,0,3,1,2,0,4,0,2,1,0,11
+26753,Javier Varas Herrera,90,0,0,0.0,0,43,16,0,0,0.0,1,1,2,0,0,0,0,0,6,0,0,0,0,0,0,0

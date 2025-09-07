@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7114,Gaetano Letizia,59,0,0,0.0,0,21,13,0,1,0.037777103,1,0,6,0,2,1,3,0,6,1,1,2,1,1,0,14
+7172,Simone Romagnoli,90,0,0,0.0,0,18,11,0,0,0.0,0,0,1,0,0,0,6,3,1,0,6,0,2,4,1,17
+7793,Kevin Lasagna,22,1,1,0.0939372,1,5,3,0,0,0.0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,8
+8662,Vid Belec,90,0,0,0.0,0,29,11,0,0,0.0,0,0,2,0,0,0,0,0,8,0,0,0,0,0,0,0
+11502,Antonio Di Gaudio,18,0,0,0.0,0,6,5,0,0,0.0,0,0,4,0,1,0,1,0,2,0,0,1,0,0,0,8
+15415,Matteo Mancosu,68,3,0,0.383003182,2,12,12,0,2,0.132268537,0,0,2,1,1,0,2,0,1,2,1,0,1,0,0,15
+28974,Fabio Daprelà,31,0,0,0.0,0,19,14,0,0,0.0,0,0,1,0,0,0,1,0,2,0,1,0,1,0,0,2
+31273,Marco Crimi,90,1,0,0.07184859,0,44,27,0,0,0.0,1,0,4,5,2,0,5,0,6,0,0,0,4,3,0,46
+32608,Jerry Uche Mbakogu,90,1,0,0.10880376,1,18,12,0,3,0.166212717,5,4,4,3,3,0,9,0,2,1,2,0,4,1,0,14
+45508,Emanuele Suagher,90,0,0,0.0,0,14,11,0,0,0.0,0,0,5,2,1,0,5,3,3,0,3,3,4,4,2,26
+352172,Raffaele Bianco,90,2,0,0.12821269,0,36,26,1,3,0.143780083,2,1,3,3,1,0,1,1,4,0,1,6,1,1,1,33
+387300,Cristian Zaccardo,90,0,0,0.0,0,27,12,0,0,0.0,2,0,1,0,0,0,4,1,2,1,4,0,5,2,1,9
+387472,Lorenzo Pasciuti,90,0,0,0.0,0,45,29,0,1,0.072886415,0,0,4,1,1,0,1,0,5,0,4,4,3,0,0,19
+387476,Raphael Martinho Alves de Lima,72,4,0,0.111084763,0,24,10,0,0,0.0,3,2,7,2,0,0,3,1,6,4,0,0,0,2,1,21

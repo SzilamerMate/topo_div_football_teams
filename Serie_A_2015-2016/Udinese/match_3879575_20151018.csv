@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3577,Molla Wagué,90,0,0,0.0,0,36,35,0,1,0.054317057,0,0,5,5,4,1,8,2,3,0,8,1,4,3,2,16
+3742,Orestis Karnezis,90,0,0,0.0,0,28,17,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+5204,Bruno Miguel Borges Fernandes,90,6,0,0.11882873499999999,1,54,41,0,0,0.0,1,1,11,0,2,0,11,0,6,1,1,1,3,1,0,11
+6743,Manuel Rolando Iturra Urrutia,54,0,0,0.0,0,22,18,0,0,0.0,0,0,1,1,1,1,1,1,1,0,1,0,2,1,0,9
+6938,Felipe Dias da Silva dal Belo,74,0,0,0.0,0,54,52,0,0,0.0,0,0,8,1,1,1,2,0,2,0,1,2,2,1,0,11
+7799,Danilo Larangeira,90,1,0,0.06413081,0,48,37,0,0,0.0,0,0,5,1,0,0,4,1,3,0,6,1,0,1,0,13
+7805,Stipe Perica,16,0,0,0.0,0,7,7,0,1,0.027591709,3,2,3,0,0,0,2,1,0,1,0,0,0,1,0,3
+8191,Ali Adnan Kadhim Al Tameemi,90,0,0,0.0,0,58,38,0,0,0.0,2,1,4,1,1,0,4,1,2,5,2,0,2,2,1,17
+8272,Cyril Théréau,36,4,1,0.3396891,2,19,14,0,0,0.0,1,1,3,1,2,2,1,0,2,2,0,0,0,0,0,8
+19846,Antonio Di Natale,90,0,0,0.0,0,34,22,0,3,0.063426152,1,0,3,1,2,1,1,0,2,2,0,0,0,0,0,6
+24722,Emmanuel Agyemang-Badu,28,1,0,0.005513929,0,20,18,0,1,0.026507897,1,1,4,0,0,0,1,0,2,0,0,1,2,0,0,8
+25116,Edenílson Andrade dos Santos,90,0,0,0.0,0,54,44,0,1,0.005513929,0,0,7,1,0,0,3,1,5,2,1,1,6,2,1,16
+27044,Marco Antônio De Mattos Filho,62,0,0,0.0,0,35,26,0,1,0.039308593,1,1,5,0,0,0,1,0,4,0,2,1,1,1,0,19
+40367,Francesco Lodi,90,3,0,0.091281099,2,101,85,0,3,0.09520999799999999,0,0,17,0,2,0,1,0,8,1,0,2,2,1,0,14

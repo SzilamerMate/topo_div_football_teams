@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3207,Pablo Jean Antoine Martínez,90,0,0,0.0,0,32,26,0,0,0.0,0,0,3,1,0,0,4,2,1,1,2,1,2,2,2,8
+4352,Issiaga Sylla,90,0,0,0.0,0,45,34,0,0,0.0,4,2,9,0,1,0,6,2,6,1,0,1,3,3,0,17
+7389,Amos Youga,90,0,0,0.0,0,35,23,0,1,0.024260618,0,0,9,6,0,0,0,0,3,0,0,2,2,0,0,27
+7428,Alexandre Coeff,90,0,0,0.0,0,34,27,0,0,0.0,1,1,3,0,0,0,1,1,3,1,4,2,4,1,0,25
+7430,Kévin Mayi,16,1,0,0.022398809,1,7,4,0,0,0.0,1,0,0,0,0,0,1,0,1,1,0,2,1,0,0,1
+7721,John Tshibumbu,28,0,0,0.0,0,6,5,0,0,0.0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9
+7808,Roderic Filippi,90,1,0,0.032163836,0,28,20,0,0,0.0,0,0,4,1,1,1,1,0,2,0,7,1,3,0,0,13
+31911,Damjan Đoković,74,1,0,0.03102146,0,30,18,0,2,0.06589542300000001,1,1,1,2,0,0,1,1,3,2,1,1,0,1,1,22
+401505,Jacques Zoua Daogari,91,1,0,0.024260618,0,24,17,0,0,0.0,3,3,6,2,4,0,3,0,2,3,0,0,0,0,0,16
+401506,Grégory Pujol,62,2,0,0.062690675,0,16,14,0,0,0.0,1,0,2,1,1,0,5,0,3,0,0,1,0,0,0,17
+401507,Jérôme Le Moigne,90,0,0,0.0,0,41,36,0,1,0.03102146,0,0,6,2,0,0,3,3,7,0,2,2,1,3,3,18
+401508,Clément Maury,90,0,0,0.0,0,39,24,0,1,0.027513029,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0
+401509,David Ducourtioux,90,1,0,0.0036413546,1,24,20,0,0,0.0,0,0,2,1,1,1,1,1,4,0,1,1,1,1,1,17

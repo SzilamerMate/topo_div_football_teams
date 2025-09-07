@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3446,Djibril Sidibé,36,2,1,0.139489335,1,26,22,0,0,0.0,1,1,4,1,0,0,4,0,2,0,0,0,0,1,0,5
+3625,Sofiane Boufal,90,1,0,0.043226264,0,44,34,0,1,0.16815291,6,5,9,2,1,0,0,0,1,2,0,0,2,0,0,11
+3677,Bakary Adama Soumaoro,54,1,0,0.16815291,0,51,45,0,0,0.0,0,0,9,0,0,0,0,0,4,0,3,0,0,0,0,4
+6716,Sébastien Corchia,90,0,0,0.0,0,43,31,0,1,0.06965389,2,0,3,0,2,0,0,0,2,1,2,1,1,0,0,8
+7441,Marvin Martin,26,0,0,0.0,0,24,21,0,0,0.0,0,0,8,1,1,1,3,1,4,0,1,0,0,2,0,5
+9102,Serhou Guirassy,90,0,0,0.0,0,38,21,0,0,0.0,0,0,5,3,2,2,5,0,1,1,1,0,1,0,0,13
+10330,Gadji Celi Carmen Junior Tallo,16,0,0,0.0,0,6,5,0,0,0.0,2,1,2,1,0,0,0,0,2,1,0,0,1,0,0,1
+23203,Stopilla Sunzu,90,0,0,0.0,0,46,35,0,0,0.0,0,0,6,6,1,0,5,2,1,0,4,1,0,2,2,14
+23835,Yaw Yeboah,74,0,0,0.0,0,31,21,0,2,0.163844019,4,2,4,1,1,0,2,0,4,2,0,1,2,0,0,18
+40484,Vincent Enyeama,90,0,0,0.0,0,29,24,0,0,0.0,0,0,4,0,0,0,0,0,3,0,0,0,0,0,0,0
+40486,Éric Bauthéac,64,2,0,0.6921217900000001,1,33,23,0,0,0.0,1,0,7,1,0,0,3,1,3,2,1,1,0,1,0,8
+40522,Rio Antonio Zoba Mavuba,90,0,0,0.0,0,66,60,0,0,0.0,1,0,5,0,3,1,0,0,8,1,0,1,3,0,0,12
+40523,Marko Baša,90,2,0,0.190271645,0,68,62,0,0,0.0,1,1,15,0,1,1,1,1,7,0,4,1,1,1,0,6
+40697,Mounir Obbadi,90,3,0,0.127493316,0,79,64,1,2,0.10794318,2,2,17,0,0,0,1,0,11,3,0,1,1,0,0,14

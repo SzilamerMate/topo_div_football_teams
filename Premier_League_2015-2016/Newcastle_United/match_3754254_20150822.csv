@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3044,Chancel Mbemba Mangulu,90,0,0,0.0,0,40,23,0,1,0.02313919,3,3,7,0,1,1,7,4,5,1,15,1,3,5,3,18
+3076,Ayoze Pérez Gutiérrez,77,2,0,0.10191904,1,27,22,0,1,0.12307019,4,3,9,2,4,0,1,0,5,5,0,1,4,1,0,17
+3254,Florian Thauvin,22,0,0,0.0,0,7,5,0,0,0.0,0,0,4,1,1,0,1,0,2,2,1,0,1,0,0,6
+3567,Georginio Wijnaldum,90,0,0,0.0,0,28,20,0,1,0.06837501,3,2,9,0,2,0,3,2,2,2,0,0,0,2,1,9
+3722,Steven Taylor,90,0,0,0.0,0,27,23,0,0,0.0,0,0,3,0,0,0,1,0,3,0,8,0,6,0,0,1
+4269,Aleksandar Mitrović,87,3,0,0.20252052999999998,0,23,16,0,0,0.0,2,1,7,4,3,2,13,2,2,4,1,1,1,4,2,18
+4840,Massadio Haïdara,90,0,0,0.0,0,25,20,0,0,0.0,0,0,7,1,2,0,0,0,4,2,3,1,3,0,0,13
+9467,Timothy Michael Krul,90,0,0,0.0,0,40,23,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,2
+9649,Jack Colback,90,0,0,0.0,0,35,28,0,0,0.0,1,0,4,1,2,0,3,2,7,0,0,0,2,2,1,29
+16072,Vurnon Anita,90,0,0,0.0,0,27,24,0,1,0.05631115,0,0,3,4,0,0,4,2,9,0,3,1,2,3,2,25
+26207,Fabricio Coloccini,90,0,0,0.0,0,17,14,0,0,0.0,0,0,2,1,1,1,4,2,1,0,10,1,2,2,1,11
+30289,Papiss Demba Cissé,3,1,0,0.06837501,0,1,1,0,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+42899,Gabriel Antoine Obertan,68,0,0,0.0,0,25,18,0,1,0.04456984,1,0,4,1,1,1,4,3,4,2,2,1,1,3,0,7
+42900,Cheik Ismaël Tioté,13,0,0,0.0,0,2,1,0,0,0.0,0,0,0,1,1,0,0,0,2,0,1,0,2,0,0,4

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2988,Memphis Depay,27,1,0,0.0597662,0,10,6,0,1,0.1555629,1,1,2,0,2,0,2,1,2,1,0,1,1,1,0,2
+3293,Jesse Lingard,63,2,1,0.507993455,1,24,20,0,1,0.109250166,1,0,4,0,0,0,0,0,6,3,2,1,0,0,0,17
+3294,Juan Manuel Mata García,17,0,0,0.0,0,12,11,0,0,0.0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2
+3296,Marouane Fellaini-Bakkioui,90,3,0,0.263126611,1,43,34,0,0,0.0,1,0,6,4,2,0,7,2,6,4,3,1,5,3,1,25
+3311,Daley Blind,90,0,0,0.0,0,29,25,0,2,0.065904384,0,0,4,4,0,0,4,2,1,0,5,5,3,3,2,22
+3333,David de Gea Quintana,90,0,0,0.0,0,29,17,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+3538,Wayne Mark Rooney,90,3,2,0.964500486,2,36,32,1,1,0.119397655,3,0,7,1,1,1,2,0,6,2,0,0,0,1,0,18
+3600,Morgan Schneiderlin,90,0,0,0.0,0,59,56,0,1,0.058287065,0,0,4,2,0,0,4,3,6,1,1,2,2,4,0,22
+3606,Ander Herrera Agüera,73,0,0,0.0,0,47,39,0,2,0.42488683299999996,1,1,9,1,2,0,3,2,2,0,0,2,0,2,1,19
+3612,Ashley Young,90,0,0,0.0,0,71,51,0,0,0.0,5,2,4,1,0,0,1,1,3,1,3,1,2,1,0,22
+4587,Matteo Darmian,90,1,0,0.009048464,0,43,32,0,0,0.0,0,0,5,0,2,0,8,4,6,0,5,3,3,6,2,23
+10958,Chris Smalling,90,1,0,0.016627738,0,36,25,0,1,0.009048464,0,0,10,4,0,0,2,1,1,0,4,1,3,1,0,9
+20039,Anthony Martial,90,1,0,0.036291033,0,32,25,0,0,0.0,3,1,10,0,3,1,6,4,4,5,1,0,2,5,0,16

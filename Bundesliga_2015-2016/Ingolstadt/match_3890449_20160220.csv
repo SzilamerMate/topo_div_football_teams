@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3097,Pascal Groß,90,0,0,0.0,0,54,35,0,1,0.016008163,0,0,6,0,3,1,0,0,4,0,1,0,2,0,0,23
+5481,Mathew Leckie,90,2,0,0.10447851999999999,0,28,19,0,0,0.0,3,3,9,1,1,1,12,1,5,4,1,1,2,2,0,19
+8394,Robert Bauer,90,0,0,0.0,0,42,23,0,0,0.0,0,0,1,0,2,0,8,1,8,2,9,0,2,5,0,22
+8405,Benjamin Hübner,90,1,1,0.67007315,1,22,14,0,0,0.0,0,0,1,4,2,2,8,3,4,0,10,0,1,5,1,15
+8676,Danny Vieira da Costa,90,0,0,0.0,0,40,19,0,1,0.029250588,1,1,5,1,2,1,3,0,3,1,3,0,2,1,0,15
+9103,Lukas Hinterseer,20,1,1,0.7835,1,0,0,0,0,0.0,0,0,0,1,2,1,0,0,1,0,0,0,3,0,0,8
+9106,Marvin Matip,90,0,0,0.0,0,28,21,0,0,0.0,0,0,2,1,1,1,2,0,2,0,7,2,1,0,0,11
+9113,Dario Lezcano,70,1,0,0.21847254,0,19,13,0,0,0.0,0,0,3,1,3,3,6,0,3,4,1,0,3,2,0,17
+12319,Ramazan Özcan,90,0,0,0.0,0,46,23,0,0,0.0,0,0,2,0,1,0,0,0,5,0,0,0,0,0,0,0
+20485,Almog Cohen,90,1,0,0.28309336,1,20,6,0,0,0.0,0,0,2,3,0,0,5,0,3,0,3,3,1,3,0,19
+40459,Roger de Oliveira Bernardo,90,1,0,0.0059514977,0,26,17,0,0,0.0,0,0,1,0,2,1,5,2,10,0,5,0,3,2,1,12
+40463,Stefan Lex,9,0,0,0.0,0,0,0,0,0,0.0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,4
+40464,Moritz Hartmann,81,2,0,0.045258751,0,21,9,0,1,0.06219556,0,0,2,2,2,0,7,0,3,0,1,0,1,0,0,15

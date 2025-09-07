@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3211,Florent Balmont,90,1,0,0.02913471,0,71,58,0,4,0.40921993900000003,2,2,13,1,6,0,4,3,11,1,2,0,3,4,2,20
+3446,Djibril Sidibé,90,2,0,0.114244542,1,43,34,0,0,0.0,3,1,5,3,1,0,4,2,5,0,2,5,5,2,0,22
+3673,Yassine Benzia,90,3,1,0.37714035,1,32,20,0,1,0.013951479,5,3,7,9,2,1,3,0,6,3,0,2,3,1,0,31
+6716,Sébastien Corchia,90,2,0,0.080443181,2,44,36,0,1,0.11240713,2,2,7,4,1,0,1,0,5,2,2,0,1,0,0,14
+7303,Lenny Nangis,14,0,0,0.0,0,9,6,0,1,0.07061256,0,0,3,0,0,0,1,1,2,0,0,0,0,1,0,2
+7358,Alexis Araujo,4,0,0,0.0,0,3,2,0,1,0.046551097,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+7441,Marvin Martin,25,1,0,0.046551097,1,18,13,0,0,0.0,2,2,4,0,1,0,1,1,5,1,0,1,0,1,0,8
+7443,Nolan Mbemba,65,0,0,0.0,0,33,30,0,1,0.02913471,1,1,7,2,2,0,1,1,3,3,0,2,0,1,0,19
+9102,Serhou Guirassy,76,2,0,0.19276401599999998,1,27,20,0,1,0.1080898,0,0,5,1,2,1,3,0,0,3,4,0,3,0,0,17
+29057,Renato Civelli,90,0,0,0.0,0,41,35,0,1,0.11999763,0,0,4,2,1,1,9,3,6,0,8,2,4,4,3,21
+40484,Vincent Enyeama,90,0,0,0.0,0,33,19,0,0,0.0,0,0,3,0,0,0,0,0,6,0,1,0,1,0,0,1
+40486,Éric Bauthéac,86,3,0,0.183197881,0,43,29,0,0,0.0,5,1,7,1,1,0,4,2,3,2,0,1,0,2,2,20
+40522,Rio Antonio Zoba Mavuba,90,0,0,0.0,0,44,37,0,0,0.0,0,0,4,1,2,2,1,1,3,0,1,2,1,1,1,12
+40523,Marko Baša,90,2,0,0.177461903,0,23,20,0,0,0.0,1,1,3,2,1,1,2,0,3,2,2,2,2,0,0,7

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3477,Álvaro Borja Morata Martín,21,1,1,0.65924615,1,4,3,0,0,0.0,1,0,1,0,2,0,0,0,3,0,0,1,0,0,0,9
+3951,Mario Lemina,90,0,0,0.0,0,40,34,0,0,0.0,2,2,5,2,0,0,4,4,6,1,3,2,1,4,1,26
+5472,Mario Mandžukić,90,1,1,0.22984876,1,22,15,0,3,0.43314299500000003,1,1,4,1,1,1,3,0,1,1,1,2,1,0,0,21
+5541,Stephan Lichtsteiner,87,0,0,0.0,0,37,30,0,0,0.0,0,0,5,0,0,0,3,0,2,0,3,1,2,1,0,8
+5566,Sami Khedira,90,0,0,0.0,0,30,25,0,0,0.0,1,0,4,0,1,0,3,1,2,2,3,1,3,2,0,21
+5689,Juan Guillermo Cuadrado Bello,3,0,0,0.0,0,0,0,0,0,0.0,0,0,0,2,0,0,1,0,0,0,0,0,1,0,0,3
+5743,Paulo Bruno Exequiel Dybala,69,1,0,0.015843635,0,34,27,0,0,0.0,6,2,10,1,3,0,1,1,4,1,1,0,1,1,1,16
+6940,Kwadwo Asamoah,7,0,0,0.0,0,2,1,0,0,0.0,1,0,1,0,1,0,0,0,1,0,2,0,0,0,0,2
+6943,Andrea Barzagli,90,0,0,0.0,0,40,37,0,0,0.0,0,0,3,0,0,0,0,0,2,0,6,0,2,0,0,8
+6949,Gianluigi Buffon,90,0,0,0.0,0,32,25,0,0,0.0,0,0,2,0,0,0,0,0,7,0,1,0,0,0,0,0
+6953,Daniele Rugani,90,0,0,0.0,0,51,42,0,0,0.0,0,0,7,4,0,0,5,1,3,1,5,1,0,4,1,24
+7173,Leonardo Bonucci,90,0,0,0.0,0,47,38,0,0,0.0,0,0,6,3,0,0,3,3,4,0,6,1,2,3,1,15
+20004,Paul Pogba,83,2,0,0.39147924,0,51,45,1,1,0.22984876,10,6,13,3,3,0,2,1,6,3,1,1,4,2,0,26
+20008,Patrice Evra,90,1,0,0.09847412,0,46,34,0,0,0.0,0,0,4,0,0,0,5,1,1,2,1,0,1,3,1,17

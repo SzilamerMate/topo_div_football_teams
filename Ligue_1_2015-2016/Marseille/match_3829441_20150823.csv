@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3075,Javier Manquillo Gaitán,90,0,0,0.0,0,67,56,0,0,0.0,1,1,5,0,1,0,1,0,5,0,1,0,1,0,0,12
+3181,Lassana Diarra,64,1,1,0.02711139,1,43,43,0,0,0.0,2,1,4,1,2,0,4,4,5,1,1,0,0,4,3,12
+3261,Benjamin Mendy,90,0,0,0.0,0,57,50,0,3,0.30044951999999997,5,3,11,1,1,0,3,1,8,2,2,1,2,2,0,14
+3420,Rémy Cabella,75,0,0,0.0,0,42,34,0,0,0.0,4,3,12,0,1,0,3,0,2,1,0,0,0,2,0,17
+3457,Michy Batshuayi Tunga,90,4,2,0.65500743,2,15,14,0,0,0.0,3,3,6,2,3,1,1,0,3,2,0,0,2,0,0,16
+3543,Steve Mandanda,90,0,0,0.0,0,37,31,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+3951,Mario Lemina,90,3,0,0.213373505,0,57,52,0,0,0.0,2,1,13,3,1,0,2,0,5,1,1,1,0,1,0,16
+4345,Lucas Ariel Ocampos,32,1,1,0.09432869,1,10,8,0,0,0.0,0,0,5,1,0,0,0,0,1,0,0,1,2,0,0,10
+4351,Bouna Sarr,15,0,0,0.0,0,10,10,0,0,0.0,2,1,6,2,1,0,1,1,1,0,0,0,0,1,0,5
+7472,Nicolas Alexis Julio N'Koulou Ndoubena,90,0,0,0.0,0,58,54,0,0,0.0,1,1,8,0,1,0,4,2,4,0,2,2,1,3,0,5
+8572,Karim Rekik,90,0,0,0.0,0,54,50,0,0,0.0,0,0,1,0,0,0,1,0,1,0,5,1,1,0,0,3
+13634,Stéphane Sparagna,26,0,0,0.0,0,15,13,0,0,0.0,1,1,0,0,0,0,1,0,1,0,2,0,1,1,0,7
+15296,Romain Alessandrini,90,2,1,1.00166202,1,49,32,2,3,0.87851353,7,6,9,0,1,1,3,0,3,2,0,2,3,2,0,18
+23933,Abdelaziz Barrada,58,5,1,1.515239589,2,54,42,1,5,0.312633225,0,0,5,0,1,0,1,0,7,1,0,0,0,1,0,11

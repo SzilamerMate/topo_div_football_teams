@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5512,Emil Hallfreðsson,90,0,0,0.0,0,39,24,0,1,0.062681645,5,5,7,2,1,0,4,2,8,2,2,0,1,3,1,47
+6686,Giampaolo Pazzini,90,1,0,0.11207345,1,14,6,0,0,0.0,0,0,1,1,3,1,8,0,2,2,1,0,0,0,0,25
+7966,Filip Helander,44,0,0,0.0,0,11,7,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,10
+8421,Matteo Bianchetti,90,0,0,0.0,0,29,17,0,0,0.0,1,0,3,0,1,1,7,4,3,0,3,1,4,5,3,21
+9887,Rafael de Andrade Bittencourt Pinheiro,90,0,0,0.0,0,40,31,0,0,0.0,0,0,4,0,0,0,0,0,10,0,0,0,0,0,0,0
+11339,Paweł Wszołek,23,0,0,0.0,0,10,6,0,0,0.0,0,0,3,0,0,0,0,0,3,0,0,1,0,0,0,11
+11342,Eros Pisano,90,1,0,0.062681645,1,36,25,0,1,0.046011332,1,1,4,0,2,2,2,1,2,2,0,1,1,2,0,12
+20252,Luca Toni,18,0,0,0.0,0,5,1,0,0,0.0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,8
+26442,Boško Janković,72,1,0,0.046011332,1,24,13,0,0,0.0,1,1,3,3,0,0,1,0,4,1,0,0,1,0,0,11
+31488,Vangelis Moras,90,0,0,0.0,0,18,15,0,0,0.0,0,0,4,0,0,0,2,0,0,1,3,4,3,1,0,15
+32119,Leandro Greco,90,0,0,0.0,0,26,19,0,0,0.0,1,1,3,2,1,0,1,1,5,4,1,0,2,1,1,34
+386650,Michelangelo Albertazzi,46,0,0,0.0,0,24,16,0,0,0.0,0,0,0,0,0,0,0,0,1,0,2,3,1,0,0,4
+386651,Juan Ignacio Gómez Taleb,90,0,0,0.0,0,40,28,0,0,0.0,1,1,7,1,0,0,6,3,6,0,1,2,4,4,0,28
+386652,Luca Checchin,67,0,0,0.0,0,40,28,0,0,0.0,0,0,5,0,0,0,1,0,3,1,0,1,2,1,0,18

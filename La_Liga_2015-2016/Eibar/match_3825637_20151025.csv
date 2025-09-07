@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5687,Takashi Inui,78,0,0,0.0,0,12,8,0,0,0.0,1,1,4,1,1,0,1,0,1,1,0,1,1,0,0,12
+6566,Borja González Tomás,90,2,1,0.28718339000000004,2,30,20,0,1,0.261091,0,0,3,1,0,0,8,1,5,0,0,0,0,2,1,23
+6699,Ander Capa Rodríguez,90,1,0,0.0318337,1,37,24,0,0,0.0,1,0,4,3,2,0,4,1,3,1,3,2,1,4,1,13
+6700,Sergio Enrich Ametller,37,0,0,0.0,0,15,7,0,0,0.0,1,0,1,0,2,1,2,0,3,0,1,0,0,0,0,7
+6712,Gonzalo Escalante,90,0,0,0.0,0,31,18,0,0,0.0,0,0,1,3,2,1,8,3,4,0,0,1,1,5,1,18
+6742,Sergio Gontán Gallardo,90,2,0,0.39962721,1,27,19,0,1,0.02731625,5,2,7,6,2,0,6,4,9,0,0,0,1,4,1,27
+6775,Daniel García Carrillo,45,0,0,0.0,0,18,15,0,1,0.0318337,0,0,0,0,0,0,1,0,0,1,1,3,0,1,0,2
+6776,David Juncà Reñé,90,0,0,0.0,0,39,25,0,0,0.0,1,1,5,1,2,1,5,2,3,1,1,2,3,4,0,11
+6837,Mauro Javier Dos Santos,90,0,0,0.0,0,21,10,0,0,0.0,1,0,1,4,0,0,3,2,4,0,4,2,0,2,2,8
+7170,Simone Verdi,53,1,0,0.02731625,0,15,14,0,2,0.30504001000000003,1,0,4,0,2,0,2,2,5,1,0,0,4,2,0,12
+10763,Asier Riesgo Unamuno,90,0,0,0.0,0,33,17,0,0,0.0,0,0,2,0,0,0,0,0,2,0,1,0,0,0,0,0
+23799,Eddy Silvestre Pascual İsrafilov,45,1,0,0.03190918,0,13,9,0,0,0.0,0,0,1,4,1,0,3,1,4,1,2,0,5,2,1,9
+24070,Saúl Berjón Pérez,12,0,0,0.0,0,4,2,0,0,0.0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,1
+27239,Aleksandar Pantić,90,0,0,0.0,0,19,8,0,0,0.0,0,0,0,1,0,0,1,0,2,0,2,2,1,0,0,2

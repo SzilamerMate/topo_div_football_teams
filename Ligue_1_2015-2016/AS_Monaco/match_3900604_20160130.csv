@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3168,João Filipe Iria Santos Moutinho,64,0,0,0.0,0,49,43,0,1,0.0505013,1,1,4,0,1,0,1,0,2,0,0,0,0,0,0,9
+3193,Bernardo Mota Veiga de Carvalho e Silva,79,1,0,0.12926099,1,40,25,0,1,0.028285248,4,4,11,0,3,0,3,1,5,2,0,0,1,1,0,17
+3246,Guido Marcelo Carrillo,90,1,0,0.13112924,1,25,20,0,1,0.037357323,0,0,4,1,0,0,4,0,4,2,2,0,4,0,0,11
+3247,Fábio Henrique Tavares,90,2,0,0.039623927,0,83,63,0,1,0.12926099,3,1,16,2,5,0,7,4,4,0,1,1,1,5,2,15
+3374,Andrea Raggi,90,0,0,0.0,0,53,44,0,0,0.0,0,0,2,0,0,0,3,1,2,0,3,1,4,3,1,16
+3444,Danijel Subašić,90,0,0,0.0,0,20,15,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+3955,Tiemoué Bakayoko,90,1,0,0.04910176,1,85,73,0,1,0.011338679,0,0,14,2,1,0,5,2,5,1,3,0,1,3,0,33
+8277,Wallace Fortuna dos Santos,90,1,0,0.0505013,0,62,48,0,0,0.0,1,1,11,1,0,0,3,0,8,2,6,0,1,0,0,8
+9931,Hélder Wander Sousa Azevedo Costa,90,2,0,0.07505922300000001,1,26,21,0,1,0.13112924,1,0,6,2,3,1,3,0,4,2,1,0,2,0,0,27
+10805,Ricardo Alberto Silveira de Carvalho,90,0,0,0.0,0,65,63,0,0,0.0,0,0,7,0,1,1,1,0,2,0,2,1,0,1,0,7
+11603,Mario Pašalić,17,1,0,0.036910947,0,22,19,0,0,0.0,0,0,4,0,0,0,1,0,3,0,0,2,0,0,0,3
+18953,Vágner Silva de Souza,26,0,0,0.0,0,12,7,0,0,0.0,0,0,1,0,0,0,1,1,1,2,0,0,2,1,0,10
+19047,Fábio Alexandre da Silva Coentrão,73,0,0,0.0,0,39,30,0,0,0.0,0,0,5,2,0,0,4,1,3,0,3,0,1,4,1,17
+388167,Mohamed Ilyes Salah Chaïbi,11,0,0,0.0,0,4,4,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,6

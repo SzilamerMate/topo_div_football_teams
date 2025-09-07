@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5598,Óscar Esau Duarte Gaitán,90,1,0,0.02364302,0,31,25,0,0,0.0,0,0,2,2,1,1,3,0,6,1,5,3,4,1,0,13
+5719,Marco Asensio Willemsen,90,4,0,0.208849177,2,39,28,0,4,0.481922242,5,2,16,0,2,0,8,2,8,2,0,1,4,6,1,18
+6612,Rubén Duarte Sánchez,90,0,0,0.0,0,32,24,0,1,0.009386629,0,0,3,3,1,1,7,3,2,0,2,6,3,4,3,15
+6758,Víctor Sánchez Mata,90,3,0,0.370767729,1,32,25,0,1,0.019559748,2,2,5,2,2,1,11,5,2,0,0,1,0,7,2,30
+6762,Álvaro González Soberón,90,0,0,0.0,0,29,18,0,0,0.0,1,1,4,2,3,1,3,1,3,0,3,2,0,1,1,10
+6766,Gerard Moreno Balaguero,28,1,0,0.045958932,0,10,9,0,1,0.13883987,3,2,2,3,1,0,8,0,3,2,2,0,1,1,0,6
+6792,Pau López Sabata,90,0,0,0.0,0,25,11,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+6838,Hernán Arsenio Pérez González,78,1,0,0.220688,1,34,24,0,0,0.0,9,4,12,2,2,0,2,1,5,3,0,2,1,2,0,19
+6867,Papa Kouly Diop,90,1,0,0.008430191,1,30,23,0,0,0.0,2,2,2,4,4,1,5,1,3,0,0,3,1,2,0,12
+7781,Felipe Salvador Caicedo Corozo,62,1,1,0.62865096,1,17,12,0,0,0.0,0,0,0,2,0,0,8,2,1,1,2,0,0,2,1,10
+16456,Enzo Pablo Roco Roco,90,0,0,0.0,0,20,14,0,0,0.0,0,0,4,0,0,0,1,0,1,0,6,3,2,0,0,12
+18407,José Alberto Cañas Ruiz Herrera,22,0,0,0.0,0,2,0,0,0,0.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,2
+23974,Roberto Antonio Correa Silva,68,0,0,0.0,0,47,35,0,0,0.0,2,1,6,1,0,0,2,0,4,0,2,4,1,1,0,6
+27241,Víctor Guillermo Álvarez Delgado,12,0,0,0.0,0,4,1,0,0,0.0,1,1,0,1,1,1,2,0,0,0,0,0,0,0,0,4

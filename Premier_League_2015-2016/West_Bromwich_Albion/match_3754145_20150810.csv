@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3490,James Morrison,90,2,0,0.230457684,1,47,38,0,0,0.0,5,2,8,1,0,0,2,1,3,0,1,1,5,1,1,25
+3514,James McClean,45,0,0,0.0,0,12,8,0,0,0.0,0,0,0,1,1,0,1,1,2,1,1,0,0,1,0,9
+3523,Craig Dawson,90,1,0,0.18453373,0,25,19,0,0,0.0,0,0,1,0,0,0,2,2,4,0,6,0,5,2,0,12
+3541,Chris Brunt,90,1,0,0.11816509,0,44,35,0,1,0.090908654,2,2,3,0,0,0,0,0,1,1,4,0,2,0,0,7
+3967,Claudio Ariel Yacob,45,0,0,0.0,0,22,16,0,0,0.0,0,0,2,3,1,0,3,2,4,0,1,0,1,3,2,17
+4022,Darren Fletcher,90,0,0,0.0,0,49,44,0,1,0.028077235,2,2,3,3,0,0,3,0,8,1,0,1,3,1,0,25
+4630,Saido Berahino,79,0,0,0.0,0,29,24,0,0,0.0,0,0,8,0,1,0,2,0,3,0,0,0,2,0,0,12
+5108,Glyn Oliver Myhill,90,0,0,0.0,0,19,14,0,0,0.0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0
+9485,Craig Gardner,90,2,0,0.051930281999999994,0,30,16,0,1,0.18453373,1,0,1,3,3,0,5,1,4,0,0,0,3,2,1,18
+9551,Callum McManaman,11,0,0,0.0,0,2,1,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+9628,James Grant Chester,90,0,0,0.0,0,32,28,0,0,0.0,1,1,0,1,1,0,2,0,2,1,4,1,2,2,0,22
+20285,Joleon Lescott,90,0,0,0.0,0,36,32,0,0,0.0,0,0,2,0,0,0,4,3,2,0,4,2,3,3,2,15
+40124,Rickie Lambert,73,2,0,0.055276967999999996,0,35,25,0,1,0.038931943,0,0,1,1,2,2,3,0,2,1,0,0,0,0,0,9
+40130,Victor Chinedu Anichebe,17,1,0,0.028077235,1,3,1,0,0,0.0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,3

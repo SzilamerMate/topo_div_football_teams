@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3053,Leroy Sané,9,0,0,0.0,0,4,3,1,1,0.17641772,2,1,3,1,0,0,3,3,0,1,0,0,0,3,2,6
+3186,Julian Draxler,90,3,0,0.091873053,0,33,21,0,1,0.19139172,5,2,10,2,1,0,6,0,7,3,0,2,0,2,0,12
+3499,Jean-Eric Maxim Choupo-Moting,90,4,1,0.317465297,1,33,23,0,1,0.05960403,6,5,9,5,3,1,2,0,6,4,2,1,4,0,0,24
+3502,Joël Andre Job Matip,90,1,0,0.08640401,0,32,23,1,1,0.2536781,0,0,11,3,0,0,4,0,1,0,6,2,2,2,0,11
+6324,Leon Goretzka,81,2,0,0.085445702,1,19,16,0,1,0.025171598,1,0,4,2,0,0,5,1,1,2,2,0,3,3,0,38
+6717,Johannes Geis,90,2,0,0.019960178000000002,1,39,26,0,1,0.08640401,1,1,1,1,2,2,4,2,4,0,0,1,3,2,1,24
+8060,Klaas-Jan Huntelaar,90,4,1,0.68138022,2,15,12,0,1,0.047831975,1,1,2,1,1,1,0,0,1,2,0,0,1,0,0,21
+8512,Franco Matías Di Santo,61,0,0,0.0,0,13,10,0,4,0.35491909700000007,1,1,3,0,0,0,3,0,1,2,0,0,2,0,0,17
+8514,Matija Nastasić,16,0,0,0.0,0,6,6,0,0,0.0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+8517,Ralf Fährmann,90,0,0,0.0,0,44,23,0,0,0.0,0,0,1,0,1,1,0,0,5,0,0,0,0,0,0,0
+8824,Marco Höger,29,0,0,0.0,0,13,10,0,0,0.0,0,0,3,2,1,0,3,0,1,0,0,0,1,0,0,8
+8958,Dennis Aogo,90,0,0,0.0,0,38,30,0,1,0.023704238,0,0,4,3,0,0,2,1,3,0,2,0,0,1,0,10
+16534,Roman Neustädter,74,0,0,0.0,0,23,19,0,0,0.0,0,0,2,1,1,1,5,1,0,0,5,0,1,2,0,10
+25003,Sascha Riether,90,0,0,0.0,0,60,45,0,1,0.026122723,0,0,5,0,0,0,2,0,4,1,2,1,0,1,0,6

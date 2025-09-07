@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3434,Stevan Jovetić,73,2,0,0.035985943,1,35,27,0,1,0.0138057545,5,1,5,1,2,0,5,2,8,3,0,0,1,2,2,13
+5469,Marcelo Brozović,6,0,0,0.0,0,4,4,0,0,0.0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,4
+5474,Ivan Perišić,90,2,0,0.079828826,0,36,24,0,0,0.0,2,0,8,0,0,0,7,2,3,0,1,1,5,3,0,24
+6585,Jeison Fabián Murillo Cerón,68,1,0,0.07692311,0,29,26,0,0,0.0,0,0,2,0,1,0,2,0,1,0,5,0,1,0,0,6
+6589,Geoffrey Kondogbia,84,2,0,0.065201366,0,53,46,0,0,0.0,1,0,11,0,2,1,1,0,11,3,6,2,2,1,0,23
+6987,Mauro Emanuel Icardi Rivero,90,1,1,0.3623229,1,23,20,0,1,0.07692311,3,2,2,0,4,0,5,1,5,1,1,0,0,1,0,14
+6999,Davide Santon,90,1,0,0.0116681345,0,64,53,0,1,0.02531637,5,2,14,1,1,1,3,1,7,1,5,3,2,2,0,15
+7001,Samir Handanovič,90,0,0,0.0,0,32,21,0,0,0.0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0
+7165,Rodrigo Sebastián Palacio,17,0,0,0.0,0,10,7,0,0,0.0,1,1,2,0,4,1,2,0,4,2,0,1,0,0,0,5
+7962,Andrea Ranocchia,22,0,0,0.0,0,8,7,0,0,0.0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,2
+11183,Alex Nicolao Telles,90,0,0,0.0,0,66,49,0,1,0.07529992,3,2,8,1,0,0,3,1,1,1,4,1,3,2,1,13
+16453,Gary Alexis Medel Soto,90,1,0,0.006924511,0,50,45,0,0,0.0,1,1,2,1,1,1,3,1,5,0,9,2,3,2,1,11
+25430,Felipe Melo de Carvalho,90,3,0,0.2240368345,0,42,35,0,0,0.0,2,1,4,5,0,0,3,0,7,0,6,2,3,1,0,21
+32807,Fredy Alejandro Guarín Vásquez,90,1,0,0.07529992,0,27,20,0,1,0.017812856,4,3,4,5,1,0,2,0,6,4,2,0,2,1,0,24

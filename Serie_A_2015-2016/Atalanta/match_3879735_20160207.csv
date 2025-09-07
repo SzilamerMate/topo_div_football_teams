@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3556,Serge Gakpé,10,0,0,0.0,0,2,0,0,0,0.0,0,0,3,1,1,0,1,0,2,2,0,0,0,0,0,3
+6941,Jasmin Kurtič,90,1,0,0.40909982,1,33,20,0,3,0.12347794200000001,0,0,7,0,1,0,0,0,4,0,0,2,1,0,0,25
+6983,Remo Freuler,90,1,0,0.02921778,0,43,34,0,1,0.0074621867,2,1,11,5,2,1,4,1,9,0,0,1,1,3,1,39
+6992,Andrea Masiello,90,0,0,0.0,0,29,19,0,0,0.0,0,0,3,0,1,1,0,0,6,0,7,0,7,0,0,7
+6994,Marten de Roon,90,0,0,0.0,0,30,24,0,0,0.0,1,1,2,2,0,0,4,3,5,1,0,3,3,3,1,38
+7002,Rafael Tolói,90,0,0,0.0,0,19,16,0,0,0.0,0,0,3,2,1,1,3,1,2,0,8,1,2,2,1,9
+7006,Alejandro Darío Gómez,71,3,0,0.151582527,0,34,27,0,1,0.40909982,3,2,11,3,3,0,3,1,4,1,0,1,0,1,1,13
+7157,Marco Sportiello,90,0,0,0.0,0,28,14,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,0
+8184,Marco D''Alessandro,19,0,0,0.0,0,4,1,0,0,0.0,0,0,0,2,0,0,3,0,0,0,0,1,0,1,0,5
+8657,Andrea Conti,90,0,0,0.0,0,45,34,0,0,0.0,1,0,2,1,0,0,8,1,11,3,5,4,2,6,0,15
+8871,Marco Borriello,31,1,0,0.044239238,0,11,10,0,0,0.0,0,0,6,1,1,0,6,1,1,2,0,0,1,1,1,5
+19847,Alessandro Diamanti,80,3,0,0.129253181,0,55,40,0,1,0.014097115,2,1,10,3,1,1,0,0,8,4,0,0,2,0,0,13
+31231,Davide Brivio,90,1,0,0.0074621867,0,53,36,0,1,0.020085322,0,0,13,0,1,0,1,1,4,1,1,0,2,1,1,9
+36770,Mauricio Ricardo Pinilla Ferreira,59,1,0,0.020085322,1,16,13,0,1,0.12825972,0,0,2,2,3,1,6,0,1,1,2,2,1,2,0,16

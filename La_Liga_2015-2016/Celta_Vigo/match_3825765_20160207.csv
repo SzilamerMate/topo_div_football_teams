@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5217,Iago Aspas Juncal,90,3,0,0.215933304,0,44,38,0,4,0.10155899099999999,4,2,8,1,1,1,0,0,5,3,0,1,3,0,0,18
+6038,John Guidetti,29,2,0,0.372025826,1,7,7,0,1,0.12607685,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,3
+6600,Claudio Beauvue,90,3,1,0.49986618699999996,1,34,24,0,3,0.11984536000000001,2,0,7,4,2,1,1,0,3,0,2,1,5,0,0,18
+6794,Gustavo Daniel Cabral Cáceres,90,0,0,0.0,0,87,82,0,2,0.06512615000000001,0,0,17,0,0,0,6,3,5,1,4,2,3,3,1,11
+6796,Nemanja Radoja,61,2,0,0.04696985,1,54,48,0,0,0.0,2,1,10,1,1,0,5,3,3,1,2,2,4,3,3,14
+6797,Daniel Wass,90,4,0,0.13477393849999997,1,86,72,1,5,0.200077644,5,2,9,3,0,0,3,3,6,1,1,0,1,3,1,9
+6801,Pedro Pablo Hernández,90,4,0,0.136577525,1,89,81,0,1,0.060934827,4,2,25,0,5,2,7,4,5,2,0,0,0,4,2,18
+6802,Jonathan Castro Otto,61,1,0,0.022601392,0,42,35,0,0,0.0,1,1,3,0,2,1,3,1,1,0,3,3,0,2,1,10
+6804,Sergi Gómez Solà,90,0,0,0.0,0,61,55,0,0,0.0,0,0,5,1,0,0,4,0,5,0,5,1,1,1,0,7
+6884,Sergio Álvarez Conde,90,0,0,0.0,0,30,26,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+7577,Carles Planas Antolínez,90,1,0,0.00997234,0,92,83,0,2,0.077799828,1,1,8,1,3,2,5,2,2,1,2,0,2,2,1,13
+23785,Théo Bongonda Mbul''Ofeko Batombo,90,3,0,0.112868679,0,38,32,0,2,0.33261627400000005,6,1,18,4,3,0,3,0,3,0,2,0,0,2,0,11
+27341,Marcelo Alfonso Díaz Rojas,29,2,0,0.050479649,0,52,47,0,0,0.0,0,0,10,0,1,0,0,0,3,0,0,0,0,0,0,2

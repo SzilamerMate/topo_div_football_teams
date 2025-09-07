@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3263,Craig Cathcart,90,0,0,0.0,0,11,9,0,0,0.0,0,0,1,0,2,2,4,0,2,0,2,0,1,1,0,2
+3306,Nathan Aké,90,1,0,0.020773714,0,29,17,0,0,0.0,0,0,0,1,0,0,5,4,1,2,5,1,3,5,3,17
+3309,Sebastian Prödl,90,0,0,0.0,0,21,16,0,0,0.0,0,0,1,3,0,0,4,0,2,0,8,0,6,0,0,5
+3454,Troy Deeney,90,3,0,0.105360853,1,42,24,0,2,0.16264088799999998,4,1,5,2,3,2,6,1,6,4,5,0,0,2,1,31
+3522,Heurelho da Silva Gomes,90,0,0,0.0,0,30,19,0,0,0.0,0,0,3,0,1,0,0,0,7,0,0,0,0,0,0,0
+3626,Ben Watson,90,0,0,0.0,0,28,22,0,1,0.006538193,0,0,2,0,0,0,1,0,2,0,5,0,4,0,0,13
+3721,Etienne Capoue,90,2,0,0.03845689,0,58,48,0,0,0.0,2,2,8,3,1,1,5,4,13,1,4,1,3,4,4,27
+3991,Allan Romeo Nyom,67,0,0,0.0,0,29,18,0,1,0.030492114,1,1,3,0,1,0,3,2,3,1,6,0,1,3,1,7
+5458,Odion Jude Ighalo,90,3,0,0.346978118,0,23,19,0,2,0.07333157200000001,3,2,4,1,3,2,3,1,5,3,0,0,0,1,0,16
+7745,Steven Berghuis,23,0,0,0.0,0,6,3,0,0,0.0,0,0,0,1,1,1,3,0,2,2,0,1,0,1,0,8
+36983,Juan Carlos Paredes Reasco,10,0,0,0.0,0,3,3,0,0,0.0,0,0,0,1,0,0,1,0,2,0,0,0,0,1,0,4
+40118,Ikechi Anya,80,0,0,0.0,0,26,21,0,1,0.18433723,0,0,5,0,1,0,4,1,3,3,3,1,4,1,1,18
+40453,Segundo Víctor Ibarbo Guerrero,16,0,0,0.0,0,9,5,0,0,0.0,1,1,3,0,0,0,1,1,2,0,0,0,2,1,1,6
+43081,Almen Abdi,74,0,0,0.0,0,27,22,0,1,0.020773714,1,1,10,2,0,0,5,3,6,2,1,0,1,5,0,22

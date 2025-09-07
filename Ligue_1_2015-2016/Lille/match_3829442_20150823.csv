@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3211,Florent Balmont,89,1,0,0.0069996216,0,55,49,0,0,0.0,2,0,8,1,3,0,4,1,7,3,1,1,1,4,1,13
+3357,Baptiste Guillaume,90,2,0,0.153756528,0,17,10,0,1,0.2553883,1,0,3,0,1,0,5,0,2,0,4,0,1,0,0,9
+3446,Djibril Sidibé,90,1,0,0.04458754,1,53,38,0,1,0.022225626,1,0,3,0,1,0,6,3,5,1,1,0,2,5,1,14
+3625,Sofiane Boufal,90,5,0,0.19630495,1,49,35,0,5,0.29867019699999997,12,8,19,2,5,2,5,1,9,2,0,0,3,3,1,10
+5476,Benjamin Pavard,1,0,0,0.0,0,2,2,0,0,0.0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+6716,Sébastien Corchia,90,0,0,0.0,0,39,31,0,1,0.070141815,1,0,4,2,3,1,6,0,6,4,3,0,5,3,0,15
+9102,Serhou Guirassy,18,1,0,0.07646739,1,4,3,0,0,0.0,0,0,1,1,1,0,1,0,2,0,1,0,1,0,0,3
+29057,Renato Civelli,90,3,0,0.44895619,0,38,31,0,0,0.0,0,0,3,0,1,1,2,0,6,0,7,1,1,0,0,5
+40484,Vincent Enyeama,90,0,0,0.0,0,33,24,0,1,0.07646739,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0
+40485,Ryan Isaac Mendes da Graça,28,0,0,0.0,0,11,8,0,0,0.0,1,0,3,0,1,0,4,0,3,1,0,0,0,2,0,5
+40486,Éric Bauthéac,72,1,0,0.025741257,0,35,27,0,3,0.41005493800000004,4,2,10,2,2,1,3,1,5,3,0,1,0,1,1,9
+40522,Rio Antonio Zoba Mavuba,90,0,0,0.0,0,44,38,0,1,0.025871085,0,0,3,0,0,0,5,3,4,1,3,0,2,3,2,10
+40523,Marko Baša,90,3,0,0.36912500000000004,1,29,27,0,0,0.0,0,0,5,3,4,1,0,0,5,0,8,1,1,0,0,6
+40697,Mounir Obbadi,62,0,0,0.0,0,29,23,0,0,0.0,0,0,4,0,1,1,2,1,3,2,0,0,1,1,1,8

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3034,Kamil Glik,90,1,0,0.02409608,1,64,61,0,0,0.0,0,0,8,0,1,1,3,0,1,0,7,3,3,0,0,6
+3660,Davide Zappacosta,15,0,0,0.0,0,10,10,0,0,0.0,1,1,5,0,1,0,1,0,2,0,1,0,1,1,0,9
+6965,Bruno da Silva Peres,75,3,0,0.15790908799999998,1,41,33,1,4,0.459278501,6,6,24,1,2,0,1,1,4,2,0,2,1,1,1,7
+7011,Fabio Quagliarella,90,4,2,1.442364776,3,20,11,0,1,0.12224416,1,0,4,2,0,0,2,0,4,2,0,1,2,0,0,20
+7149,Marco Benassi,7,1,0,0.12224416,1,8,8,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,2
+7465,Daniele Baselli,90,0,0,0.0,0,41,34,0,3,0.13358305199999998,1,1,8,1,0,0,2,2,4,1,0,4,2,2,0,28
+7471,Andrea Belotti,54,3,0,0.256583051,0,13,10,0,0,0.0,0,0,4,1,0,0,3,1,3,0,0,0,3,2,1,19
+7474,Afriyie Acquah,83,1,0,0.047420647,1,33,26,0,2,0.47957845,0,0,18,1,1,0,3,2,2,0,1,1,4,2,2,16
+7476,Emiliano Moretti,90,1,0,0.08247465,1,65,60,0,2,0.07322348099999999,0,0,8,0,1,1,3,1,4,0,0,1,0,2,0,8
+7479,Cristian Molinaro,90,1,0,0.050956614,0,59,47,0,2,0.082708258,5,5,12,0,3,0,6,3,2,1,0,3,0,6,2,17
+8193,Maximiliano Gastón López,36,3,0,0.187197795,0,8,6,0,0,0.0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,4
+34881,Daniele Padelli,90,0,0,0.0,0,31,20,0,1,0.036764536,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1
+40427,Cesare Bovo,90,0,0,0.0,0,57,52,0,0,0.0,0,0,8,1,0,0,3,1,0,0,2,3,4,2,0,14
+40430,Giuseppe Vives,90,1,0,0.022266867,0,45,40,0,1,0.062102273,0,0,8,3,1,0,3,2,4,0,1,3,1,3,0,25

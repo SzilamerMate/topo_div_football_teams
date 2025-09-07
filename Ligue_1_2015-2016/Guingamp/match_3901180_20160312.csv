@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2936,Christophe Kerbrat,90,0,0,0.0,0,32,25,0,0,0.0,0,0,7,0,0,0,2,1,2,0,3,3,3,2,0,5
+3121,Moustapha Elhadji Diallo,90,0,0,0.0,0,24,16,0,0,0.0,1,1,3,2,1,0,6,3,4,1,6,2,5,4,2,22
+3122,Yannis Salibur,84,1,0,0.08263354,0,27,23,0,0,0.0,2,2,8,0,0,0,3,1,4,3,0,0,3,2,1,12
+3124,Jérémy Sorbon,90,0,0,0.0,0,33,25,0,0,0.0,0,0,4,1,2,1,4,1,5,0,4,0,3,2,0,13
+3213,Jimmy Briand,90,2,1,0.254800867,1,30,23,0,1,0.19710581,3,2,7,3,4,2,4,0,8,5,2,1,1,0,0,12
+3235,Ludovic Blas,45,0,0,0.0,0,13,9,0,0,0.0,2,1,5,2,0,0,1,0,5,4,0,0,0,0,0,5
+3322,Jonas Lössl,90,0,0,0.0,0,35,16,0,0,0.0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0
+3348,Younousse Sankharé,90,0,0,0.0,0,22,15,0,0,0.0,1,0,3,0,3,1,1,1,6,3,4,1,1,1,1,15
+3363,Marcus Coco,6,0,0,0.0,0,2,0,0,0,0.0,0,0,2,0,0,0,1,0,1,1,0,0,1,0,0,3
+3364,Jonathan Martins-Pereira,90,0,0,0.0,0,30,22,1,1,0.65101945,0,0,5,3,3,1,7,1,6,0,2,2,5,3,0,27
+4434,Thibault Giresse,77,1,0,0.19710581,0,27,21,0,3,0.222335498,0,0,4,0,2,1,0,0,4,1,0,0,3,0,0,13
+4799,Sloan Privat,45,3,1,0.7907214080000001,2,4,3,0,0,0.0,0,0,0,1,0,0,5,0,0,0,0,1,0,0,0,8
+20199,Lars Christian Jacobsen,90,0,0,0.0,0,37,24,1,2,0.254800867,1,1,2,0,0,0,4,1,1,1,3,3,0,1,1,14
+401525,Julien Cardy,13,0,0,0.0,0,6,5,0,0,0.0,0,0,1,0,0,0,1,1,2,0,0,0,0,1,0,4

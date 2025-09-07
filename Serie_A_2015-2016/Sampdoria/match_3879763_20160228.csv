@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6759,Roberto Soriano,90,3,0,0.07925109799999999,0,29,26,0,1,0.046796106,0,0,6,4,1,1,6,3,6,0,3,2,8,4,2,23
+6822,Carlos Joaquín Correa,76,5,0,0.1378613193,1,39,30,0,4,0.476488822,4,3,19,1,2,0,3,2,8,0,1,1,0,2,1,12
+7011,Fabio Quagliarella,90,5,1,0.30604683099999996,3,18,12,0,0,0.0,1,0,4,2,3,0,4,2,5,2,2,0,3,2,2,19
+7018,Emiliano Viviano,90,0,0,0.0,0,29,13,0,0,0.0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+7019,Matías Agustín Silvestre,23,0,0,0.0,0,2,2,0,0,0.0,0,0,0,2,0,0,0,0,1,0,2,0,1,0,0,5
+7473,Lorenzo De Silvestri,67,1,0,0.05601443,0,30,14,1,1,0.16422343,1,1,6,0,1,0,3,0,1,0,0,0,1,2,0,9
+7962,Andrea Ranocchia,90,3,0,0.185196356,1,16,10,0,0,0.0,0,0,0,0,2,1,4,0,1,0,7,0,2,2,0,11
+8875,Ricardo Gabriel Álvarez,83,4,0,0.496512258,0,43,30,0,4,0.21481860800000002,7,5,11,2,1,0,4,2,4,3,3,0,4,3,2,30
+9884,Niklas Moisander,90,0,0,0.0,0,29,27,0,1,0.044120856,0,0,3,1,1,1,2,0,2,0,5,0,2,1,0,8
+15318,Lazaros Christodoulopoulos,7,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,2,0,1,0,0,0,2,1,0,6
+15959,Nenad Krstičić,14,0,0,0.0,0,4,3,0,0,0.0,1,1,1,1,1,0,0,0,2,0,1,0,2,0,0,4
+16586,Fernando Lucas Martins,90,4,1,0.239820033,1,66,59,0,3,0.10148632199999999,0,0,6,1,1,0,4,2,6,1,4,5,5,3,1,16
+25505,José Rodolfo Pires Ribeiro,90,1,0,0.018830575,0,35,27,0,3,0.10899650729999999,0,0,6,1,2,1,4,1,6,1,2,1,2,2,0,12
+387417,Mattia Cassani,90,0,0,0.0,0,39,26,0,1,0.05098998,0,0,1,1,1,0,2,1,2,0,5,0,1,2,1,7

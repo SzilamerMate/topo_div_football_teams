@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2953,Abdou Kader Mangane,90,0,0,0.0,0,39,25,0,0,0.0,1,1,6,2,0,0,8,3,6,0,13,4,2,5,1,10
+4352,Issiaga Sylla,90,0,0,0.0,0,48,31,1,2,0.067986426,4,1,9,5,0,0,5,2,5,4,5,6,2,5,1,26
+5726,Khalid Boutaïb,90,2,1,0.121806106,1,37,25,0,2,0.13136461500000002,0,0,1,3,3,2,11,0,1,5,3,0,3,1,0,22
+7389,Amos Youga,10,1,0,0.022557145,0,7,7,0,0,0.0,2,1,4,1,0,0,1,1,3,1,0,0,0,1,0,4
+7428,Alexandre Coeff,90,1,0,0.007363354,0,64,49,0,1,0.06140134,1,1,7,1,0,0,7,3,3,0,8,2,3,5,1,25
+7430,Kévin Mayi,24,1,0,0.009501519,0,4,2,0,0,0.0,1,0,1,0,1,0,0,0,2,1,0,0,0,0,0,2
+7603,Jérémie Bréchet,90,0,0,0.0,0,33,25,0,0,0.0,0,0,3,1,3,2,7,1,3,0,6,2,3,3,0,5
+7721,John Tshibumbu,66,2,1,0.13542030800000002,1,15,11,0,0,0.0,0,0,1,3,1,1,2,0,0,2,0,0,2,0,0,10
+7808,Roderic Filippi,2,0,0,0.0,0,3,2,0,0,0.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+10616,Mohamed Larbi,90,1,0,0.10880747,0,49,42,1,4,0.16450243200000003,3,3,10,0,1,0,4,1,11,4,0,0,0,2,0,14
+31911,Damjan Đoković,80,2,0,0.027162265,0,39,25,0,0,0.0,0,0,2,2,2,1,1,0,3,0,0,1,2,1,0,21
+401507,Jérôme Le Moigne,90,0,0,0.0,0,36,28,0,0,0.0,0,0,1,1,2,1,5,2,7,0,1,1,3,2,2,18
+401508,Clément Maury,90,0,0,0.0,0,40,18,0,0,0.0,0,0,6,0,1,1,0,0,9,0,0,0,0,0,0,0
+401509,David Ducourtioux,88,0,0,0.0,0,46,33,0,1,0.007363354,2,1,6,3,3,1,6,2,6,3,1,2,1,4,0,22

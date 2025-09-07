@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3742,Orestis Karnezis,90,0,0,0.0,0,26,14,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+5204,Bruno Miguel Borges Fernandes,90,0,0,0.0,0,35,20,0,2,0.37553798,1,1,6,1,2,1,3,1,6,1,0,0,2,1,1,14
+5512,Emil Hallfreðsson,86,0,0,0.0,0,33,26,0,1,0.0606918,0,0,2,5,0,0,3,0,6,2,2,2,4,3,0,19
+6577,Zdravko Kuzmanović,90,0,0,0.0,0,39,25,0,0,0.0,1,1,3,2,0,0,6,3,12,2,1,0,3,4,1,19
+6938,Felipe Dias da Silva dal Belo,90,1,0,0.23311609,1,28,21,0,0,0.0,0,0,2,2,0,0,9,6,1,0,4,2,4,8,2,19
+7017,Duván Esteban Zapata Banguera,72,3,1,0.602666908,1,26,15,0,0,0.0,3,1,2,0,3,0,8,0,7,4,0,1,3,0,0,13
+7796,Silvan Widmer,90,1,0,0.14242189,1,48,30,0,1,0.33686498,1,0,8,3,3,2,3,2,4,1,1,3,2,2,1,20
+7799,Danilo Larangeira,90,0,0,0.0,0,29,19,0,0,0.0,0,0,0,2,1,0,6,0,3,0,5,0,5,0,0,8
+8272,Cyril Théréau,90,3,0,0.25837835,0,31,21,1,1,0.2566458,1,0,7,1,2,0,7,0,5,1,1,0,1,0,0,17
+8852,Thomas Heurtaux,79,0,0,0.0,0,17,6,0,0,0.0,2,1,2,3,1,1,5,2,4,1,2,3,2,4,1,13
+19846,Antonio Di Natale,18,0,0,0.0,0,3,1,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+29312,Pablo Estífer Armero,90,0,0,0.0,0,42,24,0,0,0.0,0,0,1,4,1,1,5,2,6,0,0,5,5,3,1,13
+40367,Francesco Lodi,4,0,0,0.0,0,8,3,0,0,0.0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+46670,Iván Rodrigo Piris Leguizamón,11,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,2

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3286,Nathan Redmond,41,2,0,0.051435823500000005,1,30,17,0,1,0.06990754,2,1,5,0,1,0,1,1,5,1,0,1,1,1,0,5
+4807,Cameron Jerome,76,2,0,0.167608764,0,26,11,0,0,0.0,1,1,3,0,1,0,3,0,0,1,0,0,0,0,0,5
+9463,Alexander Banor Tettey,90,0,0,0.0,0,66,58,0,0,0.0,1,1,11,1,0,0,1,0,11,1,5,0,1,1,0,8
+9519,Kyle Lafferty,14,0,0,0.0,0,7,4,0,0,0.0,0,0,2,0,0,0,0,0,0,1,1,1,0,0,0,0
+9578,Jonathan Howson,90,2,0,0.09506266699999999,0,40,27,1,2,0.37231573349999997,5,1,8,1,0,0,7,1,7,0,1,0,3,1,1,16
+10966,Wes Hoolahan,90,2,0,0.093126101,0,76,59,0,4,0.378347234,5,4,9,0,0,0,6,1,5,3,0,0,2,2,0,9
+10967,Robert Brady,90,0,0,0.0,0,72,51,0,2,0.21668750999999997,2,1,7,0,0,0,5,2,5,2,6,0,1,4,1,8
+11124,Steven Whittaker,90,0,0,0.0,0,76,53,0,1,0.028765477,4,2,7,1,1,0,2,2,8,1,5,0,6,2,0,16
+16334,Graham Dorrans,49,2,0,0.040554847000000005,0,39,34,0,1,0.022767626,1,1,2,0,0,0,2,2,3,0,1,0,0,2,0,7
+21212,Russell Martin,90,2,0,0.087685366,0,58,46,0,1,0.04141339,1,0,15,0,0,0,2,0,5,1,9,1,1,1,0,2
+22594,Matt Jarvis,58,0,0,0.0,0,21,10,0,0,0.0,0,0,1,0,0,0,0,0,2,1,0,0,1,0,0,5
+23635,John Ruddy,90,0,0,0.0,0,39,32,0,0,0.0,0,0,2,0,1,1,0,0,7,1,0,0,0,0,0,0
+23663,Dieumerci Mbokani Bezua,32,3,1,0.61007537,1,8,7,0,2,0.051540325,1,1,1,0,0,0,2,0,1,1,2,0,0,0,0,2
+31296,Sébastien Aymar Bassong Nguena,90,2,0,0.143047934,0,45,37,0,1,0.08248446,0,0,7,2,1,1,5,2,2,2,6,0,1,2,2,5

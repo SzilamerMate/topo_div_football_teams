@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5569,Marvin Plattenhardt,90,0,0,0.0,0,43,33,0,0,0.0,0,0,3,1,1,1,4,2,1,0,4,2,2,4,0,12
+5697,Genki Haraguchi,90,2,0,0.08767809700000001,1,18,10,1,1,0.44655895,2,1,6,1,4,2,4,2,1,2,1,0,2,2,0,27
+8570,Niklas Stark,90,1,1,0.067456186,1,37,34,0,0,0.0,0,0,7,1,0,0,4,1,1,1,4,1,1,2,0,11
+8571,Vedad Ibišević,86,2,1,0.729516,1,22,16,0,2,0.281255227,1,1,4,2,2,1,7,1,7,1,1,0,3,1,1,25
+8575,Salomon Armand Magloire Kalou,91,1,0,0.045304947,0,30,28,0,1,0.13142027,5,2,16,1,3,0,7,1,6,2,0,0,2,1,0,13
+8576,Mitchell Weiser,90,0,0,0.0,0,49,40,0,1,0.054963365,5,3,9,0,2,1,4,4,2,1,3,0,1,4,0,17
+8577,Rune Almenning Jarstein,90,0,0,0.0,0,49,30,0,0,0.0,0,0,6,0,0,0,0,0,3,0,0,0,0,0,0,0
+8578,Per Ciljan Skjelbred,90,0,0,0.0,0,39,34,0,2,0.081335444,1,1,4,4,1,1,1,1,5,0,1,0,2,1,1,29
+8579,Vladimír Darida,89,3,0,0.201969479,1,56,45,1,2,0.12487011,0,0,14,2,3,2,3,0,3,2,1,1,3,0,0,21
+12327,John Anthony Brooks,90,0,0,0.0,0,50,46,0,1,0.021928497,0,0,9,0,0,0,0,0,1,0,7,3,2,0,0,9
+30439,Tolga Ciğerci,90,7,0,0.3666226,1,64,56,0,0,0.0,2,0,7,6,0,0,4,2,12,0,1,0,1,3,1,35
+33459,Alexander Baumjohann,1,0,0,0.0,0,2,2,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+40474,Jens Hegeler,4,1,0,0.057413924,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3461,Petr Čech,90,0,0,0.0,0,31,14,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,0
+3475,Per Mertesacker,90,1,0,0.53635293,0,44,40,0,0,0.0,0,0,5,0,1,1,1,0,4,0,5,2,0,0,0,3
+3496,Mesut Özil,90,2,1,0.35733210000000004,1,72,60,1,8,0.6584692544999999,1,1,6,0,0,0,2,2,1,3,0,0,2,2,1,21
+3498,Ignacio Monreal Eraso,9,0,0,0.0,0,5,4,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3511,Héctor Bellerín Moruno,90,0,0,0.0,0,63,54,0,1,0.1439676,2,1,11,1,0,0,3,1,2,1,1,2,1,2,0,10
+3517,Aaron Ramsey,90,0,0,0.0,0,73,60,0,0,0.0,1,1,9,2,0,0,6,4,9,2,0,3,1,5,1,26
+3525,Alex Oxlade-Chamberlain,92,1,0,0.098797314,0,43,33,0,0,0.0,6,5,10,0,5,1,3,3,6,2,0,2,0,3,1,25
+3528,Kieran Gibbs,81,0,0,0.0,0,68,58,0,0,0.0,0,0,6,1,0,0,1,1,5,1,3,2,4,1,0,8
+3604,Olivier Giroud,79,3,0,0.301142056,1,20,17,1,1,0.2133645,3,2,3,1,0,0,8,3,4,1,0,0,1,3,1,17
+3668,Theo Walcott,90,3,0,0.24410349799999997,2,21,16,0,1,0.098797314,7,5,7,0,2,0,4,2,4,2,0,1,1,3,2,15
+3713,Calum Chambers,90,0,0,0.0,0,59,54,0,0,0.0,4,2,7,2,1,1,2,1,8,0,2,4,5,2,1,13
+5581,Joel Nathaniel Campbell Samuels,11,0,0,0.0,0,4,4,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9
+6746,Gabriel Armando de Abreu,90,3,1,0.2138152405,1,65,61,0,0,0.0,0,0,9,0,0,0,5,1,5,1,4,4,1,2,0,2

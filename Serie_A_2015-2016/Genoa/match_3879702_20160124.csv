@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5554,Blerim Džemaili,58,0,0,0.0,0,37,35,0,0,0.0,1,1,5,1,5,0,2,0,4,0,1,1,2,0,0,14
+5717,Diego Sebastián Laxalt Suárez,90,0,0,0.0,0,58,42,0,0,0.0,2,2,10,3,3,2,5,2,5,1,1,2,4,4,0,25
+6894,Ezequiel Muñoz,90,0,0,0.0,0,51,47,0,0,0.0,3,2,5,3,4,2,10,4,5,1,5,2,1,5,2,18
+7022,Jesús Joaquín Fernández Sáez de la Torre,58,2,0,0.088022644,0,37,30,0,1,0.06430207,3,2,10,0,1,0,2,0,4,2,0,0,0,0,0,2
+7148,Mattia Perin,90,0,0,0.0,0,36,24,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+7176,Sebastian De Maio,90,0,0,0.0,0,28,23,0,0,0.0,0,0,4,5,0,0,5,0,0,0,13,0,1,2,0,20
+7456,Diego Perotti,66,1,0,0.032997213,0,53,37,0,0,0.0,3,3,12,0,0,0,3,1,1,5,0,0,1,1,1,18
+7461,Luca Rigoni,32,0,0,0.0,0,14,9,0,0,0.0,0,0,4,0,1,0,0,0,4,0,5,1,0,0,0,6
+7464,Cristian Daniel Ansaldi,90,1,0,0.0085579865,0,35,21,0,1,0.008727404,2,1,11,1,2,1,6,0,6,1,7,1,2,3,0,18
+7475,Tomás Eduardo Rincón Hernández,90,1,0,0.06330685,0,59,53,0,2,0.0415551995,4,3,10,4,0,0,5,2,5,1,0,0,0,2,1,22
+7702,Alessio Cerci,32,1,0,0.014325573,0,14,7,0,1,0.09946823,1,0,9,0,0,0,1,0,4,1,0,0,2,0,0,4
+8180,Leonardo Pavoletti,90,4,0,0.311324471,2,29,18,0,1,0.014325573,0,0,1,2,2,1,7,0,3,0,1,0,0,1,0,19
+9940,Armando Izzo,90,0,0,0.0,0,58,50,0,0,0.0,2,2,14,2,3,2,4,1,4,0,8,2,1,1,0,5
+40457,Giovanni Marchese,24,0,0,0.0,0,10,7,0,1,0.116090134,0,0,0,2,0,0,2,0,1,0,3,0,0,0,0,3

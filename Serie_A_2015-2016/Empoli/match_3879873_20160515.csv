@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5660,Piotr Zieliński,90,3,1,0.23228896799999998,2,28,24,0,1,0.03991008,1,1,7,0,1,0,1,1,1,1,2,1,2,1,0,18
+7054,Manuel Pucciarelli,90,2,0,0.190124373,0,33,28,0,0,0.0,0,0,7,1,2,0,5,1,2,1,1,0,2,4,0,23
+7150,Riccardo Saponara,71,1,0,0.03991008,0,30,21,1,2,0.19312841000000003,0,0,6,0,1,0,2,0,3,2,2,0,0,0,0,14
+7151,Mário Rui Silva Duarte,90,1,0,0.006331195,0,55,45,0,1,0.22684887,1,0,4,0,1,0,4,2,6,0,4,1,2,4,2,11
+8664,Andrea Costa,90,1,0,0.071268916,0,73,68,0,0,0.0,0,0,7,0,0,0,1,1,2,0,1,2,2,1,0,4
+11512,Rade Krunić,19,0,0,0.0,0,11,11,0,0,0.0,0,0,3,1,0,0,3,1,1,2,0,0,1,1,0,9
+11602,Raffaele Maiello,28,0,0,0.0,0,26,24,0,1,0.048562013,0,0,1,0,1,0,0,0,3,1,1,0,1,0,0,3
+16061,Uroš Ćosić,90,0,0,0.0,0,59,52,0,0,0.0,0,0,17,0,0,0,3,1,1,0,5,0,1,2,1,6
+16308,Leandro Daniel Paredes,62,0,0,0.0,0,35,28,0,2,0.100545939,0,0,5,3,0,0,0,0,2,0,1,1,0,0,0,10
+40250,Marco Zambelli,90,0,0,0.0,0,37,35,0,0,0.0,1,1,2,4,2,1,2,0,4,0,2,0,1,1,0,9
+40251,Daniele Croce,90,0,0,0.0,0,40,38,0,0,0.0,3,1,11,0,4,2,3,2,8,1,0,1,4,3,2,27
+40252,Massimo Maccarone,76,2,1,0.27449715,1,21,13,1,2,0.06386301,2,0,4,2,1,0,3,0,0,1,0,0,2,0,0,10
+41231,Maurizio Pugliesi,90,0,0,0.0,0,28,18,0,0,0.0,0,0,1,0,1,0,0,0,4,0,0,0,1,0,0,0
+386516,Alessandro Piu,14,0,0,0.0,0,4,3,0,0,0.0,0,0,0,1,0,0,2,0,1,0,0,0,0,0,0,4

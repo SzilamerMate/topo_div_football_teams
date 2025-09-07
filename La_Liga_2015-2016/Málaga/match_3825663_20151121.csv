@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3302,Nordin Amrabat,77,4,0,0.341343347,2,18,14,0,1,0.11993888,3,1,5,3,2,0,4,1,2,4,0,0,0,1,0,15
+6559,Juan Carlos Pérez López,90,1,0,0.07601127,0,36,29,0,0,0.0,1,1,3,1,2,1,6,2,2,2,1,0,2,3,0,11
+6569,Roberto José Rosales Altuve,90,0,0,0.0,0,55,41,0,0,0.0,0,0,5,2,0,0,4,0,6,0,2,4,2,3,0,9
+6707,Charles Días Barbosa de Oliveira,90,3,0,0.42402935999999997,1,25,20,0,0,0.0,0,0,1,1,2,2,3,0,2,1,0,0,1,0,0,14
+6764,Pablo Fornals Malla,90,2,0,0.063527277,1,66,54,0,3,0.23684088200000003,1,0,9,1,3,1,3,0,7,0,0,2,1,2,0,14
+8264,Adnane Tighadouini,13,1,0,0.043564208,0,7,6,0,0,0.0,2,1,2,0,1,0,0,0,1,0,0,0,1,0,0,5
+10868,Ricardo Jorge Luz Horta,25,1,0,0.0136245135,0,15,11,0,0,0.0,2,0,4,1,0,0,0,0,3,1,1,0,0,0,0,6
+19431,Fernando Damián Tissone,90,0,0,0.0,0,75,61,0,1,0.043564208,2,2,5,2,3,1,1,0,6,1,1,1,3,1,0,13
+20063,Javier Ontiveros Parra,45,1,0,0.019547472,1,30,22,0,2,0.0402948655,2,2,5,4,0,0,3,2,8,3,0,1,1,2,1,13
+25859,Sérgio Paulo Barbosa Valente,65,2,0,0.18781213,0,60,35,0,5,0.59433278,4,3,5,0,2,0,5,1,6,2,0,1,1,2,0,10
+26103,Idriss Carlos Kameni,90,0,0,0.0,0,18,16,0,0,0.0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0
+26669,Weligton Róbson Pena de Oliveira,90,0,0,0.0,0,37,30,0,0,0.0,0,0,6,3,0,0,2,0,5,0,7,1,0,0,0,7
+27184,Marcos Alberto Angeleri,90,0,0,0.0,0,46,36,0,0,0.0,0,0,6,0,1,1,4,0,7,0,7,4,0,1,0,7
+27335,Arthur Etienne Boka,45,0,0,0.0,0,25,21,0,0,0.0,1,1,0,1,2,1,2,1,2,1,0,1,2,1,1,5

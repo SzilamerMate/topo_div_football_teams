@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3576,Martin Olsson,90,0,0,0.0,0,39,23,0,0,0.0,0,0,8,2,1,0,7,1,8,2,4,4,3,3,0,16
+9452,Gary O''Neil,90,1,0,0.02907065,0,56,41,0,0,0.0,4,4,6,2,1,0,11,4,7,2,3,5,2,5,2,28
+9461,Timm Klose,90,0,0,0.0,0,22,16,0,0,0.0,0,0,0,1,0,0,4,1,2,0,9,5,4,3,0,17
+9528,Steven Naismith,19,0,0,0.0,0,15,12,0,0,0.0,1,0,3,1,1,0,2,0,4,0,0,1,1,0,0,7
+9578,Jonathan Howson,90,0,0,0.0,0,42,27,0,0,0.0,0,0,4,2,0,0,4,2,4,0,4,2,2,2,2,30
+10457,Patrick Bamford,71,2,0,0.13549675,0,24,18,0,0,0.0,1,1,3,1,1,0,7,0,5,5,1,0,2,0,0,23
+10967,Robert Brady,76,3,1,0.461794493,1,32,18,0,2,0.161864244,2,2,6,2,2,1,2,0,7,1,0,1,3,2,0,15
+21212,Russell Martin,90,1,0,0.07131064,0,65,40,0,0,0.0,1,1,4,1,0,0,5,1,5,1,4,4,1,4,0,14
+22594,Matt Jarvis,93,0,0,0.0,0,34,24,1,2,0.39001572999999995,2,2,5,0,1,1,1,1,4,1,1,1,6,1,0,28
+23635,John Ruddy,90,0,0,0.0,0,32,9,0,0,0.0,0,0,7,0,0,0,0,0,6,0,0,0,0,0,0,0
+23663,Dieumerci Mbokani Bezua,90,0,0,0.0,0,33,22,0,2,0.065947599,3,2,8,2,2,1,23,3,5,3,2,0,3,3,2,20
+23742,Vadis Odjidja-Ofoe,14,0,0,0.0,0,7,3,0,0,0.0,1,0,1,0,1,0,1,0,1,1,1,0,2,0,0,5
+31296,Sébastien Aymar Bassong Nguena,90,0,0,0.0,0,19,14,0,0,0.0,1,1,1,0,0,0,8,1,1,0,13,2,2,1,1,15

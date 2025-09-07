@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3008,Benjamin Lecomte,90,0,0,0.0,0,37,17,0,0,0.0,0,0,7,0,0,0,0,0,5,0,1,0,0,0,0,0
+3102,Yann Jouffre,60,0,0,0.0,0,32,30,1,1,0.3485111,1,1,5,1,3,0,0,0,0,0,0,2,0,0,0,9
+3140,François Bellugou,30,1,0,0.006844815,0,9,6,0,0,0.0,0,0,1,0,0,0,0,0,2,1,0,1,0,0,0,8
+3552,Benjamin Jeannot,41,4,1,1.15608356,2,19,15,0,2,0.114743888,0,0,3,2,0,0,4,0,3,0,0,0,0,0,0,9
+5209,Raphaël Adelino José Guerreiro,90,0,0,0.0,0,51,42,0,0,0.0,2,2,6,1,0,0,1,1,7,1,1,3,5,1,1,11
+6335,Lamine Gassama,90,0,0,0.0,0,18,14,0,1,0.006844815,1,1,3,1,2,0,3,2,1,2,6,2,0,3,1,15
+7211,Zargo Touré,90,0,0,0.0,0,20,18,0,0,0.0,0,0,1,0,1,1,4,3,3,0,7,3,5,4,0,14
+7338,Romain Philippoteaux,90,1,0,0.016084338,0,35,21,2,3,0.6336706959999999,5,2,11,3,1,0,2,0,5,2,1,2,2,2,0,23
+7615,Abdul Majeed Waris,90,4,0,0.24448371800000002,1,20,17,0,1,0.038040552,3,2,7,3,2,1,3,0,4,2,0,0,0,0,0,14
+13286,Lamine Koné,90,2,0,0.119590376,0,16,15,0,0,0.0,1,1,4,1,0,0,4,1,2,0,8,2,1,2,0,12
+19395,Marvin Gakpa,12,1,0,0.01204063,1,11,9,0,0,0.0,1,1,3,0,0,0,1,1,2,0,0,0,0,1,0,8
+22587,Didier Ndong Ibrahim,90,2,1,0.045747127,2,31,26,0,1,0.01204063,4,1,3,1,1,0,5,1,5,0,1,3,2,2,0,28
+24646,Rafidine Abdullah,78,0,0,0.0,0,38,31,0,1,0.02424464,1,0,1,3,0,0,5,3,6,1,2,1,2,4,0,30
+33178,Benjamin Moukandjo Bilé,49,1,1,0.3485111,1,20,12,0,3,0.14663135500000002,0,0,5,0,1,0,4,1,2,2,2,1,0,1,1,12

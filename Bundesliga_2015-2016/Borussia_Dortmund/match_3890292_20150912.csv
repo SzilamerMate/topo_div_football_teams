@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3275,Henrikh Mkhitaryan,90,5,1,0.202626277,2,62,47,0,2,0.078671248,0,0,7,6,1,0,7,1,4,0,0,0,2,2,0,15
+3712,Pierre-Emerick Aubameyang,90,3,2,1.6887436,2,22,17,0,1,0.058961287,0,0,4,1,0,0,1,0,2,2,0,0,1,0,0,12
+5572,Mats Hummels,90,0,0,0.0,0,85,74,0,1,0.02432234,0,0,19,2,0,0,4,1,3,0,5,1,1,2,1,5
+5684,Shinji Kagawa,89,1,0,0.058961287,0,63,53,0,2,0.07701619,2,2,4,0,0,0,2,0,0,2,0,0,1,0,0,5
+6330,Adnan Januzaj,31,2,0,0.042463693,0,11,10,0,2,0.040679986,2,1,4,2,2,0,0,0,2,3,0,0,0,0,0,3
+8216,Sven Bender,1,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+8225,Roman Bürki,90,0,0,0.0,0,22,18,0,0,0.0,0,0,0,0,1,1,0,0,3,0,0,0,0,0,0,0
+8233,Gonzalo Castro Randon,25,0,0,0.0,0,14,8,0,0,0.0,1,0,3,0,0,0,0,0,1,1,0,0,1,0,0,3
+8244,Sokratis Papastathopoulos,90,0,0,0.0,0,68,65,0,0,0.0,0,0,6,1,1,1,5,3,3,1,2,0,0,5,2,13
+8804,Jonas Hofmann,59,0,0,0.0,0,21,15,0,0,0.0,2,0,4,0,3,2,0,0,3,3,0,1,1,0,0,7
+8808,Matthias Ginter,90,2,0,0.07701619,1,65,58,1,4,0.177362727,0,0,7,2,1,0,3,1,3,0,1,1,1,1,0,11
+8816,Julian Weigl,65,0,0,0.0,0,50,46,0,0,0.0,0,0,5,1,1,0,5,1,6,0,1,0,1,4,0,6
+10287,İlkay Gündoğan,90,3,0,0.11809423299999999,0,87,76,0,0,0.0,2,2,11,0,1,0,2,0,4,1,1,2,2,1,0,8
+11458,Marcel Schmelzer,90,1,0,0.011439808,1,88,77,0,2,0.144641242,0,0,10,3,3,2,5,0,3,1,1,0,2,0,0,12

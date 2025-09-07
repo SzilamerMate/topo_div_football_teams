@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6334,Luis Fernando Muriel Fruto,90,0,0,0.0,0,22,14,0,1,0.025352918,1,0,4,1,3,1,4,1,3,1,0,0,0,2,1,21
+6759,Roberto Soriano,79,0,0,0.0,0,48,36,0,0,0.0,4,2,13,4,0,0,4,1,6,2,3,0,2,3,1,28
+7000,Eder Citadin Martins,90,1,0,0.25635117,1,16,14,0,0,0.0,0,0,3,2,1,0,2,1,6,3,0,0,0,1,1,16
+7009,Édgar Osvaldo Barreto Cáceres,64,1,0,0.025352918,0,31,21,0,0,0.0,0,0,2,1,1,0,4,3,3,0,0,2,0,4,1,15
+7018,Emiliano Viviano,90,0,0,0.0,0,36,26,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+7019,Matías Agustín Silvestre,90,0,0,0.0,0,56,51,0,0,0.0,1,1,5,3,0,0,0,0,5,0,2,0,3,0,0,14
+7137,Ervin Zukanović,90,0,0,0.0,0,58,48,0,0,0.0,0,0,9,2,0,0,1,0,1,0,3,1,3,1,0,6
+7473,Lorenzo De Silvestri,90,0,0,0.0,0,74,56,0,0,0.0,1,1,13,4,0,0,2,1,6,0,3,3,1,1,0,12
+8423,Pedro Miguel Almeida Lopes Pereira,45,1,0,0.02328245,1,9,6,0,0,0.0,1,0,3,1,0,0,0,0,1,2,1,0,2,0,0,17
+16586,Fernando Lucas Martins,90,0,0,0.0,0,64,57,0,1,0.02328245,1,1,5,3,2,0,2,1,7,2,0,1,1,2,1,26
+19850,Antonio Cassano,11,0,0,0.0,0,6,2,0,0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4
+27595,Carlos Mario Carbonero Mancilla,90,0,0,0.0,0,43,34,0,0,0.0,4,1,3,2,1,1,4,2,3,2,1,2,4,3,1,32
+36364,Dávid Ivan,26,0,0,0.0,0,14,11,0,0,0.0,0,0,1,1,0,0,2,1,2,0,0,0,0,2,0,13
+40394,Djamel Eddine Mesbah,45,0,0,0.0,0,23,19,0,0,0.0,0,0,1,2,1,0,1,1,0,0,0,1,2,1,0,5

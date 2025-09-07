@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3416,Gabriel Moisés Antunes da Silva,90,2,0,0.036081744,1,43,30,0,0,0.0,1,0,7,0,2,1,5,2,7,0,4,1,4,4,1,17
+7079,Kamil Wilczek,16,1,0,0.057649378,0,8,5,0,0,0.0,0,0,1,1,0,0,2,0,1,0,0,0,1,0,0,5
+7172,Simone Romagnoli,90,0,0,0.0,0,27,16,0,0,0.0,0,0,3,3,0,0,3,1,1,0,11,0,5,1,0,9
+7460,Isaac Cofie,5,0,0,0.0,0,2,2,0,0,0.0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0,2
+7696,Ryder Matos Santos,90,3,0,0.36953261,2,23,16,0,2,0.114229768,0,0,9,4,3,1,4,1,4,3,1,1,1,2,0,12
+7793,Kevin Lasagna,74,2,0,0.39174638,2,17,7,0,1,0.068955384,0,0,3,4,2,0,9,1,2,1,2,0,1,1,1,13
+8278,Nicolás Federico Spolli,56,0,0,0.0,0,7,4,0,0,0.0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,1
+11502,Antonio Di Gaudio,90,2,0,0.122395862,1,15,12,0,0,0.0,0,0,4,0,4,1,9,1,2,1,0,0,2,2,1,9
+31572,Luca Marrone,90,1,0,0.007590495,0,48,36,0,0,0.0,2,2,9,3,4,1,1,0,4,0,3,0,1,0,0,8
+352172,Raffaele Bianco,90,0,0,0.0,0,29,19,0,0,0.0,2,2,7,1,1,0,0,0,8,0,1,0,4,0,0,14
+387300,Cristian Zaccardo,90,0,0,0.0,0,40,22,0,0,0.0,0,0,6,4,1,1,6,1,4,0,2,1,2,2,1,9
+387474,Igor Bubnjić,34,0,0,0.0,0,9,5,0,0,0.0,0,0,2,0,0,0,0,0,2,0,2,0,2,0,0,1
+387475,Andrea Lazzari,85,0,0,0.0,0,46,32,0,2,0.234264218,0,0,6,1,1,0,8,2,9,3,0,0,2,4,2,12
+387477,Francesco Benussi,90,0,0,0.0,0,27,13,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0

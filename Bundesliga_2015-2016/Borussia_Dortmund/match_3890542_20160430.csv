@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3275,Henrikh Mkhitaryan,90,4,0,0.45312560100000004,0,53,43,1,3,0.46923333,6,4,11,0,1,0,3,0,5,6,1,2,3,1,0,22
+3712,Pierre-Emerick Aubameyang,22,4,2,0.6244501499999999,3,3,2,0,0,0.0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,2
+5559,Marco Reus,90,4,1,0.44244891700000005,1,37,35,0,2,0.14027385,4,2,10,2,2,0,3,1,4,4,1,0,3,2,0,22
+5572,Mats Hummels,90,0,0,0.0,0,113,101,0,0,0.0,2,1,18,0,0,0,3,2,5,0,4,1,0,3,0,8
+5658,Łukasz Piszczek,62,0,0,0.0,0,53,50,0,2,0.087870397,0,0,6,0,0,0,2,0,1,2,3,1,1,2,0,11
+5684,Shinji Kagawa,90,3,1,0.52686921,2,42,38,1,3,0.76903057,0,0,9,0,3,0,3,0,7,1,1,1,2,0,0,24
+8216,Sven Bender,90,1,0,0.20030847,1,129,119,0,1,0.2572511,1,1,12,0,0,0,1,0,7,0,5,2,1,0,0,9
+8225,Roman Bürki,90,0,0,0.0,0,25,23,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+8232,Nuri Şahin,22,0,0,0.0,0,20,19,0,0,0.0,0,0,3,0,0,0,3,2,0,0,0,0,0,3,1,6
+8233,Gonzalo Castro Randon,90,1,0,0.06055075,1,68,61,0,1,0.025606109,2,1,11,0,1,1,5,2,4,4,0,1,3,4,2,21
+8816,Julian Weigl,68,0,0,0.0,0,38,33,0,0,0.0,2,1,3,3,1,0,2,0,3,0,0,0,1,1,0,17
+11458,Marcel Schmelzer,90,0,0,0.0,0,64,58,1,3,0.292871912,1,0,9,1,3,1,3,1,3,0,0,1,1,2,1,20
+13206,Erik Durm,28,0,0,0.0,0,13,12,0,0,0.0,2,1,3,2,0,0,1,1,4,0,0,0,0,1,0,7
+24324,Gustavo Adrián Ramos Vásquez,68,2,1,0.334950565,1,17,13,1,1,0.055584475,2,0,1,1,0,0,2,0,1,3,1,0,2,0,0,16

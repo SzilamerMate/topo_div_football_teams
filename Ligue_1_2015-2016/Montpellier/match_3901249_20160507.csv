@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2950,Jonas Martin,90,2,0,0.05057725,0,94,86,0,1,0.06657287,0,0,14,2,0,0,4,1,6,0,0,0,1,2,0,22
+2975,Mathieu Deplagne,90,1,0,0.09017492,1,62,54,0,0,0.0,1,0,12,0,0,0,1,0,9,1,2,2,1,0,0,8
+2980,Kévin Bérigaud,27,1,0,0.2732883,0,8,6,0,0,0.0,0,0,4,1,0,0,0,0,0,1,0,0,0,0,0,6
+3011,Daniel Congré,90,1,0,0.06657287,0,46,43,0,0,0.0,0,0,3,1,0,0,2,1,3,0,9,1,0,2,0,10
+3020,Rodrigue Casimir Ninga,90,3,1,0.21596416400000001,2,31,24,1,1,0.2318567,5,3,9,4,0,0,1,0,5,1,0,0,1,1,0,24
+3421,Bryan Dabo,58,1,0,0.10554514,0,26,16,0,1,0.17846169,3,1,6,2,2,1,1,1,6,0,0,0,0,1,0,15
+3546,Morgan Sanson,3,0,0,0.0,0,5,5,0,1,0.03186335,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3674,Vitorino Hilton da Silva,90,0,0,0.0,0,62,51,0,1,0.2732883,0,0,13,0,0,0,0,0,5,0,3,1,0,0,0,4
+3676,Jérôme Roussillon,90,1,0,0.0066170003,0,64,51,0,2,0.11639212500000001,1,0,10,0,3,1,2,2,4,0,0,0,2,2,2,19
+3679,Souleymane Camara,63,2,0,0.268012856,1,20,15,1,2,0.137727927,1,1,3,2,0,0,1,0,1,1,0,0,1,0,0,13
+3767,Ellyes Joris Skhiri,90,0,0,0.0,0,70,59,0,0,0.0,0,0,6,0,0,0,7,5,2,0,1,2,1,6,0,25
+6661,Ryad Boudebouz,87,4,1,0.33810515799999996,1,80,62,0,2,0.09054736,5,2,19,1,1,0,3,0,5,1,0,0,1,2,0,15
+7509,Geoffrey Jourdren,90,0,0,0.0,0,26,22,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,1
+30255,Mustapha Yatabaré,32,1,0,0.05041699,0,10,9,0,1,0.01044688,0,0,1,1,0,0,2,0,1,0,0,0,0,0,0,5

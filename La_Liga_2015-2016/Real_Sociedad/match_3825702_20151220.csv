@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3023,Yuri Berchiche Izeta,79,1,0,0.014598902,0,66,52,0,1,0.08772933,1,1,11,0,1,0,2,1,3,2,0,2,0,1,0,9
+5560,Carlos Alberto Vela Garrido,90,4,0,0.353736255,0,53,43,0,1,0.020448096,2,2,9,2,8,2,1,0,5,3,0,1,0,0,0,13
+6665,Íñigo Martínez Berridi,90,0,0,0.0,0,75,65,0,0,0.0,0,0,18,3,0,0,0,0,5,0,1,2,1,0,0,7
+6671,Asier Illarramendi Andonegi,90,1,0,0.024126295,0,101,87,0,1,0.2103695,0,0,17,2,2,1,6,3,10,1,1,1,1,3,0,26
+6673,Sergio Canales Madrazo,90,3,0,0.055587116,0,69,52,0,2,0.22999387,1,0,13,2,1,0,0,0,8,2,1,0,2,0,0,17
+6677,Imanol Agirretxe Arruti,90,3,0,0.301318196,0,37,25,0,0,0.0,0,0,3,0,3,2,5,0,2,3,0,0,0,0,0,13
+6679,Aritz Elustondo Irribaria,90,1,0,0.07014995,1,83,66,0,0,0.0,2,1,5,4,1,0,3,3,2,2,0,1,2,3,1,15
+6690,Xabier Prieto Argarate,34,1,0,0.014633667,0,21,17,0,1,0.071324326,1,0,1,0,2,2,0,0,3,2,0,0,0,0,0,4
+6694,Gerónimo Rulli,90,0,0,0.0,0,33,30,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+6770,Esteban Félix Granero Molina,56,0,0,0.0,0,63,57,0,4,0.14768731699999998,0,0,7,2,2,1,4,1,2,2,0,1,0,2,0,11
+8522,Armindo Tué Na Bangna,69,2,0,0.12981880699999998,1,36,30,0,1,0.06277853,3,3,9,0,1,0,1,0,4,2,0,0,0,0,0,7
+8584,Jonathas Cristian de Jesus,21,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+10754,Héctor Hernández Ortega,11,0,0,0.0,0,14,12,0,0,0.0,1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,2
+16539,Diego Antonio Reyes Rosales,90,1,0,0.1890803,0,64,52,0,0,0.0,0,0,11,0,1,1,3,1,6,0,0,4,1,1,0,5

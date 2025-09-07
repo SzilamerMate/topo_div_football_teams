@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3008,Benjamin Lecomte,90,0,0,0.0,0,36,31,0,1,0.032234106,0,0,3,0,1,1,0,0,10,0,0,0,0,0,0,1
+3102,Yann Jouffre,90,10,0,0.45581704799999995,1,86,67,1,4,0.698484871,5,3,22,0,2,1,0,0,5,2,0,0,0,0,0,6
+3140,François Bellugou,80,0,0,0.0,0,68,63,0,1,0.012577947,0,0,6,1,0,0,5,3,6,0,1,0,2,4,0,22
+3552,Benjamin Jeannot,67,5,1,0.56492495,2,34,22,0,3,0.119095323,0,0,2,2,0,0,1,1,3,1,1,0,0,1,0,11
+5209,Raphaël Adelino José Guerreiro,90,1,0,0.019318491,0,82,76,0,2,0.088395685,7,7,17,0,1,0,1,1,7,1,2,1,0,1,0,11
+6335,Lamine Gassama,90,0,0,0.0,0,60,54,0,0,0.0,2,0,7,1,1,0,2,2,6,2,4,0,3,2,0,9
+7199,Vincent Le Goff,17,0,0,0.0,0,13,11,0,1,0.047308594,0,0,1,0,1,0,1,0,4,0,0,1,0,1,0,1
+7211,Zargo Touré,90,0,0,0.0,0,43,41,0,0,0.0,0,0,3,0,2,2,3,1,4,0,7,3,1,1,0,15
+7567,Maxime Barthelmé,73,2,0,0.060097107999999996,1,57,45,0,3,0.066011114,0,0,26,2,2,0,0,0,4,2,0,1,0,0,0,16
+7766,Walid Mesloub,23,3,0,0.09359298699999999,2,22,20,0,2,0.069886476,2,1,2,0,1,0,1,1,3,1,0,0,0,1,0,6
+13286,Lamine Koné,90,1,0,0.017417846,1,37,33,0,0,0.0,0,0,4,0,1,1,0,0,4,0,6,1,1,0,0,4
+22587,Didier Ndong Ibrahim,90,3,1,0.413390931,1,64,56,0,0,0.0,2,2,14,2,0,0,3,2,7,1,1,2,5,3,0,22
+24646,Rafidine Abdullah,10,0,0,0.0,0,15,14,0,1,0.0316273,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,4
+33178,Benjamin Moukandjo Bilé,90,5,2,1.498578958,2,37,35,1,3,0.43878869,5,4,11,0,0,0,5,0,2,3,0,0,1,0,0,4

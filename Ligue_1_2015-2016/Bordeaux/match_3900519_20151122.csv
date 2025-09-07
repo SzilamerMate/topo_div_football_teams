@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2946,Frédéric Guilbert,90,1,0,0.037029084,0,54,35,0,0,0.0,4,4,8,1,1,1,6,3,7,2,4,1,2,5,2,15
+3150,Jaroslav Plašil,61,0,0,0.0,0,44,38,0,1,0.11567609,0,0,6,2,1,0,5,1,3,0,2,1,1,3,0,15
+3184,Enzo Crivelli,90,2,1,0.8786995249999999,1,29,19,0,1,0.4086999,1,1,7,6,1,0,11,0,3,2,0,0,1,0,0,16
+3196,Wahbi Khazri,90,2,0,0.52437599,2,40,27,0,2,0.07097788199999999,0,0,8,1,3,1,4,1,3,5,0,2,2,1,0,25
+3256,Nicolas Pallois,29,0,0,0.0,0,11,10,0,0,0.0,0,0,1,0,1,1,0,0,2,0,1,1,0,0,0,1
+3408,Thomas Touré,19,0,0,0.0,0,8,6,0,0,0.0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,1
+3779,Cédric Yambéré,90,0,0,0.0,0,43,36,0,0,0.0,1,0,2,0,1,1,2,0,1,1,3,0,0,1,0,13
+4628,Diego Armando Valentin Contento,90,1,1,0.36788145,1,58,49,0,0,0.0,2,1,5,1,0,0,7,3,4,0,3,3,2,5,1,15
+5110,Henri Saivet,90,0,0,0.0,0,60,49,0,0,0.0,2,1,5,0,2,1,8,6,5,1,0,1,4,8,3,27
+7552,Clément Chantôme,90,0,0,0.0,0,51,46,0,0,0.0,1,1,7,2,2,1,3,0,4,0,2,0,5,2,0,20
+8385,Ludovic Lamine Sané,53,1,0,0.033948798,0,21,17,0,0,0.0,0,0,1,0,0,0,1,0,3,1,5,0,0,0,0,2
+10448,Adam Ounas,18,1,0,0.40964994,1,6,3,0,0,0.0,0,0,4,0,0,0,2,0,5,2,0,0,1,1,0,7
+40533,Cédric Carrasso,90,0,0,0.0,0,37,23,0,0,0.0,0,0,5,0,0,0,0,0,9,0,0,0,0,0,0,0
+42430,Nicolas Maurice-Belay,90,0,0,0.0,0,51,39,1,1,0.36788145,0,0,12,0,3,1,4,1,5,1,1,0,0,3,0,15

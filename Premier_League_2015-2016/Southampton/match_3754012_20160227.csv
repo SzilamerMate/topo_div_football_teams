@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3272,Oriol Romeu Vidal,90,0,0,0.0,0,37,32,0,1,0.023833092,2,1,2,1,1,0,6,2,6,1,2,1,6,5,2,21
+3328,James Ward-Prowse,1,0,0,0.0,0,4,3,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+3329,Cédric Ricardo Alves Soares,90,0,0,0.0,0,43,30,0,0,0.0,1,1,9,2,0,0,2,1,6,2,2,0,1,2,0,7
+3629,Sadio Mané,12,0,0,0.0,0,7,6,0,1,0.029815322,2,1,2,0,0,0,0,0,4,0,0,0,0,0,0,2
+3651,Matt Targett,89,0,0,0.0,0,32,20,0,0,0.0,0,0,1,0,0,0,2,1,5,1,4,2,5,1,0,5
+3669,Virgil van Dijk,90,2,0,0.092589642,1,27,24,0,1,0.3947514,1,1,4,1,1,1,5,2,0,0,3,2,1,3,0,7
+3828,Steven Davis,90,0,0,0.0,0,47,33,0,3,0.184502535,2,1,6,1,1,0,2,1,9,2,4,0,3,1,0,25
+3842,Shane Long,68,2,1,0.76057524,1,24,17,0,0,0.0,2,1,3,0,3,2,2,0,2,1,1,1,0,1,0,2
+3960,José Miguel da Rocha Fonte,90,0,0,0.0,0,26,20,0,0,0.0,0,0,4,0,2,1,2,1,4,0,8,1,4,1,1,10
+3966,Charlie Austin,78,2,0,0.16211852999999998,0,21,15,0,0,0.0,0,0,4,1,3,1,12,1,2,3,0,0,0,1,0,9
+3970,Fraser Forster,90,0,0,0.0,0,29,16,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,0
+11062,Graziano Pellè,22,1,0,0.029815322,1,8,3,0,0,0.0,0,0,1,2,0,0,0,0,1,0,0,0,0,0,0,1
+16181,Jordy Clasie,90,1,0,0.022384005,0,42,32,0,0,0.0,2,1,4,2,0,0,2,2,3,0,0,3,0,2,2,19
+20045,Ryan Bertrand,90,0,0,0.0,0,33,26,0,1,0.06875655,0,0,7,2,0,0,2,0,0,0,6,2,2,1,0,10

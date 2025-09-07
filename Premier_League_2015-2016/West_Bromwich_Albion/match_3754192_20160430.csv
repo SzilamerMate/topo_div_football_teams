@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2966,Stéphane Sessègnon,14,2,0,0.061961047,1,10,8,0,1,0.19148237,1,0,3,0,0,0,0,0,5,0,0,0,1,0,0,1
+3514,James McClean,60,0,0,0.0,0,24,13,0,1,0.12081848,3,1,5,1,0,0,5,3,4,2,1,0,1,4,1,22
+3523,Craig Dawson,90,2,0,0.13408608,0,52,35,0,0,0.0,0,0,5,1,1,0,5,1,6,0,0,3,0,2,1,10
+3596,Gareth McAuley,90,1,0,0.12081848,0,27,18,0,0,0.0,0,0,3,0,1,1,7,2,6,0,7,1,2,2,0,12
+3967,Claudio Ariel Yacob,60,0,0,0.0,0,28,19,0,0,0.0,0,0,4,2,1,0,2,2,5,0,0,3,0,2,1,24
+4022,Darren Fletcher,90,0,0,0.0,0,41,27,0,0,0.0,3,1,9,0,0,0,3,0,7,1,1,1,0,0,0,15
+4041,José Salomón Rondón Giménez,90,1,0,0.06747703,1,26,15,0,1,0.11042117,1,0,3,2,0,0,9,1,1,1,4,1,1,1,1,23
+4053,Ben Foster,90,0,0,0.0,0,20,11,0,0,0.0,0,0,3,0,0,0,0,0,3,0,1,0,0,0,0,0
+4630,Saido Berahino,30,2,0,0.30190354,0,6,4,0,0,0.0,1,1,2,1,1,0,0,0,1,5,0,0,0,0,0,11
+7121,Sandro Ranieri Guimarães Cordeiro,30,2,0,0.042034424,0,21,14,0,0,0.0,0,0,4,0,0,0,4,0,3,0,4,1,1,2,0,9
+9485,Craig Gardner,76,5,0,0.47388107599999996,1,27,16,0,1,0.06747703,1,1,2,2,0,0,3,0,10,0,0,0,0,0,0,15
+11012,Jonathan Grant Evans,90,0,0,0.0,0,54,38,0,0,0.0,2,2,8,0,1,0,2,0,10,1,2,1,2,0,0,6
+20527,Jonas Olsson,90,0,0,0.0,0,30,22,0,1,0.029803315,0,0,2,3,0,0,3,0,5,0,2,0,1,0,0,5
+22702,Jonathan Leko,90,0,0,0.0,0,17,14,0,1,0.12238065,4,3,10,3,1,1,5,1,5,2,0,2,2,2,0,20

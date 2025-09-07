@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3275,Henrikh Mkhitaryan,90,0,0,0.0,0,58,40,0,3,0.6803902530000001,4,4,11,3,4,2,5,0,4,3,0,1,0,2,0,11
+3712,Pierre-Emerick Aubameyang,90,5,2,0.7985299290000001,5,16,7,0,0,0.0,2,1,3,0,0,0,2,0,2,1,1,0,1,0,0,11
+5572,Mats Hummels,90,1,0,0.23961154,0,59,48,0,0,0.0,0,0,7,0,2,0,5,2,4,0,10,1,1,4,0,5
+5658,Łukasz Piszczek,90,0,0,0.0,0,86,55,1,1,0.24525966,1,1,17,2,1,0,4,1,4,1,6,1,3,2,0,16
+5684,Shinji Kagawa,54,0,0,0.0,0,31,28,0,0,0.0,0,0,7,0,2,1,2,0,3,0,0,0,0,1,0,7
+8225,Roman Bürki,90,0,0,0.0,0,36,27,0,0,0.0,0,0,6,0,1,0,0,0,7,0,0,0,0,0,0,0
+8233,Gonzalo Castro Randon,36,0,0,0.0,0,21,19,1,1,0.23806979,0,0,2,0,0,0,2,0,1,2,0,0,1,0,0,4
+8244,Sokratis Papastathopoulos,90,1,0,0.41110834,0,67,58,0,0,0.0,0,0,8,2,1,0,2,1,5,0,6,0,0,1,0,8
+8246,Christian Pulisic,23,0,0,0.0,0,8,4,0,0,0.0,0,0,2,0,0,0,0,0,2,0,0,0,1,0,0,7
+8808,Matthias Ginter,90,0,0,0.0,0,57,47,0,0,0.0,1,1,5,3,3,2,5,1,6,3,2,2,0,1,0,9
+8816,Julian Weigl,54,0,0,0.0,0,40,31,0,1,0.028388139,1,1,2,1,3,1,2,1,7,2,1,0,1,2,1,12
+9475,Moritz Leitner,36,0,0,0.0,0,28,23,0,0,0.0,3,3,3,0,1,0,0,0,2,2,0,1,1,0,0,3
+13206,Erik Durm,90,1,0,0.020301161,0,55,37,0,1,0.11401186,2,1,6,0,1,0,2,0,6,2,4,1,6,1,0,8
+24324,Gustavo Adrián Ramos Vásquez,67,2,0,0.34430031299999997,0,26,16,0,0,0.0,0,0,2,4,2,1,12,1,2,0,1,1,2,3,1,13

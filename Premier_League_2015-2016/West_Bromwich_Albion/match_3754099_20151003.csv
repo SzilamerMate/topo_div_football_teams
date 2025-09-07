@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3490,James Morrison,69,0,0,0.0,0,18,13,0,1,0.016401464,3,3,8,0,1,0,3,1,7,3,1,0,0,2,1,13
+3514,James McClean,90,4,0,0.084035898,1,32,24,0,1,0.055682186,3,3,11,1,1,0,7,2,3,0,1,0,3,4,2,24
+3523,Craig Dawson,90,0,0,0.0,0,43,25,0,0,0.0,0,0,2,1,2,2,5,0,3,1,6,1,4,1,0,12
+3541,Chris Brunt,90,1,0,0.055682186,0,36,21,0,0,0.0,1,0,0,4,1,1,5,2,2,0,10,0,5,5,2,14
+3596,Gareth McAuley,90,0,0,0.0,0,30,23,0,1,0.019509925,0,0,1,1,1,1,2,0,1,0,8,1,2,0,0,10
+3967,Claudio Ariel Yacob,90,0,0,0.0,0,30,23,0,0,0.0,0,0,1,4,1,0,5,1,1,0,4,3,3,4,0,24
+4022,Darren Fletcher,90,0,0,0.0,0,35,27,0,0,0.0,4,4,3,1,1,1,2,1,5,3,0,0,3,1,0,11
+4041,José Salomón Rondón Giménez,90,0,0,0.0,0,16,8,0,0,0.0,1,1,4,1,1,1,12,2,2,4,2,1,1,2,2,28
+4630,Saido Berahino,45,0,0,0.0,0,10,7,0,0,0.0,2,2,2,0,1,0,1,0,0,0,0,0,0,0,0,4
+5108,Glyn Oliver Myhill,90,0,0,0.0,0,39,16,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,0
+9485,Craig Gardner,45,0,0,0.0,0,13,8,0,0,0.0,1,1,1,1,1,0,2,1,0,0,0,0,2,1,0,10
+9551,Callum McManaman,21,1,0,0.0643762,1,4,4,0,0,0.0,1,0,3,0,1,0,1,1,3,1,0,1,2,1,1,9
+9628,James Grant Chester,67,0,0,0.0,0,22,14,0,0,0.0,0,0,1,2,1,0,0,0,1,1,6,0,1,0,0,4
+11012,Jonathan Grant Evans,23,0,0,0.0,0,7,7,0,0,0.0,0,0,2,0,0,0,2,1,1,0,1,0,0,2,0,1

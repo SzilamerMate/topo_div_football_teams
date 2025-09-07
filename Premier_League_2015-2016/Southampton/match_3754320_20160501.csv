@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3098,Victor Wanyama,90,0,0,0.0,0,48,41,0,0,0.0,0,0,3,2,1,0,5,2,8,2,3,5,1,5,1,27
+3272,Oriol Romeu Vidal,31,0,0,0.0,0,15,14,0,0,0.0,0,0,1,0,0,0,7,5,2,1,0,2,0,7,2,16
+3328,James Ward-Prowse,18,1,0,0.04392011,0,6,4,0,0,0.0,0,0,1,0,1,0,0,0,3,0,1,0,0,0,0,11
+3590,Rhu-endly Martina,90,0,0,0.0,0,40,32,0,1,0.068528876,2,1,4,5,0,0,6,3,2,0,1,5,2,5,0,24
+3629,Sadio Mané,90,5,3,1.413362886,4,37,24,0,0,0.0,6,1,16,2,3,0,7,1,14,4,0,3,1,4,1,25
+3669,Virgil van Dijk,90,2,0,0.17431110500000002,1,34,31,0,0,0.0,0,0,5,0,0,0,4,2,1,1,3,1,0,2,2,16
+3685,Jay Rodriguez,4,0,0,0.0,0,5,3,0,0,0.0,1,1,3,0,0,0,0,0,1,1,0,0,0,0,0,4
+3828,Steven Davis,72,1,0,0.05168198,0,43,34,0,3,0.28318560000000004,2,2,4,0,1,0,1,1,6,2,0,0,2,1,0,15
+3831,Dušan Tadić,86,0,0,0.0,0,31,18,3,5,0.79227812,4,2,12,2,0,0,3,1,4,3,0,0,2,3,1,18
+3842,Shane Long,90,2,1,0.214507822,1,28,21,0,1,0.04392011,2,1,0,0,2,0,10,4,2,2,0,1,1,4,1,30
+3960,José Miguel da Rocha Fonte,90,3,0,1.06753729,0,33,28,0,0,0.0,0,0,4,0,0,0,4,2,2,0,7,3,2,3,0,9
+3970,Fraser Forster,90,0,0,0.0,0,24,7,0,0,0.0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0
+16181,Jordy Clasie,59,1,0,0.068528876,0,30,22,0,1,0.024292402,1,1,4,1,0,0,3,1,3,1,1,1,1,2,0,26
+20045,Ryan Bertrand,90,0,0,0.0,0,42,32,0,0,0.0,2,1,4,2,0,0,1,0,6,1,5,3,0,0,0,16

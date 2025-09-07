@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4711,Pablo Hernández Domínguez,20,0,0,0.0,0,7,6,0,0,0.0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,6
+6852,Jozabed Sánchez Ruiz,90,4,1,0.37211372899999995,2,72,66,0,0,0.0,1,1,7,0,2,0,1,0,5,1,0,0,3,1,0,29
+6914,Roberto Román Triguero,90,0,0,0.0,0,7,7,1,1,0.20529905,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1
+7900,Tiago Manuel Dias Correia,27,0,0,0.0,0,13,11,0,0,0.0,5,0,4,2,2,0,2,0,1,1,0,0,0,1,0,7
+10612,Yoel Rodríguez Oterino,90,0,0,0.0,0,33,24,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+11298,José Ignacio Martínez García,90,2,0,0.107175358,0,59,50,0,0,0.0,1,0,2,2,1,0,3,1,2,0,1,1,2,1,1,23
+11542,Javier Guerra Rodríguez,90,0,0,0.0,0,32,29,0,0,0.0,2,0,2,5,5,1,2,0,4,2,0,0,4,0,0,17
+23761,Alhassane Bangoura,63,1,0,0.008817796,1,31,23,0,2,0.145227605,5,1,4,3,1,0,3,1,3,1,0,0,1,1,1,14
+24138,Joaquín José Marín Ruiz,70,0,0,0.0,0,50,36,0,0,0.0,0,0,3,1,0,0,4,3,4,0,0,1,4,4,1,19
+24782,Jonhatan Montiel Caballero,11,0,0,0.0,0,10,9,0,0,0.0,3,0,3,1,0,0,0,0,1,2,0,0,0,0,0,6
+26222,José Eduardo Rosa Vale de Castro,79,0,0,0.0,0,55,47,0,0,0.0,3,3,2,0,1,0,1,0,3,0,2,1,2,1,0,8
+26607,José Raúl Baena Urdiales,90,0,0,0.0,0,8,7,0,1,0.042966187,0,0,2,2,0,0,1,0,1,1,1,0,0,1,0,8
+26848,Roberto Trashorras Gayoso,90,1,0,0.027267475,0,98,86,1,2,0.13599941599999998,1,1,10,0,2,0,1,1,3,0,1,0,0,1,1,16
+27144,Antonio Amaya Carazo,90,1,1,0.12718162,1,26,22,0,0,0.0,1,0,6,0,0,0,2,0,1,0,7,5,3,1,0,13

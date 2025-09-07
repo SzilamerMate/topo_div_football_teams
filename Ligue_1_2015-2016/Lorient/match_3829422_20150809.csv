@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3008,Benjamin Lecomte,90,0,0,0.0,0,32,14,0,1,0.018027246,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+3140,François Bellugou,90,0,0,0.0,0,19,17,0,0,0.0,0,0,4,2,0,0,2,1,3,0,7,3,2,1,0,6
+3552,Benjamin Jeannot,73,3,0,0.07185444399999999,1,22,20,0,0,0.0,3,0,4,1,2,1,6,0,4,0,1,0,1,0,0,22
+3769,Wesley Lautoa,90,0,0,0.0,0,18,16,0,0,0.0,0,0,2,1,0,0,2,0,1,0,3,3,2,0,0,9
+5209,Raphaël Adelino José Guerreiro,65,2,0,0.33181419,1,29,25,0,1,0.0341487,4,3,5,0,0,0,3,3,3,0,1,1,0,3,0,16
+6335,Lamine Gassama,90,0,0,0.0,0,36,30,0,1,0.006690848,1,1,5,0,3,1,2,2,5,0,4,2,2,2,0,14
+7190,Denis Bouanga,90,2,0,0.07070198999999999,0,20,15,0,1,0.07285263,3,1,3,3,1,0,5,3,4,3,1,3,4,3,2,50
+7199,Vincent Le Goff,90,0,0,0.0,0,55,42,0,0,0.0,0,0,9,1,1,0,2,1,4,1,1,5,3,2,1,16
+7338,Romain Philippoteaux,29,1,0,0.020579163,0,10,7,0,0,0.0,2,1,3,1,0,0,0,0,4,0,0,1,0,0,0,13
+7567,Maxime Barthelmé,25,1,0,0.006690848,1,14,13,0,0,0.0,0,0,8,0,1,0,1,0,2,1,1,1,0,0,0,4
+7766,Walid Mesloub,90,0,0,0.0,0,67,56,0,1,0.03897267,0,0,7,0,1,0,4,3,1,1,3,1,2,4,1,25
+10522,Mehdi Mostefa Sbaa,90,0,0,0.0,0,39,35,0,0,0.0,1,1,1,1,1,0,3,2,5,0,3,2,2,3,0,25
+33178,Benjamin Moukandjo Bilé,61,1,0,0.07285263,1,12,9,0,0,0.0,1,0,4,2,0,0,4,1,1,0,0,0,1,1,1,12
+106664,Sibiri Alain Traoré,17,0,0,0.0,0,15,9,0,0,0.0,0,0,1,0,1,0,1,0,2,0,0,0,0,0,0,5

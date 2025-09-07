@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5460,Andrej Kramarić,90,5,0,0.8593852700000001,1,33,22,0,2,0.37295633,2,2,12,0,1,0,4,1,3,5,0,0,1,1,0,15
+6039,Sebastian Rudy,68,0,0,0.0,0,42,30,0,0,0.0,4,3,10,3,1,0,4,3,5,0,0,1,3,3,2,15
+6322,Niklas Süle,90,0,0,0.0,0,63,54,0,0,0.0,0,0,6,1,1,0,2,1,6,0,5,0,3,1,0,9
+8215,Kevin Volland,90,2,0,0.15557873,0,35,20,0,4,0.365133037,4,3,7,4,3,1,3,0,3,3,0,0,2,1,0,21
+8387,Mark Uth,45,2,0,0.1614894,1,14,10,0,1,0.024723219,1,1,1,2,1,0,3,0,3,2,0,1,3,0,0,17
+8392,Jeremy Toljan,90,1,0,0.020159312,0,57,41,0,0,0.0,1,1,4,0,2,0,2,0,3,1,2,2,2,0,0,8
+8393,Oliver Baumann,90,0,0,0.0,0,57,38,0,0,0.0,0,0,4,0,0,0,0,0,5,0,0,0,0,0,0,0
+8403,Nadiem Amiri,90,2,0,0.035300606,1,46,38,0,2,0.5886031100000001,3,0,6,3,2,0,2,1,6,1,1,1,1,2,0,23
+8404,Eugen Polanski,52,2,0,0.043413647,0,20,17,0,0,0.0,0,0,2,4,1,1,1,1,3,0,1,1,0,1,1,15
+8556,Pirmin Schwegler,38,0,0,0.0,0,21,16,0,0,0.0,0,0,2,2,3,2,4,1,2,0,0,0,0,1,0,7
+9396,Ermin Bičakčić,90,0,0,0.0,0,49,44,0,0,0.0,0,0,3,0,1,1,4,4,3,0,1,0,1,4,0,8
+9397,Pavel Kadeřábek,90,1,0,0.023428857,1,60,47,0,1,0.0830411,0,0,5,4,1,0,7,0,1,3,1,2,2,0,0,4
+9720,Philipp Ochs,22,0,0,0.0,0,13,9,0,2,0.043692092,0,0,2,0,1,0,3,3,1,2,0,0,0,3,2,8
+19836,Kevin Kuranyi,45,1,0,0.3004187,0,16,12,0,0,0.0,0,0,0,2,1,0,2,0,0,1,0,0,1,0,0,11

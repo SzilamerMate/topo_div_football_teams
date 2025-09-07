@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3026,Adrien Rabiot,81,1,0,0.050221086,1,70,63,0,0,0.0,3,2,13,2,2,2,4,3,8,3,1,1,0,3,1,22
+3295,Thiago Emiliano da Silva,90,0,0,0.0,0,79,74,0,1,0.035350844,0,0,6,0,0,0,1,0,1,0,4,5,3,1,0,9
+3481,Serge Aurier,90,1,0,0.008910541,0,70,60,0,0,0.0,1,0,6,1,1,1,5,3,7,1,1,1,0,4,0,21
+3745,Lucas Rodrigues Moura da Silva,80,0,0,0.0,0,57,48,0,2,0.37940362099999997,3,2,19,0,1,0,2,1,3,3,0,0,0,2,0,7
+3956,David Luiz Moreira Marinho,90,1,0,0.048344146,1,80,71,0,0,0.0,0,0,12,1,2,2,0,0,4,0,2,2,1,0,0,9
+4319,Edinson Roberto Cavani Gómez,90,3,0,0.120435271,1,22,17,0,0,0.0,0,0,3,1,1,0,3,0,2,1,0,2,1,0,0,12
+4325,Thiago Motta,90,0,0,0.0,0,119,107,0,0,0.0,1,1,7,2,0,0,12,5,4,1,2,1,4,8,1,22
+4370,Javier Matías Pastore,9,0,0,0.0,0,9,7,0,0,0.0,1,1,2,0,0,0,0,0,2,0,0,0,0,0,0,0
+4375,Blaise Matuidi,90,1,1,0.101204574,1,80,75,0,1,0.050221086,1,1,10,0,2,1,0,0,4,2,0,2,2,0,0,21
+4440,Kevin Trapp,90,0,0,0.0,0,38,33,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+8510,Jean-Kévin Augustin,22,1,0,0.37049308,1,5,5,0,0,0.0,1,1,3,1,0,0,2,0,0,0,0,0,1,0,0,9
+8515,Benjamin Stambouli,10,0,0,0.0,0,5,3,0,0,0.0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,3
+26613,Maxwell Scherrer Cabelino Andrade,90,0,0,0.0,0,72,64,1,2,0.168324684,1,1,7,0,0,0,1,0,4,0,2,0,0,1,0,5
+351521,Ezequiel Iván Lavezzi,68,1,0,0.0664733,0,27,23,0,1,0.017964317,0,0,7,1,6,1,2,0,2,4,0,0,0,2,0,9

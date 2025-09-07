@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3240,Mathew Ryan,90,0,0,0.0,0,25,18,0,0,0.0,0,0,3,0,0,0,0,0,7,0,0,0,0,0,0,0
+3638,Shkodran Mustafi,90,1,0,0.18645144,0,42,29,0,0,0.0,0,0,2,3,1,1,3,1,2,0,8,2,0,2,0,7
+4406,Aymen Abdennour,90,0,0,0.0,0,38,25,0,0,0.0,0,0,2,0,1,1,3,1,4,1,4,4,1,1,0,3
+5186,Denis Cheryshev,90,0,0,0.0,0,44,24,0,1,0.49886128,3,1,9,5,2,0,6,2,3,2,1,1,6,4,1,16
+5718,Rodrigo Moreno Machado,31,2,0,0.216794476,1,10,8,0,1,0.05822372,0,0,1,1,1,0,6,0,3,0,0,0,0,1,0,3
+6594,Santiago Mina Lorenzo,15,0,0,0.0,0,8,7,0,0,0.0,1,0,3,0,1,0,0,0,1,0,0,0,0,0,0,3
+6595,Daniel Parejo Muñoz,90,0,0,0.0,0,63,48,0,1,0.18645144,3,3,6,2,1,0,5,1,2,2,1,1,0,2,1,20
+6596,José Luis Gayà Peña,47,0,0,0.0,0,23,17,0,1,0.05306004,2,1,3,2,2,0,1,1,1,1,1,0,0,1,0,7
+6663,Antonio Barragán Fernández,90,0,0,0.0,0,52,38,0,0,0.0,1,1,4,1,1,0,5,3,6,0,0,4,2,5,2,10
+10802,André Filipe Tavares Gomes,90,2,0,0.0656926057,0,42,31,0,0,0.0,5,1,10,1,2,0,7,3,7,5,1,1,3,3,1,15
+12349,Wilfried Aimeric Zahibo,75,0,0,0.0,0,36,25,0,1,0.0074688857,0,0,3,6,1,0,7,1,9,1,1,1,3,2,0,17
+18724,Sofiane Feghouli,59,0,0,0.0,0,21,12,0,0,0.0,1,1,5,0,3,0,2,0,2,4,1,1,1,0,0,4
+20542,Álvaro Negredo Sánchez,90,2,0,0.55192132,0,38,26,0,1,0.17907818,1,1,1,1,2,1,13,0,1,0,2,0,0,1,0,9
+26780,Guilherme Magdalena Siqueira,43,0,0,0.0,0,28,19,0,0,0.0,0,0,1,1,1,1,3,0,0,0,2,0,1,3,0,6

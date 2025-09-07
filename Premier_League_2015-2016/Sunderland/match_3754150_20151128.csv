@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3321,Patrick van Aanholt,90,2,1,0.065131888,1,46,41,0,1,0.03631839,0,0,6,0,0,0,4,2,3,0,1,1,1,4,2,15
+3337,Jermain Defoe,30,1,0,0.053132825,0,8,7,0,0,0.0,0,0,3,0,1,0,0,0,1,2,0,0,1,0,0,3
+3658,DeAndre Yedlin,90,1,0,0.09923351,0,35,28,0,0,0.0,1,0,6,0,0,0,5,3,0,1,2,0,1,5,0,28
+4429,Yann Gérard M''Vila,90,4,0,0.239764688,1,69,59,0,2,0.130236458,1,1,8,1,1,0,4,2,7,1,1,1,2,2,1,15
+4746,Younes Kaboul,90,0,0,0.0,0,39,33,0,0,0.0,1,0,12,1,1,1,3,0,6,0,8,0,2,0,0,5
+5617,Sebastian Larsson,53,0,0,0.0,0,29,22,0,1,0.053132825,1,1,2,2,0,0,3,0,2,0,3,0,2,2,0,26
+6300,Sebastián Coates Nión,90,1,0,0.32778427,1,35,28,0,0,0.0,1,1,6,0,0,0,10,5,5,0,1,0,3,6,0,10
+6871,Costel Fane Pantilimon,90,0,0,0.0,0,33,22,0,1,0.040265065,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0
+9554,Steven Fletcher,90,1,0,0.03631839,1,39,27,0,2,0.10022124199999999,1,0,8,0,2,0,9,0,6,1,1,0,0,0,0,11
+10783,Lee Cattermole,90,0,0,0.0,0,59,52,0,1,0.053172205,1,1,11,2,2,0,3,2,1,0,0,0,2,3,1,21
+16457,Jeremain Lens,37,5,0,0.237637208,0,15,11,0,2,0.421490416,3,2,7,0,0,0,1,1,1,1,0,0,0,1,1,2
+16890,John O''Shea,73,0,0,0.0,0,21,18,0,1,0.09923351,0,0,1,0,0,0,1,0,0,0,4,0,1,0,0,5
+22281,Duncan Watmore,60,2,1,0.11525832500000001,1,12,8,0,0,0.0,3,3,11,1,2,0,3,1,5,2,0,0,1,3,1,11
+42902,Adam Johnson,17,1,0,0.033816222,0,21,20,1,2,0.037538116999999996,0,0,4,0,1,0,1,0,2,0,0,0,0,0,0,2

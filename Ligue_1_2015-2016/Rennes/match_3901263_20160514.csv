@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2990,Benjamin André,90,5,0,0.428702815,2,80,67,0,1,0.15757333,2,2,10,0,5,0,8,3,5,0,1,3,1,4,1,20
+3018,Giovanni-Guy Yann Sio,90,2,0,0.180056893,0,25,17,1,3,0.38026252499999996,3,2,2,0,1,0,5,1,1,1,1,1,0,1,0,11
+3022,Fallou Diagne,58,0,0,0.0,0,27,25,0,0,0.0,0,0,6,1,0,0,1,0,2,0,1,2,2,0,0,4
+3354,Benoît Guy Robert Costil,90,0,0,0.0,0,23,17,0,0,0.0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0
+3753,Pedro Filipe Teodósio Mendes,90,1,0,0.01305324,0,55,46,0,1,0.120717265,3,2,12,2,4,1,2,1,6,1,4,5,2,1,1,7
+4475,Romain Danzé,90,0,0,0.0,0,60,52,0,0,0.0,1,0,2,0,0,0,0,0,3,0,5,2,2,0,0,5
+4602,Yoann Gourcuff,78,0,0,0.0,0,48,42,0,0,0.0,0,0,6,0,1,0,1,1,7,4,0,0,1,1,1,3
+5477,Ousmane Dembélé,90,4,0,0.6085846199999999,2,36,23,0,3,0.22232643000000002,5,2,16,0,5,0,1,1,4,2,0,0,0,1,1,13
+5667,Kamil Grosicki,66,3,0,0.21369071499999998,1,37,20,0,3,0.173432823,4,2,13,0,0,0,0,0,3,2,0,0,0,0,0,3
+8672,Gélson da Conceição Tavares Fernandes,90,0,0,0.0,0,72,66,0,0,0.0,0,0,7,0,0,0,3,1,5,1,2,3,2,2,0,15
+16503,Pedro Henrique Konzen Medina da Silva,12,1,1,0.15485,1,6,4,0,0,0.0,0,0,0,1,1,0,0,0,0,1,0,2,1,0,0,2
+40509,Kermit Romeo Erasmus,24,0,0,0.0,0,19,16,0,3,0.14056766299999998,0,0,4,0,0,0,1,0,1,0,0,0,2,0,0,3
+40699,Sylvain Armand,90,0,0,0.0,0,45,38,0,1,0.06546724,1,1,7,0,2,1,1,1,7,0,2,0,3,1,0,5
+45685,Sébastien Antoine Luc Salles Lamonge,32,1,0,0.029101573,1,31,22,0,1,0.20235007,1,0,2,3,0,0,0,0,2,2,0,0,0,0,0,6

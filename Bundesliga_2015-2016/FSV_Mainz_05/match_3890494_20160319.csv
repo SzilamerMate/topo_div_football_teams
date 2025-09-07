@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3630,Loris Karius,90,0,0,0.0,0,32,21,0,0,0.0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0
+6925,Jairo Samperio Bustara,90,1,0,0.047734275,0,29,19,0,1,0.09869157,3,1,9,2,0,0,6,0,7,4,0,1,5,0,0,19
+8539,Danny Latza,90,1,0,0.01003738,0,76,66,0,0,0.0,2,1,10,0,0,0,5,3,3,0,1,0,2,5,0,37
+8548,Daniel Brosinski,90,0,0,0.0,0,66,40,0,2,0.33517102,1,1,7,0,2,0,4,1,6,0,3,1,2,2,0,6
+8555,Pablo Ezequiel De Blasis,91,1,0,0.027651679,0,36,27,0,1,0.047734275,2,2,6,3,0,0,11,5,5,1,1,1,1,6,1,25
+8559,Stefan Bell,90,0,0,0.0,0,53,37,0,0,0.0,0,0,3,3,1,1,1,1,3,0,5,3,4,1,0,12
+8679,Yunus Mallı,87,0,0,0.0,0,39,29,1,1,0.26247448,4,2,10,1,1,0,0,0,4,3,0,1,1,0,0,10
+8817,Jhon Andrés Córdoba Copete,89,3,0,0.37993814,1,20,11,0,0,0.0,1,0,6,3,3,1,5,1,4,3,0,0,1,1,1,12
+11278,Karim Onisiwo,1,0,0,0.0,0,1,0,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+11397,Suat Serdar,3,0,0,0.0,0,5,3,0,1,0.027651679,1,0,2,0,0,0,1,0,3,0,0,0,0,0,0,1
+15847,Alexander Hack,90,0,0,0.0,0,59,50,0,0,0.0,2,2,6,0,0,0,5,0,3,0,4,3,1,2,0,8
+18399,Gaëtan Bussmann,90,1,0,0.09869157,0,50,34,0,1,0.01003738,0,0,4,2,0,0,10,2,4,1,6,1,2,6,1,19
+20037,Julian Baumgartlinger,90,1,1,0.26247448,1,69,55,0,0,0.0,0,0,3,6,3,2,6,1,11,2,4,0,0,2,0,40

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3473,James Philip Milner,90,0,0,0.0,0,81,57,2,2,0.28417495200000004,2,1,11,2,2,1,2,0,6,3,2,2,4,0,0,12
+3515,Alberto Moreno Pérez,90,2,1,0.070452197,1,47,41,1,2,0.5320856727,1,0,6,1,0,0,1,0,4,1,1,2,1,1,0,11
+3529,Daniel Andre Sturridge,90,2,1,0.680741892,1,38,29,0,0,0.0,1,1,5,0,2,1,1,0,2,3,0,0,0,1,0,4
+3535,Roberto Firmino Barbosa de Oliveira,62,1,0,0.01051855,1,23,19,0,0,0.0,1,0,3,2,1,0,3,1,2,0,0,1,2,1,0,16
+3539,Simon Mignolet,90,0,0,0.0,0,28,19,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,0
+4090,Adam David Lallana,28,1,0,0.060797382,0,22,18,0,1,0.05473529,1,1,6,1,1,1,2,2,3,2,0,0,0,2,1,8
+4590,Nathaniel Edwin Clyne,90,2,0,0.095445158,1,61,46,0,2,0.05672332,1,1,8,1,1,0,0,0,9,1,2,1,0,0,0,3
+4747,Divock Okoth Origi,45,3,2,0.7959478327,2,13,9,0,1,0.050139405,0,0,4,1,1,0,1,0,2,2,0,0,0,1,0,3
+7780,Lucas Pezzini Leiva,13,0,0,0.0,0,15,13,0,0,0.0,0,0,4,1,0,0,0,0,1,1,0,1,1,0,0,3
+10931,Joe Allen,77,0,0,0.0,0,30,26,0,0,0.0,0,0,3,2,3,0,6,4,5,1,2,0,0,4,3,16
+11992,Kevin Linford Stewart,90,2,0,0.144554612,0,65,57,0,2,0.09931647399999999,1,1,9,2,3,1,6,4,7,0,2,1,2,5,2,14
+13200,Oluwaseyi Babajide Ojo,45,1,0,0.04620477,0,10,8,1,1,0.6422228,1,1,8,2,1,0,0,0,1,4,0,0,0,0,0,8
+18872,Martin Škrtel,90,0,0,0.0,0,47,43,0,0,0.0,0,0,6,1,0,0,1,0,7,0,14,2,0,0,0,3
+38412,Kolo Habib Touré,90,0,0,0.0,0,49,41,0,0,0.0,0,0,9,0,0,0,5,0,0,0,2,2,3,0,0,2

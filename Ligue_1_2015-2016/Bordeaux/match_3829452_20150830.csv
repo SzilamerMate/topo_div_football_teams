@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3184,Enzo Crivelli,61,1,0,0.05757382,0,12,8,1,2,0.4904865585,3,1,1,2,0,0,3,0,3,0,2,0,2,0,0,7
+3196,Wahbi Khazri,80,3,1,1.2623444,3,42,35,0,4,0.291529699,7,5,11,1,3,1,2,0,9,5,0,1,1,1,0,10
+3256,Nicolas Pallois,90,1,0,0.010741621,0,38,34,0,0,0.0,0,0,8,0,0,0,6,2,8,0,5,1,5,4,1,8
+3408,Thomas Touré,90,5,0,0.2997858735,0,30,20,0,2,0.25684893,6,4,5,0,4,1,10,2,7,5,0,1,3,3,1,30
+3779,Cédric Yambéré,90,1,0,0.18919581,0,37,32,0,0,0.0,0,0,4,1,1,1,1,0,5,0,9,1,1,0,0,4
+4442,Maxime Poundjé,90,0,0,0.0,0,61,46,0,1,0.05757382,1,0,14,2,2,1,5,1,1,2,6,0,5,4,0,20
+4823,Milan Gajić,90,2,1,0.15050091599999998,1,58,51,0,0,0.0,2,0,10,1,0,0,3,0,2,2,1,0,0,1,0,12
+5110,Henri Saivet,90,4,0,0.15371700600000002,1,65,57,0,0,0.0,3,2,8,0,4,3,2,1,8,0,2,2,2,1,0,9
+5615,Isaac Kiese Thelin,29,1,0,0.23299344,0,7,4,0,0,0.0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,4
+6739,Diego Alejandro Rolan Silva,10,1,0,0.008901256,0,7,7,1,1,0.032558586,1,1,2,0,1,0,0,0,3,0,0,0,0,0,0,2
+7552,Clément Chantôme,90,0,0,0.0,0,73,69,0,2,0.111354651,0,0,20,1,2,0,1,0,5,0,3,2,3,0,0,12
+30338,André Biyogo Poko,19,0,0,0.0,0,10,9,0,1,0.008901256,1,1,5,2,0,0,1,1,1,1,0,0,0,1,1,5
+40533,Cédric Carrasso,90,0,0,0.0,0,23,20,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+42430,Nicolas Maurice-Belay,71,0,0,0.0,0,34,28,0,1,0.11794233,2,1,7,0,0,0,3,0,1,0,0,0,0,1,0,7

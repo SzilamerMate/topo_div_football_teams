@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3958,Pedro Eliezer Rodríguez Ledesma,14,0,0,0.0,0,6,5,0,0,0.0,1,1,1,0,0,0,1,0,1,1,0,0,0,1,0,1
+4324,Daniel Alves da Silva,90,0,0,0.0,0,67,53,0,2,0.101475833,0,0,9,1,4,3,7,4,6,0,1,1,2,4,1,15
+4913,Bojan Krkíc Pérez,90,2,0,0.137272839,0,17,13,3,3,0.676863712,2,2,5,0,3,0,2,0,1,1,0,0,1,0,0,9
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,72,65,0,3,0.31034459600000003,1,1,4,4,4,2,5,2,3,2,1,2,1,2,1,26
+5216,Andrés Iniesta Luján,76,2,0,0.10008748,0,68,62,0,1,0.24720028,3,3,10,1,6,1,3,2,5,2,0,0,1,2,1,12
+5503,Lionel Andrés Messi Cuccittini,90,7,3,1.7358392120000001,3,35,28,1,3,0.53867949,6,3,8,1,2,0,0,0,4,4,0,2,0,0,0,10
+5558,Rafael Márquez Álvarez,90,1,0,0.025730295,0,69,61,0,0,0.0,0,0,10,2,0,0,4,0,4,0,8,0,1,1,0,5
+15516,Thierry Henry,90,4,0,0.6554914199999999,1,42,30,0,0,0.0,2,1,7,1,2,1,3,1,2,0,0,0,2,2,0,4
+18608,Dmytro Chygrynskiy,5,0,0,0.0,0,3,3,0,0,0.0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+20125,Carles Puyol i Saforcada,83,1,1,0.26328725,1,46,38,0,0,0.0,0,0,6,1,0,0,4,2,5,0,6,0,1,2,2,13
+20131,Xavier Hernández Creus,85,0,0,0.0,0,81,70,0,1,0.2581124,0,0,8,1,1,0,1,0,4,2,1,0,2,0,0,13
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,37,30,0,0,0.0,0,0,2,0,1,1,0,0,3,0,0,0,0,0,0,0
+25919,Gabriel Alejandro Milito,7,0,0,0.0,0,5,4,0,0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+26613,Maxwell Scherrer Cabelino Andrade,90,0,0,0.0,0,58,48,0,0,0.0,1,0,4,0,0,0,5,2,5,0,3,0,2,5,1,10

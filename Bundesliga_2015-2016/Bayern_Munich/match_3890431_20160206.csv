@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5208,Thiago Alcântara do Nascimento,39,1,0,0.12271783,0,28,25,0,0,0.0,2,2,3,1,3,0,3,0,5,1,2,0,0,1,0,8
+5562,Thomas Müller,31,3,0,0.51862042,0,10,8,0,0,0.0,2,2,0,1,1,1,3,0,0,1,1,0,0,0,0,8
+5570,Manuel Neuer,90,0,0,0.0,0,47,36,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+5579,Joshua Kimmich,90,0,0,0.0,0,57,50,0,0,0.0,0,0,6,1,2,1,5,0,3,0,3,0,2,0,0,8
+5668,Robert Lewandowski,90,2,0,0.11417318,0,20,12,0,0,0.0,3,0,4,2,3,1,4,1,4,2,2,0,0,1,0,17
+5837,Douglas Costa de Souza,90,0,0,0.0,0,45,26,0,1,0.18779819,7,6,11,0,5,0,3,2,0,3,1,0,2,2,1,13
+8206,Arturo Erasmo Vidal Pardo,51,0,0,0.0,0,18,14,0,0,0.0,2,0,0,1,1,0,2,1,3,1,0,0,2,1,0,13
+8217,Kingsley Coman,86,0,0,0.0,0,27,17,0,1,0.16015011,5,4,6,2,2,1,1,0,1,2,2,0,0,0,0,13
+8218,Arjen Robben,59,1,0,0.047412183,0,16,8,0,0,0.0,2,1,4,1,0,0,1,0,2,3,0,1,1,0,0,9
+8220,David Olatukunbo Alaba,90,0,0,0.0,0,58,51,0,2,0.22187092000000003,1,1,5,0,3,0,2,1,5,2,1,2,2,2,1,9
+9406,Holger Badstuber,90,1,0,0.028964411,1,59,50,0,0,0.0,0,0,7,0,0,0,2,0,4,0,7,0,0,0,0,2
+19295,Philipp Lahm,90,0,0,0.0,0,79,69,0,1,0.028964411,1,1,2,1,1,1,2,2,4,0,1,1,1,2,1,9
+20133,Xabier Alonso Olano,90,0,0,0.0,0,62,52,0,0,0.0,0,0,3,3,2,2,16,6,2,1,2,0,3,10,4,35
+22824,Sebastian Rode,4,1,0,0.028516978,0,6,4,0,0,0.0,0,0,1,0,0,0,1,1,3,0,0,0,0,1,0,2

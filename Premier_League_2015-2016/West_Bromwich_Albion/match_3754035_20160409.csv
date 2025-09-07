@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2966,Stéphane Sessègnon,79,3,1,0.0973949,1,33,22,0,1,0.14169148,2,1,14,1,2,0,3,0,7,2,3,2,0,1,0,4
+3514,James McClean,90,2,0,0.103029656,0,28,16,1,1,0.028753404,2,0,4,1,1,0,5,1,6,0,3,0,2,4,0,13
+3523,Craig Dawson,90,0,0,0.0,0,49,31,0,0,0.0,0,0,3,0,0,0,7,1,4,1,5,1,2,3,0,4
+3596,Gareth McAuley,90,1,0,0.14169148,0,16,9,0,0,0.0,0,0,2,0,0,0,4,1,0,0,7,3,0,2,0,5
+4022,Darren Fletcher,90,0,0,0.0,0,59,49,0,1,0.023145797,0,0,4,0,2,0,1,0,11,1,1,2,2,0,0,7
+4041,José Salomón Rondón Giménez,20,0,0,0.0,0,5,5,0,1,0.019867906,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1
+4053,Ben Foster,90,0,0,0.0,0,22,11,0,0,0.0,0,0,4,0,0,0,0,0,7,0,0,0,0,0,0,0
+4630,Saido Berahino,90,2,0,0.6463308999999999,0,23,17,0,3,0.140339266,4,2,3,0,0,0,5,1,2,1,0,0,0,2,1,5
+7121,Sandro Ranieri Guimarães Cordeiro,90,0,0,0.0,0,29,23,0,0,0.0,0,0,5,4,1,1,2,0,4,1,2,2,4,2,0,10
+9485,Craig Gardner,70,5,0,0.21583766299999999,1,28,16,0,0,0.0,0,0,4,2,2,0,1,1,1,0,0,0,2,1,0,6
+9628,James Grant Chester,90,0,0,0.0,0,33,26,0,1,0.2159393,0,0,0,1,1,0,6,1,5,1,10,0,1,5,0,4
+11012,Jonathan Grant Evans,90,0,0,0.0,0,28,23,0,0,0.0,0,0,8,1,0,0,1,0,2,0,6,0,3,0,0,7
+22702,Jonathan Leko,11,0,0,0.0,0,1,0,0,0,0.0,1,0,3,0,1,0,0,0,1,1,0,0,0,0,0,1

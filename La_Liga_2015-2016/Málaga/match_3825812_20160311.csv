@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3084,Christian Atsu Twasam,5,0,0,0.0,0,2,2,0,0,0.0,2,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+5577,Francisco Guillermo Ochoa Magaña,90,0,0,0.0,0,28,16,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+6559,Juan Carlos Pérez López,26,0,0,0.0,0,13,7,0,1,0.046659052,0,0,3,0,1,1,1,0,0,1,0,0,1,0,0,2
+6563,Juan Pablo Añor Acosta,85,3,1,0.138579638,1,45,34,0,3,0.11222498,9,7,5,0,2,0,4,1,9,1,1,0,7,2,0,18
+6569,Roberto José Rosales Altuve,90,1,0,0.005705242,0,63,44,0,0,0.0,0,0,5,1,2,2,7,3,7,1,1,1,2,6,0,12
+6580,José Luis García del Pozo,90,2,0,0.060992896,1,56,46,0,1,0.0114855515,4,3,4,0,1,0,3,2,11,0,0,0,0,3,1,14
+6707,Charles Días Barbosa de Oliveira,90,2,0,0.0632095235,0,31,21,1,1,0.048852734,1,0,4,1,1,1,6,1,1,1,1,3,1,1,0,12
+6727,Raúl Albentosa Redal,90,0,0,0.0,0,34,24,0,0,0.0,1,0,4,1,0,0,3,1,5,1,11,2,3,1,0,9
+6740,Gonzalo Castro Irizábal,71,1,0,0.026200838,0,36,15,0,3,0.092279129,7,4,13,1,3,0,2,0,9,3,0,2,4,0,0,8
+6764,Pablo Fornals Malla,90,2,0,0.057439857999999996,0,56,44,0,0,0.0,2,1,4,0,2,0,3,1,9,3,2,2,2,1,0,8
+6878,Miguel Torres Gómez,90,0,0,0.0,0,39,30,0,0,0.0,0,0,1,1,0,0,3,1,0,0,1,2,2,1,1,12
+23930,Ikechukwu Uche,64,0,0,0.0,0,23,19,0,1,0.03156632,2,1,2,3,3,1,3,0,0,2,0,0,0,0,0,7
+25859,Sérgio Paulo Barbosa Valente,19,1,0,0.046659052,0,16,11,0,0,0.0,1,0,3,0,0,0,1,1,2,1,0,1,2,1,1,5
+26669,Weligton Róbson Pena de Oliveira,90,1,0,0.050440587,0,41,27,0,0,0.0,0,0,3,2,0,0,1,0,5,0,5,0,1,0,0,11

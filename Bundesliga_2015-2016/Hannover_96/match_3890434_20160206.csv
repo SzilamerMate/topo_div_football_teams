@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3530,Hiroki Sakai,90,0,0,0.0,0,70,53,0,0,0.0,1,1,10,2,1,1,5,3,9,0,5,2,3,5,1,27
+5664,Salif Sané,56,1,0,0.031420927,0,37,22,0,0,0.0,2,0,1,4,2,1,4,2,6,1,0,1,2,3,1,25
+5694,Hotaru Yamaguchi,34,0,0,0.0,0,8,5,0,0,0.0,1,0,0,0,0,0,2,1,1,0,0,1,1,2,0,13
+8407,Ádám Szalai,90,2,0,0.094373783,1,35,21,0,1,0.031420927,1,0,3,2,1,0,9,0,2,7,0,1,2,1,0,24
+8541,Kenan Karaman,23,1,0,0.05601167,0,13,9,0,0,0.0,0,0,1,1,1,0,0,0,4,1,0,0,1,0,0,2
+8543,Manuel Schmiedebach,90,1,0,0.018761571,0,61,37,0,2,0.046487058,0,0,5,3,2,1,7,1,8,5,0,2,3,2,1,42
+8947,Ron-Robert Zieler,90,0,0,0.0,0,37,35,0,0,0.0,0,0,5,0,0,0,0,0,7,0,0,0,0,0,0,0
+11845,Artur Sobiech,28,1,0,0.07090528,0,14,9,0,2,0.34427532,0,0,0,0,1,0,2,0,2,1,0,0,0,0,0,6
+12294,Andre Hoffmann,62,0,0,0.0,0,41,30,0,0,0.0,1,1,2,1,0,0,6,3,7,0,2,0,1,3,1,18
+20359,Hugo Miguel Pereira de Almeida,90,2,0,0.296388595,1,38,19,0,0,0.0,0,0,1,1,2,1,5,0,0,0,0,0,1,0,0,13
+23341,Alexander Milosevic,90,0,0,0.0,0,54,44,0,0,0.0,0,0,0,1,1,1,11,3,2,0,5,2,5,6,1,16
+24244,Uffe Manich Bech,67,0,0,0.0,0,33,21,0,0,0.0,2,1,2,2,1,0,6,0,2,3,0,1,5,1,0,26
+24914,Edgar Prib,90,0,0,0.0,0,104,74,0,0,0.0,0,0,13,2,0,0,3,3,7,1,2,0,2,3,2,18
+400614,Christian Schulz,90,0,0,0.0,0,53,44,0,0,0.0,0,0,4,2,1,1,1,1,1,0,6,3,0,1,0,12

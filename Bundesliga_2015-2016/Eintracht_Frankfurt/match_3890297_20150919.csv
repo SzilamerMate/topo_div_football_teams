@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5543,Haris Seferović,90,2,0,0.17060033,1,52,38,0,1,0.08571621,1,0,6,3,1,0,3,0,3,3,2,1,4,0,0,25
+5681,Makoto Hasebe,90,0,0,0.0,0,38,21,0,1,0.10810234,1,1,5,3,2,0,0,0,6,1,0,1,3,0,0,21
+7846,Luc Castaignos,82,0,0,0.0,0,14,9,0,0,0.0,0,0,0,2,1,1,7,0,1,1,0,0,1,1,0,25
+8504,Bastian Oczipka,90,0,0,0.0,0,78,57,0,3,0.191880025,3,2,11,1,1,0,1,1,3,1,3,1,3,1,0,8
+8667,Lukáš Hrádecký,90,0,0,0.0,0,35,21,0,0,0.0,0,0,5,0,0,0,0,0,3,0,0,0,0,0,0,0
+8678,David Ángel Abraham,90,0,0,0.0,0,37,26,0,0,0.0,0,0,4,0,0,0,0,0,1,0,5,2,1,0,0,2
+8812,Marco Russ,90,1,0,0.04859918,0,45,36,0,0,0.0,0,0,5,2,2,2,4,0,3,0,3,0,4,0,0,5
+9134,Aleksandar Ignjovski,90,1,0,0.016945444,0,47,31,0,0,0.0,3,2,4,2,1,1,2,0,6,3,3,4,3,1,0,16
+9148,Johannes Flum,2,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10896,Marc Stendera,88,0,0,0.0,0,46,32,0,1,0.04859918,3,2,6,3,1,0,5,0,5,3,1,0,3,1,0,21
+21156,Stefan Aigner,8,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,3
+23268,Alexander Meier,90,2,0,0.19381855,1,30,20,0,0,0.0,1,1,2,1,1,0,3,0,4,1,4,0,0,0,0,13
+400619,Stefan Reinartz,90,1,0,0.021279695,1,65,56,0,0,0.0,2,1,4,4,1,0,4,3,6,0,2,2,2,3,1,22

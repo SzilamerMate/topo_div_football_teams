@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3197,Dante Bonfim da Costa Santos,90,0,0,0.0,0,88,83,0,0,0.0,1,1,8,1,2,2,3,2,7,0,3,2,1,2,1,9
+3545,Luiz Gustavo Dias,60,2,0,0.050856297999999994,1,59,57,0,1,0.00993435,0,0,4,1,1,1,1,1,4,1,0,0,0,1,0,10
+4600,Diego Orlando Benaglio,90,0,0,0.0,0,20,20,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+5544,Ricardo Iván Rodríguez Araya,74,2,0,0.025874481999999997,1,72,61,0,1,0.03041429,0,0,20,1,3,1,2,1,2,3,1,1,1,1,0,6
+8230,Josuha Guilavogui,90,0,0,0.0,0,67,53,0,1,0.012743526,1,1,8,0,1,0,4,0,7,2,0,1,1,0,0,21
+8235,Maximilian Arnold,90,1,0,0.022160497,0,70,59,0,2,0.06963804800000001,1,1,13,3,1,1,3,3,3,2,0,1,0,3,2,28
+8386,Max Kruse,90,4,0,0.568472192,1,41,35,0,2,0.086746482,0,0,2,1,1,0,3,0,6,1,0,0,2,0,0,17
+8516,Ronaldo Aparecido Rodrigues,90,4,0,0.194756129,1,114,98,0,1,0.02870721,0,0,11,1,2,1,4,1,15,2,5,1,1,1,1,11
+8521,Daniel Caligiuri,84,3,0,0.07238765,2,62,47,0,2,0.44852525,11,6,19,0,4,0,7,2,5,7,0,0,3,2,2,29
+10594,Bas Dost,90,1,0,0.12628798,0,25,21,0,0,0.0,0,0,0,1,0,0,3,0,1,1,0,0,0,0,0,13
+23266,Christian Träsch,90,1,0,0.061036907,0,123,96,0,2,0.124574294,2,1,13,0,2,1,6,2,10,3,0,0,1,4,0,27
+23267,Paul Seguin,6,1,0,0.045425214,1,10,7,0,1,0.06343985,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2
+40469,Marcel Schäfer,30,0,0,0.0,0,22,17,0,3,0.211480739,0,0,6,0,0,0,1,1,1,0,0,0,0,1,1,4
+55966,Leandro Putaro,16,0,0,0.0,0,3,2,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0

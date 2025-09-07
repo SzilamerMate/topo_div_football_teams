@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5671,Alfred John Momar N''Diaye,90,1,0,0.051047396,0,47,40,0,0,0.0,1,1,13,4,2,1,7,5,6,1,2,2,1,5,4,19
+6630,Jorge Molina Vidal,45,1,0,0.112032734,1,17,12,0,1,0.3451194,1,0,5,0,2,2,3,1,2,1,0,1,0,1,1,1
+6654,Antonio Adán Garrido,90,0,0,0.0,0,27,17,0,0,0.0,0,0,4,0,0,0,0,0,7,0,0,0,0,0,0,0
+6697,Daniel Ceballos Fernández,79,0,0,0.0,0,61,50,0,0,0.0,6,0,9,1,7,3,2,0,6,2,1,3,0,1,0,19
+6832,Rubén Castro Martín,90,4,0,1.2320640040000002,3,28,22,0,0,0.0,2,0,2,1,0,0,3,0,3,0,0,0,1,0,0,5
+6865,Francisco José Molinero Calderón,90,1,0,0.051899076,0,54,39,0,1,0.5877285,0,0,4,0,0,0,4,0,2,1,2,0,1,1,0,6
+6873,Francisco Portillo Soler,11,0,0,0.0,0,18,17,0,1,0.106787704,4,4,9,0,0,0,0,0,3,0,0,0,0,0,0,2
+7161,Germán Alejandro Pezzella,90,2,0,0.0481146805,2,40,30,0,0,0.0,0,0,3,1,0,0,6,1,2,0,2,2,3,1,0,8
+24143,Álvaro Vadillo Cifuentes,45,0,0,0.0,0,16,14,0,1,0.051899076,1,0,4,0,0,0,1,1,2,0,0,0,1,1,0,14
+26723,Álvaro Cejudo Carmona,90,1,0,0.08715971,0,44,31,0,1,0.112032734,5,2,5,4,2,0,0,0,9,4,0,0,9,0,0,28
+26801,Jordi Figueras Montel,69,1,0,0.031736415,0,36,26,0,0,0.0,0,0,5,1,0,0,5,0,2,0,2,0,2,1,0,13
+27346,Petros Matheus dos Santos Araújo,90,0,0,0.0,0,64,57,0,0,0.0,2,1,12,4,4,2,3,2,5,0,0,3,2,3,1,25
+27347,Juan Manuel Vargas Risco,90,0,0,0.0,0,74,58,0,3,0.0798510955,2,2,11,3,0,0,2,1,8,0,1,3,2,1,1,8
+186264,Foued Kadir,21,0,0,0.0,0,23,19,0,1,0.1924284,2,2,10,0,0,0,2,0,1,1,0,0,1,0,0,4

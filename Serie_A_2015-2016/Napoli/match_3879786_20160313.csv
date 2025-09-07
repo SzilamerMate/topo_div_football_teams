@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5497,Gonzalo Gerardo Higuaín,90,6,1,1.0640247619999998,3,58,47,0,3,0.129637177,6,3,11,1,1,0,0,0,4,1,0,0,0,0,0,12
+5630,Dries Mertens,26,1,0,0.07223538,1,19,13,0,0,0.0,1,0,5,0,1,0,2,1,2,0,0,0,0,2,0,8
+5675,Kalidou Koulibaly,90,0,0,0.0,0,90,85,0,1,0.0049677766,0,0,8,1,0,0,7,1,10,0,11,0,3,3,1,11
+6754,David López Silva,18,0,0,0.0,0,29,27,0,1,0.08486704,2,1,4,1,0,0,1,0,3,0,0,0,1,0,0,9
+7024,Jorge Luiz Frello Filho,90,0,0,0.0,0,172,153,0,3,0.342781114,1,1,1,2,3,0,1,1,7,0,2,4,2,1,0,20
+7025,Marek Hamšík,72,2,0,0.052058911,1,94,79,0,1,0.031789795,1,1,4,0,0,0,2,0,2,0,1,0,2,0,0,6
+7028,José Manuel Reina Páez,90,0,0,0.0,0,27,23,0,0,0.0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0
+7029,José María Callejón Bueno,64,0,0,0.0,0,51,42,0,1,0.14803395,0,0,2,1,0,0,2,1,4,1,1,0,0,1,1,11
+7030,Raúl Albiol i Tortajada,90,0,0,0.0,0,84,79,0,0,0.0,0,0,12,1,1,1,4,1,2,0,6,1,1,1,0,5
+7031,Elseid Hysaj,90,0,0,0.0,0,76,69,0,0,0.0,4,1,8,0,1,0,5,4,8,3,4,1,0,4,2,19
+7035,Allan Marques Loureiro,90,1,0,0.032051392,0,70,65,0,1,0.009819924,4,1,5,2,1,0,6,2,7,1,2,0,2,4,0,26
+7037,Lorenzo Insigne,88,6,0,0.7061554860000001,2,79,66,0,1,0.028445482,3,1,13,0,3,0,0,0,7,1,0,0,2,0,0,12
+8876,Faouzi Ghoulam,90,2,0,0.0245847826,0,88,78,0,0,0.0,3,0,5,0,2,1,3,1,4,1,5,0,3,1,0,7
+16495,Omar El Kaddouri,2,0,0,0.0,0,6,4,0,0,0.0,2,1,1,1,0,0,0,0,3,1,0,0,0,0,0,2

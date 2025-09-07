@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+8291,Arlind Afrim Ajeti,90,0,0,0.0,0,12,8,0,0,0.0,0,0,2,6,1,1,4,1,3,0,11,2,2,2,1,18
+8661,Daniel Pavlovic,90,2,0,0.120587856,0,39,23,0,0,0.0,1,1,2,3,0,0,2,1,6,0,5,2,6,1,0,14
+8793,Oliver Kragl,90,4,0,0.20443177899999998,1,24,11,0,0,0.0,2,0,4,1,1,0,4,2,8,1,2,2,0,2,0,26
+9898,Aleksandar Tonev,17,3,0,0.21988543700000002,2,5,3,0,0,0.0,1,1,2,0,0,0,2,0,1,0,0,0,1,0,0,5
+13613,Daniel Ciofani,73,1,0,0.055273205,0,17,8,0,1,0.06610819,1,0,1,4,2,1,5,0,1,2,2,0,2,0,0,14
+20636,Mirko Gori,90,2,0,0.025579044000000002,2,33,16,0,0,0.0,2,0,5,5,1,1,4,2,8,0,1,4,6,4,1,31
+23349,Paolo Sammarco,90,1,0,0.0272798,0,25,18,0,2,0.10896972199999999,1,1,7,3,1,0,9,2,3,0,1,2,1,4,2,22
+23470,Luca Paganini,90,1,0,0.06610819,0,24,16,0,1,0.03377692,4,3,10,1,2,0,8,2,6,2,1,2,5,5,2,37
+30911,Robert Gucher,67,0,0,0.0,0,21,12,0,2,0.173114687,0,0,2,0,1,0,4,1,3,1,2,1,0,1,1,20
+31721,Matteo Ciofani,89,0,0,0.0,0,35,21,0,0,0.0,1,1,0,1,1,1,3,1,1,0,2,0,1,1,1,6
+32037,Nicola Leali,90,0,0,0.0,0,29,19,0,0,0.0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0
+386512,Alessandro Frara,23,0,0,0.0,0,7,5,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,6
+387847,Leonardo Blanchard,90,0,0,0.0,0,20,11,0,0,0.0,1,1,1,0,0,0,1,0,3,1,4,0,7,0,0,9
+398941,Vasyl Pryyma,1,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0

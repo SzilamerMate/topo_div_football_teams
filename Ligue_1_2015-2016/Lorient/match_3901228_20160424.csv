@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3008,Benjamin Lecomte,90,0,0,0.0,0,34,23,0,0,0.0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0
+3102,Yann Jouffre,71,1,0,0.03754127,0,45,40,0,2,0.0697593933,0,0,13,0,0,0,3,2,4,1,0,0,2,3,0,22
+3140,François Bellugou,82,0,0,0.0,0,32,29,0,0,0.0,3,3,9,0,0,0,4,1,1,0,2,3,2,4,0,6
+3552,Benjamin Jeannot,90,0,0,0.0,0,38,32,0,1,0.03754127,3,3,8,2,2,0,8,0,1,7,1,0,1,2,0,22
+3769,Wesley Lautoa,55,2,0,0.116571225,0,17,16,0,0,0.0,0,0,3,0,3,3,3,0,4,2,2,0,1,1,0,5
+5209,Raphaël Adelino José Guerreiro,90,0,0,0.0,0,85,74,0,0,0.0,3,1,12,1,0,0,4,2,3,0,2,6,3,3,1,13
+7211,Zargo Touré,35,0,0,0.0,0,21,19,0,0,0.0,0,0,1,1,0,0,0,0,4,0,3,1,0,0,0,5
+7338,Romain Philippoteaux,90,3,0,0.058732659,1,58,51,0,1,0.010904657,10,9,23,2,2,0,2,2,9,2,1,1,1,2,1,23
+7392,Pape Abdou Paye,90,0,0,0.0,0,43,34,0,0,0.0,0,0,5,1,2,2,0,0,1,1,7,1,2,0,0,9
+7766,Walid Mesloub,90,0,0,0.0,0,91,71,0,1,0.14745212,0,0,15,2,1,0,2,1,6,0,0,0,3,2,1,18
+22587,Didier Ndong Ibrahim,90,2,0,0.0185530673,1,43,40,0,0,0.0,0,0,6,1,0,0,2,2,4,3,2,0,1,2,2,26
+30315,Moryké Fofana,19,0,0,0.0,0,9,8,0,0,0.0,0,0,1,0,0,0,0,0,3,3,0,0,0,0,0,6
+33178,Benjamin Moukandjo Bilé,90,1,0,0.14745212,0,29,24,0,1,0.0273575,1,1,9,1,2,2,3,0,5,3,0,0,1,0,0,14
+106664,Sibiri Alain Traoré,8,1,0,0.0273575,0,8,6,0,1,0.054460242,0,0,1,0,0,0,0,0,2,0,0,0,2,0,0,3

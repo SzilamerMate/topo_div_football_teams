@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3140,François Bellugou,45,0,0,0.0,0,26,24,0,1,0.06227912,1,1,2,2,0,0,0,0,5,1,3,0,1,0,0,7
+3552,Benjamin Jeannot,45,4,0,0.205858641,1,19,16,0,0,0.0,2,1,4,2,1,0,4,0,6,3,0,0,0,1,0,13
+3769,Wesley Lautoa,90,0,0,0.0,0,54,47,0,0,0.0,0,0,5,1,0,0,8,2,6,0,6,1,1,2,1,3
+5209,Raphaël Adelino José Guerreiro,90,1,0,0.033661168,1,54,42,0,0,0.0,2,2,11,0,1,0,0,0,4,5,0,2,0,0,0,9
+6335,Lamine Gassama,90,0,0,0.0,0,52,41,0,0,0.0,1,1,9,1,4,1,0,0,3,1,1,1,0,0,0,4
+7190,Denis Bouanga,76,5,1,0.34410289499999996,1,16,9,0,2,0.11415388,2,1,3,0,1,0,1,0,6,1,0,0,1,0,0,8
+7199,Vincent Le Goff,90,0,0,0.0,0,72,56,0,2,0.11684326,0,0,9,0,1,0,4,1,5,0,1,1,0,2,0,8
+7766,Walid Mesloub,70,2,0,0.08828071500000001,0,42,35,0,2,0.097708198,1,0,7,1,0,0,3,0,4,5,0,0,0,0,0,10
+13286,Lamine Koné,90,0,0,0.0,0,37,29,0,1,0.008742421,1,1,11,0,2,1,2,1,4,0,3,3,2,1,0,8
+22587,Didier Ndong Ibrahim,90,0,0,0.0,0,55,50,0,0,0.0,0,0,12,0,1,0,7,5,9,2,1,0,1,6,0,18
+24646,Rafidine Abdullah,20,0,0,0.0,0,21,18,0,0,0.0,0,0,6,0,1,0,1,0,1,0,0,0,0,1,0,9
+30315,Moryké Fofana,14,0,0,0.0,0,7,6,0,0,0.0,2,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+33178,Benjamin Moukandjo Bilé,90,1,0,0.060288075,1,15,13,0,0,0.0,1,0,3,1,0,0,3,0,1,0,0,0,1,0,0,6
+401467,Florent Chaigneau,90,0,0,0.0,0,25,17,0,0,0.0,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3002,Benjamin Nivet,90,2,0,0.28574425000000003,1,58,47,0,3,0.053324358999999995,1,0,1,1,0,0,3,1,5,1,2,0,2,1,0,25
+3010,Corentin Jean,90,3,0,0.115779906,0,25,22,0,3,0.25886374900000003,2,0,6,1,2,2,4,0,8,0,0,1,2,0,0,15
+3161,Chaouki Ben Saada,22,2,0,0.15236193,0,18,12,0,0,0.0,1,0,3,0,0,0,3,3,0,0,1,0,1,3,2,8
+3364,Jonathan Martins-Pereira,84,0,0,0.0,0,67,56,0,1,0.05245532,0,0,7,0,0,0,2,1,5,3,3,1,1,2,0,12
+7301,Lossémy Karaboué,90,1,0,0.008375874,0,43,36,0,0,0.0,0,0,8,2,0,0,2,0,7,6,0,0,2,1,0,12
+7336,Jimmy Cabot,33,0,0,0.0,0,19,14,0,0,0.0,2,1,5,0,0,0,0,0,3,3,0,0,2,0,0,3
+7376,Yoann Court,57,0,0,0.0,0,29,20,0,2,0.25463246500000003,2,1,7,1,2,0,1,0,2,3,1,0,4,0,0,16
+7415,Jessy Pi,90,1,0,0.021343535,0,48,41,0,0,0.0,1,1,8,0,0,0,6,2,9,2,1,1,3,4,1,25
+18162,Chris Mavinga,90,1,0,0.045999184,0,43,40,0,0,0.0,0,0,2,0,0,0,2,0,5,0,9,0,3,1,0,4
+34953,Denis Petrić,90,0,0,0.0,0,28,23,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+42422,Dušan Veškovac,90,0,0,0.0,0,41,37,0,0,0.0,0,0,10,2,1,1,3,3,4,1,12,0,6,3,1,13
+148132,Quentin Othon,90,0,0,0.0,0,75,60,0,0,0.0,0,0,5,0,0,0,3,1,4,0,4,1,2,2,0,6
+401470,Fabien Camus,68,2,0,0.08343935,1,30,21,0,1,0.045999184,0,0,7,1,0,0,1,0,2,1,0,0,0,0,0,10
+401471,Henri Bienvenu Ntsama,6,2,0,0.10606446800000001,0,4,3,0,1,0.0505574,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

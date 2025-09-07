@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3275,Henrikh Mkhitaryan,90,2,1,0.126505263,1,87,70,0,4,0.793819341,8,6,23,2,3,0,1,0,6,1,0,0,1,0,0,7
+5559,Marco Reus,45,1,0,0.24810845,1,25,21,0,0,0.0,0,0,3,1,1,0,1,0,4,1,0,0,1,0,0,4
+5572,Mats Hummels,90,0,0,0.0,0,120,111,0,0,0.0,1,1,14,0,1,0,5,1,6,0,1,0,3,1,1,5
+5658,Łukasz Piszczek,90,1,0,0.021045672,0,124,110,0,1,0.039527472,0,0,15,1,2,1,2,0,4,1,0,0,1,1,0,11
+5684,Shinji Kagawa,60,0,0,0.0,0,41,37,0,0,0.0,2,1,10,0,0,0,2,0,4,3,0,0,0,0,0,7
+8225,Roman Bürki,90,0,0,0.0,0,26,26,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+8232,Nuri Şahin,67,1,0,0.026023634,0,67,53,1,2,0.126505263,0,0,5,0,2,0,5,3,0,0,0,1,1,4,1,13
+8233,Gonzalo Castro Randon,45,1,1,0.15345453,1,43,40,0,1,0.021045672,0,0,6,0,4,0,0,0,2,0,0,0,0,0,0,6
+8241,Felix Passlack,23,0,0,0.0,0,11,10,0,0,0.0,0,0,1,0,0,0,3,1,1,0,0,0,1,2,1,4
+8244,Sokratis Papastathopoulos,90,0,0,0.0,0,161,151,0,0,0.0,0,0,15,0,1,0,2,1,6,0,2,1,0,1,1,7
+8816,Julian Weigl,90,1,0,0.032022107,0,108,100,0,0,0.0,0,0,7,1,0,0,1,0,7,1,1,1,4,0,0,19
+9475,Moritz Leitner,30,1,0,0.038728137,0,41,39,0,0,0.0,1,1,6,0,1,0,1,1,0,1,0,0,0,1,1,5
+13206,Erik Durm,90,0,0,0.0,0,77,64,0,0,0.0,1,1,9,1,0,0,1,0,10,2,1,0,2,0,0,5
+24324,Gustavo Adrián Ramos Vásquez,90,5,1,0.9421259080000001,2,19,15,1,1,0.15345453,1,1,4,1,3,1,4,1,5,1,0,0,2,1,0,13

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5208,Thiago Alcântara do Nascimento,41,0,0,0.0,0,39,37,0,1,0.059824385,3,2,6,2,0,0,1,0,1,1,0,1,0,0,0,14
+5562,Thomas Müller,90,2,0,0.142743226,1,52,42,0,3,0.37237714,2,1,4,1,0,0,3,1,1,3,1,0,0,1,1,27
+5570,Manuel Neuer,90,0,0,0.0,0,42,38,0,0,0.0,0,0,5,0,0,0,0,0,8,0,0,0,0,0,0,0
+5579,Joshua Kimmich,90,0,0,0.0,0,99,89,0,0,0.0,0,0,20,1,1,1,0,0,5,0,0,0,0,0,0,15
+5668,Robert Lewandowski,90,5,1,0.49217167800000006,1,30,25,0,0,0.0,0,0,7,0,1,0,3,1,3,0,0,1,0,1,1,15
+5837,Douglas Costa de Souza,49,2,0,0.090529909,0,23,14,0,0,0.0,4,3,6,1,1,0,1,0,4,3,0,0,1,1,0,11
+8217,Kingsley Coman,86,1,1,0.10962057,1,52,43,0,2,0.11782304,5,3,14,1,0,0,3,0,4,3,0,0,1,1,0,17
+8218,Arjen Robben,55,0,0,0.0,0,35,29,0,0,0.0,3,1,14,0,1,0,0,0,3,2,0,0,1,0,0,8
+8220,David Olatukunbo Alaba,90,0,0,0.0,0,104,100,0,0,0.0,0,0,19,1,1,0,1,0,6,0,1,0,0,0,0,3
+8223,Franck Bilal Ribéry,35,0,0,0.0,0,25,20,1,1,0.13751602,3,1,6,0,2,0,1,1,2,0,0,0,2,1,0,15
+15651,Juan Bernat Velasco,90,0,0,0.0,0,72,63,0,1,0.011178853,3,2,4,1,0,0,4,2,5,4,0,1,2,3,0,10
+19295,Philipp Lahm,90,2,0,0.125840793,0,87,83,0,0,0.0,0,0,8,0,1,0,7,2,7,0,3,0,0,2,0,6
+20133,Xabier Alonso Olano,90,2,0,0.099172345,1,101,89,0,0,0.0,1,1,5,2,2,1,4,1,5,0,0,2,1,2,0,20
+22824,Sebastian Rode,4,0,0,0.0,0,6,6,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4

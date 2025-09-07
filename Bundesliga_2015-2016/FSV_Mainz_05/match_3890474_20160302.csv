@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3630,Loris Karius,90,0,0,0.0,0,40,13,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+5467,Leon Aderemi Balogun,90,0,0,0.0,0,27,12,0,0,0.0,0,0,5,1,2,1,7,4,4,2,10,4,2,6,2,17
+6925,Jairo Samperio Bustara,90,1,1,0.44011492,1,11,7,0,0,0.0,3,0,7,0,4,1,7,0,7,3,0,0,1,4,0,24
+8539,Danny Latza,45,0,0,0.0,0,17,13,0,0,0.0,0,0,0,0,0,0,2,2,2,0,0,2,3,2,1,25
+8548,Daniel Brosinski,18,0,0,0.0,0,9,5,0,0,0.0,0,0,2,0,1,0,1,0,1,0,0,0,3,1,0,4
+8549,Giulio Donati,72,0,0,0.0,0,25,14,1,1,0.44011492,1,0,5,1,1,0,7,4,2,1,3,2,2,5,2,26
+8561,Fabian Frei,90,1,0,0.021649403,1,20,11,0,1,0.045339696,1,0,0,0,0,0,4,2,3,0,6,2,2,2,1,20
+8679,Yunus Mallı,59,0,0,0.0,0,11,8,0,1,0.20296857,1,0,1,0,0,0,0,0,0,0,0,0,2,0,0,11
+8817,Jhon Andrés Córdoba Copete,31,1,1,0.11203295,1,5,5,0,0,0.0,0,0,2,4,1,1,5,0,1,2,0,0,0,0,0,6
+9098,Christian Clemens,90,1,0,0.20296857,0,30,20,0,1,0.021649403,2,2,3,1,1,0,4,1,4,0,0,1,0,2,0,39
+13319,Niko Bungert,45,0,0,0.0,0,8,4,0,0,0.0,0,0,0,1,0,0,1,0,0,0,3,0,0,0,0,6
+15847,Alexander Hack,90,1,0,0.045339696,0,19,13,0,0,0.0,0,0,2,0,0,0,4,1,0,0,11,2,2,3,1,12
+18399,Gaëtan Bussmann,90,0,0,0.0,0,19,13,0,0,0.0,0,0,0,2,0,0,2,0,0,0,7,0,4,1,0,33
+20037,Julian Baumgartlinger,90,0,0,0.0,0,26,22,1,1,0.11203295,1,1,1,3,0,0,5,2,5,0,0,1,1,5,1,43

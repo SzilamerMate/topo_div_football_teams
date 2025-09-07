@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3380,Christian Benteke Liolo,90,1,0,0.07517935,0,30,18,0,0,0.0,1,0,2,2,2,2,9,1,2,3,0,0,0,1,1,4
+3471,Dejan Lovren,90,1,0,0.010462932,1,41,37,0,0,0.0,1,1,3,1,0,0,0,0,2,0,10,1,1,0,0,5
+3473,James Philip Milner,90,0,0,0.0,0,65,55,0,1,0.051892743,1,0,4,1,1,1,4,0,4,2,1,0,3,2,0,33
+3493,Emre Can,29,0,0,0.0,0,22,20,0,0,0.0,0,0,3,0,0,0,3,1,1,0,0,0,0,2,0,6
+3495,Joe Gomez,90,0,0,0.0,0,37,28,1,1,0.02871684,1,1,3,2,0,0,9,1,2,1,4,1,0,3,0,10
+3501,Philippe Coutinho Correia,90,3,1,0.069081526,1,45,32,0,1,0.07517935,6,3,15,0,3,1,2,1,5,0,0,0,2,1,1,14
+3532,Jordan Brian Henderson,90,0,0,0.0,0,71,55,0,0,0.0,3,2,8,2,1,0,5,4,9,0,3,2,1,5,1,24
+3535,Roberto Firmino Barbosa de Oliveira,13,0,0,0.0,0,9,8,0,0,0.0,7,4,4,1,0,0,1,1,1,5,0,0,0,1,1,3
+3539,Simon Mignolet,90,0,0,0.0,0,31,17,0,0,0.0,0,0,3,0,1,0,0,0,6,0,0,0,0,0,0,0
+3635,Jordon Ibe,77,1,0,0.008484754,0,26,21,0,0,0.0,1,0,12,4,2,0,1,0,4,4,0,0,2,0,0,15
+4090,Adam David Lallana,61,1,0,0.030166818,0,25,14,0,0,0.0,2,0,7,0,1,0,4,2,4,0,0,1,2,2,1,18
+4590,Nathaniel Edwin Clyne,90,0,0,0.0,0,76,66,0,1,0.008484754,0,0,7,1,1,1,3,2,6,0,4,0,3,3,1,15
+18872,Martin Škrtel,90,1,0,0.051892743,1,46,42,0,1,0.010462932,1,1,3,2,0,0,5,1,3,0,6,1,1,3,0,3

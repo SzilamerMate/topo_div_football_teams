@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2966,Stéphane Sessègnon,90,0,0,0.0,0,53,39,0,5,0.381456887,8,5,23,2,6,0,5,4,10,3,1,0,1,4,4,16
+3490,James Morrison,69,3,0,0.363116354,1,41,31,0,2,0.12413023000000001,0,0,4,0,1,0,3,1,6,0,0,1,0,2,0,11
+3523,Craig Dawson,90,2,0,0.14632978000000002,0,59,43,0,1,0.1850706,1,1,2,0,0,0,4,1,2,0,4,1,2,2,0,10
+3541,Chris Brunt,90,1,0,0.0464702,0,41,22,0,0,0.0,1,1,4,0,0,0,3,0,4,1,3,2,3,1,0,17
+3596,Gareth McAuley,90,0,0,0.0,0,23,15,0,0,0.0,0,0,6,1,1,1,3,1,4,0,6,1,4,1,1,12
+3967,Claudio Ariel Yacob,90,1,0,0.020300213,0,26,24,1,1,0.11484927,0,0,0,0,1,1,4,3,5,2,2,4,3,4,0,20
+4022,Darren Fletcher,90,5,1,0.31063034700000003,1,48,38,0,2,0.107032333,0,0,8,1,0,0,1,1,14,3,2,3,3,1,0,8
+4630,Saido Berahino,21,2,0,0.10496543,1,7,6,0,0,0.0,0,0,0,0,1,0,2,0,3,1,0,0,2,0,0,6
+5108,Glyn Oliver Myhill,90,0,0,0.0,0,19,11,0,0,0.0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0
+9485,Craig Gardner,73,1,0,0.0652212,0,16,14,0,3,0.282102976,0,0,1,1,0,0,4,2,2,1,1,2,2,2,1,20
+11012,Jonathan Grant Evans,90,2,0,0.4350632,0,33,25,0,0,0.0,0,0,3,1,1,1,1,0,3,0,3,1,2,1,0,10
+20527,Jonas Olsson,17,0,0,0.0,0,3,3,0,0,0.0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,3
+40124,Rickie Lambert,3,0,0,0.0,0,3,1,0,0,0.0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,2
+40130,Victor Chinedu Anichebe,87,5,0,0.70306081,1,28,17,0,0,0.0,3,2,10,1,3,1,4,0,1,2,2,1,0,0,0,7

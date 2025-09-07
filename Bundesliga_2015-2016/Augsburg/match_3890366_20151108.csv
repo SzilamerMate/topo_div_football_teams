@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4174,Ragnar Klavan,90,0,0,0.0,0,57,52,0,0,0.0,1,1,11,2,0,0,4,1,7,0,4,3,2,1,0,10
+5627,Ja-Cheol Koo,63,0,0,0.0,0,27,22,0,1,0.12856765,3,3,1,0,2,0,5,1,5,2,1,0,1,1,1,23
+8207,Dominik Kohr,54,0,0,0.0,0,24,18,0,0,0.0,0,0,0,1,1,1,3,0,1,1,0,1,3,0,0,25
+8237,Paul Verhaegh,90,1,1,0.7835,1,55,45,0,0,0.0,0,0,5,0,2,2,3,1,5,1,1,1,2,1,1,11
+8303,Caiuby Francisco da Silva,90,4,0,0.203439169,1,35,26,0,5,0.2984878557,4,2,11,3,5,1,8,0,3,0,1,0,3,1,0,13
+8314,Marwin Hitz,90,0,0,0.0,0,35,27,0,0,0.0,0,0,6,0,0,0,0,0,3,0,0,0,0,0,0,0
+8317,Daniel Baier,90,2,0,0.034149478,0,82,71,0,3,0.0778820697,1,0,14,0,3,2,5,0,6,1,2,2,3,2,0,17
+8319,Philipp Max,90,2,0,0.0129959747,0,51,40,0,0,0.0,0,0,6,1,0,0,8,1,4,0,0,0,1,4,0,20
+8574,Alexander Esswein,27,1,0,0.02841281,0,7,4,0,0,0.0,0,0,2,0,1,0,0,0,0,1,1,0,2,0,0,9
+8807,Raúl Marcelo Bobadilla,90,4,0,0.2982424477,3,25,18,0,1,0.020172106,5,4,8,2,7,1,1,0,4,6,1,0,3,0,0,14
+9408,Jan Morávek,36,0,0,0.0,0,28,22,0,0,0.0,0,0,4,0,0,0,2,1,0,0,0,1,1,1,1,14
+12302,Dong-Won Ji,74,2,0,0.106081796,1,26,18,0,1,0.031540357,3,1,4,2,0,0,2,1,5,4,1,0,1,1,1,23
+22826,Jan-Ingwer Callsen-Bracker,90,2,0,0.034212418,0,46,43,0,0,0.0,0,0,10,3,0,0,4,2,1,0,7,0,3,2,0,9
+400620,Tobias Werner,16,0,0,0.0,0,9,4,0,1,0.014211627,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2

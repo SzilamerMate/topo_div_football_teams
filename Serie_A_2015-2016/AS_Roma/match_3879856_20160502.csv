@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3167,Antonio Rüdiger,90,1,0,0.036102522,0,60,54,0,0,0.0,1,0,7,0,0,0,5,2,5,1,6,1,3,3,1,14
+3531,Mohamed Salah,87,1,1,0.40118697,1,50,41,0,2,0.34439258,1,1,0,0,1,1,2,0,1,0,0,0,2,0,0,15
+5669,Wojciech Szczęsny,90,0,0,0.0,0,24,21,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+6849,Lucas Digne,90,1,0,0.012650248,1,66,49,0,2,0.194955334,0,0,6,0,0,0,1,1,9,0,3,1,4,1,0,10
+6962,Radja Nainggolan,90,2,0,0.142566045,1,43,35,0,1,0.17107889,1,1,5,1,1,1,8,1,3,2,1,1,0,2,1,17
+6973,Edin Džeko,25,2,0,0.25248204,0,6,6,1,1,0.4613128,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,7
+6979,Stephan El Shaarawy,90,6,1,1.164389649,3,49,39,0,0,0.0,3,3,9,0,0,0,2,1,6,0,2,1,1,1,0,11
+6980,Kevin Strootman,90,2,0,0.10597384400000001,0,60,52,0,2,0.39251579000000003,2,1,8,3,1,0,3,2,4,1,2,0,5,2,1,28
+7048,Konstantinos Manolas,90,0,0,0.0,0,77,67,0,0,0.0,0,0,18,1,0,0,3,1,3,0,7,1,2,1,0,7
+7051,Daniele De Rossi,90,0,0,0.0,0,68,55,1,3,0.205488165,2,1,9,1,2,1,5,1,3,0,0,0,4,3,0,23
+7137,Ervin Zukanović,3,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7456,Diego Perotti,58,2,0,0.186159004,1,31,25,1,2,0.42791356399999997,1,1,5,1,1,0,0,0,5,1,0,0,0,0,0,14
+15780,Francesco Totti,32,3,1,0.128366555,2,27,19,0,1,0.06746556,1,1,2,0,3,0,1,0,3,0,1,0,0,0,0,1
+19299,Maicon Douglas Sisenando,65,0,0,0.0,0,69,56,0,0,0.0,1,0,13,2,0,0,2,2,2,0,1,0,3,2,2,14

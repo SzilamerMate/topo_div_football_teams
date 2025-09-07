@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4788,Jesús Gámez Duarte,45,0,0,0.0,0,20,14,0,0,0.0,0,0,2,0,0,0,1,0,0,0,2,1,0,1,0,14
+5199,Jorge Resurrección Merodio,90,1,1,0.12563099,1,50,33,0,1,0.05476525,0,0,3,0,1,0,6,2,10,5,3,2,2,5,0,31
+5249,Diego Roberto Godín Leal,90,0,0,0.0,0,10,9,0,0,0.0,1,1,0,3,0,0,6,3,1,0,1,6,0,5,0,11
+5259,José María Giménez de Vargas,90,1,0,0.05476525,0,11,7,0,0,0.0,1,0,2,0,0,0,4,1,4,0,3,2,3,3,0,14
+5487,Antoine Griezmann,66,2,0,0.422065228,1,33,25,0,2,0.042173115,2,1,9,0,0,0,2,0,6,1,1,1,0,0,0,16
+5633,Yannick Ferreira Carrasco,90,1,0,0.031835385,0,32,26,0,2,0.422065228,12,6,16,2,2,1,5,0,8,4,0,2,1,2,0,19
+6320,Filipe Luís Kasmirski,90,0,0,0.0,0,20,16,0,0,0.0,1,1,4,5,0,0,2,1,1,1,0,2,1,2,1,17
+6375,Juan Francisco Torres Belén,90,0,0,0.0,0,31,27,0,0,0.0,2,2,1,5,2,0,2,0,3,0,2,1,1,1,0,15
+6376,Stefan Savić,24,0,0,0.0,0,2,2,0,0,0.0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,4
+6378,Jan Oblak,90,0,0,0.0,0,18,4,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6381,Saúl Ñíguez Esclapez,90,1,0,0.01033773,1,30,19,1,2,0.160892483,6,2,8,3,0,0,10,2,5,2,3,2,2,4,1,35
+6383,Thomas Teye Partey,15,0,0,0.0,0,4,4,0,0,0.0,1,1,1,1,1,1,5,2,1,0,0,0,1,3,0,13
+6384,Gabriel Fernández Arenas,45,0,0,0.0,0,22,18,0,0,0.0,0,0,0,1,1,0,1,0,3,0,0,1,1,1,0,7
+19668,Augusto Matías Fernández,75,1,0,0.035261493,0,25,21,0,0,0.0,2,1,1,0,1,0,1,0,3,0,1,5,0,0,0,17

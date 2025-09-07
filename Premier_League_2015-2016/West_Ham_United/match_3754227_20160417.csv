@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3062,Aaron Cresswell,90,2,1,0.033537905,1,54,35,0,1,0.080442525,2,1,4,1,1,1,4,0,9,0,1,1,0,1,0,4
+3349,Michail Antonio,90,4,0,0.21130414999999997,0,44,32,0,1,0.010760512,6,6,12,1,1,0,2,0,6,3,6,2,2,1,0,6
+3491,Dimitri Payet,90,2,0,0.091091697,0,54,36,0,6,0.417152611,1,1,7,2,0,0,2,1,3,3,0,2,3,1,1,7
+3595,Manuel Lanzini,28,1,0,0.008212291,0,29,27,0,0,0.0,0,0,10,0,1,0,0,0,0,3,0,1,0,0,0,6
+3623,Adrián San Miguel del Castillo,90,0,0,0.0,0,27,16,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+3684,Cheikhou Kouyaté,90,4,0,0.237641274,1,32,25,0,0,0.0,0,0,3,0,3,1,5,0,3,0,2,2,1,2,0,13
+3843,Angelo Obinze Ogbonna,90,0,0,0.0,0,50,45,0,0,0.0,0,0,8,2,0,0,2,1,7,1,6,1,1,1,1,7
+3874,Mark Noble,62,0,0,0.0,0,37,32,0,0,0.0,2,1,5,1,1,1,3,1,6,0,0,0,1,2,0,8
+3897,Pedro Mba Obiang Avomo,45,0,0,0.0,0,14,11,0,1,0.053887762,0,0,3,3,1,0,2,1,2,1,0,4,1,2,0,11
+3963,Victor Moses,71,1,0,0.024924159,0,26,19,0,1,0.046986178,3,1,10,0,2,0,2,0,3,1,0,0,0,0,0,1
+4271,Andy Carroll,45,2,1,0.898718915,1,14,8,0,0,0.0,0,0,1,2,1,1,2,1,2,1,3,0,1,1,1,4
+4280,Winston Reid,90,1,0,0.10586788,0,46,44,0,0,0.0,0,0,5,2,1,1,2,0,3,1,8,5,2,0,0,5
+28559,Enner Remberto Valencia Lastra,19,1,0,0.07071671,0,6,4,0,0,0.0,0,0,1,0,1,0,1,0,2,0,0,0,0,0,0,2
+128704,Emmanuel Emenike,90,2,0,0.122128478,0,31,29,0,4,0.13941852,2,2,3,1,1,1,9,0,5,3,0,0,0,0,0,11

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5494,Robbie Kruse,16,0,0,0.0,0,5,3,0,0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,7
+5555,Julian Brandt,61,1,0,0.18353468,0,26,21,0,0,0.0,1,1,4,0,2,1,2,0,1,1,0,1,3,0,0,9
+7039,Hakan Çalhanoğlu,88,3,1,0.12830791,1,61,41,0,3,0.095059061,4,3,5,1,1,0,5,2,6,1,2,0,4,2,0,15
+8212,Wendell Nascimento Borges,90,0,0,0.0,0,58,37,0,1,0.2779947,2,2,6,3,2,2,6,1,8,2,6,6,4,4,0,23
+8213,Karim Bellarabi,29,0,0,0.0,0,11,5,0,0,0.0,0,0,2,3,0,0,2,0,1,1,1,2,1,1,0,11
+8219,Admir Mehmedi,74,2,0,0.13883572800000002,1,31,27,0,0,0.0,0,0,5,1,2,0,2,0,2,0,0,0,1,0,0,9
+8221,Jonathan Tah,90,0,0,0.0,0,40,38,0,0,0.0,1,0,9,3,0,0,1,0,3,0,5,4,1,0,0,8
+8313,Kyriakos Papadopoulos,2,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3
+8805,Christoph Kramer,90,1,0,0.099087544,0,77,73,0,0,0.0,1,1,11,0,0,0,4,1,12,2,2,0,2,1,0,9
+8918,Roberto Hilbert,90,1,0,0.042761102,1,48,28,0,1,0.013125718,0,0,6,1,1,0,4,2,9,2,2,0,2,2,1,10
+8969,Lars Bender,90,2,0,0.052297959000000005,1,60,44,0,1,0.18353468,0,0,10,2,2,2,10,4,5,1,2,4,3,4,0,20
+9363,André Ramalho Silva,90,1,0,0.2779947,0,49,44,0,0,0.0,0,0,3,4,0,0,4,1,3,0,8,3,1,1,1,11
+11394,Stefan Kießling,90,0,0,0.0,0,32,25,0,1,0.12571001,1,0,4,2,6,0,11,1,6,1,2,1,1,1,0,20
+15581,Bernd Leno,90,0,0,0.0,0,36,28,0,1,0.033038873,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0

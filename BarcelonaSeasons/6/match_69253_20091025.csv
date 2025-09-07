@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3672,Zlatan Ibrahimović,72,4,2,0.2642909813,4,25,20,1,2,0.86565751,0,0,4,2,1,1,2,0,0,1,0,0,0,0,0,12
+4913,Bojan Krkíc Pérez,18,0,0,0.0,0,8,7,0,0,0.0,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,125,120,0,1,0.33455533,0,0,23,3,6,2,6,1,6,0,4,1,1,2,1,22
+5213,Gerard Piqué Bernabéu,72,0,0,0.0,0,80,74,0,0,0.0,0,0,14,0,0,0,2,1,2,0,2,1,2,1,1,10
+5216,Andrés Iniesta Luján,90,1,0,0.068601675,1,72,67,2,3,0.494315998,9,7,11,1,4,0,2,1,6,1,0,0,2,1,0,18
+5503,Lionel Andrés Messi Cuccittini,90,7,1,1.4299740159999998,5,39,33,1,1,0.22767226,7,6,12,1,6,0,1,1,2,1,0,1,1,1,1,7
+5558,Rafael Márquez Álvarez,18,0,0,0.0,0,18,17,0,0,0.0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,1
+18608,Dmytro Chygrynskiy,90,0,0,0.0,0,142,134,0,1,0.009522315,0,0,36,1,0,0,0,0,1,0,1,0,1,0,0,2
+20125,Carles Puyol i Saforcada,90,0,0,0.0,0,55,53,0,0,0.0,0,0,6,0,0,0,3,1,3,1,2,0,3,1,0,6
+20131,Xavier Hernández Creus,82,1,0,0.043740865,0,130,117,0,3,0.348357514,3,2,12,0,1,0,0,0,5,1,0,1,1,0,0,14
+20169,Seydou Kéita,90,4,3,1.131701128,3,72,69,1,1,0.20186484,2,2,12,2,2,0,2,1,2,2,0,1,1,1,1,21
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,23,21,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,1
+26613,Maxwell Scherrer Cabelino Andrade,90,0,0,0.0,0,105,96,0,0,0.0,4,4,14,0,1,0,0,0,3,1,0,0,0,0,0,9
+26624,Jeffren Isaac Suárez Bermúdez,8,0,0,0.0,0,3,2,0,0,0.0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,1

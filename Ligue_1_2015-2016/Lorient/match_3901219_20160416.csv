@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3008,Benjamin Lecomte,90,0,0,0.0,0,40,26,0,0,0.0,0,0,6,0,0,0,0,0,5,0,0,0,0,0,0,0
+3102,Yann Jouffre,27,0,0,0.0,0,22,16,0,1,0.038248982,2,2,5,0,1,0,0,0,1,1,0,1,0,0,0,6
+3552,Benjamin Jeannot,90,4,0,0.144303121,1,28,22,0,0,0.0,0,0,2,1,2,2,10,0,3,2,0,0,0,1,0,13
+5209,Raphaël Adelino José Guerreiro,90,1,0,0.01474005,0,82,71,0,1,0.058104463,2,2,7,0,1,0,4,0,11,1,1,1,0,1,0,9
+6335,Lamine Gassama,90,0,0,0.0,0,60,42,0,0,0.0,0,0,8,1,1,0,1,0,8,1,4,1,1,1,0,13
+7211,Zargo Touré,90,1,1,0.039314054,1,57,45,0,0,0.0,0,0,14,2,0,0,7,3,2,0,4,2,1,3,2,11
+7336,Jimmy Cabot,21,0,0,0.0,0,7,7,0,1,0.073065355,2,1,6,0,1,0,0,0,1,1,0,0,1,0,0,5
+7338,Romain Philippoteaux,63,0,0,0.0,0,37,20,0,1,0.031761423,0,0,9,4,0,0,4,1,3,1,0,0,3,3,1,23
+7346,Lindsay Rose,90,0,0,0.0,0,51,40,0,0,0.0,0,0,6,1,1,1,7,4,7,1,11,3,2,5,0,13
+7567,Maxime Barthelmé,69,1,0,0.031761423,0,42,30,0,2,0.19484563400000002,1,0,8,2,0,0,2,1,5,4,0,0,0,1,1,18
+7615,Abdul Majeed Waris,27,1,0,0.058104463,1,2,2,0,0,0.0,1,1,4,0,2,0,0,0,1,2,0,0,0,0,0,1
+22587,Didier Ndong Ibrahim,90,0,0,0.0,0,66,49,0,0,0.0,4,3,10,0,1,0,6,2,10,2,2,2,1,3,2,21
+24646,Rafidine Abdullah,90,1,0,0.08389935,0,94,81,0,0,0.0,4,2,9,5,1,0,5,3,8,1,4,3,2,3,0,24
+33178,Benjamin Moukandjo Bilé,63,2,0,0.19484563400000002,1,23,16,0,1,0.08389935,0,0,0,1,2,2,10,2,0,2,0,0,0,2,1,12

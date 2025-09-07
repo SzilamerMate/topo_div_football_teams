@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2953,Abdou Kader Mangane,90,0,0,0.0,0,42,32,0,0,0.0,0,0,8,1,0,0,2,1,2,0,2,3,0,2,0,17
+3207,Pablo Jean Antoine Martínez,90,0,0,0.0,0,45,36,0,2,0.24242154900000001,0,0,1,1,1,1,3,2,4,1,4,1,2,2,0,13
+4352,Issiaga Sylla,90,3,0,0.0339446408,0,47,33,0,2,0.041738522,3,1,7,3,0,0,5,2,11,6,0,1,3,3,0,26
+5726,Khalid Boutaïb,62,2,0,0.080951625,1,14,8,0,0,0.0,0,0,1,3,0,0,2,0,3,1,0,0,0,0,0,15
+7603,Jérémie Bréchet,90,0,0,0.0,0,43,38,0,0,0.0,0,0,11,0,0,0,2,2,3,0,4,1,0,2,0,14
+10616,Mohamed Larbi,90,3,0,0.112219026,1,49,36,0,0,0.0,3,2,11,0,0,0,4,2,6,0,0,2,1,3,1,39
+31911,Damjan Đoković,45,0,0,0.0,0,32,26,0,1,0.031207489,0,0,4,0,1,0,4,2,4,0,1,1,1,4,1,17
+90746,Alassane Touré,71,1,0,0.011200279,0,37,26,0,2,0.0598210813,0,0,4,0,1,1,2,1,5,1,1,0,2,2,1,16
+310534,Louis Poggi,19,0,0,0.0,0,4,0,0,0,0.0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,0,5
+401505,Jacques Zoua Daogari,90,0,0,0.0,0,31,24,0,2,0.0692271415,0,0,4,0,1,0,9,0,3,2,0,0,3,0,0,16
+401507,Jérôme Le Moigne,90,2,0,0.25761248000000003,0,53,37,0,0,0.0,2,0,3,2,0,0,7,3,8,0,1,0,4,6,1,31
+401508,Clément Maury,90,0,0,0.0,0,27,14,0,0,0.0,0,0,4,0,0,0,0,0,5,0,0,0,0,0,0,0
+401509,David Ducourtioux,45,1,0,0.019568155,0,15,12,0,0,0.0,1,0,0,2,1,1,2,0,3,0,2,0,2,1,0,6
+403155,Mohamed Amine Chermiti,28,0,0,0.0,0,4,2,0,0,0.0,0,0,1,0,0,0,3,1,0,0,0,0,1,1,0,7

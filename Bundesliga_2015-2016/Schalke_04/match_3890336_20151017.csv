@@ -1,0 +1,13 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3053,Leroy Sané,90,2,0,0.061823550000000005,1,26,22,1,1,0.331619,3,2,13,1,3,0,4,1,7,3,1,0,2,3,1,23
+3499,Jean-Eric Maxim Choupo-Moting,90,3,0,0.072947771,1,22,16,0,3,0.237061079,5,2,5,2,1,0,2,0,4,2,0,0,1,1,0,19
+3502,Joël Andre Job Matip,90,1,0,0.056362648,0,75,72,0,0,0.0,0,0,16,3,1,0,2,1,5,0,4,0,5,1,1,10
+3570,Pierre-Emile Højbjerg,15,0,0,0.0,0,10,9,0,0,0.0,1,0,5,1,0,0,1,1,1,1,1,0,0,1,1,2
+6324,Leon Goretzka,75,4,0,0.410317858,1,38,32,0,2,0.050195007,1,1,4,2,2,1,5,4,3,0,0,0,2,5,1,24
+6717,Johannes Geis,90,2,0,0.057589058,1,88,71,1,5,0.48296461599999996,0,0,7,1,1,0,0,0,7,0,0,0,2,0,0,17
+7016,Benedikt Höwedes,90,2,1,0.22625151999999998,1,63,54,0,0,0.0,0,0,10,2,0,0,3,2,2,0,3,1,2,2,0,10
+8508,Max Meyer,90,3,1,0.5497163039999999,2,32,23,0,1,0.0382534,0,0,12,2,6,1,0,0,6,1,0,0,0,0,0,2
+8512,Franco Matías Di Santo,90,1,0,0.105400845,1,11,7,0,0,0.0,2,1,2,2,0,0,4,0,0,0,2,1,3,0,0,22
+8517,Ralf Fährmann,90,0,0,0.0,0,26,19,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+8958,Dennis Aogo,90,1,0,0.05344583,1,52,44,0,1,0.11898273,3,2,8,3,2,0,2,1,5,0,4,2,1,2,0,12
+25003,Sascha Riether,90,0,0,0.0,0,70,60,0,2,0.028325004,1,0,7,0,0,0,2,1,5,0,1,1,2,2,0,4

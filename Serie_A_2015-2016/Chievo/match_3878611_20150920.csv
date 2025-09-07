@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6950,Alberto Paloschi,67,2,0,0.157338333,0,17,9,0,0,0.0,2,0,1,1,0,0,3,0,3,0,0,0,1,1,0,16
+7041,Nicola Rigoni,80,0,0,0.0,0,39,33,0,0,0.0,1,1,3,2,1,0,5,2,1,0,6,0,3,3,0,21
+7043,Roberto Inglese,23,0,0,0.0,0,5,3,0,0,0.0,0,0,0,0,0,0,6,0,2,0,0,0,0,0,0,5
+7045,Valter Birsa,74,3,0,0.186040045,1,50,36,0,4,0.257562944,3,3,7,0,2,0,5,2,6,3,0,0,2,2,2,28
+7046,Perparim Hetemaj,90,3,0,0.045100195499999995,0,42,35,0,1,0.029578853,1,0,6,2,4,0,8,3,3,1,0,0,3,5,3,34
+7049,Lucas Nahuel Castro,90,5,0,0.29781689199999994,1,37,29,0,1,0.12738761,3,1,1,2,2,1,10,3,4,3,3,2,2,5,1,33
+7052,Alessandro Gamberini,90,0,0,0.0,0,19,16,0,1,0.03216302,0,0,0,0,0,0,3,1,4,0,9,0,3,1,1,11
+7803,Albano Benjamín Bizzarri,90,0,0,0.0,0,24,11,0,0,0.0,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,1
+8645,Massimo Gobbi,90,0,0,0.0,0,55,42,0,1,0.040625818,1,1,6,1,0,0,5,1,11,1,5,2,2,3,0,14
+8877,Boštjan Cesar,90,1,0,0.15247914,0,30,25,0,0,0.0,0,0,1,5,0,0,6,1,5,0,10,1,1,2,0,16
+11643,Riccardo Meggiorini,90,1,0,0.03216302,0,20,13,0,2,0.077262649,0,0,4,1,4,1,5,1,3,0,0,1,2,1,0,19
+18946,Paul-José M''Poku Ebunge,16,0,0,0.0,0,12,9,0,0,0.0,0,0,0,1,1,0,2,0,4,4,0,0,0,0,0,7
+23324,Nicolas Sebastian Frey,90,0,0,0.0,0,47,33,0,1,0.010312821,0,0,5,1,1,1,8,1,2,0,5,1,4,5,1,22
+40247,Simone Pepe,10,0,0,0.0,0,8,4,0,1,0.15247914,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,2

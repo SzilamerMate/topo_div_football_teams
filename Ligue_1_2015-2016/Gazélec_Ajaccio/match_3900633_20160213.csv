@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2953,Abdou Kader Mangane,90,1,0,0.038974732,0,33,22,0,0,0.0,0,0,5,1,1,1,2,1,5,1,4,1,3,1,1,15
+3207,Pablo Jean Antoine Martínez,41,1,0,0.07054628,0,22,17,0,0,0.0,1,1,2,1,1,1,1,1,2,0,1,2,0,1,1,3
+5726,Khalid Boutaïb,90,4,0,0.795003116,1,29,19,0,0,0.0,0,0,1,2,2,0,15,1,5,2,1,0,2,3,1,36
+7389,Amos Youga,90,1,0,0.043117605,1,40,27,0,0,0.0,1,0,4,2,1,0,2,1,5,1,0,0,2,1,1,18
+7430,Kévin Mayi,21,3,0,0.181598773,0,4,2,0,1,0.10347157,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,2
+7603,Jérémie Bréchet,34,0,0,0.0,0,14,10,0,0,0.0,0,0,3,0,1,1,1,0,1,0,0,2,0,0,0,3
+7808,Roderic Filippi,56,2,1,0.17571404899999998,2,21,17,0,0,0.0,0,0,3,1,0,0,8,1,5,0,6,1,0,2,0,10
+10616,Mohamed Larbi,69,1,0,0.057393737,0,44,27,0,4,0.310270875,1,1,3,2,0,0,3,0,4,2,0,0,1,1,0,18
+31911,Damjan Đoković,90,0,0,0.0,0,60,41,2,5,0.7169411539999999,0,0,3,0,0,0,2,1,7,1,0,0,3,2,1,14
+90746,Alassane Touré,90,0,0,0.0,0,49,39,0,1,0.5743244,0,0,7,0,2,1,4,3,6,1,0,3,4,3,3,23
+401505,Jacques Zoua Daogari,90,5,1,0.748130923,2,38,24,0,0,0.0,5,4,7,2,1,1,6,0,6,5,0,0,1,0,0,16
+401507,Jérôme Le Moigne,90,1,0,0.048673008,0,41,30,0,0,0.0,1,1,3,2,1,1,1,0,5,1,3,2,1,0,0,25
+401508,Clément Maury,90,0,0,0.0,0,47,31,0,0,0.0,1,1,0,0,0,0,0,0,12,0,0,0,0,0,0,1
+401509,David Ducourtioux,49,0,0,0.0,0,49,31,0,2,0.20972335999999997,0,0,6,3,1,1,2,1,7,0,1,0,0,1,0,16

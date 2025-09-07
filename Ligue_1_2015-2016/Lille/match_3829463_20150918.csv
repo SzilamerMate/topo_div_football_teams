@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3357,Baptiste Guillaume,3,0,0,0.0,0,3,3,0,0,0.0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2
+3446,Djibril Sidibé,90,2,0,0.081639292,0,46,36,0,3,0.173161374,2,0,3,2,1,1,5,1,7,3,0,2,1,1,0,22
+3625,Sofiane Boufal,76,4,1,0.260758075,3,35,29,0,2,0.14091164,8,3,11,1,3,0,3,1,7,4,0,0,0,2,1,21
+3673,Yassine Benzia,71,3,0,0.209272374,1,35,29,0,1,0.024758155,3,3,3,2,2,1,2,1,1,3,0,0,4,1,0,26
+3677,Bakary Adama Soumaoro,90,0,0,0.0,0,23,22,0,0,0.0,0,0,0,1,0,0,2,1,2,0,8,2,3,1,1,7
+3761,Mike Maignan,19,0,0,0.0,0,9,4,0,0,0.0,1,1,3,0,0,0,0,0,2,0,0,0,0,0,0,0
+6716,Sébastien Corchia,14,0,0,0.0,0,4,4,0,0,0.0,0,0,1,0,2,0,1,0,1,1,1,0,0,0,0,3
+10330,Gadji Celi Carmen Junior Tallo,87,2,0,0.12377890500000001,0,26,23,1,1,0.07020613,4,2,11,4,1,1,11,1,5,1,2,0,0,1,1,10
+29057,Renato Civelli,90,0,0,0.0,0,30,17,0,0,0.0,1,1,3,0,1,1,2,0,5,0,6,1,1,0,0,5
+40484,Vincent Enyeama,90,0,0,0.0,0,16,11,0,0,0.0,0,0,1,1,0,0,0,0,2,0,0,0,0,0,0,1
+40486,Éric Bauthéac,90,2,0,0.044579766,0,56,40,0,1,0.042582642,3,0,6,1,1,1,3,0,2,2,5,1,0,2,0,16
+40522,Rio Antonio Zoba Mavuba,90,1,0,0.02444521,1,41,35,0,1,0.03905665,0,0,3,0,2,1,5,3,3,0,0,2,2,4,0,16
+40523,Marko Baša,90,0,0,0.0,0,31,22,0,0,0.0,1,0,5,2,2,1,1,0,2,1,3,2,0,1,0,6
+40697,Mounir Obbadi,90,1,0,0.01828679,0,65,52,0,1,0.07534784,0,0,11,4,3,1,8,2,7,2,0,0,3,7,1,37

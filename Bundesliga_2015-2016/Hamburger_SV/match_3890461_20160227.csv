@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5835,Josip Drmic,90,1,1,0.678659,1,27,12,0,1,0.05144191,4,2,3,0,1,0,10,1,4,1,0,1,2,2,0,12
+6339,Gotoku Sakai,90,1,0,0.017541248,0,48,28,0,1,0.04158293,0,0,5,0,0,0,5,0,6,3,5,0,2,1,0,14
+6359,Johan Danon Djourou-Gbadjere,90,0,0,0.0,0,31,26,0,0,0.0,0,0,2,1,1,0,2,1,2,0,4,0,2,1,0,6
+8302,Nicolai Müller,45,0,0,0.0,0,15,10,0,0,0.0,0,0,5,3,0,0,3,0,2,1,0,1,1,0,0,12
+8308,Aaron Hunt,72,2,0,0.07681065000000001,1,26,16,1,1,0.678659,0,0,1,2,1,1,6,2,5,3,0,0,0,2,1,16
+8323,Gideon Jung,90,1,0,0.04158293,0,38,26,0,0,0.0,1,1,1,2,3,2,3,1,5,1,5,0,1,1,0,20
+8547,Matthias Ostrzolek,90,0,0,0.0,0,59,40,0,1,0.01424453,1,1,9,2,2,0,5,1,10,1,2,1,5,1,1,12
+8560,René Adler,90,0,0,0.0,0,40,9,0,0,0.0,0,0,3,0,0,0,0,0,10,0,0,0,0,0,0,0
+8891,Lewis Harry Holtby,90,2,0,0.06694059000000001,0,37,26,0,0,0.0,2,1,2,2,2,1,9,3,5,0,0,2,2,4,1,29
+8895,Pierre-Michel Lasogga,12,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+9407,Gojko Kačar,18,0,0,0.0,0,14,10,0,0,0.0,0,0,0,1,0,0,2,0,0,0,0,0,1,0,0,1
+24740,Ivo Iličević,45,0,0,0.0,0,11,5,0,0,0.0,1,0,4,0,1,0,3,1,1,0,1,0,1,1,0,10
+26791,Emir Spahić,90,0,0,0.0,0,39,30,0,0,0.0,0,0,1,3,0,0,8,2,2,1,6,2,3,3,1,16
+40473,Artoms Rudņevs,78,0,0,0.0,0,24,16,0,0,0.0,1,0,2,3,1,0,12,0,1,0,0,0,2,1,0,16

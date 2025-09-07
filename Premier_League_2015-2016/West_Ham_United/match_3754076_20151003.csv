@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3062,Aaron Cresswell,90,1,0,0.017072367,1,58,49,0,2,0.14455498,0,0,4,2,1,0,2,1,4,0,2,1,2,2,0,6
+3316,James Tomkins,90,0,0,0.0,0,55,45,0,0,0.0,0,0,4,0,2,2,5,1,5,1,4,0,2,1,0,5
+3482,James Collins,25,0,0,0.0,0,11,8,0,0,0.0,0,0,2,0,0,0,1,0,1,0,1,0,0,0,0,2
+3491,Dimitri Payet,90,2,1,0.514809204,2,77,60,0,7,0.891796477,4,4,13,0,3,0,1,0,7,3,0,0,0,0,0,13
+3595,Manuel Lanzini,90,4,0,0.109762242,1,41,37,0,0,0.0,6,4,19,1,1,0,4,0,5,5,0,1,1,0,0,8
+3623,Adrián San Miguel del Castillo,90,0,0,0.0,0,20,13,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+3684,Cheikhou Kouyaté,90,0,0,0.0,0,32,26,0,0,0.0,0,0,0,0,1,0,11,2,2,0,0,0,4,4,1,18
+3874,Mark Noble,78,0,0,0.0,0,64,55,0,2,0.036630142,0,0,7,2,0,0,2,0,8,1,2,1,0,2,0,12
+3962,Diafra Sakho,90,4,0,0.15376537299999998,0,14,7,0,0,0.0,1,0,2,0,0,0,7,1,0,5,0,0,2,1,1,13
+3963,Victor Moses,57,1,0,0.021469263,0,14,9,1,2,0.32207176800000004,2,0,4,2,2,1,2,1,2,3,0,0,2,1,1,7
+4280,Winston Reid,65,0,0,0.0,0,32,28,0,0,0.0,0,0,4,1,2,0,5,3,4,0,2,0,3,4,2,11
+20543,Nikica Jelavić,33,5,0,0.86355611,0,3,2,0,1,0.005848494,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+21254,Carl Jenkinson,90,1,1,0.31424,1,72,56,0,1,0.017072367,0,0,9,3,2,2,7,3,7,1,3,0,2,4,1,9
+27853,Mauro Matías Zárate,12,1,0,0.031570584,1,12,7,0,1,0.029475186,2,2,9,0,0,0,2,1,0,1,0,0,0,1,0,1

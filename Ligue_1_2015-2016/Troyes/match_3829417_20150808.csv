@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3002,Benjamin Nivet,90,1,0,0.20086905,0,48,39,0,1,0.030377194,0,0,4,0,3,1,5,0,5,1,0,1,4,0,0,21
+3010,Corentin Jean,73,2,0,0.044811398,1,15,8,0,2,0.165733454,2,1,3,1,1,0,1,0,2,1,0,0,0,0,0,9
+3161,Chaouki Ben Saada,23,1,0,0.006005457,0,18,11,0,1,0.008099003,3,2,3,0,0,0,1,0,3,0,0,1,2,0,0,5
+3364,Jonathan Martins-Pereira,90,0,0,0.0,0,90,71,0,2,0.082452937,0,0,14,3,1,0,6,3,2,1,1,0,1,5,3,16
+7193,Paul Bernardoni,90,0,0,0.0,0,22,17,0,0,0.0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0
+7301,Lossémy Karaboué,90,2,0,0.024741487,0,72,62,0,1,0.014434204,4,3,21,0,2,0,6,0,10,2,1,1,1,1,0,5
+7336,Jimmy Cabot,8,1,0,0.07644748,1,8,6,0,0,0.0,4,2,4,1,0,0,1,0,0,1,0,0,0,0,0,5
+7376,Yoann Court,82,1,0,0.033915684,1,36,26,0,1,0.015047724,4,3,10,1,1,0,4,4,5,2,1,1,1,4,2,25
+7415,Jessy Pi,90,3,0,0.08325517,0,50,35,0,1,0.005835533,0,0,9,0,0,0,2,2,9,0,0,1,1,2,2,21
+7488,Thomas Ayasse,90,0,0,0.0,0,39,26,0,0,0.0,0,0,3,3,0,0,6,1,3,0,3,2,2,2,0,17
+7685,Mory Koné,90,0,0,0.0,0,37,32,0,0,0.0,0,0,6,1,1,1,1,0,3,0,4,0,1,0,0,5
+13730,Matthieu Saunier,90,0,0,0.0,0,50,46,0,0,0.0,0,0,8,0,0,0,1,1,10,0,3,2,2,1,0,7
+401470,Fabien Camus,67,1,0,0.1468275,1,42,29,0,2,0.076973244,2,1,9,1,0,0,2,1,2,2,1,1,2,1,1,17
+401471,Henri Bienvenu Ntsama,17,1,0,0.008099003,0,3,2,0,0,0.0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0

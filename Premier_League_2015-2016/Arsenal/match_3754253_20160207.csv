@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3385,Alexis Alejandro Sánchez Sánchez,81,2,0,0.12489188600000001,1,46,39,0,2,0.024036431,3,1,10,0,0,0,2,0,2,4,0,0,0,0,0,19
+3394,Laurent Koscielny,90,0,0,0.0,0,49,38,0,0,0.0,0,0,13,0,0,0,2,1,5,1,8,6,3,1,1,13
+3437,Francis Joseph Coquelin,24,0,0,0.0,0,18,14,0,0,0.0,1,1,1,0,0,0,2,1,2,1,1,0,0,2,0,14
+3461,Petr Čech,90,0,0,0.0,0,42,18,0,1,0.17009999,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+3496,Mesut Özil,90,1,1,0.11354268,1,64,56,0,2,0.126756526,3,3,12,1,1,1,3,0,12,4,0,1,0,2,0,32
+3498,Ignacio Monreal Eraso,90,0,0,0.0,0,56,45,0,0,0.0,1,0,5,1,1,1,0,0,2,0,2,5,2,0,0,14
+3511,Héctor Bellerín Moruno,90,0,0,0.0,0,47,40,0,0,0.0,5,4,8,0,1,0,4,2,4,2,0,2,4,3,1,28
+3517,Aaron Ramsey,90,3,0,0.1874970574,1,66,55,1,2,0.27962902,5,4,13,4,4,1,8,4,15,2,1,6,3,5,1,36
+3525,Alex Oxlade-Chamberlain,66,2,1,0.24753944,1,20,11,0,0,0.0,1,0,4,0,0,0,5,1,2,0,1,3,4,4,1,29
+3528,Kieran Gibbs,9,0,0,0.0,0,4,3,0,0,0.0,0,0,2,0,0,0,1,0,0,1,2,0,1,0,0,13
+3604,Olivier Giroud,92,1,0,0.06911106,1,31,25,1,2,0.14869952,3,1,2,2,0,0,6,0,1,1,1,0,3,0,0,33
+6631,Mathieu Flamini,90,1,0,0.013953762,0,48,41,0,0,0.0,0,0,2,1,0,0,2,2,3,0,2,2,2,2,0,23
+6746,Gabriel Armando de Abreu,90,0,0,0.0,0,38,32,0,0,0.0,0,0,4,0,0,0,2,1,5,0,7,3,1,2,1,13

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3416,Gabriel Moisés Antunes da Silva,90,0,0,0.0,0,60,43,0,1,0.020506797,4,3,8,2,1,0,2,2,7,2,1,2,4,2,2,15
+7114,Gaetano Letizia,90,2,1,0.130663178,1,24,17,0,0,0.0,1,1,5,1,1,0,6,1,8,1,0,2,1,4,0,26
+7172,Simone Romagnoli,90,0,0,0.0,0,58,52,0,0,0.0,0,0,4,0,0,0,2,1,4,0,5,2,1,1,0,14
+7460,Isaac Cofie,90,1,0,0.014833768,1,30,24,0,0,0.0,0,0,3,2,0,0,10,4,6,0,3,1,4,4,0,23
+7696,Ryder Matos Santos,80,2,0,0.410880177,0,34,29,0,1,0.020228231,5,3,14,3,1,0,1,1,2,1,0,0,0,1,1,18
+7793,Kevin Lasagna,10,0,0,0.0,0,6,5,0,0,0.0,0,0,1,0,0,0,2,1,1,0,2,0,0,1,1,5
+8278,Nicolás Federico Spolli,90,0,0,0.0,0,40,32,0,0,0.0,0,0,8,4,2,1,4,1,7,0,7,0,0,2,0,14
+8662,Vid Belec,90,0,0,0.0,0,29,12,0,0,0.0,0,0,1,1,0,0,0,0,7,0,0,0,0,0,0,0
+8871,Marco Borriello,56,1,0,0.081283644,0,17,13,0,0,0.0,3,1,7,0,1,0,3,1,7,0,0,0,2,1,0,7
+11499,Riccardo Gagliolo,34,0,0,0.0,0,10,3,0,0,0.0,3,1,3,0,0,0,0,0,2,0,1,2,3,0,0,6
+30829,Lorenzo Lollo,90,1,0,0.020228231,0,17,14,0,0,0.0,1,0,0,3,0,0,1,1,3,1,0,0,2,1,0,14
+31572,Luca Marrone,75,0,0,0.0,0,51,45,0,3,0.432169542,2,2,4,1,1,0,3,3,4,0,2,1,1,3,1,13
+352172,Raffaele Bianco,15,0,0,0.0,0,2,0,0,0,0.0,0,0,0,0,1,0,0,0,1,0,2,0,2,0,0,4
+387300,Cristian Zaccardo,90,1,0,0.026962394,0,30,24,0,0,0.0,0,0,5,0,0,0,6,1,2,0,8,0,3,5,0,12

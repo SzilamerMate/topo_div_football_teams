@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3248,Hamari Traoré,90,0,0,0.0,0,63,44,0,2,0.19458337,0,0,7,5,1,1,2,0,8,0,2,1,8,2,0,28
+4383,Nicolas de Roussel de Préville,90,5,0,0.739268241,2,24,12,0,2,0.18626178,1,0,3,2,0,0,6,1,4,3,0,1,1,3,0,20
+4545,Prince Oniangué,34,0,0,0.0,0,20,16,0,0,0.0,0,0,1,2,0,0,1,1,1,1,0,2,0,1,1,14
+6648,Aïssa Mandi,90,0,0,0.0,0,35,29,0,0,0.0,0,0,3,0,0,0,2,0,2,0,5,2,6,2,0,8
+7367,Grejohn Kyei,18,3,0,0.44393764,1,2,2,0,0,0.0,0,0,0,0,1,1,3,0,2,0,0,0,0,1,0,5
+7369,Aly Ndom,82,0,0,0.0,0,27,21,0,0,0.0,2,2,3,0,1,0,3,0,2,0,4,2,2,1,0,13
+7435,Anthony Weber,56,0,0,0.0,0,18,12,0,0,0.0,0,0,1,2,0,0,1,0,3,0,2,1,5,1,0,10
+7635,Gaëtan Charbonnier,90,1,0,0.08817735,1,36,27,0,3,0.38216646600000004,3,1,4,0,2,2,10,0,6,2,0,3,2,1,0,27
+7641,Johann Carrasso,90,0,0,0.0,0,26,14,0,0,0.0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0
+7815,Antoine Devaux,90,1,0,0.03173962,0,52,42,0,0,0.0,0,0,5,2,1,0,1,0,5,0,1,1,0,1,0,30
+18783,Omenuke Mfulu,8,0,0,0.0,0,8,8,0,0,0.0,0,0,2,0,0,0,1,1,2,0,0,0,1,1,1,6
+30291,Atila Turan,90,1,0,0.012835507,0,38,21,0,0,0.0,1,1,2,1,1,1,2,2,10,1,2,3,0,2,2,15
+131849,Antoine Conte,90,0,0,0.0,0,28,24,0,0,0.0,1,0,4,0,1,1,1,0,3,0,4,0,2,0,0,8
+401775,Hugo Rodriguez,72,0,0,0.0,0,20,14,0,0,0.0,2,1,4,2,3,1,4,1,3,2,1,0,0,2,0,30

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2947,Anthony Lopes,90,0,0,0.0,0,21,12,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+2983,Jérémy Morel,90,0,0,0.0,0,67,52,0,1,0.04631958,1,1,9,1,2,1,2,0,8,1,5,0,1,2,0,10
+3118,Jordan Ferri,90,1,0,0.08249284,1,75,64,0,1,0.038104486,4,2,7,4,1,0,3,0,4,3,2,1,2,1,0,30
+3162,Gnaly Maxwell Cornet,79,1,0,0.031023862,0,24,17,0,1,0.08249284,2,1,8,0,0,0,5,1,1,2,0,3,1,2,1,12
+3372,Rachid Ghezzal,37,1,0,0.04631958,1,25,15,1,1,0.14794883,3,2,10,2,1,0,2,1,3,4,0,0,1,2,1,12
+4410,Christophe Jallet,90,0,0,0.0,0,73,63,0,1,0.09953817,1,1,4,0,1,1,7,3,8,0,3,0,1,7,2,21
+5480,Corentin Tolisso,68,1,0,0.05744373,0,47,39,0,0,0.0,0,0,7,0,0,0,4,1,8,0,0,1,2,2,1,28
+5492,Samuel Yves Umtiti,90,0,0,0.0,0,64,52,0,0,0.0,0,0,13,0,0,0,0,0,7,1,4,0,4,0,0,6
+6600,Claudio Beauvue,90,4,1,0.28018380200000004,2,15,12,0,0,0.0,1,1,3,0,0,0,11,0,1,2,0,0,0,1,0,15
+7225,Aldo Kalulu Kyatengwa,11,0,0,0.0,0,5,5,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+7346,Lindsay Rose,90,1,0,0.09780419,0,62,55,0,0,0.0,0,0,8,2,1,1,4,1,6,0,3,1,1,2,0,7
+7616,Arnold Mvuemba,90,0,0,0.0,0,70,65,0,0,0.0,0,0,13,3,0,0,2,1,4,5,0,0,1,1,0,16
+18868,Mathieu Valbuena,53,1,0,0.09953817,0,41,33,0,3,0.186271782,2,2,9,0,2,0,4,1,2,3,0,0,0,1,1,10
+40407,Steed Malbranque,22,0,0,0.0,0,15,12,0,0,0.0,0,0,2,0,1,0,1,1,1,1,0,0,0,1,1,7

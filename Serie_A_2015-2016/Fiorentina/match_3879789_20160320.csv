@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3112,Anton Ciprian Tătărușanu,90,0,0,0.0,0,23,16,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+3964,Marcos Alonso Mendoza,90,2,0,0.098083743,0,74,61,0,2,0.180205163,2,2,13,2,2,1,7,1,6,3,4,1,7,4,1,22
+5255,Matías Vecino Falero,90,3,0,0.16854032700000002,1,77,67,0,3,0.071101236,1,1,16,0,1,0,4,0,4,1,3,2,0,1,0,14
+6305,Milan Badelj,71,2,0,0.204064147,0,74,62,0,1,0.006258709,0,0,9,1,0,0,2,0,7,2,1,2,1,0,0,14
+6658,Cristian Tello Herrera,28,2,0,0.075445834,1,18,13,0,1,0.100239284,3,2,7,0,1,0,0,0,6,0,0,0,1,0,0,3
+6830,Facundo Sebastián Roncaglia,90,0,0,0.0,0,65,52,0,1,0.073176704,1,0,4,1,1,1,4,2,8,1,3,1,2,3,1,15
+6997,Borja Valero Iglesias,90,2,0,0.34775721000000004,1,65,53,0,1,0.117986195,2,2,19,0,3,0,2,0,4,1,2,1,3,1,0,14
+7033,Nikola Kalinić,90,6,0,0.324526533,1,14,13,0,0,0.0,3,1,2,1,5,1,7,0,2,2,0,0,2,0,0,15
+7125,Khouma El Hadji Babacar,5,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+7139,Josip Iličić,85,3,0,0.18084991,1,47,30,0,4,0.205059041,4,4,9,0,2,2,1,0,3,2,0,1,1,0,0,15
+7777,Federico Bernardeschi,62,4,0,0.16250017,1,28,19,0,0,0.0,2,2,8,1,3,0,1,1,8,4,0,0,3,1,0,14
+8275,Davide Astori,90,0,0,0.0,0,55,48,0,1,0.011416294,0,0,5,2,2,1,2,0,10,0,4,0,1,1,0,7
+25931,Gonzalo Javier Rodríguez,90,0,0,0.0,0,51,47,0,1,0.020906063,1,1,7,2,1,1,9,1,7,0,4,0,1,2,0,9
+27853,Mauro Matías Zárate,19,1,0,0.0751897,0,6,5,0,0,0.0,3,2,3,0,2,0,2,0,1,1,0,0,0,0,0,4

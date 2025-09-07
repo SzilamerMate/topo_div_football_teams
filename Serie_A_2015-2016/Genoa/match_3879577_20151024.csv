@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3556,Serge Gakpé,90,3,0,0.15429121299999998,1,17,14,0,1,0.041237116,3,2,8,2,2,0,6,0,3,1,0,1,1,0,0,13
+4369,Issa Cissokho,28,0,0,0.0,0,21,16,0,0,0.0,1,1,4,1,0,0,0,0,2,0,0,1,1,0,0,1
+5717,Diego Sebastián Laxalt Suárez,90,1,0,0.025796408,0,54,41,0,1,0.0061299936,2,0,5,0,1,0,5,2,8,0,2,1,2,3,0,24
+6894,Ezequiel Muñoz,62,0,0,0.0,0,15,11,0,0,0.0,0,0,1,3,0,0,0,0,3,0,1,1,2,0,0,18
+7145,Darko Lazović,35,1,0,0.017035069,0,32,17,0,2,0.144011575,0,0,6,0,0,0,0,0,3,1,0,3,2,0,0,6
+7148,Mattia Perin,90,0,0,0.0,0,30,11,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,0
+7456,Diego Perotti,55,3,0,0.1345289476,0,26,22,0,2,0.069537838,1,1,5,1,1,1,1,0,2,1,0,0,1,0,0,13
+7475,Tomás Eduardo Rincón Hernández,90,1,0,0.037203006,0,63,52,0,2,0.10334012000000001,2,2,9,3,2,0,5,2,7,1,1,3,1,3,0,22
+8180,Leonardo Pavoletti,67,1,0,0.041237116,0,6,5,0,0,0.0,0,0,0,4,0,0,6,0,0,0,1,0,0,0,0,12
+9940,Armando Izzo,90,0,0,0.0,0,48,45,0,1,0.06605707,1,1,4,1,2,1,3,1,7,1,4,3,1,2,0,11
+10530,Jules Olivier Ntcham,90,2,0,0.076426288,1,43,37,0,1,0.062341884,0,0,6,5,0,0,1,1,8,3,1,0,1,1,0,24
+24683,Diego Ángel Capel Trinidad,23,1,0,0.065753415,1,6,4,0,0,0.0,0,0,0,0,0,0,4,1,0,1,0,0,0,1,0,6
+26728,Alberto Facundo Costa,90,0,0,0.0,0,81,57,0,0,0.0,0,0,8,3,3,1,5,3,6,2,1,5,0,4,2,23
+40457,Giovanni Marchese,90,1,0,0.05428012,0,43,35,0,0,0.0,0,0,1,4,0,0,2,0,7,0,3,2,2,0,0,19

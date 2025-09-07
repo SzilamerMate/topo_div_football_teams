@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3058,Javier Hernández Balcázar,90,4,1,0.85500456,1,18,16,0,0,0.0,2,1,1,3,1,1,0,0,0,1,0,0,1,0,0,15
+5555,Julian Brandt,19,0,0,0.0,0,7,7,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,7
+7039,Hakan Çalhanoğlu,23,0,0,0.0,0,22,18,0,2,0.051878449,2,1,2,0,3,1,2,1,3,0,0,0,3,1,1,9
+8212,Wendell Nascimento Borges,71,0,0,0.0,0,41,31,0,0,0.0,0,0,4,2,0,0,5,2,7,0,1,2,0,5,1,18
+8213,Karim Bellarabi,90,0,0,0.0,0,36,23,0,2,0.28715892,7,3,11,1,3,0,1,0,8,8,0,1,5,1,0,41
+8219,Admir Mehmedi,67,0,0,0.0,0,29,20,1,2,0.37522602,1,0,2,3,1,0,4,1,6,1,0,0,7,1,1,30
+8221,Jonathan Tah,90,2,0,0.088495442,0,50,37,0,0,0.0,2,2,13,1,3,1,5,2,6,1,3,1,2,3,2,15
+8222,Kevin Kampl,90,0,0,0.0,0,50,42,0,0,0.0,3,2,11,2,1,0,5,1,8,2,1,1,3,2,0,29
+8549,Giulio Donati,67,0,0,0.0,0,33,23,0,0,0.0,0,0,2,0,4,1,4,2,2,0,0,2,5,4,2,16
+8573,Ömer Toprak,90,1,0,0.025237907,0,51,42,0,0,0.0,0,0,3,1,0,0,5,3,3,0,7,1,3,5,0,10
+8805,Christoph Kramer,90,0,0,0.0,0,55,48,0,0,0.0,1,0,7,1,2,0,4,2,3,2,1,1,3,2,0,33
+8918,Roberto Hilbert,23,0,0,0.0,0,24,20,0,0,0.0,0,0,3,1,0,0,3,1,1,0,1,1,1,1,1,4
+15581,Bernd Leno,90,0,0,0.0,0,27,19,0,0,0.0,0,0,4,0,1,1,0,0,3,0,0,0,0,0,0,0
+20415,Sebastian Boenisch,90,0,0,0.0,0,12,5,0,0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,3

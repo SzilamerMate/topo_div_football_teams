@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3062,Aaron Cresswell,90,0,0,0.0,0,62,47,0,1,0.014629989,0,0,4,1,1,0,5,0,6,2,0,4,3,1,0,8
+3349,Michail Antonio,90,2,1,0.028035206,2,29,13,0,0,0.0,4,1,6,1,1,1,5,3,6,4,2,4,2,3,1,14
+3482,James Collins,90,0,0,0.0,0,45,32,0,0,0.0,1,1,4,0,1,1,1,0,0,0,4,4,1,0,0,2
+3491,Dimitri Payet,90,2,0,0.15483254000000002,0,38,29,0,1,0.042186644,8,4,9,1,1,1,2,0,5,0,0,1,0,1,0,4
+3586,Samuel Mark Byram,90,0,0,0.0,0,36,22,0,1,0.4532167,0,0,3,2,1,1,4,0,5,2,7,8,1,2,0,17
+3595,Manuel Lanzini,64,1,0,0.032864507,0,33,30,0,1,0.030330244,2,1,8,0,1,0,1,0,2,2,0,4,0,0,0,6
+3623,Adrián San Miguel del Castillo,90,0,0,0.0,0,35,26,0,0,0.0,0,0,5,0,0,0,0,0,6,1,0,0,0,0,0,0
+3684,Cheikhou Kouyaté,90,0,0,0.0,0,51,38,0,0,0.0,5,4,6,0,0,0,6,1,5,4,1,5,3,1,0,19
+3843,Angelo Obinze Ogbonna,90,0,0,0.0,0,51,34,0,0,0.0,0,0,9,0,0,0,3,3,1,0,6,5,0,3,2,4
+3874,Mark Noble,81,1,0,0.030330244,1,43,40,0,0,0.0,1,1,6,1,1,0,5,1,4,1,0,3,0,2,1,16
+3897,Pedro Mba Obiang Avomo,9,0,0,0.0,0,4,2,0,0,0.0,0,0,0,1,0,0,0,0,2,0,1,0,0,0,0,3
+3963,Victor Moses,26,1,0,0.042186644,0,4,4,0,1,0.07651186,0,0,2,0,0,0,3,0,1,0,0,0,0,1,0,5
+4271,Andy Carroll,32,1,0,0.4532167,0,17,10,0,0,0.0,3,2,0,2,2,2,2,0,2,0,2,0,0,0,0,7
+128704,Emmanuel Emenike,58,1,0,0.12349746,0,15,8,0,0,0.0,1,0,2,2,0,0,7,0,5,2,1,0,0,1,0,11

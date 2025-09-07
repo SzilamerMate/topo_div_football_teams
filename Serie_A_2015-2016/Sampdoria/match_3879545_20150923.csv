@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6334,Luis Fernando Muriel Fruto,77,2,0,0.082420483,0,17,7,0,1,0.019550003,3,2,12,1,3,0,4,1,3,5,1,0,0,1,0,10
+6759,Roberto Soriano,90,0,0,0.0,0,27,22,0,0,0.0,0,0,4,2,0,0,7,5,4,0,4,0,2,5,2,21
+6822,Carlos Joaquín Correa,59,1,0,0.06046621,1,16,13,0,0,0.0,1,0,4,2,3,0,0,0,2,0,1,0,0,0,0,22
+7000,Eder Citadin Martins,90,2,1,0.046832788,1,18,12,0,1,0.04188684,3,2,6,3,3,0,4,0,9,4,1,0,1,2,0,14
+7009,Édgar Osvaldo Barreto Cáceres,90,0,0,0.0,0,23,18,0,1,0.040533643,0,0,2,3,2,0,7,5,3,0,6,0,3,7,3,31
+7018,Emiliano Viviano,90,0,0,0.0,0,35,21,0,0,0.0,0,0,4,0,0,0,0,0,5,0,0,0,0,0,0,0
+7019,Matías Agustín Silvestre,28,0,0,0.0,0,11,10,0,0,0.0,0,0,0,1,0,0,2,0,1,0,3,0,0,1,0,2
+7137,Ervin Zukanović,90,0,0,0.0,0,30,18,0,0,0.0,0,0,2,1,0,0,3,1,5,0,14,0,5,1,1,9
+8423,Pedro Miguel Almeida Lopes Pereira,90,0,0,0.0,0,34,25,0,0,0.0,0,0,3,0,1,0,7,1,3,1,4,1,6,3,1,11
+9884,Niklas Moisander,62,0,0,0.0,0,13,9,0,0,0.0,0,0,3,0,0,0,0,0,2,0,4,1,3,0,0,8
+16586,Fernando Lucas Martins,90,1,0,0.019550003,1,35,27,1,1,0.02283398,1,0,4,2,0,0,0,0,3,1,0,1,6,0,0,24
+19850,Antonio Cassano,13,0,0,0.0,0,9,7,0,0,0.0,1,1,2,0,1,0,1,0,0,1,0,0,0,0,0,2
+36364,Dávid Ivan,31,0,0,0.0,0,9,8,0,0,0.0,1,0,0,0,2,1,4,1,1,0,0,0,3,3,0,15
+40394,Djamel Eddine Mesbah,90,0,0,0.0,0,26,18,0,0,0.0,0,0,0,1,0,0,1,0,2,0,2,0,4,0,0,7

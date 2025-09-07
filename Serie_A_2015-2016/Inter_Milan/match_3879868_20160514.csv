@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3434,Stevan Jovetić,90,4,0,0.573362004,1,50,35,0,1,0.012684965,5,5,8,3,2,0,5,0,4,0,0,0,1,1,0,18
+5469,Marcelo Brozović,90,0,0,0.0,0,65,50,0,2,0.168983162,3,2,6,0,2,1,4,4,5,0,0,1,1,4,1,21
+5690,Yuto Nagatomo,21,0,0,0.0,0,8,6,0,0,0.0,0,0,2,0,0,0,1,1,1,0,0,0,0,1,0,6
+6585,Jeison Fabián Murillo Cerón,90,3,0,0.18602874800000002,1,45,39,0,0,0.0,0,0,7,1,2,0,0,0,9,1,1,0,1,0,0,5
+6589,Geoffrey Kondogbia,69,0,0,0.0,0,39,35,0,1,0.02225568,1,1,5,1,2,0,4,1,3,1,1,1,1,3,1,23
+6969,Juan Guilherme Nunes Jesus,90,0,0,0.0,0,56,50,0,0,0.0,0,0,4,3,0,0,3,0,3,1,4,1,2,3,0,17
+6984,Danilo D''Ambrosio,90,0,0,0.0,0,60,53,0,2,0.206860287,0,0,7,1,0,0,3,1,3,1,4,3,2,2,0,12
+7000,Eder Citadin Martins,90,3,0,0.319133615,2,25,20,0,0,0.0,1,0,4,2,1,0,1,0,2,0,0,1,0,0,0,17
+7165,Rodrigo Sebastián Palacio,80,2,1,0.29892393700000003,2,43,29,0,0,0.0,2,2,9,1,2,0,2,0,5,2,0,0,0,1,0,20
+11183,Alex Nicolao Telles,90,0,0,0.0,0,64,53,0,0,0.0,2,2,6,2,0,0,6,3,7,0,3,4,1,4,1,17
+18237,Ionuț Andrei Radu,19,0,0,0.0,0,6,3,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25430,Felipe Melo de Carvalho,90,0,0,0.0,0,58,53,0,0,0.0,0,0,6,0,2,0,6,5,5,0,3,2,2,6,1,11
+26707,Juan Pablo Carrizo,71,0,0,0.0,0,19,15,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+42271,Fabio Della Giovanna,10,0,0,0.0,0,5,3,0,0,0.0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,1

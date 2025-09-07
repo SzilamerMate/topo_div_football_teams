@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3084,Christian Atsu Twasam,19,0,0,0.0,0,10,8,0,0,0.0,1,1,2,0,2,0,0,0,0,0,0,0,0,0,0,3
+5577,Francisco Guillermo Ochoa Magaña,90,0,0,0.0,0,20,14,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+6563,Juan Pablo Añor Acosta,90,3,0,0.22862311800000001,0,34,26,0,1,0.083471395,4,1,4,1,2,1,3,1,7,2,1,3,3,1,0,22
+6569,Roberto José Rosales Altuve,90,0,0,0.0,0,50,40,0,0,0.0,2,1,6,4,1,0,5,3,5,4,4,2,4,3,1,13
+6580,José Luis García del Pozo,71,0,0,0.0,0,34,29,0,4,0.229948392,2,2,4,3,1,0,8,5,2,0,2,0,0,6,2,20
+6707,Charles Días Barbosa de Oliveira,90,1,0,0.055160318,1,25,16,0,1,0.13996506,2,2,1,2,2,1,6,1,3,1,1,0,1,1,0,11
+6727,Raúl Albentosa Redal,90,1,0,0.046277728,0,35,27,0,1,0.055160318,0,0,3,1,0,0,6,1,3,1,9,0,1,2,0,8
+6740,Gonzalo Castro Irizábal,84,5,0,0.29130517199999995,1,40,22,0,2,0.128827098,3,2,12,0,3,0,1,0,9,3,0,2,1,1,0,5
+6844,Federico Ricca Rostagnol,90,1,1,0.28330547,1,53,37,0,0,0.0,0,0,3,2,1,0,4,1,6,1,3,2,2,2,0,13
+8234,Ignacio Camacho Barnola,90,0,0,0.0,0,50,37,0,0,0.0,1,1,7,3,0,0,5,1,9,2,4,3,4,1,1,22
+8419,Duje Čop,84,1,0,0.083471395,1,31,20,0,1,0.045086358,1,1,1,3,0,0,6,0,1,1,0,1,1,1,0,10
+10868,Ricardo Jorge Luz Horta,6,0,0,0.0,0,4,4,0,0,0.0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+26669,Weligton Róbson Pena de Oliveira,90,0,0,0.0,0,43,31,0,0,0.0,0,0,0,2,1,0,3,1,3,0,7,0,0,2,0,14
+26783,Roque Luis Santa Cruz Cantero,6,0,0,0.0,0,5,5,1,1,0.28330547,1,0,1,1,0,0,1,0,2,0,1,0,0,0,0,3

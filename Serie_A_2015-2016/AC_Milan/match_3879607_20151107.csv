@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5661,M''Baye Babacar Niang,72,2,0,0.058029616,2,24,14,0,1,0.12511513,10,6,12,3,4,1,4,1,4,3,0,0,0,2,1,16
+5683,Keisuke Honda,18,0,0,0.0,0,7,4,0,0,0.0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,10
+5688,Carlos Arturo Bacca Ahumada,90,2,0,0.15365943899999998,0,19,14,0,0,0.0,5,0,4,0,1,0,4,0,3,4,0,0,0,0,0,11
+6944,Mattia De Sciglio,45,0,0,0.0,0,21,17,0,0,0.0,1,1,3,2,1,0,2,0,2,0,0,1,0,2,0,8
+7032,Davide Calabria,45,0,0,0.0,0,22,12,0,0,0.0,0,0,3,1,0,0,4,0,6,0,1,0,1,1,0,15
+7036,Gianluigi Donnarumma,90,0,0,0.0,0,39,25,0,0,0.0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0
+7166,Riccardo Montolivo,90,1,0,0.034034133,0,60,44,0,0,0.0,2,1,6,1,3,0,6,4,15,0,0,1,2,4,0,23
+7168,Andrea Poli,90,0,0,0.0,0,32,26,0,1,0.04506612,1,1,5,1,0,0,2,0,4,2,0,3,6,1,0,36
+7458,Alessio Romagnoli,90,0,0,0.0,0,32,29,0,0,0.0,1,1,7,1,0,0,5,0,4,2,2,2,3,1,0,8
+7702,Alessio Cerci,90,1,0,0.009732446,0,30,19,0,2,0.162986254,3,1,10,2,2,0,4,0,4,1,0,0,0,0,0,9
+8874,Luca Antonelli,90,1,0,0.081827044,0,50,41,0,0,0.0,5,3,6,0,3,2,4,3,5,1,1,2,1,3,1,38
+10919,Juraj Kucka,63,1,0,0.015291577,0,20,12,0,0,0.0,0,0,2,1,2,1,5,2,5,1,1,0,2,3,1,24
+20289,Philippe Mexès,90,0,0,0.0,0,31,21,0,1,0.028544309,1,0,5,1,0,0,4,1,2,0,4,3,3,2,0,13
+21272,Luiz Adriano de Souza da Silva,27,1,0,0.08115921,0,4,4,0,1,0.009732446,0,0,1,2,1,0,5,0,2,1,0,0,2,0,0,8

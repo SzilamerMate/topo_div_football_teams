@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3638,Shkodran Mustafi,90,2,0,0.17748096,0,48,45,0,0,0.0,0,0,3,0,0,0,4,1,8,0,3,5,0,2,0,7
+4406,Aymen Abdennour,90,2,0,0.168674064,1,64,54,0,0,0.0,1,1,5,2,1,1,2,1,7,2,2,3,2,1,1,10
+5718,Rodrigo Moreno Machado,82,3,0,0.211401448,0,40,29,0,2,0.354834924,2,1,5,1,4,2,6,0,4,3,0,1,1,1,0,15
+6402,Francisco Alcácer García,90,4,0,0.539630708,0,11,7,0,0,0.0,2,1,2,0,2,0,2,0,0,2,1,0,1,0,0,4
+6594,Santiago Mina Lorenzo,8,1,0,0.09484897,0,2,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6595,Daniel Parejo Muñoz,90,4,0,0.0939400852,1,78,71,0,3,0.1539052947,0,0,18,2,0,0,5,2,2,0,0,2,4,3,1,33
+6663,Antonio Barragán Fernández,90,0,0,0.0,0,61,51,0,2,0.10631317600000001,1,1,9,3,0,0,3,1,5,0,1,2,1,2,1,10
+6725,Zakaria Bakkali,45,1,0,0.038261954,0,25,18,0,3,0.196109379,1,1,5,0,4,0,3,0,4,1,1,0,2,2,0,10
+6751,Javier Fuego Martínez,90,2,0,0.1134245747,1,83,79,0,1,0.021849025,0,0,9,5,2,1,9,3,5,0,0,2,1,7,3,20
+6898,Jaume Doménech Sánchez,90,0,0,0.0,0,23,19,0,0,0.0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+7797,Rodrigo Javier De Paul,25,1,0,0.021849025,0,26,22,0,3,0.06666643920000001,1,0,10,2,0,0,0,0,1,0,0,0,1,0,0,6
+10802,André Filipe Tavares Gomes,45,0,0,0.0,0,41,35,0,0,0.0,2,2,12,0,0,0,3,1,7,2,1,2,2,1,0,13
+18724,Sofiane Feghouli,90,4,0,0.224438889,2,66,43,0,7,0.6248950010000001,2,0,15,0,2,1,2,0,5,0,0,0,2,0,0,10
+27480,Lucas Alfonso Orbán Alegre,65,0,0,0.0,0,44,41,0,0,0.0,1,0,3,2,1,1,4,0,3,1,5,2,1,3,0,12

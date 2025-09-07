@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4174,Ragnar Klavan,86,0,0,0.0,0,74,64,0,0,0.0,0,0,15,1,0,0,3,0,3,0,9,0,0,0,0,2
+4279,Konstantinos Stafylidis,53,0,0,0.0,0,35,28,0,0,0.0,0,0,2,0,0,0,2,0,1,0,5,0,5,1,0,6
+5514,Alfreð Finnbogason,90,4,1,0.942026033,2,19,13,0,2,0.035874319,4,2,0,2,0,0,9,1,1,2,0,0,2,2,0,10
+5627,Ja-Cheol Koo,90,2,0,0.082799662,0,34,31,0,2,0.058411788,0,0,4,1,2,1,7,1,4,1,1,1,4,1,1,11
+8207,Dominik Kohr,53,2,0,0.035874319,0,39,23,0,0,0.0,0,0,3,2,1,1,7,1,0,1,6,0,1,1,1,7
+8303,Caiuby Francisco da Silva,90,4,0,0.11708637899999999,2,37,25,0,1,0.025104618,5,2,8,2,3,0,7,0,8,2,3,1,1,1,0,13
+8314,Marwin Hitz,90,0,0,0.0,0,24,13,0,0,0.0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0
+8317,Daniel Baier,90,1,0,0.007387162,0,86,69,0,4,0.257657596,0,0,8,0,0,0,3,0,9,1,5,0,1,2,0,7
+8319,Philipp Max,37,0,0,0.0,0,15,12,0,0,0.0,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2
+8574,Alexander Esswein,90,1,0,0.025104618,0,25,14,0,1,0.035489466,4,0,5,2,1,0,4,0,8,1,0,0,5,1,0,18
+29001,Albian Afrim Ajeti,37,0,0,0.0,0,8,6,0,0,0.0,0,0,1,2,0,0,2,1,2,1,0,0,0,1,0,2
+40462,Halil Altıntop,4,0,0,0.0,0,4,4,0,0,0.0,0,0,1,0,2,1,0,0,1,0,0,0,0,0,0,2
+40480,Markus Feulner,90,1,1,0.018856043,1,44,35,0,2,0.060401552000000004,4,2,4,3,3,1,5,2,6,1,4,0,1,4,2,20
+40543,Jeong-Ho Hong,90,1,0,0.123344675,0,61,54,0,0,0.0,0,0,5,1,1,0,1,0,6,0,8,2,3,0,0,5

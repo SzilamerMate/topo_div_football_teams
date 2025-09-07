@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5569,Marvin Plattenhardt,90,0,0,0.0,0,76,55,0,0,0.0,1,1,5,1,2,2,1,1,6,0,5,1,0,1,1,8
+5697,Genki Haraguchi,15,0,0,0.0,0,6,5,0,0,0.0,0,0,0,0,1,1,1,1,2,2,0,0,1,1,1,1
+8570,Niklas Stark,90,1,0,0.019668533,0,32,27,0,1,0.023511846,2,1,2,7,1,1,4,0,6,1,0,1,0,0,0,20
+8575,Salomon Armand Magloire Kalou,90,3,0,0.49288659399999996,1,31,27,0,1,0.10125218,3,2,4,0,1,0,5,0,4,2,1,0,4,0,0,12
+8576,Mitchell Weiser,90,0,0,0.0,0,41,29,0,2,0.419002014,5,3,7,1,3,1,6,0,9,3,2,2,2,4,0,24
+8577,Rune Almenning Jarstein,90,0,0,0.0,0,53,45,0,0,0.0,0,0,6,0,0,0,0,0,3,0,0,0,0,0,0,0
+8579,Vladimír Darida,90,1,0,0.023511846,1,62,50,0,2,0.08156390799999999,5,4,7,1,2,0,3,1,9,3,1,1,1,2,1,17
+8580,Sebastian Langkamp,90,0,0,0.0,0,78,66,0,0,0.0,0,0,8,1,0,0,3,1,0,0,8,1,2,3,0,8
+8965,Fabian Lustenberger,90,1,0,0.058245778,0,59,50,0,1,0.11320544,0,0,2,2,1,0,5,0,6,0,1,0,1,1,0,15
+9721,Valentin Stocker,82,4,0,0.235435292,1,35,21,0,0,0.0,2,2,8,4,0,0,7,1,1,1,0,1,1,1,0,15
+9722,Peter Pekarík,75,0,0,0.0,0,60,45,0,0,0.0,1,0,7,2,2,1,2,2,2,2,2,0,0,2,1,13
+11131,Julian Schieber,8,1,0,0.017755708,0,3,1,0,0,0.0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,4
+12327,John Anthony Brooks,90,0,0,0.0,0,79,68,0,0,0.0,0,0,8,0,0,0,2,0,2,0,4,1,2,0,0,4

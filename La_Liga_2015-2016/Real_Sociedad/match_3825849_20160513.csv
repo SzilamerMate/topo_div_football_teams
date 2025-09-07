@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6669,David Zurutuza Veillet,90,2,0,0.06842496840000001,1,43,35,0,1,0.023344176,3,2,9,1,5,2,9,2,11,5,3,0,5,3,1,16
+6671,Asier Illarramendi Andonegi,90,0,0,0.0,0,52,43,0,1,0.028487667,2,2,6,2,1,0,8,5,10,0,1,4,3,6,2,19
+6674,Alberto De La Bella Madureño,90,0,0,0.0,0,45,34,0,1,0.04200891,1,1,7,1,1,1,3,0,3,2,1,3,1,0,0,7
+6676,Igor Zubeldia Elorza,7,0,0,0.0,0,5,4,0,0,0.0,0,0,1,0,0,0,0,0,1,2,0,1,1,0,0,4
+6679,Aritz Elustondo Irribaria,90,2,0,0.150445996,0,38,26,0,0,0.0,1,0,5,0,1,0,2,1,3,0,1,1,5,2,0,22
+6685,Mikel Oyarzabal Ugarte,90,3,1,0.47019076899999995,1,45,35,0,3,0.153682323,5,2,5,3,2,1,2,0,7,3,0,0,2,0,0,24
+6690,Xabier Prieto Argarate,73,1,0,0.05026015,0,42,33,0,0,0.0,0,0,3,0,2,0,7,3,4,2,0,2,1,4,2,13
+6694,Gerónimo Rulli,90,0,0,0.0,0,35,23,0,0,0.0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0
+6899,Rubén Pardo Gutiérrez,83,0,0,0.0,0,53,40,0,3,0.232749687,0,0,5,2,0,0,3,0,4,1,1,1,3,0,0,18
+6906,Jon Bautista Orgilles,57,1,0,0.024696501,1,15,8,0,1,0.0059825014,2,1,1,3,2,2,4,1,0,1,0,1,0,2,0,19
+8522,Armindo Tué Na Bangna,33,5,0,0.26943209599999995,3,17,12,0,0,0.0,4,4,3,1,1,0,0,0,4,1,0,1,2,0,0,16
+8584,Jonathas Cristian de Jesus,17,0,0,0.0,0,6,5,0,1,0.062442467,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,8
+16539,Diego Antonio Reyes Rosales,90,0,0,0.0,0,46,33,0,0,0.0,0,0,4,1,0,0,3,0,8,0,5,2,0,1,0,7
+16622,Mikel González de Martín Martínez,90,1,0,0.006050177,0,33,28,0,0,0.0,2,2,11,0,1,0,3,0,6,0,3,2,0,1,0,8

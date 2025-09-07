@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3087,Gnégnéri Yaya Touré,64,1,0,0.075786896,1,55,48,0,0,0.0,3,2,5,0,4,0,2,0,4,0,0,0,3,1,0,1
+4913,Bojan Krkíc Pérez,23,2,0,0.130967795,1,3,3,0,0,0.0,2,1,3,0,1,0,2,1,1,0,0,0,0,1,0,4
+5216,Andrés Iniesta Luján,90,0,0,0.0,0,72,62,0,0,0.0,2,1,9,1,2,1,1,1,4,1,1,3,1,1,1,14
+5503,Lionel Andrés Messi Cuccittini,44,1,0,0.03182432,0,20,19,2,2,0.26145091,6,3,6,2,1,0,0,0,4,1,0,1,2,0,0,8
+5558,Rafael Márquez Álvarez,90,2,0,0.10002691,1,93,83,0,0,0.0,0,0,13,1,0,0,3,0,3,0,3,2,1,0,0,3
+5987,Giovani dos Santos Ramírez,46,3,0,0.8283811750000001,1,18,17,1,1,0.57259995,5,3,8,1,1,0,3,0,1,3,0,0,1,0,0,4
+11270,Eiður Smári Guðjohnsen,90,1,1,0.57259995,1,48,41,0,1,0.03457387,3,3,8,1,2,1,0,0,5,1,0,0,0,0,0,6
+19298,Samuel Eto''o Fils,67,5,2,0.57393162,4,26,23,0,2,0.051491295000000006,4,4,2,1,2,0,2,0,1,1,0,0,2,0,0,10
+19757,Anderson Luís de Souza,26,0,0,0.0,0,24,22,0,0,0.0,2,2,1,2,5,0,1,1,1,2,0,0,2,1,1,11
+20125,Carles Puyol i Saforcada,90,0,0,0.0,0,54,50,0,3,0.37312422,1,0,2,3,2,1,1,0,2,0,3,2,4,0,0,18
+20131,Xavier Hernández Creus,90,0,0,0.0,0,102,87,0,5,0.968989251,5,5,21,0,3,2,2,2,8,3,0,1,2,2,1,16
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,28,21,0,0,0.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+20177,Eric-Sylvain Bilal Abidal,90,0,0,0.0,0,67,55,0,0,0.0,2,1,9,2,0,0,5,2,2,1,5,0,1,5,2,15
+25919,Gabriel Alejandro Milito,90,0,0,0.0,0,81,72,0,0,0.0,0,0,5,3,0,0,3,1,8,0,5,2,0,2,0,1

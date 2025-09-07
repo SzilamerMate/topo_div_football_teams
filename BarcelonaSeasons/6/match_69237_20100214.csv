@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3672,Zlatan Ibrahimović,90,7,1,0.753151558,4,29,24,0,0,0.0,3,1,5,3,1,0,4,0,4,0,1,0,0,0,0,2
+3958,Pedro Eliezer Rodríguez Ledesma,83,0,0,0.0,0,43,33,0,0,0.0,0,0,17,1,6,1,3,2,3,2,0,1,1,2,1,15
+4913,Bojan Krkíc Pérez,13,0,0,0.0,0,5,3,0,0,0.0,0,0,1,0,0,0,2,1,0,0,0,0,0,1,0,1
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,80,74,0,0,0.0,0,0,12,2,2,0,8,4,10,2,1,0,1,6,2,27
+5216,Andrés Iniesta Luján,90,0,0,0.0,0,77,68,0,5,0.31539192,5,5,11,2,3,0,2,2,3,2,0,1,1,2,2,19
+5503,Lionel Andrés Messi Cuccittini,90,6,0,0.272699939,3,43,35,0,1,0.06657205,11,5,20,2,3,1,2,0,4,1,0,0,2,1,0,12
+7068,Marc Bartra Aregall,30,0,0,0.0,0,14,11,0,0,0.0,0,0,2,1,1,1,2,2,3,0,2,2,1,2,1,6
+20125,Carles Puyol i Saforcada,90,0,0,0.0,0,57,51,0,0,0.0,0,0,3,4,1,1,6,2,4,1,4,1,2,4,0,12
+20131,Xavier Hernández Creus,77,0,0,0.0,0,92,79,0,3,0.197149884,1,0,12,0,3,0,1,1,6,1,0,0,0,1,1,16
+20169,Seydou Kéita,7,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,30,30,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+25919,Gabriel Alejandro Milito,90,0,0,0.0,0,70,55,0,0,0.0,0,0,22,0,0,0,5,1,8,0,3,1,3,4,0,7
+26613,Maxwell Scherrer Cabelino Andrade,90,0,0,0.0,0,43,35,0,0,0.0,2,1,6,2,2,0,3,1,6,0,3,2,3,1,0,9
+26624,Jeffren Isaac Suárez Bermúdez,60,0,0,0.0,0,40,35,0,1,0.055573624,2,1,2,1,1,0,5,4,5,1,1,2,2,5,3,18

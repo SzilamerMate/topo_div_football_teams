@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6822,Carlos Joaquín Correa,79,3,1,0.456107704,2,39,36,0,0,0.0,9,5,11,1,3,0,1,0,5,1,0,2,1,1,0,20
+7000,Eder Citadin Martins,90,3,1,0.141723925,3,31,24,1,3,0.452130647,2,1,5,2,2,0,3,1,5,1,0,2,1,1,0,24
+7009,Édgar Osvaldo Barreto Cáceres,54,0,0,0.0,0,26,23,0,0,0.0,0,0,2,3,0,0,2,1,2,1,0,0,1,1,0,26
+7012,Vasco Regini,90,1,0,0.02839359,0,41,36,0,0,0.0,2,1,8,1,2,1,5,0,5,0,1,1,2,3,0,19
+7018,Emiliano Viviano,90,0,0,0.0,0,43,26,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,3
+7137,Ervin Zukanović,90,0,0,0.0,0,40,36,0,0,0.0,0,0,6,1,1,1,2,1,5,0,1,2,3,1,0,5
+8875,Ricardo Gabriel Álvarez,36,0,0,0.0,0,18,16,1,1,0.06097881,2,2,4,0,0,0,2,1,2,1,1,0,1,2,0,13
+9884,Niklas Moisander,90,0,0,0.0,0,33,29,0,0,0.0,0,0,8,0,0,0,3,2,3,0,2,0,2,3,1,22
+16586,Fernando Lucas Martins,90,0,0,0.0,0,81,67,0,1,0.07284915,2,0,8,3,2,0,1,0,3,2,2,5,1,1,0,23
+19850,Antonio Cassano,64,1,0,0.035957187,0,35,23,0,1,0.02839359,0,0,0,0,1,0,0,0,3,3,0,0,1,0,0,14
+25505,José Rodolfo Pires Ribeiro,26,0,0,0.0,0,18,11,0,0,0.0,4,3,6,0,0,0,0,0,1,1,0,0,0,0,0,9
+27595,Carlos Mario Carbonero Mancilla,90,0,0,0.0,0,46,39,0,0,0.0,8,5,11,3,1,0,5,4,5,0,2,1,3,4,2,23
+36364,Dávid Ivan,11,0,0,0.0,0,7,7,0,0,0.0,0,0,0,0,0,0,2,1,0,0,0,1,1,2,1,9
+387417,Mattia Cassani,90,0,0,0.0,0,34,26,0,0,0.0,0,0,5,2,0,0,2,0,2,0,1,2,0,2,0,5

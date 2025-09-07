@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3063,Danilo Luiz da Silva,90,1,0,0.024684196,0,76,68,1,1,0.56290096,1,1,7,1,0,0,3,1,6,0,2,4,1,2,0,7
+3990,Jesé Rodríguez Ruiz,21,1,1,0.48695058,1,21,18,0,0,0.0,0,0,3,0,0,0,2,2,3,0,0,0,0,2,2,2
+4926,Francisco Román Alarcón Suárez,10,0,0,0.0,0,10,9,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+5202,José Ignacio Fernández Iglesias,90,0,0,0.0,0,40,38,0,0,0.0,0,0,2,1,1,1,3,1,2,0,4,3,1,3,1,10
+5207,Cristiano Ronaldo dos Santos Aveiro,90,9,1,1.6979733714999998,4,38,32,0,1,0.045475237,1,1,6,1,2,0,1,0,2,0,0,0,0,0,0,2
+5463,Luka Modrić,90,1,0,0.045475237,0,79,68,0,2,0.055662121,2,2,16,0,1,0,2,0,2,0,0,1,0,1,0,10
+5485,Raphaël Varane,90,0,0,0.0,0,31,28,0,0,0.0,0,0,3,1,2,0,1,1,3,0,7,5,0,1,0,6
+5539,Carlos Henrique Casimiro,75,0,0,0.0,0,36,35,0,0,0.0,0,0,1,3,2,1,8,5,1,1,6,2,5,6,2,27
+5552,Marcelo Vieira da Silva Júnior,90,1,0,0.039157573,1,85,70,0,3,0.172876037,1,0,12,0,1,0,6,4,10,1,1,3,3,6,2,11
+5574,Toni Kroos,90,1,0,0.032979026,0,74,66,0,4,0.229726196,1,1,8,3,2,0,1,1,9,0,0,1,2,1,1,29
+5597,Keylor Navas Gamboa,90,0,0,0.0,0,30,20,0,0,0.0,0,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0
+5695,James David Rodríguez Rubio,15,0,0,0.0,0,17,14,0,0,0.0,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,3
+6399,Gareth Frank Bale,69,7,1,1.153782369,1,53,46,1,4,0.304782754,3,0,14,0,1,0,2,0,3,1,1,2,1,1,0,5
+19677,Karim Benzema,80,5,1,0.83649343,3,43,33,0,4,0.25887415,3,2,10,0,0,0,3,1,5,3,0,1,2,1,1,10

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3168,João Filipe Iria Santos Moutinho,90,1,0,0.04478938,1,82,69,0,1,0.057313047,2,1,12,0,2,2,0,0,3,2,0,0,1,0,0,3
+3193,Bernardo Mota Veiga de Carvalho e Silva,90,1,0,0.021707846,1,56,45,0,2,0.20948972999999999,5,3,14,3,3,0,4,1,4,7,2,1,4,2,0,12
+3204,Almamy Touré,16,1,0,0.09882279,0,13,12,0,1,0.12404753,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+3246,Guido Marcelo Carrillo,90,4,0,0.492135496,1,28,20,0,0,0.0,1,0,2,2,0,0,5,1,1,2,0,0,1,1,0,15
+3247,Fábio Henrique Tavares,90,1,0,0.007995665,0,66,56,0,2,0.157525442,0,0,9,4,4,0,4,0,7,0,1,0,1,1,0,17
+3374,Andrea Raggi,90,0,0,0.0,0,56,47,0,0,0.0,0,0,5,2,2,2,3,0,3,0,3,0,2,2,0,8
+3406,Jérémy Toulalan,90,0,0,0.0,0,98,84,0,1,0.110768296,2,2,18,0,1,0,2,1,11,0,1,0,1,1,0,3
+3444,Danijel Subašić,90,0,0,0.0,0,23,14,0,0,0.0,1,1,0,0,0,0,0,0,3,0,0,0,0,0,0,1
+4465,Gabriel Boschilia,29,0,0,0.0,0,20,13,0,1,0.14665273,0,0,4,0,2,0,0,0,5,1,0,1,1,0,0,4
+6979,Stephan El Shaarawy,37,3,0,0.214838489,1,22,17,0,0,0.0,3,3,4,1,0,0,1,1,2,4,0,0,0,1,1,2
+9931,Hélder Wander Sousa Azevedo Costa,53,2,1,0.37662978999999996,2,10,9,0,0,0.0,1,1,1,1,0,0,2,0,4,6,0,0,1,1,0,10
+10805,Ricardo Alberto Silveira de Carvalho,61,0,0,0.0,0,32,26,0,0,0.0,0,0,3,0,1,1,3,0,4,0,2,0,2,1,0,4
+11603,Mario Pašalić,74,0,0,0.0,0,30,24,0,0,0.0,1,0,6,1,1,0,4,3,2,0,1,1,0,3,1,9
+27558,Elderson Uwa Echiejile,90,1,0,0.13454343,1,53,43,0,2,0.122232436,2,2,7,1,3,0,5,3,5,1,3,0,1,4,2,8

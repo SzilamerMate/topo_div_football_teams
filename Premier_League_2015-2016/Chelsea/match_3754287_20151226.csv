@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3381,Nemanja Matić,90,2,0,0.062288449999999995,0,67,59,0,0,0.0,1,0,9,1,0,0,4,2,10,3,1,0,2,4,0,9
+3472,Willian Borges da Silva,90,3,0,0.160441868,0,68,50,1,4,0.437588973,3,0,16,0,1,0,2,0,6,1,0,1,0,1,0,10
+3478,Francesc Fàbregas i Soler,45,0,0,0.0,0,41,30,0,0,0.0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,8
+3509,Thibaut Courtois,90,0,0,0.0,0,19,11,0,0,0.0,0,0,2,0,1,0,0,0,3,0,0,0,0,0,0,0
+3621,Eden Hazard,16,0,0,0.0,0,14,12,0,0,0.0,0,0,9,0,1,0,1,0,0,1,0,0,0,1,0,1
+3645,Gary Cahill,90,0,0,0.0,0,55,46,0,0,0.0,0,0,8,3,2,1,5,0,6,1,6,0,5,1,0,11
+3957,César Azpilicueta Tanco,90,1,0,0.023612775,0,62,55,0,0,0.0,0,0,5,0,1,0,6,3,1,0,5,0,4,3,1,9
+3958,Pedro Eliezer Rodríguez Ledesma,74,1,0,0.07312381,0,37,29,0,2,0.196676087,1,0,8,0,1,0,2,1,5,2,0,1,2,1,0,8
+5198,Diego da Silva Costa,90,4,2,0.87174962,3,33,25,0,0,0.0,4,1,7,3,3,1,5,1,2,4,0,1,1,2,0,6
+5475,John Michael Nchekwube Obinna,45,1,0,0.025181275,0,38,36,0,0,0.0,0,0,2,1,0,0,3,2,4,0,0,0,1,2,0,5
+5594,Branislav Ivanović,90,2,0,0.042723871,0,70,63,0,2,0.132704963,1,1,5,0,1,0,6,0,6,1,2,0,3,0,0,8
+20287,John Terry,90,1,0,0.08030058,0,48,44,0,0,0.0,0,0,1,0,0,0,4,2,2,0,1,0,1,2,0,3
+40122,Oscar dos Santos Emboaba Júnior,90,2,0,0.87698355,0,48,36,0,2,0.27594515,2,0,9,1,2,0,2,1,4,4,0,0,0,1,0,14

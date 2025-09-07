@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5584,Giancarlo González Castro,90,0,0,0.0,0,15,11,0,0,0.0,0,0,2,1,0,0,1,0,3,1,5,3,1,0,0,7
+5605,Oscar Hiljemark,90,0,0,0.0,0,45,29,0,1,0.031282894,1,1,3,0,0,0,4,2,8,2,2,0,0,3,0,37
+6719,Franco Damián Vázquez,90,6,1,0.34842020799999995,3,42,32,0,0,0.0,5,2,11,3,6,0,3,1,6,6,1,0,6,1,1,56
+7055,Stefano Sorrentino,90,0,0,0.0,0,26,18,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+7792,Giuseppe Pezzella,90,0,0,0.0,0,45,38,0,0,0.0,1,1,4,1,1,0,4,0,4,3,5,1,3,2,0,13
+8552,Robin Quaison,23,0,0,0.0,0,10,6,0,1,0.1081366,0,0,1,2,0,0,2,1,0,1,0,0,0,1,1,14
+23846,Uroš Đurđević,20,1,0,0.1081366,1,4,4,0,0,0.0,0,0,1,0,0,0,1,0,3,3,1,0,0,0,0,9
+25954,Enzo Maresca,90,1,0,0.04673165,0,52,41,0,1,0.06316275,2,2,3,1,4,1,1,1,5,2,1,1,2,1,0,18
+30769,Andrea Rispoli,82,1,0,0.06316275,0,51,33,1,2,0.2182798,2,2,8,1,1,0,4,1,3,0,1,3,3,1,0,10
+30928,Roberto Vitiello,90,0,0,0.0,0,36,30,0,0,0.0,0,0,4,0,0,0,3,0,6,2,3,3,4,3,0,15
+32722,Norbert Sándor Balogh,8,0,0,0.0,0,6,4,0,0,0.0,3,2,1,2,0,0,1,0,2,0,0,0,0,0,0,3
+38389,Alberto Gilardino,70,0,0,0.0,0,16,11,0,0,0.0,0,0,2,0,2,1,5,0,2,4,0,0,2,0,0,10
+40349,Ivaylo Chochev,67,0,0,0.0,0,30,25,0,0,0.0,1,1,4,0,1,1,1,0,3,1,0,0,3,0,0,30
+40350,Siniša Anđelković,90,0,0,0.0,0,21,18,0,0,0.0,0,0,2,2,0,0,1,0,1,0,2,0,2,1,0,8

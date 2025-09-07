@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3054,Fernando Luiz Rosa,90,0,0,0.0,0,123,116,0,1,0.054472484,1,1,13,0,3,3,3,2,3,1,0,0,2,3,1,8
+3087,Gnégnéri Yaya Touré,93,5,1,0.960351987,2,102,90,0,0,0.0,2,1,12,1,1,0,2,0,5,0,0,0,3,1,0,15
+3089,Kevin De Bruyne,72,1,0,0.10425139,0,51,37,1,4,0.320268602,3,2,2,1,2,0,1,0,6,3,0,0,3,0,0,11
+3090,Nicolás Hernán Otamendi,90,2,1,0.08703308300000001,2,70,64,0,1,0.0709554,0,0,9,0,1,0,12,6,3,0,7,0,2,6,2,12
+3101,Vincent Kompany,90,1,0,0.17480338,0,77,68,0,0,0.0,1,1,7,0,0,0,0,0,6,0,3,0,0,0,0,4
+3233,Raheem Sterling,37,1,0,0.29271457,0,26,22,0,0,0.0,0,0,3,0,2,0,1,1,5,0,0,1,3,1,1,6
+3291,Joe Hart,90,0,0,0.0,0,15,13,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+3598,Wilfried Guemiand Bony,90,9,0,0.971581536,1,21,19,0,1,0.039747633,2,1,3,1,2,0,1,1,4,2,1,0,1,1,0,9
+3708,Kelechi Promise Iheanacho,53,1,0,0.027689084,0,21,18,0,2,0.42934362,1,1,3,0,1,0,0,0,5,0,0,0,1,0,0,3
+5596,Aleksandar Kolarov,90,1,0,0.7835,0,80,63,0,3,0.189134603,1,1,5,0,0,0,1,0,5,1,2,0,3,0,0,9
+6821,Jesús Navas González,90,0,0,0.0,0,69,55,0,1,0.020924991,1,1,14,1,0,0,2,1,2,0,0,1,1,1,0,5
+7110,Bacary Sagna,90,0,0,0.0,0,104,93,0,2,0.27277583,1,0,3,0,1,0,2,0,6,1,4,0,1,1,0,5
+16003,Fernando Francisco Reges,18,0,0,0.0,0,29,28,0,0,0.0,1,1,2,1,0,0,1,1,2,0,2,0,0,1,1,6

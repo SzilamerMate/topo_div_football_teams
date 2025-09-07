@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2985,Ludovic Baal,65,0,0,0.0,0,38,34,0,2,0.089325729,2,1,4,1,1,1,2,1,1,2,1,2,1,2,0,14
+2994,Abdoulaye Diallo,90,0,0,0.0,0,15,13,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+3018,Giovanni-Guy Yann Sio,90,2,0,0.050838193999999996,1,30,18,0,0,0.0,5,2,7,3,3,1,6,1,3,2,0,2,5,2,0,14
+3022,Fallou Diagne,90,2,0,0.027629732,0,48,37,0,0,0.0,0,0,7,1,0,0,2,0,9,0,5,1,1,1,0,7
+3195,Mehdi Zeffane,25,1,0,0.0069166063,0,17,14,0,1,0.017612645,0,0,6,1,0,0,0,0,1,0,0,1,0,0,0,2
+3292,Abdoulaye Doucouré,90,2,0,0.11423278,1,45,38,0,1,0.008260536,4,3,6,1,0,0,4,3,9,6,0,4,2,4,0,38
+3753,Pedro Filipe Teodósio Mendes,90,2,0,0.1425503,0,47,36,0,2,0.064156013,2,2,6,1,1,1,8,2,3,0,4,2,2,4,0,14
+5667,Kamil Grosicki,39,4,1,0.35463782,3,12,8,0,0,0.0,6,4,8,0,0,0,0,0,4,1,0,0,0,0,0,3
+5692,Juan Fernando Quintero Paniagua,19,0,0,0.0,0,26,24,1,2,0.24138776,1,1,6,0,0,0,0,0,2,0,0,0,0,0,0,1
+7197,Steven Moreira,51,1,0,0.008260536,0,35,28,0,1,0.10066454,3,1,3,1,0,0,3,0,3,0,0,0,1,2,0,15
+8672,Gélson da Conceição Tavares Fernandes,90,0,0,0.0,0,51,48,0,1,0.05166935,1,1,3,1,0,0,8,4,5,0,0,0,3,6,2,21
+16503,Pedro Henrique Konzen Medina da Silva,71,2,0,0.064156013,0,23,13,0,2,0.063374944,3,2,6,1,0,0,3,1,2,2,0,0,2,1,1,22
+29714,Yacouba Sylla,90,0,0,0.0,0,44,33,0,0,0.0,2,1,9,4,1,0,7,3,4,2,3,5,2,3,1,18
+40699,Sylvain Armand,90,0,0,0.0,0,32,28,0,1,0.0069166063,0,0,5,1,1,1,5,4,2,0,1,2,3,5,1,12

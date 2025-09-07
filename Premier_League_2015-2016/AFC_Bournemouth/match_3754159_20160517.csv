@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3049,Matt Ritchie,90,1,0,0.05402875,0,35,28,0,0,0.0,0,0,4,1,2,1,1,0,5,0,0,3,1,0,0,11
+3278,Benik Afobe,24,0,0,0.0,0,3,1,0,0,0.0,1,0,1,2,0,0,2,0,1,2,0,2,0,0,0,13
+3341,Steve Cook,90,2,0,0.12341364,0,27,21,0,0,0.0,0,0,0,1,0,0,2,1,5,0,3,1,2,2,0,4
+3343,Dan Gosling,90,1,0,0.056377526,0,37,31,0,0,0.0,3,3,4,2,0,0,4,3,2,1,1,0,2,3,3,11
+3344,Andrew Surman,90,0,0,0.0,0,38,27,0,0,0.0,0,0,2,2,0,0,1,1,7,0,0,4,0,1,0,16
+3345,Charlie Daniels,90,0,0,0.0,0,43,37,0,0,0.0,1,0,3,0,0,0,3,1,2,2,0,3,2,3,1,16
+3346,Joshua King,66,0,0,0.0,0,18,11,0,1,0.10398532,3,2,3,0,2,1,6,1,2,4,1,1,0,2,0,19
+3608,Simon Francis,90,0,0,0.0,0,71,57,0,1,0.153464,0,0,6,1,0,0,9,4,3,0,3,3,2,8,2,17
+3616,Callum Wilson,78,1,0,0.10398532,0,7,5,0,0,0.0,3,1,3,1,1,0,2,1,3,2,1,0,1,1,0,16
+3646,Marc Pugh,65,1,0,0.153464,0,13,13,0,1,0.056377526,3,1,5,0,3,0,2,0,3,0,0,0,0,1,0,9
+4416,Max-Alain Gradel,25,1,0,0.16018006,0,7,5,0,0,0.0,0,0,3,0,1,0,1,0,1,0,0,1,0,1,0,8
+9593,Lewis Grabban,12,0,0,0.0,0,8,7,0,0,0.0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,2
+9626,Tommy Elphick,90,0,0,0.0,0,41,28,0,0,0.0,0,0,4,0,0,0,1,0,4,0,2,2,2,0,0,1
+24888,Adam Federici,90,0,0,0.0,0,29,22,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0

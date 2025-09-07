@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3381,Nemanja Matić,72,1,0,0.2374489,1,62,57,0,1,0.021316962,2,2,8,2,0,0,5,1,4,0,2,1,1,2,0,18
+3445,Radamel Falcao García Zárate,25,4,1,0.5831062659999999,2,10,8,0,0,0.0,1,0,1,2,4,0,1,0,1,1,0,0,1,1,0,4
+3456,Kurt Happy Zouma,90,1,0,0.08309589,0,43,39,0,0,0.0,0,0,7,0,0,0,2,0,2,0,8,0,2,0,0,3
+3472,Willian Borges da Silva,65,3,0,0.084760629,0,44,38,0,2,0.11161404,3,2,9,1,1,0,3,1,9,2,0,0,0,2,0,18
+3478,Francesc Fàbregas i Soler,90,4,0,0.290513252,3,94,69,0,2,0.081578663,2,2,11,1,4,1,4,2,7,2,2,1,1,2,1,23
+3504,Ruben Loftus-Cheek,18,0,0,0.0,0,11,11,0,1,0.01541509,0,0,3,0,0,0,2,1,0,0,1,0,0,1,0,2
+3509,Thibaut Courtois,90,0,0,0.0,0,25,17,0,0,0.0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0
+3621,Eden Hazard,90,1,0,0.05591015,0,60,51,0,3,0.128376893,4,4,16,1,3,0,2,0,6,3,0,0,4,0,0,8
+3645,Gary Cahill,90,3,0,0.16827423000000002,0,52,47,0,0,0.0,0,0,11,2,2,2,3,1,6,0,7,2,5,1,0,17
+3666,Robert Kenedy Nunes do Nascimento,23,1,0,0.01541509,1,21,17,0,2,0.042408596,2,2,6,0,1,0,2,2,5,1,0,0,1,2,1,7
+3957,César Azpilicueta Tanco,67,0,0,0.0,0,60,51,0,1,0.017717617,0,0,2,0,1,1,2,1,1,0,1,0,3,1,0,18
+3958,Pedro Eliezer Rodríguez Ledesma,90,4,0,0.27378963300000003,0,42,32,1,4,0.5831337059999999,3,3,13,0,1,0,3,0,7,1,1,1,2,0,0,12
+5198,Diego da Silva Costa,90,2,0,0.106517966,1,22,17,0,0,0.0,3,2,6,2,4,0,8,0,5,4,0,0,2,1,0,12
+5594,Branislav Ivanović,90,3,0,0.30353170399999996,0,64,55,0,0,0.0,1,1,7,0,0,0,6,1,7,1,5,0,3,3,0,15

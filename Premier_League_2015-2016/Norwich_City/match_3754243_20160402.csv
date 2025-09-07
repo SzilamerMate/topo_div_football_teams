@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3286,Nathan Redmond,16,1,0,0.05456264,0,7,4,0,0,0.0,1,1,1,0,0,0,2,0,4,2,0,0,0,0,0,5
+3576,Martin Olsson,90,1,1,0.0746535,1,32,19,0,0,0.0,1,1,6,1,0,0,5,1,4,0,4,0,2,1,0,6
+4807,Cameron Jerome,6,0,0,0.0,0,4,4,0,1,0.05456264,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0
+4808,Andre Wisdom,90,1,0,0.08830154,0,36,32,0,0,0.0,1,0,6,0,1,0,5,2,2,0,4,2,1,2,0,5
+9452,Gary O''Neil,90,0,0,0.0,0,45,30,0,0,0.0,3,2,6,1,0,0,4,2,12,1,2,2,4,3,1,18
+9461,Timm Klose,90,2,1,0.307778924,1,36,22,0,0,0.0,0,0,5,0,1,0,4,1,3,0,11,5,2,1,1,5
+9528,Steven Naismith,80,2,0,0.077446851,1,30,24,0,1,0.45446286,2,0,3,0,3,0,5,0,5,1,0,0,0,0,0,15
+9578,Jonathan Howson,90,0,0,0.0,0,46,30,2,3,0.16377774,1,1,3,3,1,0,2,2,5,1,1,2,2,2,0,23
+9930,Ryan Bennett,90,1,0,0.113017365,0,30,19,0,0,0.0,0,0,2,0,0,0,7,0,0,0,5,0,0,1,0,9
+10966,Wes Hoolahan,10,0,0,0.0,0,4,4,0,0,0.0,1,1,0,0,0,0,2,0,5,0,0,0,0,0,0,3
+10967,Robert Brady,90,2,0,0.096325157,1,40,21,1,3,0.396080464,3,2,5,2,1,0,2,0,9,0,0,2,3,1,0,16
+22594,Matt Jarvis,74,0,0,0.0,0,27,16,0,1,0.2149862,1,0,3,1,0,0,2,0,5,0,0,0,1,0,0,12
+23635,John Ruddy,90,0,0,0.0,0,35,21,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0
+23663,Dieumerci Mbokani Bezua,84,3,1,0.7155120030000001,2,36,23,0,3,0.224255319,1,1,4,1,6,1,5,1,6,3,0,0,1,1,1,8

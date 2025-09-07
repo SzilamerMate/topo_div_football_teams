@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3579,Roberto Maximiliano Pereyra,90,2,0,0.07681660700000001,0,50,48,0,5,0.507277448,2,2,14,0,1,0,3,1,6,3,0,0,0,1,1,12
+3951,Mario Lemina,90,0,0,0.0,0,78,73,0,3,0.0615178777,0,0,11,2,0,0,4,3,5,1,3,1,2,4,2,18
+5541,Stephan Lichtsteiner,45,2,0,0.0495957,0,30,27,0,2,0.054249585,0,0,3,0,0,0,3,2,2,0,3,0,2,3,0,5
+5689,Juan Guillermo Cuadrado Bello,90,5,0,0.20872964700000002,0,78,66,1,5,0.216459723,12,11,25,3,5,0,1,1,6,2,0,3,1,1,0,21
+5743,Paulo Bruno Exequiel Dybala,45,6,0,0.238834871,1,27,25,0,2,0.076600656,1,1,4,0,1,0,0,0,2,2,0,0,2,0,0,4
+6584,Simone Zaza,76,7,1,0.630752756,2,23,20,0,1,0.12314082,2,1,4,2,1,0,2,1,5,2,1,0,4,1,0,15
+6590,Norberto Murara Neto,90,0,0,0.0,0,19,18,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+6943,Andrea Barzagli,90,0,0,0.0,0,53,42,0,0,0.0,0,0,4,0,1,0,5,0,3,0,2,2,2,1,0,6
+6945,Alex Sandro Lobo Silva,90,1,0,0.04659357,0,90,69,0,9,0.5787919436000001,3,2,16,0,1,0,3,0,7,2,1,1,0,0,0,5
+6954,Giorgio Chiellini,45,1,0,0.08102887,0,41,34,0,0,0.0,0,0,5,0,1,1,1,0,4,0,1,1,1,0,0,3
+7013,Stefano Sturaro,45,1,0,0.11760407,0,32,26,0,3,0.111760279,1,1,4,2,0,0,3,1,3,2,0,0,3,1,1,9
+7173,Leonardo Bonucci,90,2,0,0.0455614307,1,57,51,0,2,0.113403364,1,1,8,3,0,0,2,0,5,0,5,4,3,0,0,3
+20004,Paul Pogba,90,7,0,0.3932248796,1,67,58,0,1,0.03354392,6,3,14,3,2,1,2,0,4,2,1,1,4,0,0,15
+25345,Anderson Hernanes de Carvalho Andrade,14,2,0,0.073341685,1,20,18,0,0,0.0,0,0,3,1,0,0,1,1,2,0,0,0,0,1,0,1

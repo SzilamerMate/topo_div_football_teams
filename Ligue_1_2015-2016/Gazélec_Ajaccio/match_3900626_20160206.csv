@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2953,Abdou Kader Mangane,90,0,0,0.0,0,64,55,0,0,0.0,0,0,17,1,0,0,3,2,9,0,2,1,1,2,0,8
+3207,Pablo Jean Antoine Martínez,90,0,0,0.0,0,68,56,0,1,0.005068843,1,0,12,1,2,0,2,0,4,0,1,1,0,1,0,15
+4352,Issiaga Sylla,90,4,0,0.246338433,0,42,26,0,0,0.0,1,0,5,1,0,0,8,3,7,0,1,1,3,4,0,23
+5726,Khalid Boutaïb,90,3,0,0.347148866,1,31,20,0,4,0.266936443,1,1,0,0,1,0,6,1,3,2,0,0,0,1,0,10
+7430,Kévin Mayi,11,0,0,0.0,0,5,3,0,0,0.0,2,0,1,0,0,0,1,1,1,0,1,0,0,1,1,4
+7721,John Tshibumbu,12,1,0,0.05904297,0,4,2,0,0,0.0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+7808,Roderic Filippi,90,2,0,0.052485087,0,74,64,0,0,0.0,0,0,11,0,3,3,7,3,8,0,7,2,1,5,1,10
+31911,Damjan Đoković,90,1,0,0.010543214,0,88,73,0,4,0.291031094,1,0,16,2,0,0,1,1,7,1,0,1,2,1,1,18
+90746,Alassane Touré,90,2,0,0.097054223,0,72,59,0,0,0.0,3,1,9,5,2,1,6,2,9,0,2,1,5,3,0,24
+310534,Louis Poggi,79,1,0,0.10981075,1,11,8,0,0,0.0,3,1,5,1,1,1,8,0,2,3,0,0,2,1,0,26
+401505,Jacques Zoua Daogari,78,2,0,0.158212133,0,29,25,0,2,0.21670851,1,1,3,2,0,0,6,0,3,2,0,1,1,0,0,7
+401507,Jérôme Le Moigne,73,0,0,0.0,0,69,57,0,1,0.10491657,0,0,13,2,0,0,2,1,5,1,1,1,0,1,0,15
+401508,Clément Maury,90,0,0,0.0,0,29,23,0,0,0.0,0,0,7,0,0,0,0,0,8,0,0,0,0,0,0,1
+401509,David Ducourtioux,17,0,0,0.0,0,23,17,0,0,0.0,0,0,5,1,0,0,2,1,1,0,0,0,0,2,1,8

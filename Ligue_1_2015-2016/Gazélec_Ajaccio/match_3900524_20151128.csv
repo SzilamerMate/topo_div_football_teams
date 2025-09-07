@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4352,Issiaga Sylla,90,0,0,0.0,0,55,42,0,2,0.38195433,2,2,5,2,0,0,5,2,12,1,2,5,2,3,1,25
+5726,Khalid Boutaïb,79,0,0,0.0,0,36,26,0,2,0.082354503,0,0,10,4,1,1,2,2,3,1,1,1,2,2,1,31
+7389,Amos Youga,3,0,0,0.0,0,4,3,0,0,0.0,0,0,2,0,0,0,1,1,0,0,0,1,1,1,1,2
+7428,Alexandre Coeff,90,0,0,0.0,0,59,38,0,1,0.07514894,1,1,4,1,1,1,4,1,8,1,0,3,0,4,0,18
+7515,Jules Goda,90,0,0,0.0,0,31,25,0,0,0.0,0,0,3,0,0,0,0,0,8,0,0,0,0,0,0,1
+7603,Jérémie Bréchet,90,1,0,0.012659233,0,46,40,0,0,0.0,0,0,7,0,1,1,4,3,3,0,3,0,1,4,1,8
+7721,John Tshibumbu,11,0,0,0.0,0,7,6,0,0,0.0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,3
+7808,Roderic Filippi,90,1,0,0.042050216,0,51,39,0,0,0.0,0,0,7,0,1,0,10,6,4,0,7,2,1,8,3,20
+10616,Mohamed Larbi,87,4,1,0.27988086999999995,2,50,41,0,1,0.021903332,0,0,9,1,1,0,5,2,9,1,0,0,1,2,1,23
+31911,Damjan Đoković,71,2,0,0.10162325,0,43,33,0,5,0.203491228,1,1,6,1,0,0,2,1,1,0,0,1,1,1,0,21
+40536,Issiar Dia,19,1,0,0.18171936,0,3,1,0,0,0.0,1,1,4,1,0,0,0,0,0,2,0,0,0,0,0,4
+401505,Jacques Zoua Daogari,90,3,0,0.387750969,1,37,28,0,4,0.35729052,2,2,11,1,0,0,6,1,5,0,0,0,2,1,1,13
+401507,Jérôme Le Moigne,90,1,0,0.021903332,0,34,29,0,0,0.0,0,0,3,1,1,1,3,1,2,1,2,2,3,1,0,19
+401509,David Ducourtioux,90,5,0,0.192812482,0,63,41,0,0,0.0,0,0,5,2,1,0,4,1,8,0,1,2,3,3,0,24

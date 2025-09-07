@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3248,Hamari Traoré,90,0,0,0.0,0,35,29,0,0,0.0,1,1,4,3,1,0,1,1,6,1,2,3,3,1,1,12
+4383,Nicolas de Roussel de Préville,76,3,1,0.1850154715,1,20,15,0,1,0.01971076,5,3,11,2,6,0,3,2,4,1,0,0,0,2,1,17
+4545,Prince Oniangué,90,1,0,0.20659025,0,38,31,0,1,0.039133452,0,0,1,0,2,0,7,3,5,3,0,3,0,3,2,21
+6648,Aïssa Mandi,90,1,1,0.213542,1,38,31,0,0,0.0,0,0,6,0,0,0,0,0,1,0,3,1,1,0,0,3
+7363,Diego Rigonato Rodrigues,62,4,0,0.0505720546,2,30,19,1,2,0.276728854,1,1,4,1,3,0,3,2,4,2,0,0,0,3,1,14
+7375,Theoson Jordan Siebatcheu,9,0,0,0.0,0,6,3,0,1,0.13895833,4,3,3,0,2,0,1,0,3,2,0,0,0,0,0,1
+7435,Anthony Weber,90,0,0,0.0,0,67,58,0,0,0.0,1,1,7,2,1,1,1,0,8,0,4,0,2,0,0,12
+7815,Antoine Devaux,90,0,0,0.0,0,46,36,0,0,0.0,0,0,7,3,1,0,0,0,5,1,3,0,0,0,0,23
+40521,Franck Signorino,90,0,0,0.0,0,41,36,0,0,0.0,0,0,2,0,0,0,3,1,1,1,3,1,2,1,0,17
+46801,Jaba Kankava,90,0,0,0.0,0,39,26,0,0,0.0,0,0,6,2,2,0,5,5,6,1,1,1,0,5,3,24
+95699,Alexi Peuget,14,1,0,0.13895833,0,10,8,0,0,0.0,0,0,0,1,1,1,3,2,1,0,0,0,1,2,0,9
+401453,"David N""Gog",81,1,0,0.07043188,0,27,19,0,2,0.13001918199999998,4,2,8,3,2,0,8,1,2,6,0,0,2,2,1,29
+401454,Kossi Agassa,90,0,0,0.0,0,36,24,0,0,0.0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+401488,Odaïr Junior Lopes Fortes,28,1,0,0.039133452,0,17,12,0,0,0.0,3,3,5,0,0,0,0,0,4,0,0,0,0,0,0,12

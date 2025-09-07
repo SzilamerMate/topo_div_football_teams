@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3321,Patrick van Aanholt,90,1,1,0.28821212,1,49,28,0,0,0.0,3,1,5,0,1,0,2,2,4,0,1,4,3,2,1,15
+3337,Jermain Defoe,90,2,0,0.1592274,1,20,16,0,1,0.014555168,3,0,2,2,0,0,2,0,3,2,0,0,4,0,0,7
+3468,Jordan Pickford,90,0,0,0.0,0,36,13,0,0,0.0,0,0,4,0,0,0,0,0,5,0,0,0,0,0,0,0
+4217,Danny Graham,57,0,0,0.0,0,14,8,0,0,0.0,1,0,0,2,3,1,3,1,1,0,2,1,1,1,1,8
+4429,Yann Gérard M''Vila,90,0,0,0.0,0,48,35,0,0,0.0,1,1,3,0,2,0,4,2,6,1,5,3,2,3,1,15
+10503,Billy Jones,90,1,0,0.06087852,0,32,26,0,0,0.0,0,0,3,1,0,0,4,3,1,1,3,1,1,4,1,20
+10783,Lee Cattermole,53,0,0,0.0,0,19,14,0,0,0.0,0,0,1,3,0,0,3,2,3,3,0,2,4,2,0,13
+13846,Jan Kirchhoff,33,0,0,0.0,0,9,8,0,0,0.0,1,0,1,1,0,0,2,1,1,0,4,3,3,1,0,7
+16457,Jeremain Lens,75,1,0,0.014555168,0,25,15,0,1,0.05843628,1,1,5,1,2,0,4,0,3,4,2,0,3,0,0,20
+16890,John O''Shea,90,0,0,0.0,0,14,7,0,0,0.0,0,0,3,2,1,1,5,1,3,0,6,1,4,1,0,5
+18751,Jack Rodwell,37,0,0,0.0,0,15,12,0,0,0.0,0,0,2,0,0,0,2,1,1,0,0,1,0,1,1,7
+22281,Duncan Watmore,15,0,0,0.0,0,4,4,0,1,0.06087852,0,0,2,0,1,0,4,0,1,0,0,1,2,0,0,5
+40366,Wes Brown,90,0,0,0.0,0,33,25,0,0,0.0,0,0,3,1,0,0,2,0,2,0,6,1,2,2,0,10
+42902,Adam Johnson,90,0,0,0.0,0,32,24,1,2,0.38900324000000003,1,1,2,1,1,0,2,0,7,1,2,0,3,1,0,21

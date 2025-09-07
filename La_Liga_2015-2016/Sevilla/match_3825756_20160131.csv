@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3130,Gaël Kakuta,17,0,0,0.0,0,7,4,0,0,0.0,1,1,0,1,0,0,2,1,0,0,0,1,1,1,0,10
+3253,Adil Rami,90,0,0,0.0,0,33,25,0,1,0.026113437,0,0,5,1,0,0,2,0,5,0,5,1,1,2,0,5
+3486,Fernando Llorente Torres,11,0,0,0.0,0,5,3,0,0,0.0,1,0,1,1,1,1,1,0,1,0,1,0,0,0,0,4
+3497,Vicente Iborra De La Fuente,63,2,1,0.9054263899999999,1,19,12,1,2,0.30610787,1,0,1,0,1,0,2,0,2,1,0,1,0,0,0,4
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,90,1,0,0.026113437,1,53,45,0,1,0.038269844,2,2,9,0,0,0,2,1,6,0,1,3,3,1,0,8
+6356,Michael Krohn-Dehli,90,1,0,0.038269844,0,63,57,0,1,0.06409316,1,0,12,1,0,0,0,0,3,1,1,1,0,0,0,9
+6401,Kevin Gameiro,79,4,1,0.95868717,3,19,15,1,1,0.77443796,1,1,4,1,0,0,2,0,0,2,0,0,0,0,0,3
+6823,Sergio Rico González,90,0,0,0.0,0,35,19,0,0,0.0,0,0,2,0,0,0,0,0,10,0,0,0,0,0,0,0
+7154,Sebastián Carlos Cristóforo Pepe,90,0,0,0.0,0,38,35,0,0,0.0,0,0,7,5,2,1,7,5,5,0,1,2,5,6,0,26
+8523,Yevhen Konoplyanka,27,1,1,0.0884385,1,14,7,0,0,0.0,0,0,8,0,0,0,2,0,2,2,0,1,2,0,0,0
+10476,Timothée Kolodziejczak,90,0,0,0.0,0,37,30,0,0,0.0,1,1,9,1,0,0,1,0,1,0,3,4,0,1,0,6
+21210,Mariano Ferreira Filho,90,1,0,0.0129951695,0,35,23,0,1,0.061878603,0,0,7,0,0,0,4,2,5,0,3,3,3,3,1,8
+23816,José Antonio Reyes Calderón,73,1,0,0.032302428,0,42,30,0,2,0.6525793,0,0,5,1,4,0,6,1,9,1,1,1,0,2,1,11
+27483,Benoît Trémoulinas,90,3,0,0.18584520300000001,2,60,46,1,2,0.21942693,2,0,9,0,0,0,0,0,5,0,1,1,0,0,0,0

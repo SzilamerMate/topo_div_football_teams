@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2990,Benjamin André,67,0,0,0.0,0,42,33,0,0,0.0,2,1,5,0,2,1,5,1,1,1,2,0,0,3,1,18
+3018,Giovanni-Guy Yann Sio,90,2,1,0.30727052,2,24,20,1,2,0.283012212,0,0,6,1,0,0,2,1,2,2,0,1,2,1,0,17
+3022,Fallou Diagne,90,0,0,0.0,0,32,26,0,0,0.0,1,0,6,2,0,0,2,0,3,0,8,2,1,1,0,7
+3292,Abdoulaye Doucouré,23,0,0,0.0,0,13,9,0,0,0.0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,3
+3354,Benoît Guy Robert Costil,90,0,0,0.0,0,38,25,0,0,0.0,0,0,8,0,0,0,0,0,9,0,0,0,0,0,0,0
+3424,Cheikh M''Bengue,90,0,0,0.0,0,37,28,0,0,0.0,0,0,4,0,0,0,5,0,4,1,3,2,3,3,0,6
+4475,Romain Danzé,90,0,0,0.0,0,56,44,0,0,0.0,0,0,4,0,1,1,4,1,4,1,3,1,3,2,0,10
+5477,Ousmane Dembélé,90,4,1,0.463477731,2,25,16,1,3,0.308234542,6,4,16,1,1,1,4,2,2,1,0,1,6,2,1,18
+5692,Juan Fernando Quintero Paniagua,90,1,0,0.07691104,0,66,51,0,3,0.22067640900000002,3,0,6,0,0,0,0,0,5,4,0,1,1,0,0,3
+7197,Steven Moreira,12,0,0,0.0,0,4,3,0,0,0.0,0,0,2,0,1,0,2,0,0,0,2,0,0,0,0,3
+8672,Gélson da Conceição Tavares Fernandes,90,0,0,0.0,0,39,35,0,0,0.0,1,1,3,4,2,1,6,3,4,0,3,2,4,4,1,20
+16503,Pedro Henrique Konzen Medina da Silva,78,1,0,0.08019547,1,21,18,0,0,0.0,0,0,8,3,1,0,4,0,3,1,4,1,0,2,0,10
+40699,Sylvain Armand,90,0,0,0.0,0,44,38,0,0,0.0,1,1,4,1,0,0,4,0,5,0,5,1,0,1,0,10

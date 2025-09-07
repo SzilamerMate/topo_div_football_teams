@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3436,Idrissa Gana Gueye,90,2,0,0.095983575,1,43,40,0,0,0.0,5,3,12,3,0,0,4,2,7,2,2,1,0,3,1,43
+3450,Jordan Ayew,58,3,0,0.19998084900000002,1,21,18,0,1,0.06165799,0,0,5,1,2,2,5,0,2,2,0,0,1,0,0,16
+3583,Ashley Westwood,90,4,2,0.571293379,3,61,46,0,2,0.20088054,0,0,3,0,2,0,6,1,7,2,0,4,1,2,0,26
+5685,Carlos Alberto Sánchez Moreno,67,0,0,0.0,0,42,35,0,0,0.0,3,2,3,0,0,0,6,4,3,0,4,1,0,4,2,14
+9533,Leandro Bacuna,90,2,0,0.16185398,0,34,25,0,1,0.013860897,4,1,5,0,1,1,7,2,4,0,0,0,0,4,1,18
+9638,Jack Grealish,23,0,0,0.0,0,16,10,0,1,0.078222744,1,0,5,0,0,0,0,0,5,1,0,0,1,0,0,4
+9642,Alan Hutton,90,2,0,0.092083641,1,45,31,0,0,0.0,1,0,14,3,3,2,2,2,6,1,2,3,3,2,2,12
+11117,Scott Sinclair,90,2,0,0.153051227,1,19,12,0,1,0.034325585,6,5,10,0,2,0,5,2,5,5,0,1,2,2,0,15
+12608,Bradley Guzan,90,0,0,0.0,0,35,22,0,0,0.0,0,0,5,0,0,0,0,0,6,0,0,0,0,0,0,0
+19362,Rudy Gestede,32,1,0,0.11368898,0,9,5,0,0,0.0,2,1,2,1,0,0,5,0,0,0,0,0,2,0,0,8
+20285,Joleon Lescott,90,0,0,0.0,0,26,24,0,0,0.0,2,2,2,0,0,0,5,1,1,0,9,3,3,2,1,10
+27146,Aly Cissokho,90,0,0,0.0,0,48,36,0,1,0.11368898,0,0,4,0,1,0,1,0,2,0,5,4,3,0,0,11
+42700,Micah Richards,45,0,0,0.0,0,14,12,0,0,0.0,0,0,1,0,0,0,4,1,1,0,7,2,2,2,0,5
+75899,Kevin Toner,45,0,0,0.0,0,13,8,1,1,0.10081033,0,0,1,1,0,0,4,2,0,1,4,2,1,2,1,12

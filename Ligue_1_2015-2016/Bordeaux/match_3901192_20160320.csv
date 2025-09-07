@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2946,Frédéric Guilbert,90,0,0,0.0,0,31,22,0,0,0.0,0,0,2,2,0,0,3,1,2,0,6,2,3,2,0,10
+3109,Malcom Filipe Silva de Oliveira,25,1,0,0.011321474,0,8,5,0,0,0.0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,2
+3184,Enzo Crivelli,87,3,0,0.6621464539999999,1,27,24,0,0,0.0,3,2,3,2,1,1,12,2,2,0,1,0,1,2,2,13
+3356,Valentín Vada,65,0,0,0.0,0,47,42,0,1,0.05519457,3,1,5,0,3,0,1,1,6,2,0,2,0,1,0,14
+3779,Cédric Yambéré,90,1,0,0.025893573,1,42,36,0,0,0.0,0,0,2,4,2,1,3,2,7,0,6,3,3,2,0,19
+4509,Jérôme Prior,90,0,0,0.0,0,34,22,0,0,0.0,0,0,5,0,0,0,0,0,9,0,0,0,0,0,0,0
+4542,Pablo Nascimento Castro,90,0,0,0.0,0,46,36,0,1,0.011321474,0,0,4,0,0,0,3,0,7,0,5,1,0,1,0,5
+4628,Diego Armando Valentin Contento,90,1,1,0.01487435,1,42,33,0,3,0.242988886,0,0,2,0,2,1,4,1,4,0,3,1,0,1,0,11
+4823,Milan Gajić,90,0,0,0.0,0,34,26,0,1,0.018496808,0,0,3,0,1,0,2,1,2,0,3,0,3,1,1,13
+6739,Diego Alejandro Rolan Silva,90,2,0,0.18815183,0,36,24,0,0,0.0,3,1,11,2,1,0,5,2,4,4,1,0,4,2,1,27
+7130,Cheick Tidiane Diabaté,3,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+10448,Adam Ounas,90,4,0,0.154290985,1,43,30,0,2,0.193165804,4,2,16,0,5,1,2,1,7,3,0,0,4,1,1,15
+40518,Abdoulaye Traoré,6,0,0,0.0,0,8,6,0,0,0.0,0,0,2,0,1,0,0,0,3,0,0,0,0,0,0,1
+401489,Jussiê Ferreira Vieira,84,0,0,0.0,0,27,25,0,2,0.494078403,3,1,9,2,2,0,0,0,6,1,1,1,1,0,0,10

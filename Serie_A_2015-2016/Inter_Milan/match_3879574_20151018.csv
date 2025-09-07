@@ -1,0 +1,13 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3434,Stevan Jovetić,91,4,0,0.194907694,1,43,27,0,1,0.008012392,1,0,8,0,8,1,5,0,8,2,0,0,0,0,0,9
+5469,Marcelo Brozović,90,1,0,0.008012392,0,45,33,0,0,0.0,3,3,9,1,1,0,4,0,7,1,2,1,5,0,0,21
+5474,Ivan Perišić,90,3,0,0.076026779,0,45,31,0,0,0.0,3,1,11,3,0,0,4,0,7,1,0,0,4,2,0,18
+5551,João Miranda de Souza Filho,90,0,0,0.0,0,54,44,0,0,0.0,0,0,5,1,1,0,1,1,4,1,8,3,1,1,1,9
+6585,Jeison Fabián Murillo Cerón,90,0,0,0.0,0,46,43,0,1,0.073414825,1,1,3,1,1,1,3,1,3,1,4,2,4,2,0,14
+6969,Juan Guilherme Nunes Jesus,90,0,0,0.0,0,58,42,0,0,0.0,1,0,3,4,0,0,4,1,3,1,1,1,6,3,1,24
+6987,Mauro Emanuel Icardi Rivero,90,0,0,0.0,0,14,11,0,0,0.0,1,0,1,1,2,1,4,0,4,3,1,0,2,0,0,6
+6999,Davide Santon,90,0,0,0.0,0,63,56,0,0,0.0,0,0,11,1,1,0,3,1,4,1,2,0,5,1,1,5
+7001,Samir Handanovič,90,0,0,0.0,0,24,19,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+16453,Gary Alexis Medel Soto,91,0,0,0.0,0,42,39,0,1,0.02511555,1,0,2,1,0,0,4,0,5,0,3,2,1,3,0,30
+25430,Felipe Melo de Carvalho,63,0,0,0.0,0,20,16,0,0,0.0,0,0,2,1,2,2,4,2,2,0,3,2,1,2,0,9
+32807,Fredy Alejandro Guarín Vásquez,27,0,0,0.0,0,7,7,0,0,0.0,1,0,1,0,0,0,2,1,0,0,1,0,0,1,0,5

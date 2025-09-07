@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3058,Javier Hernández Balcázar,90,2,2,1.15026598,2,25,17,0,0,0.0,0,0,1,1,5,2,8,0,3,2,0,0,1,0,0,5
+5555,Julian Brandt,18,0,0,0.0,0,6,3,0,0,0.0,1,0,3,1,0,0,1,0,1,1,0,0,0,0,0,8
+6309,Tin Jedvaj,13,0,0,0.0,0,5,3,0,0,0.0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+7039,Hakan Çalhanoğlu,72,4,0,0.215348585,2,58,41,1,3,0.39979080999999994,2,1,7,1,1,0,3,0,4,0,0,0,1,0,0,18
+8212,Wendell Nascimento Borges,90,0,0,0.0,0,75,56,0,1,0.0463858,1,0,9,0,3,0,3,2,7,0,3,1,1,3,1,13
+8213,Karim Bellarabi,77,3,0,0.092149645,0,32,26,0,1,0.1365126,4,3,8,1,2,0,2,2,11,3,1,0,2,2,2,16
+8219,Admir Mehmedi,13,0,0,0.0,0,4,3,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,2
+8221,Jonathan Tah,90,0,0,0.0,0,38,29,0,0,0.0,1,1,5,1,1,1,2,0,10,1,3,2,0,0,0,12
+8222,Kevin Kampl,90,2,0,0.076069796,1,55,49,1,1,0.36676598,5,2,15,0,1,1,2,1,11,0,0,4,6,1,0,18
+8573,Ömer Toprak,90,0,0,0.0,0,54,45,0,0,0.0,1,1,8,0,1,0,3,3,10,0,6,2,1,3,0,7
+8805,Christoph Kramer,90,0,0,0.0,0,35,32,0,1,0.036187746,0,0,4,1,3,1,5,4,6,5,1,1,8,4,2,33
+8918,Roberto Hilbert,77,1,0,0.017386993,0,57,39,0,0,0.0,2,1,5,4,0,0,3,1,1,1,2,2,4,2,0,15
+11394,Stefan Kießling,90,2,1,0.35582411999999997,1,29,19,0,0,0.0,6,3,5,1,7,2,8,0,5,3,1,1,3,0,0,15
+15581,Bernd Leno,90,0,0,0.0,0,30,21,0,0,0.0,0,0,4,0,0,0,0,0,5,0,0,0,1,0,0,1

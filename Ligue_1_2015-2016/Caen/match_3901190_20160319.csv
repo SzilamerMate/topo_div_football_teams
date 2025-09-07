@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2955,Ronny Rodelin,87,4,1,0.193403265,1,28,23,0,1,0.06687852,3,2,8,1,1,1,4,0,8,3,0,1,1,0,0,5
+2959,Julien Féret,90,0,0,0.0,0,53,39,1,3,0.161613162,1,0,7,0,0,0,1,0,10,3,0,1,5,1,0,19
+2963,Rémy Vercoutre,90,0,0,0.0,0,27,21,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0
+2970,Christian Kouakou Yao,3,1,0,0.018241588,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2991,Hervé Bazile,90,7,0,0.361441726,2,41,28,0,3,0.123784132,4,2,8,1,1,1,3,0,4,2,1,4,2,3,0,6
+3038,Andy Delort,90,6,0,0.228597123,1,28,19,0,4,0.14786329499999998,5,2,8,5,3,2,6,1,4,6,1,0,4,1,0,16
+4386,Damien Da Silva,90,1,0,0.025101589,0,47,41,0,0,0.0,0,0,11,0,2,1,5,1,4,1,5,2,2,2,0,2
+4539,Michaël Jordan Nkololo,9,1,0,0.027117101,1,6,6,0,1,0.06009011,1,1,3,0,0,0,2,0,1,0,0,0,0,0,0,1
+7344,Jordan Adéoti,19,0,0,0.0,0,5,5,0,0,0.0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,10
+7444,Alaeddine Yahia,90,1,1,0.10237391,1,50,44,0,1,0.025101589,0,0,10,2,1,1,1,0,4,1,1,1,0,0,0,7
+13592,Alexandre Raineau,81,0,0,0.0,0,56,42,0,1,0.090869844,2,1,2,2,1,0,4,4,4,1,4,3,4,4,0,15
+22111,Dennis Appiah,90,0,0,0.0,0,51,29,0,2,0.100953553,6,3,9,2,1,1,0,0,5,0,2,0,3,0,0,11
+40698,Nicolas Seube,90,1,0,0.018735083,0,42,36,0,2,0.05987619400000001,0,0,2,2,1,0,5,3,7,0,1,2,1,4,0,27
+40701,Jordan Leborgne,71,2,0,0.054579536,0,34,28,1,1,0.07748396,2,2,6,0,2,0,2,2,8,1,1,1,2,2,2,23

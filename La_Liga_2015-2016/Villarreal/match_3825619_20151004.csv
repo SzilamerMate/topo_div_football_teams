@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3324,Eric Bertrand Bailly,90,1,0,0.09218083,1,56,52,0,0,0.0,1,1,7,2,2,0,1,1,5,0,7,2,6,1,0,11
+3379,Alphonse Areola,90,0,0,0.0,0,30,17,0,0,0.0,0,0,7,0,1,0,0,0,6,0,0,0,0,0,0,0
+6357,Jonathan dos Santos Ramírez,33,0,0,0.0,0,17,16,0,0,0.0,0,0,3,0,0,0,1,0,1,1,0,0,1,0,0,10
+6622,Tomás Pina Isla,90,0,0,0.0,0,41,32,0,0,0.0,0,0,5,1,3,1,4,2,3,3,2,3,1,2,1,14
+6737,Alfonso Pedraza Sag,45,0,0,0.0,0,8,4,0,0,0.0,3,2,4,1,0,0,0,0,2,4,0,0,1,0,0,11
+6752,Víctor Ruíz Torre,90,0,0,0.0,0,61,47,0,0,0.0,0,0,8,1,0,0,4,1,3,0,4,2,2,1,0,5
+6771,Manuel Trigueros Muñoz,90,1,0,0.02571535,1,49,36,0,0,0.0,1,0,5,0,1,0,1,1,6,1,2,0,2,1,0,14
+6772,Mario Gaspar Pérez Martínez,90,1,0,0.033700813,0,61,47,0,1,0.02571535,0,0,6,3,2,1,8,1,4,0,3,3,2,7,1,13
+6783,Samuel García Sánchez,57,0,0,0.0,0,33,19,0,0,0.0,2,1,5,4,0,0,7,1,3,1,0,0,4,2,1,17
+6828,Jaume Vicent Costa Jordá,53,0,0,0.0,0,27,22,0,0,0.0,0,0,0,2,0,0,1,0,1,0,1,2,1,0,0,3
+6829,Samuel Castillejo Azuaga,45,0,0,0.0,0,21,17,0,1,0.033700813,0,0,7,0,2,1,1,0,2,2,2,0,2,0,0,11
+18867,Matías Nahuel Leiva Esquivel,37,0,0,0.0,0,22,14,0,0,0.0,2,2,6,0,0,0,1,1,5,0,0,0,1,1,1,6
+26009,Roberto Soldado Rillo,90,0,0,0.0,0,23,19,0,1,0.09218083,2,1,1,5,3,0,4,0,0,0,3,1,2,0,0,11
+27155,Bojan Jokić,90,0,0,0.0,0,31,26,0,0,0.0,0,0,0,3,0,0,0,0,3,1,2,2,2,0,0,4

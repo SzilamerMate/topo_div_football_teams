@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3436,Idrissa Gana Gueye,90,0,0,0.0,0,54,45,0,0,0.0,6,5,11,0,3,1,8,3,7,4,3,9,2,8,2,17
+3583,Ashley Westwood,90,2,0,0.091221372,0,60,55,0,1,0.07523298,0,0,7,3,0,0,2,2,6,0,2,2,0,2,1,15
+6800,Carles Gil de Pareja Vicent,90,0,0,0.0,0,48,41,0,1,0.011375402,7,4,11,0,0,0,2,1,6,3,0,2,1,2,1,16
+7153,Jordan Veretout,90,0,0,0.0,0,46,39,0,0,0.0,1,1,6,1,2,0,2,1,2,3,1,4,1,1,0,16
+9533,Leandro Bacuna,65,2,0,0.020774712,1,29,23,0,0,0.0,2,1,6,3,0,0,1,0,5,3,1,1,2,1,0,9
+9642,Alan Hutton,5,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,2,1,0,0,0,0,0,2,0,3
+11117,Scott Sinclair,33,1,0,0.039306376,0,9,8,0,0,0.0,0,0,6,0,0,0,0,0,1,2,0,0,1,0,0,3
+18672,Mark Bunn,90,0,0,0.0,0,20,9,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,1,0,0,0,0
+20285,Joleon Lescott,90,0,0,0.0,0,28,24,0,1,0.039306376,0,0,4,1,0,0,0,0,3,0,15,2,0,0,0,2
+20951,Jordan Lyden,25,1,0,0.07523298,0,8,7,0,1,0.068356,0,0,1,0,0,0,1,0,0,0,0,2,1,0,0,3
+24380,Tetchi Jores Charlemagne Ulrich Okore,90,0,0,0.0,0,19,15,0,0,0.0,0,0,3,2,0,0,4,1,2,2,10,2,1,2,0,8
+27146,Aly Cissokho,90,0,0,0.0,0,54,40,0,0,0.0,0,0,8,0,1,1,1,1,3,0,3,1,3,1,1,4
+42699,Gabriel Imuetinyan Agbonlahor,57,0,0,0.0,0,11,7,0,0,0.0,0,0,2,2,1,1,6,0,1,2,0,0,2,0,0,7
+42700,Micah Richards,85,0,0,0.0,0,42,36,0,1,0.00939931,2,2,5,2,3,0,2,0,1,2,5,2,1,0,0,8

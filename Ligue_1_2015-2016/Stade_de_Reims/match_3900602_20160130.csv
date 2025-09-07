@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3248,Hamari Traoré,84,1,0,0.013807156,0,59,44,0,1,0.012536011,0,0,14,7,0,0,7,3,5,2,2,2,2,4,2,24
+3980,Johny Placide,90,0,0,0.0,0,22,19,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,0
+4383,Nicolas de Roussel de Préville,90,4,0,1.1275206,3,38,24,0,1,0.14773817,2,1,3,1,2,1,6,0,2,0,0,0,1,1,0,22
+4545,Prince Oniangué,65,0,0,0.0,0,30,24,0,0,0.0,0,0,4,2,1,0,2,0,2,0,1,0,0,0,0,18
+6648,Aïssa Mandi,90,0,0,0.0,0,48,43,0,1,0.022381442,0,0,6,1,0,0,3,1,3,0,7,1,0,1,1,11
+7363,Diego Rigonato Rodrigues,90,5,0,0.1172979577,0,31,18,0,2,0.35474184,0,0,3,1,0,0,7,1,4,1,0,0,1,1,0,10
+7498,Mickaël Tacalfred,90,0,0,0.0,0,60,50,0,0,0.0,1,1,4,2,2,2,4,2,3,0,2,0,3,3,1,12
+7635,Gaëtan Charbonnier,25,0,0,0.0,0,27,19,0,0,0.0,1,1,2,1,0,0,1,1,3,0,0,0,0,1,1,6
+7815,Antoine Devaux,90,1,0,0.19921422,1,62,50,0,2,0.75335927,0,0,10,2,1,0,6,0,5,0,1,0,1,0,0,19
+18783,Omenuke Mfulu,6,0,0,0.0,0,10,5,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+26775,Thievy Guivane Bifouma Koulossa,37,1,0,0.14773817,0,12,7,0,2,0.26592307800000003,2,1,4,0,2,0,1,0,2,1,0,0,0,0,0,4
+40521,Franck Signorino,90,0,0,0.0,0,53,37,0,0,0.0,1,1,3,0,1,0,1,1,3,0,0,1,2,1,1,13
+46801,Jaba Kankava,90,0,0,0.0,0,45,33,0,1,0.0071838507,2,1,4,1,4,1,4,1,4,0,1,2,1,1,0,19
+401455,Mohamed Fofana,53,0,0,0.0,0,20,17,0,0,0.0,0,0,2,0,1,0,2,1,3,0,3,0,0,2,0,2

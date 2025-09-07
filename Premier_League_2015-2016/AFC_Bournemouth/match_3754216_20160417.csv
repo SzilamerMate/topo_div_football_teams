@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3049,Matt Ritchie,77,4,0,0.115942128,0,42,32,0,1,0.09764435,1,0,8,2,2,0,4,1,6,0,0,1,0,2,0,15
+3341,Steve Cook,90,2,0,0.396199034,0,43,32,0,0,0.0,0,0,5,0,0,0,3,2,4,1,2,6,3,2,2,7
+3343,Dan Gosling,90,0,0,0.0,0,59,49,0,2,0.033753661000000004,2,1,12,4,3,0,2,1,3,1,1,2,2,1,1,22
+3344,Andrew Surman,90,0,0,0.0,0,75,62,1,1,0.077728115,0,0,14,0,0,0,4,4,4,0,1,4,1,4,2,13
+3345,Charlie Daniels,90,0,0,0.0,0,66,54,0,2,0.178427361,3,2,8,0,0,0,1,1,2,1,0,2,1,1,1,10
+3346,Joshua King,90,6,1,0.491762586,3,22,17,0,2,0.04631981,8,5,11,1,2,1,9,3,5,0,0,1,2,3,1,20
+3463,Junior Stanislas,45,1,0,0.035006765,0,20,16,0,0,0.0,2,0,1,0,0,0,1,0,2,1,0,1,0,1,0,8
+3608,Simon Francis,90,1,0,0.102079555,0,77,59,0,3,0.52028182,6,3,10,0,0,0,3,0,5,1,0,3,2,3,0,22
+3616,Callum Wilson,13,1,0,0.1646621,0,2,1,0,0,0.0,2,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0
+3646,Marc Pugh,32,0,0,0.0,0,20,15,0,3,0.279737697,1,0,8,0,1,0,0,0,3,0,0,0,0,0,0,3
+4416,Max-Alain Gradel,58,0,0,0.0,0,23,17,0,0,0.0,2,0,2,3,1,0,3,0,2,0,0,3,2,2,0,18
+9593,Lewis Grabban,45,3,0,0.208753847,2,19,18,0,1,0.041838612,2,1,7,0,0,0,2,1,4,2,1,0,3,1,1,7
+9626,Tommy Elphick,90,1,0,0.09764435,1,50,40,0,0,0.0,0,0,4,0,0,0,3,2,4,0,2,1,0,3,0,7
+20074,Artur Boruc,90,0,0,0.0,0,31,28,0,1,0.11940639,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0

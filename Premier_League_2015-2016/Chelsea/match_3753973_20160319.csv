@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2956,Bertrand Isidore Traoré,28,1,0,0.08498638,0,10,10,0,1,0.086544774,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,5
+3472,Willian Borges da Silva,90,2,0,0.07703025299999999,0,54,41,0,3,0.488255414,5,3,16,0,1,0,2,0,5,2,1,0,1,0,0,13
+3478,Francesc Fàbregas i Soler,90,5,2,1.094898504,2,87,64,0,5,0.33510799300000005,3,3,7,1,1,1,3,0,3,0,0,2,1,2,0,24
+3504,Ruben Loftus-Cheek,7,1,0,0.086544774,0,4,2,0,0,0.0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,5
+3509,Thibaut Courtois,90,0,0,0.0,0,32,22,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+3645,Gary Cahill,90,1,0,0.071899794,0,52,44,0,0,0.0,0,0,7,1,1,0,6,1,3,0,6,1,0,3,0,11
+3666,Robert Kenedy Nunes do Nascimento,45,1,0,0.035673168,0,17,12,0,0,0.0,7,6,3,1,1,0,4,1,2,2,0,1,0,1,1,13
+3957,César Azpilicueta Tanco,90,0,0,0.0,0,66,53,0,0,0.0,3,1,9,1,1,0,5,1,5,1,4,1,0,3,1,13
+3958,Pedro Eliezer Rodríguez Ledesma,45,0,0,0.0,0,28,21,0,2,0.109908122,2,1,8,0,4,0,1,0,4,1,0,0,2,0,0,3
+5475,John Michael Nchekwube Obinna,90,2,0,0.355113238,0,70,59,0,0,0.0,1,1,10,4,1,1,12,3,12,1,2,1,6,6,2,25
+5594,Branislav Ivanović,90,1,0,0.042359713,0,46,33,0,1,0.16926225,1,0,3,1,0,0,1,1,5,1,0,2,2,1,1,11
+6623,Loïc Rémy,62,3,0,0.171060452,3,24,18,0,1,0.035673168,1,0,5,1,1,0,3,0,2,1,2,0,0,0,0,7
+20287,John Terry,90,1,0,0.08028822,0,55,50,0,0,0.0,0,0,2,3,0,0,4,1,2,0,5,0,1,2,0,8
+40122,Oscar dos Santos Emboaba Júnior,83,4,0,0.305464875,0,41,35,0,1,0.04032832,4,3,4,1,2,1,7,2,6,3,0,0,1,5,0,16

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6334,Luis Fernando Muriel Fruto,61,2,1,0.2425627,1,24,19,1,1,0.60448366,2,2,5,0,1,0,4,2,4,0,0,0,0,2,0,18
+6759,Roberto Soriano,90,2,1,0.524728367,1,40,36,1,1,0.36331886,2,1,9,5,2,0,3,2,2,0,1,2,5,3,1,28
+6822,Carlos Joaquín Correa,21,0,0,0.0,0,11,10,0,0,0.0,2,1,4,1,1,0,1,0,3,0,0,0,0,1,0,4
+7000,Eder Citadin Martins,69,3,1,0.961035261,2,19,15,1,3,0.5304885536,1,0,7,2,1,0,4,2,6,2,0,0,0,2,2,14
+7009,Édgar Osvaldo Barreto Cáceres,74,1,0,0.026187278,1,32,26,0,0,0.0,0,0,1,1,2,0,0,0,5,1,1,3,1,0,0,24
+7012,Vasco Regini,90,0,0,0.0,0,39,33,0,1,0.026310427,1,0,7,1,1,0,4,1,8,2,4,0,3,2,1,25
+7018,Emiliano Viviano,90,0,0,0.0,0,39,26,0,0,0.0,0,0,6,0,0,0,0,0,10,0,0,0,0,0,0,0
+7019,Matías Agustín Silvestre,90,0,0,0.0,0,30,29,0,0,0.0,0,0,3,1,0,0,0,0,0,0,7,3,3,0,0,10
+7137,Ervin Zukanović,90,1,1,0.36331886,1,29,28,0,0,0.0,0,0,3,0,0,0,4,0,4,1,12,0,3,0,0,4
+7773,Federico Bonazzoli,29,0,0,0.0,0,9,8,0,0,0.0,0,0,2,1,2,0,1,0,1,1,0,0,0,0,0,4
+16586,Fernando Lucas Martins,90,1,0,0.0058833356,0,62,51,0,1,0.014746561,2,1,7,2,2,1,1,0,3,0,2,3,2,1,0,20
+27595,Carlos Mario Carbonero Mancilla,90,0,0,0.0,0,43,37,0,2,0.37842271,1,1,8,0,1,0,5,3,5,3,2,1,0,3,2,29
+36364,Dávid Ivan,16,0,0,0.0,0,10,8,0,0,0.0,0,0,2,2,0,0,2,0,0,0,2,0,0,1,0,11
+387417,Mattia Cassani,90,0,0,0.0,0,58,46,0,0,0.0,1,1,19,3,0,0,2,0,1,0,1,1,1,0,0,5

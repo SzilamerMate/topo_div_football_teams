@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5543,Haris Seferović,90,0,0,0.0,0,31,21,0,0,0.0,0,0,4,0,0,0,9,0,3,3,1,0,1,1,0,23
+5681,Makoto Hasebe,90,0,0,0.0,0,32,25,0,0,0.0,0,0,1,0,0,0,2,1,3,0,2,1,4,1,0,19
+8504,Bastian Oczipka,90,0,0,0.0,0,30,23,0,0,0.0,4,3,5,0,0,0,2,2,5,0,2,1,5,2,0,14
+8667,Lukáš Hrádecký,90,0,0,0.0,0,38,21,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+8670,Timothy Chandler,45,0,0,0.0,0,22,16,0,0,0.0,0,0,3,0,0,0,1,1,3,0,0,2,0,1,1,3
+8678,David Ángel Abraham,84,0,0,0.0,0,14,10,0,0,0.0,0,0,3,0,0,0,1,0,3,0,7,1,3,0,0,15
+8893,David Kinsombi,90,0,0,0.0,0,15,11,0,0,0.0,0,0,1,0,0,0,4,2,1,0,10,4,8,4,0,22
+9134,Aleksandar Ignjovski,90,0,0,0.0,0,28,16,0,0,0.0,3,2,4,0,1,0,1,0,2,0,4,4,2,1,0,36
+9216,Slobodan Medojević,90,0,0,0.0,0,10,7,1,2,0.063294768,1,1,1,2,1,0,0,0,0,0,1,0,1,0,0,17
+21156,Stefan Aigner,45,0,0,0.0,0,11,9,0,0,0.0,1,0,2,1,1,0,2,0,3,0,1,0,0,2,0,13
+23268,Alexander Meier,90,1,1,0.043350443,1,21,17,0,1,0.12233025,0,0,1,0,0,0,1,0,1,0,5,1,1,0,0,18
+400621,Tohouri Zahoui Constant Djakpa,90,2,0,0.14227457500000001,1,24,18,0,0,0.0,1,0,3,1,2,1,1,1,5,0,2,0,0,1,0,18
+401018,Nico Rinderknecht,6,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3

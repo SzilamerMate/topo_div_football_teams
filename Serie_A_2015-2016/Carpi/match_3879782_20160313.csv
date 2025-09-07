@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7114,Gaetano Letizia,90,0,0,0.0,0,58,39,0,1,0.006795426,1,0,8,2,2,0,6,4,7,2,5,1,2,5,3,24
+7172,Simone Romagnoli,90,0,0,0.0,0,35,25,0,0,0.0,0,0,2,0,0,0,4,0,3,0,8,0,3,0,0,11
+7460,Isaac Cofie,90,2,0,0.052046831,0,49,36,0,1,0.05041099,1,1,7,2,0,0,15,1,13,1,4,2,4,5,1,36
+7793,Kevin Lasagna,33,0,0,0.0,0,8,5,0,1,0.04620803,0,0,3,1,0,0,2,0,2,1,1,0,2,0,0,4
+8662,Vid Belec,90,0,0,0.0,0,26,11,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+8675,Jonathan de Guzmán,15,1,1,0.7835,1,4,2,0,0,0.0,0,0,1,0,0,0,2,0,0,2,1,0,0,0,0,1
+11499,Riccardo Gagliolo,90,1,0,0.017793627,1,32,24,0,0,0.0,0,0,5,0,2,0,9,3,12,0,6,0,1,6,1,17
+11502,Antonio Di Gaudio,90,2,0,0.083109346,0,18,9,0,1,0.34999207,1,0,8,0,6,1,2,0,4,1,1,2,0,0,0,17
+15415,Matteo Mancosu,75,1,0,0.34999207,0,18,11,0,1,0.030496271,0,0,3,2,0,0,3,0,0,1,1,1,1,0,0,15
+30829,Lorenzo Lollo,57,1,0,0.005140611,0,23,13,1,1,0.29892853,2,1,0,4,2,0,3,1,7,2,0,0,2,2,1,20
+31273,Marco Crimi,26,1,0,0.04620803,0,16,13,0,0,0.0,0,0,3,1,2,1,1,1,0,1,1,0,3,1,1,17
+352172,Raffaele Bianco,64,3,1,0.38050938300000003,1,33,24,0,0,0.0,1,1,2,4,0,0,4,1,12,3,3,1,5,3,0,19
+387300,Cristian Zaccardo,90,0,0,0.0,0,40,22,0,0,0.0,1,0,1,1,0,0,0,0,2,0,3,3,6,0,0,11
+387472,Lorenzo Pasciuti,90,0,0,0.0,0,45,29,0,0,0.0,1,1,3,2,1,1,4,2,8,0,2,0,4,2,1,18

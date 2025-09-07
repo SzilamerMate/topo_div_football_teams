@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3084,Christian Atsu Twasam,45,1,1,0.54026073,1,11,8,0,1,0.0402259,5,4,3,0,0,0,3,2,4,2,0,0,3,2,1,13
+6563,Juan Pablo Añor Acosta,90,2,1,0.46855108,1,52,40,0,2,0.164466694,6,3,6,1,3,0,1,0,10,4,1,1,2,0,0,19
+6569,Roberto José Rosales Altuve,90,0,0,0.0,0,45,35,1,1,0.42832518,2,1,8,1,1,1,4,2,6,1,3,0,0,4,0,16
+6580,José Luis García del Pozo,59,0,0,0.0,0,36,30,0,1,0.052936632,2,2,2,2,0,0,4,1,3,1,0,0,1,4,0,19
+6707,Charles Días Barbosa de Oliveira,76,2,1,0.62318735,2,29,21,1,1,0.54026073,1,1,7,0,0,0,6,1,3,1,2,0,0,1,0,8
+6764,Pablo Fornals Malla,31,0,0,0.0,0,22,18,0,1,0.07183426,1,0,3,0,0,0,2,1,4,0,0,0,0,2,0,8
+6878,Miguel Torres Gómez,90,0,0,0.0,0,31,20,0,0,0.0,0,0,1,0,0,0,6,2,0,0,2,2,3,3,0,10
+8234,Ignacio Camacho Barnola,90,0,0,0.0,0,51,39,0,0,0.0,2,2,5,3,1,0,8,3,3,1,4,1,2,4,1,20
+8419,Duje Čop,90,2,0,0.27744747,1,30,24,1,1,0.47624317,2,1,4,1,4,2,4,0,2,3,2,1,2,0,0,19
+10868,Ricardo Jorge Luz Horta,45,0,0,0.0,0,22,17,0,0,0.0,1,1,8,1,1,0,6,3,2,1,0,4,4,4,0,18
+16723,Egor Filipenko,90,1,0,0.052936632,0,32,26,0,0,0.0,0,0,1,0,0,0,1,0,2,1,7,2,1,1,0,9
+26103,Idriss Carlos Kameni,90,0,0,0.0,0,24,13,0,0,0.0,1,1,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+26783,Roque Luis Santa Cruz Cantero,14,1,0,0.017522514,0,6,5,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+27335,Arthur Etienne Boka,90,0,0,0.0,0,62,41,0,1,0.20561321,2,0,2,1,3,1,6,1,6,0,1,4,7,2,1,12

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3054,Fernando Luiz Rosa,90,0,0,0.0,0,56,51,0,1,0.031769615,4,2,2,1,1,0,3,2,4,0,1,1,1,3,1,25
+3064,David Josué Jiménez Silva,66,0,0,0.0,0,59,53,0,1,0.07945379,0,0,12,0,2,0,2,0,3,2,0,0,0,1,0,7
+3087,Gnégnéri Yaya Touré,90,5,0,0.136150694,2,74,69,0,1,0.06608397,7,6,13,3,2,0,1,1,8,4,2,0,0,1,0,10
+3089,Kevin De Bruyne,24,0,0,0.0,0,9,4,0,2,0.117611773,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8
+3090,Nicolás Hernán Otamendi,90,2,0,0.117611773,0,65,63,0,0,0.0,0,0,10,0,1,1,3,1,2,1,6,1,1,2,0,10
+3233,Raheem Sterling,45,0,0,0.0,0,32,30,0,0,0.0,1,0,6,1,2,0,2,1,0,0,0,0,1,1,1,8
+3291,Joe Hart,90,0,0,0.0,0,22,14,0,0,0.0,0,0,2,0,1,1,0,0,3,0,0,0,0,0,0,0
+3389,Eliaquim Mangala,90,0,0,0.0,0,57,56,0,0,0.0,1,1,5,2,0,0,2,1,2,0,3,1,1,2,0,12
+3598,Wilfried Guemiand Bony,83,4,1,0.393369854,2,19,15,0,0,0.0,0,0,0,2,1,1,3,0,3,2,2,0,2,0,0,6
+3708,Kelechi Promise Iheanacho,7,1,1,0.034893773,1,4,3,0,0,0.0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,2
+4597,Fabian Delph,45,1,0,0.058837906,0,17,16,0,0,0.0,1,1,4,1,0,0,3,0,2,2,1,0,2,2,0,11
+6821,Jesús Navas González,90,1,0,0.0421809,0,53,43,1,3,0.234219916,1,1,11,3,2,0,1,1,1,3,1,1,2,1,0,17
+7110,Bacary Sagna,90,0,0,0.0,0,63,58,0,1,0.082924314,0,0,1,1,2,1,5,1,4,1,4,0,2,2,0,7
+20302,Gaël Clichy,90,0,0,0.0,0,72,57,0,0,0.0,1,1,7,2,1,0,4,0,2,1,3,1,1,2,0,12

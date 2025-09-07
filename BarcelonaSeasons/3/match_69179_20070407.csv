@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5216,Andrés Iniesta Luján,90,0,0,0.0,0,78,73,0,0,0.0,1,0,10,1,2,1,4,3,6,0,0,1,3,3,2,27
+5503,Lionel Andrés Messi Cuccittini,90,2,0,0.35068314,2,32,29,0,0,0.0,14,8,6,3,3,0,0,0,2,7,0,1,0,0,0,16
+5558,Rafael Márquez Álvarez,45,0,0,0.0,0,40,35,0,0,0.0,0,0,3,0,2,2,1,1,1,1,2,0,0,1,0,15
+11270,Eiður Smári Guðjohnsen,25,1,0,0.24431278,0,4,2,0,0,0.0,0,0,1,1,2,1,1,0,1,1,0,0,0,0,0,3
+15071,Lilian Thuram,90,0,0,0.0,0,51,44,0,0,0.0,2,2,4,3,0,0,1,1,12,0,1,2,2,1,0,16
+15774,Gianluca Zambrotta,45,0,0,0.0,0,21,17,0,0,0.0,0,0,3,2,0,0,3,3,3,0,1,0,1,3,2,14
+17797,Giovanni van Bronckhorst,19,0,0,0.0,0,9,7,0,0,0.0,0,0,1,0,0,0,2,1,0,0,0,2,0,1,1,5
+19757,Anderson Luís de Souza,90,3,0,0.3168841,1,85,62,0,1,0.01640581,7,7,15,3,4,0,3,1,7,1,0,1,2,2,1,33
+20125,Carles Puyol i Saforcada,90,0,0,0.0,0,46,39,0,0,0.0,0,0,3,2,1,1,4,3,5,1,1,0,1,3,1,19
+20131,Xavier Hernández Creus,90,0,0,0.0,0,85,79,0,1,0.04107358,4,4,18,1,4,0,1,1,9,1,0,1,1,1,0,34
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,27,14,0,0,0.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+25873,Oleguer Presas Renom,71,0,0,0.0,0,41,34,0,0,0.0,1,1,1,1,0,0,2,0,3,0,7,2,3,2,0,26
+25878,Ludovic Giuly,65,1,0,0.012400217,1,23,16,0,0,0.0,0,0,7,2,2,1,3,1,2,0,0,1,0,1,0,26
+25879,Ronaldo de Assis Moreira,90,1,0,0.01640581,0,45,30,0,3,0.29068369699999996,5,3,7,6,2,1,6,0,3,5,0,0,0,0,0,9

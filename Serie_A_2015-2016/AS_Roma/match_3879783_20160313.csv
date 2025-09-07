@@ -1,0 +1,13 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3531,Mohamed Salah,90,1,0,0.06916803,0,51,35,1,4,0.650324373,7,3,13,1,1,0,1,0,6,2,0,0,0,1,0,7
+5669,Wojciech Szczęsny,90,0,0,0.0,0,37,32,0,0,0.0,0,0,3,0,0,0,0,0,8,0,0,0,0,0,0,0
+6849,Lucas Digne,90,0,0,0.0,0,61,49,0,1,0.109468795,2,1,8,3,2,0,6,4,5,1,3,0,2,5,1,20
+6947,Miralem Pjanić,21,1,0,0.057583805,0,29,24,1,1,0.19733225,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,3
+6962,Radja Nainggolan,90,0,0,0.0,0,67,60,0,0,0.0,1,1,4,2,1,0,3,2,5,0,0,0,4,2,0,14
+6964,Alessandro Florenzi,90,3,1,0.362097698,1,65,45,0,1,0.0896111,3,2,6,3,0,0,2,1,5,0,0,2,6,1,0,14
+6973,Edin Džeko,90,5,1,0.859800568,2,39,28,0,2,0.049531618,0,0,4,2,4,0,7,2,1,0,0,0,0,2,0,12
+6979,Stephan El Shaarawy,69,3,0,0.162236678,2,41,33,0,3,0.170985753,2,1,8,0,1,0,5,3,3,1,1,0,1,4,1,13
+7048,Konstantinos Manolas,90,0,0,0.0,0,55,53,0,0,0.0,0,0,7,1,3,3,6,2,6,0,3,0,3,3,2,9
+7137,Ervin Zukanović,90,0,0,0.0,0,59,51,0,0,0.0,0,0,15,1,1,1,1,0,6,0,7,1,1,0,0,8
+7456,Diego Perotti,90,2,0,0.09379998,2,77,63,0,3,0.33743287,5,2,22,2,4,0,2,0,6,3,0,0,3,1,0,17
+20169,Seydou Kéita,90,0,0,0.0,0,68,65,0,0,0.0,0,0,4,2,2,2,3,0,4,0,1,0,1,0,0,7

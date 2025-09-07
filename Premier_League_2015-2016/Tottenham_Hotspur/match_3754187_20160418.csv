@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3037,Mousa Sidi Yaya Dembélé,85,1,0,0.034149323,0,25,22,1,2,0.041236759,0,0,5,3,1,0,4,2,7,0,2,0,2,3,0,23
+3043,Christian Dannemann Eriksen,90,1,0,0.46122453,0,49,40,2,3,0.584116466,1,1,8,1,0,0,1,0,3,2,1,1,1,1,0,13
+3077,Jan Vertonghen,90,0,0,0.0,0,41,36,0,0,0.0,0,0,8,0,0,0,4,3,2,1,7,2,0,3,2,5
+3083,Heung-Min Son,1,2,0,0.042346175,0,1,1,0,0,0.0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1
+3094,Bamidele Alli,83,8,2,1.6729162409999998,2,26,24,0,3,0.542740915,5,3,7,1,3,0,4,2,8,5,1,2,4,2,1,24
+3099,Hugo Lloris,90,0,0,0.0,0,40,27,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,0
+3205,Kyle Walker,90,1,0,0.022237752,0,46,40,0,2,0.075158297,3,1,6,1,2,0,6,2,4,1,2,2,1,4,1,16
+3585,Erik Lamela,89,1,0,0.051059097,1,36,25,1,3,0.9942211719999999,1,1,8,2,2,1,1,0,6,2,1,1,1,0,0,25
+3594,Danny Rose,90,1,0,0.0240992,0,47,40,0,1,0.009735815,1,0,10,2,2,0,0,0,8,1,1,1,0,0,0,14
+4831,Nacer Chadli,7,1,0,0.084164195,0,6,4,0,0,0.0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+10955,Harry Kane,90,5,2,1.0807181559999999,3,31,22,0,1,0.07176788,2,1,7,2,2,0,4,0,3,4,2,0,5,2,0,13
+10956,Eric Dier,90,0,0,0.0,0,44,34,0,0,0.0,1,1,4,1,2,1,8,3,6,0,3,1,3,5,1,36
+20005,Toby Alderweireld,90,1,0,0.014018408,0,36,31,0,0,0.0,0,0,1,0,0,0,3,1,3,0,8,4,2,2,0,6
+40127,Ryan Mason,5,0,0,0.0,0,11,10,0,1,0.03261036,1,0,1,0,0,0,1,0,2,0,0,0,1,0,0,2

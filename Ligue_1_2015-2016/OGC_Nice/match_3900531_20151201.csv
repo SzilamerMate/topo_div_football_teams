@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2971,Romain Genevois,90,0,0,0.0,0,67,49,0,1,0.057832044,1,1,7,2,2,1,6,2,5,0,5,4,1,4,1,16
+3210,Valère Germain,29,1,0,0.129992,0,13,10,0,1,0.23544668,1,1,5,0,1,0,2,0,0,0,2,0,1,0,0,3
+3229,Maxime Le Marchand,90,0,0,0.0,0,69,57,0,1,0.004053377,2,1,7,1,0,0,3,1,3,0,5,1,2,2,0,13
+3359,Jean Michaël Seri,13,1,0,0.028836621,1,10,9,0,0,0.0,1,0,3,0,0,0,1,0,2,1,0,0,0,1,0,3
+3403,Alexandre Mendy,90,2,0,0.293278724,0,32,23,0,1,0.04657595,1,0,3,1,0,0,10,0,2,1,2,0,0,1,0,10
+4257,Yoan Cardinale,90,0,0,0.0,0,15,7,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+4264,Vincent Koziello,30,0,0,0.0,0,12,12,0,0,0.0,0,0,2,2,1,0,1,0,3,0,0,0,0,0,0,8
+4443,Paul Baysse,90,1,0,0.2634681,1,57,43,0,0,0.0,0,0,4,1,2,2,3,0,7,0,9,0,0,1,0,5
+4506,Nampalys Mendy,90,0,0,0.0,0,76,66,0,0,0.0,2,1,12,1,2,1,2,1,10,0,0,0,2,1,1,13
+6352,Ricardo Domingos Barbosa Pereira,90,0,0,0.0,0,51,30,0,0,0.0,0,0,5,2,0,0,3,0,3,0,2,1,1,2,0,20
+16056,Niklas Hult,90,1,0,0.21506847,1,41,31,0,1,0.020993907,1,0,9,3,2,0,4,2,5,2,3,1,3,4,0,37
+134561,Wallyson Teixeira Mallmann,77,4,0,0.11016191,3,61,44,0,2,0.3934601,2,2,11,3,2,0,2,1,5,2,0,1,0,1,1,18
+146696,Paulin Puel,61,2,0,0.067569857,1,16,9,0,0,0.0,1,0,4,0,0,0,2,1,1,2,0,1,0,1,1,8
+403377,Stéphan Raheriharimanana,60,0,0,0.0,0,42,33,0,1,0.018988093,1,0,5,1,2,2,1,1,4,0,1,1,2,1,0,16

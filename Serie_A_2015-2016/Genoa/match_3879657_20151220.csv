@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3556,Serge Gakpé,90,2,0,0.064598198,2,26,18,0,1,0.032256234,1,0,8,0,0,0,2,1,7,2,0,0,1,2,1,24
+4369,Issa Cissokho,27,0,0,0.0,0,26,22,0,1,0.036832124,0,0,5,0,0,0,1,0,1,0,3,1,2,0,0,2
+5717,Diego Sebastián Laxalt Suárez,90,1,0,0.036832124,0,54,43,0,1,0.015904406,2,0,9,1,2,1,5,0,2,2,2,0,3,2,0,17
+6894,Ezequiel Muñoz,90,1,0,0.036903396,1,38,31,0,1,0.32326624,0,0,7,1,0,0,4,1,3,0,4,3,4,2,1,16
+7145,Darko Lazović,45,2,0,0.13750858600000002,1,34,24,0,1,0.010207248,0,0,12,0,1,0,1,0,5,1,0,0,3,1,0,12
+7146,Goran Pandev,34,0,0,0.0,0,9,8,0,0,0.0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,10
+7148,Mattia Perin,90,0,0,0.0,0,23,17,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+7176,Sebastian De Maio,90,1,0,0.32326624,0,35,28,0,0,0.0,0,0,11,1,0,0,3,2,4,0,10,1,2,2,2,16
+7464,Cristian Daniel Ansaldi,56,0,0,0.0,0,29,27,0,0,0.0,0,0,5,1,0,0,5,0,6,0,0,2,0,4,0,15
+7475,Tomás Eduardo Rincón Hernández,90,0,0,0.0,0,70,61,0,1,0.0795803,2,2,16,0,4,0,5,3,11,1,1,2,1,4,2,17
+9940,Armando Izzo,90,2,0,0.059537557000000005,0,47,39,0,0,0.0,1,0,3,0,0,0,1,1,4,0,3,1,1,1,0,10
+10530,Jules Olivier Ntcham,90,1,0,0.010207248,0,51,39,0,2,0.089002686,0,0,15,1,2,2,0,0,5,3,0,1,0,0,0,25
+24683,Diego Ángel Capel Trinidad,45,1,0,0.015904406,0,19,13,0,2,0.11237488600000001,1,0,6,0,2,0,0,0,4,1,0,0,1,0,0,13
+30772,Panagiotis Tachtsidis,63,1,0,0.07547149,0,30,21,0,1,0.027281323,0,0,6,1,1,0,7,5,3,0,1,1,2,5,1,26

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6561,Luis Hernández Rodríguez,90,0,0,0.0,0,25,15,0,0,0.0,0,0,1,3,1,1,3,1,2,0,6,6,0,2,0,9
+6573,Bernardo José Espinosa Zúñiga,90,0,0,0.0,0,18,11,0,0,0.0,0,0,2,1,0,0,2,2,4,1,11,3,2,2,2,14
+6581,Jonathan Rodríguez Menéndez,90,2,0,0.039056268699999994,0,27,15,0,0,0.0,2,1,6,2,0,0,2,1,5,4,0,4,2,1,0,15
+6610,Iván Cuéllar Sacristán,90,0,0,0.0,0,42,15,0,0,0.0,0,0,6,0,0,0,0,0,4,0,0,0,0,0,0,0
+6926,Alen Halilović,90,1,0,0.029523922,1,21,15,0,0,0.0,4,1,15,1,1,0,4,0,1,2,0,1,1,2,0,11
+8818,Jorge Meré Pérez,60,0,0,0.0,0,7,3,0,0,0.0,0,0,0,0,1,1,3,0,3,1,6,2,2,0,0,6
+18398,Omar Mascarell González,90,1,0,0.033033025,0,25,18,0,0,0.0,0,0,1,0,1,0,3,0,5,1,2,7,7,1,0,19
+18925,Ignacio Cases Mora,90,0,0,0.0,0,28,22,0,0,0.0,1,1,1,1,0,0,3,2,5,2,4,2,2,3,2,16
+23994,Alejandro Menéndez Díez,30,0,0,0.0,0,8,7,0,0,0.0,0,0,3,0,0,0,2,0,2,1,1,0,1,0,0,3
+24173,Carlos Castro García,58,0,0,0.0,0,5,5,0,0,0.0,3,1,2,1,0,0,3,0,1,2,1,0,1,0,0,8
+24263,Ismael López Blanco,90,0,0,0.0,0,32,24,0,0,0.0,2,1,9,0,1,1,4,2,6,0,0,3,2,3,2,10
+26633,Alberto Lora Ramos,32,0,0,0.0,0,17,13,0,0,0.0,0,0,3,0,2,0,2,2,4,0,1,3,1,2,0,6
+27526,Rachid Aït-Atmane,13,0,0,0.0,0,9,7,0,0,0.0,1,1,3,0,0,0,3,1,1,0,0,1,0,1,0,1
+40822,Daniel Arnaud N''Di	,77,0,0,0.0,0,16,12,0,1,0.029523922,4,4,11,3,6,1,10,0,5,6,0,1,0,0,0,13

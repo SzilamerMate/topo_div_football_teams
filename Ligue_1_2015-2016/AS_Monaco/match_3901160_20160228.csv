@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3009,Kylian Mbappé Lottin,89,2,0,0.05792843,0,21,13,0,0,0.0,6,3,8,2,3,1,3,2,7,4,0,0,1,3,1,9
+3168,João Filipe Iria Santos Moutinho,90,1,0,0.012830596,0,46,36,0,0,0.0,1,1,7,2,0,0,3,0,4,2,1,0,0,1,0,10
+3245,Thomas Lemar,72,0,0,0.0,0,32,24,0,1,0.012830596,3,0,6,1,1,0,3,0,8,2,1,1,1,2,0,13
+3246,Guido Marcelo Carrillo,77,1,0,0.24997115,1,11,5,0,0,0.0,1,1,1,1,0,0,8,0,1,1,3,0,2,0,0,14
+3247,Fábio Henrique Tavares,90,0,0,0.0,0,53,44,0,0,0.0,2,1,5,2,5,2,6,3,5,1,2,0,1,4,2,13
+3374,Andrea Raggi,90,0,0,0.0,0,40,20,0,0,0.0,0,0,2,0,0,0,1,0,2,0,3,0,3,0,0,4
+3406,Jérémy Toulalan,90,0,0,0.0,0,72,58,0,0,0.0,5,2,6,1,1,0,8,4,4,0,3,0,5,6,4,12
+3444,Danijel Subašić,90,0,0,0.0,0,32,16,0,0,0.0,0,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0
+4454,Farès Bahlouli,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+8277,Wallace Fortuna dos Santos,90,0,0,0.0,0,37,32,0,0,0.0,0,0,2,1,1,1,5,0,5,0,6,0,5,1,0,11
+9931,Hélder Wander Sousa Azevedo Costa,18,0,0,0.0,0,8,6,0,0,0.0,0,0,3,0,1,0,1,0,2,0,1,0,2,0,0,6
+10805,Ricardo Alberto Silveira de Carvalho,90,0,0,0.0,0,31,24,0,0,0.0,0,0,2,3,0,0,6,1,3,0,5,0,1,3,1,8
+18953,Vágner Silva de Souza,13,0,0,0.0,0,1,1,0,0,0.0,1,0,2,2,0,0,3,0,0,1,1,0,0,1,0,7
+27558,Elderson Uwa Echiejile,90,0,0,0.0,0,48,33,0,0,0.0,1,0,4,2,2,1,6,3,6,1,5,0,4,3,1,15

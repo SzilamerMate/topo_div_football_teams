@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3412,Assane Dioussé El Hadji,50,0,0,0.0,0,38,28,0,0,0.0,0,0,2,0,2,1,1,0,4,0,1,0,1,1,0,14
+5660,Piotr Zieliński,90,4,1,0.430668385,3,42,31,0,2,0.09634815099999999,2,2,8,2,0,0,6,1,5,0,3,1,3,2,1,17
+7054,Manuel Pucciarelli,80,1,0,0.054460287,0,34,26,0,1,0.033753134,3,2,5,0,1,1,2,0,7,1,0,0,0,0,0,10
+7151,Mário Rui Silva Duarte,90,1,0,0.0068133464,0,59,49,0,0,0.0,0,0,2,0,4,1,1,1,3,0,2,2,2,1,0,10
+7155,Vincent Laurini,90,0,0,0.0,0,69,58,0,1,0.041282583,1,0,8,0,1,1,1,0,4,1,3,3,4,0,0,7
+7160,Lorenzo Tonelli,90,0,0,0.0,0,23,17,0,0,0.0,0,0,0,1,3,1,3,1,5,0,7,3,1,1,1,7
+8187,Marcel Büchel,23,0,0,0.0,0,13,7,0,0,0.0,0,0,2,0,1,0,1,1,2,0,0,2,5,1,1,12
+8664,Andrea Costa,90,0,0,0.0,0,24,19,0,1,0.008003638,0,0,1,2,0,0,2,0,1,0,6,1,3,1,0,11
+11508,Łukasz Skorupski,90,0,0,0.0,0,29,18,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+11512,Rade Krunić,90,3,1,0.59401186,1,37,27,0,1,0.492347,1,0,4,1,6,3,5,2,2,0,0,1,3,3,2,30
+11602,Raffaele Maiello,40,1,0,0.01799141,0,29,23,0,0,0.0,0,0,1,0,2,0,0,0,5,0,1,1,1,0,0,14
+16308,Leandro Daniel Paredes,67,3,0,0.0235744716,1,26,22,0,1,0.0068133464,3,0,4,1,2,0,1,1,5,0,2,2,4,1,0,18
+22041,Marko Livaja,10,0,0,0.0,0,4,2,0,1,0.38784465,1,0,1,2,0,0,1,0,0,2,0,0,0,1,0,8
+40252,Massimo Maccarone,90,3,0,0.667068475,0,18,13,0,1,0.07543305,3,0,2,2,4,0,6,1,2,1,0,0,1,1,0,23

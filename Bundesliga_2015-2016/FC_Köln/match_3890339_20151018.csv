@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5679,Yūya Ōsako,74,0,0,0.0,0,36,32,0,0,0.0,0,0,5,2,5,1,5,0,1,1,0,0,0,1,0,14
+6040,Jonas Hector,90,0,0,0.0,0,82,62,0,2,0.15803286,2,1,9,0,1,0,3,0,6,2,1,0,2,0,0,12
+8231,Yannick Gerhardt,56,0,0,0.0,0,35,26,0,3,0.11923638,1,0,8,2,0,0,2,0,6,1,1,1,1,0,0,11
+8821,Timo Horn,90,0,0,0.0,0,20,14,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+8822,Simon Zoller,33,0,0,0.0,0,8,6,0,0,0.0,0,0,0,1,1,0,4,0,1,0,0,0,1,0,0,5
+8823,Marcel Risse,90,3,0,0.055446475,1,61,41,0,3,0.5113063600000001,3,1,7,2,0,0,4,2,7,0,0,2,0,4,0,14
+8825,Miloš Jojić,34,1,0,0.061368655,1,25,19,0,1,0.17447995,0,0,3,3,0,0,0,0,1,2,0,0,1,0,0,14
+8826,Leonardo Bittencourt,90,2,0,0.11716512800000001,0,41,29,0,1,0.23701316,1,1,12,1,1,0,3,2,3,0,1,1,2,2,1,20
+8827,Matthias Lehmann,90,1,0,0.011744905,0,74,62,0,1,0.016079698,0,0,11,1,2,1,3,1,9,0,0,0,1,3,0,17
+8828,Dominique Heintz,90,0,0,0.0,0,84,76,0,0,0.0,2,2,26,1,1,1,3,0,7,0,2,1,1,1,0,7
+8829,Frederik Hillesborg Sørensen,90,2,0,0.23142738,0,93,78,0,0,0.0,0,0,7,1,2,2,11,1,0,0,6,0,3,2,0,10
+9459,Paweł Olkowski,57,0,0,0.0,0,42,33,0,0,0.0,1,0,5,0,2,1,2,0,3,0,1,0,1,1,0,5
+10902,Philipp Hosiner,16,1,0,0.4190224,1,6,4,0,0,0.0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,2
+23486,Anthony Modeste,90,5,0,0.5665309660000001,2,10,5,0,1,0.014947289,2,0,0,2,1,1,7,0,1,0,1,0,2,0,0,8

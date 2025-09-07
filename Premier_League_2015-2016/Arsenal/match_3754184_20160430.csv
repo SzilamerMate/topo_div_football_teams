@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3385,Alexis Alejandro Sánchez Sánchez,83,3,0,0.147251646,1,52,39,0,0,0.0,6,3,13,1,0,0,1,0,5,2,0,1,1,0,0,15
+3394,Laurent Koscielny,90,1,0,0.06724663,0,57,50,0,0,0.0,0,0,7,0,0,0,7,1,0,0,4,2,2,4,0,13
+3437,Francis Joseph Coquelin,7,0,0,0.0,0,2,2,0,0,0.0,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,2
+3461,Petr Čech,90,0,0,0.0,0,41,23,0,0,0.0,0,0,4,0,0,0,0,0,7,0,0,0,0,0,0,0
+3475,Per Mertesacker,50,1,0,0.054563478,0,49,46,0,0,0.0,0,0,8,0,0,0,1,1,3,0,1,1,1,1,0,4
+3496,Mesut Özil,90,1,0,0.01984219,0,96,77,0,6,0.311228069,3,0,7,2,1,0,2,1,9,1,0,0,0,2,1,13
+3498,Ignacio Monreal Eraso,90,0,0,0.0,0,84,78,0,0,0.0,0,0,4,0,1,1,8,2,1,1,2,5,2,5,1,13
+3511,Héctor Bellerín Moruno,90,0,0,0.0,0,59,48,0,0,0.0,3,1,7,0,0,0,2,0,2,0,0,3,4,0,0,7
+3517,Aaron Ramsey,90,0,0,0.0,0,100,90,0,1,0.19867674,3,2,12,1,1,0,5,0,8,1,2,2,3,2,0,27
+3568,Mohamed Naser Elsayed Elneny,90,3,0,0.165479206,1,87,81,0,1,0.032280467,0,0,8,2,1,0,6,2,8,2,1,2,1,3,1,30
+3569,Daniel Nii Tackie Mensah Welbeck,35,1,1,0.072252095,1,24,22,0,1,0.025609624,0,0,5,1,0,0,1,0,3,0,0,0,3,1,0,11
+3604,Olivier Giroud,90,2,0,0.24908522,0,32,24,1,3,0.180126988,1,1,2,0,3,2,10,0,0,1,3,0,3,0,0,17
+3647,Alex Iwobi,55,2,0,0.038963849,0,37,29,0,0,0.0,1,1,14,0,0,0,1,1,5,4,0,3,1,1,0,15
+6746,Gabriel Armando de Abreu,40,0,0,0.0,0,19,18,0,0,0.0,0,0,1,1,1,1,1,0,2,0,3,2,1,0,0,1

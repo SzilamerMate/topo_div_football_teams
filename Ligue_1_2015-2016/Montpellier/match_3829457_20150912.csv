@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2975,Mathieu Deplagne,90,1,0,0.007931883,0,54,47,0,1,0.06337919,0,0,3,1,2,1,0,0,3,1,2,3,1,0,0,11
+2980,Kévin Bérigaud,90,2,0,0.039205001,1,21,15,0,0,0.0,3,1,7,0,4,2,6,2,1,3,0,0,1,2,1,9
+3011,Daniel Congré,90,1,0,0.13136393,0,51,44,0,0,0.0,1,1,5,2,2,1,6,3,2,0,5,1,0,5,1,17
+3191,Ramy Bensebaini,61,1,0,0.029570108,1,27,22,0,0,0.0,1,0,6,1,1,1,1,0,3,0,5,5,6,0,0,6
+3421,Bryan Dabo,90,2,0,0.142787676,1,54,41,0,0,0.0,6,5,9,3,3,0,1,1,11,1,3,1,1,1,1,23
+3674,Vitorino Hilton da Silva,90,2,0,0.06735318,1,41,27,0,0,0.0,0,0,4,1,3,2,2,0,9,0,5,1,2,1,0,13
+3676,Jérôme Roussillon,29,0,0,0.0,0,19,15,0,1,0.12582313,1,0,0,0,0,0,1,0,4,1,0,0,1,1,0,8
+3682,Paul Lasne,45,0,0,0.0,0,37,29,0,0,0.0,0,0,11,1,2,0,4,2,2,1,0,1,0,3,2,5
+4599,Quentin Cornette,45,2,0,0.064300248,1,10,9,0,1,0.029570108,3,1,6,3,2,0,1,1,3,1,0,1,2,1,1,12
+6661,Ryad Boudebouz,90,3,0,0.24505759,2,56,39,0,8,0.425565095,2,1,5,1,2,0,0,0,4,5,0,1,1,0,0,10
+7485,Djamel Bakar,45,0,0,0.0,0,14,9,0,0,0.0,0,0,4,1,0,0,0,0,4,4,1,0,3,0,0,10
+7590,Joris Marveaux,90,2,1,0.29133691,1,45,39,0,0,0.0,1,1,7,1,2,0,9,4,6,0,2,1,3,6,1,27
+30255,Mustapha Yatabaré,45,1,0,0.044855308,0,14,13,0,1,0.05585527,0,0,1,3,0,0,2,0,2,2,0,0,1,0,0,6
+42428,Jonathan Ligali,90,0,0,0.0,0,22,13,0,0,0.0,0,0,2,0,0,0,0,0,6,0,0,0,1,0,0,0

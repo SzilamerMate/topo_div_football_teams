@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5569,Marvin Plattenhardt,90,0,0,0.0,0,49,43,0,0,0.0,0,0,10,1,0,0,5,2,3,0,7,1,4,2,1,12
+5697,Genki Haraguchi,90,0,0,0.0,0,29,22,0,1,0.053799752,2,1,5,1,1,0,7,2,4,2,2,0,5,2,2,26
+8575,Salomon Armand Magloire Kalou,86,2,0,0.079323672,0,32,23,0,1,0.7120371,5,2,11,3,0,0,5,1,9,2,1,0,3,2,0,16
+8576,Mitchell Weiser,90,1,1,0.045072276,1,53,39,0,0,0.0,1,1,7,0,1,0,5,0,5,0,3,1,5,2,0,20
+8577,Rune Almenning Jarstein,90,0,0,0.0,0,48,25,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+8578,Per Ciljan Skjelbred,90,0,0,0.0,0,52,42,0,0,0.0,1,1,4,1,2,0,7,1,12,2,7,0,5,1,0,22
+8579,Vladimír Darida,90,1,0,0.03330754,0,58,48,0,0,0.0,1,0,5,0,2,0,4,1,11,2,9,1,5,3,1,12
+8580,Sebastian Langkamp,90,0,0,0.0,0,41,38,0,0,0.0,0,0,0,2,2,2,3,0,1,0,18,0,1,1,0,5
+8883,Johannes van den Bergh,18,0,0,0.0,0,9,7,0,0,0.0,0,0,2,0,0,0,3,1,1,0,3,0,1,1,0,9
+8965,Fabian Lustenberger,90,0,0,0.0,0,33,27,0,0,0.0,0,0,0,1,1,1,3,1,0,0,13,0,0,3,0,12
+9721,Valentin Stocker,72,0,0,0.0,0,21,12,0,2,0.058831459999999995,2,2,2,1,0,0,8,1,3,1,1,2,4,2,0,24
+30439,Tolga Ciğerci,4,0,0,0.0,0,5,3,0,0,0.0,0,0,1,0,0,0,0,0,3,1,0,0,0,0,0,4
+33459,Alexander Baumjohann,56,0,0,0.0,0,24,18,0,0,0.0,3,3,4,0,3,1,3,2,3,2,0,0,0,2,1,12
+40474,Jens Hegeler,34,1,0,0.7120371,0,15,8,0,0,0.0,1,1,4,2,0,0,3,0,1,2,1,1,2,0,0,15

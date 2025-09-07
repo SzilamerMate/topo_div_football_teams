@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3092,Dwight Gayle,90,3,0,0.529938722,2,20,18,0,2,0.11370867800000001,0,0,4,4,0,0,5,0,5,2,0,1,1,0,0,24
+3326,Chung-Yong Lee,13,0,0,0.0,0,9,9,0,0,0.0,1,1,3,0,0,0,1,0,1,1,0,0,2,1,0,5
+3443,Joel Ward,81,2,0,0.05684339099999999,0,49,36,0,0,0.0,0,0,3,3,1,0,2,0,2,0,1,2,0,0,0,12
+3448,Martin Kelly,9,0,0,0.0,0,5,2,0,0,0.0,0,0,1,0,0,0,0,0,1,0,3,1,0,0,0,3
+3464,James McArthur,77,2,0,0.16454691999999999,0,37,34,0,0,0.0,1,0,7,2,1,0,4,1,7,1,0,4,5,2,0,20
+3487,Julián Speroni,90,0,0,0.0,0,33,21,0,0,0.0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0
+3693,Damien Delaney,90,0,0,0.0,0,29,23,0,0,0.0,0,0,2,0,0,0,4,1,5,1,4,1,4,1,0,8
+3731,Adrian Mariappa,90,0,0,0.0,0,32,28,0,0,0.0,0,0,3,1,1,1,4,0,3,0,8,1,0,0,0,11
+4116,Sullay Kaikai,45,3,0,0.158311264,1,20,14,0,2,0.21527163,0,0,4,1,0,0,2,2,1,0,0,0,0,2,0,10
+4884,Pape N''Diaye Souaré,90,1,0,0.018566325,0,46,33,0,0,0.0,0,0,5,1,2,0,1,0,4,1,3,3,0,0,0,5
+5489,Mile Jedinak,90,0,0,0.0,0,62,46,0,1,0.030101728,1,1,5,1,1,0,3,0,11,1,3,1,1,2,0,22
+15892,Jordon Mutch,45,0,0,0.0,0,20,14,0,0,0.0,1,1,4,0,1,0,2,2,3,1,0,1,0,2,1,9
+19688,Jason Puncheon,90,5,1,0.36785776899999995,1,48,39,0,1,0.34742764,2,2,10,2,0,0,5,1,8,1,1,0,1,3,0,26
+26699,Emmanuel Adebayor,90,0,0,0.0,0,38,32,0,2,0.048669475000000004,3,2,8,1,1,0,4,0,6,2,0,0,1,0,0,19

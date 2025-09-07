@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3275,Henrikh Mkhitaryan,90,5,0,0.24784021749999996,1,60,40,0,1,0.04921466,3,2,7,2,5,1,3,0,4,0,1,1,0,0,0,11
+3712,Pierre-Emerick Aubameyang,64,3,0,0.84183778,0,7,6,0,0,0.0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,8
+5559,Marco Reus,90,1,0,0.01607993,0,40,31,0,3,0.84183778,1,1,7,2,3,0,2,0,3,1,1,0,3,0,0,10
+5572,Mats Hummels,64,0,0,0.0,0,121,110,0,0,0.0,0,0,22,1,1,1,2,0,8,1,3,1,1,0,0,1
+5684,Shinji Kagawa,90,0,0,0.0,0,39,33,0,1,0.0145691335,2,2,8,0,4,0,1,0,5,1,0,1,1,0,0,9
+8216,Sven Bender,90,0,0,0.0,0,123,114,0,1,0.03331144,3,2,16,2,2,2,4,0,4,1,2,1,1,1,0,7
+8225,Roman Bürki,90,0,0,0.0,0,31,29,0,0,0.0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+8232,Nuri Şahin,90,0,0,0.0,0,126,116,0,3,0.037038719,0,0,16,1,3,1,2,0,5,0,1,0,0,0,0,6
+8233,Gonzalo Castro Randon,26,0,0,0.0,0,19,13,0,1,0.023357594,1,1,2,0,2,0,0,0,0,0,0,0,0,0,0,2
+8244,Sokratis Papastathopoulos,45,0,0,0.0,0,83,80,0,0,0.0,0,0,10,0,4,1,0,0,6,0,2,0,1,0,0,4
+8246,Christian Pulisic,26,1,0,0.015327663,0,24,17,0,0,0.0,0,0,5,0,0,0,0,0,2,1,0,0,0,0,0,2
+11458,Marcel Schmelzer,90,2,0,0.020958789,0,106,95,0,1,0.04291605,0,0,12,1,4,2,2,1,3,0,0,1,2,2,1,6
+13206,Erik Durm,45,1,0,0.04921466,1,33,27,0,0,0.0,0,0,6,1,0,0,2,0,1,0,1,0,1,1,0,6
+24324,Gustavo Adrián Ramos Vásquez,90,0,0,0.0,0,14,12,0,1,0.015327663,1,1,4,2,0,0,1,1,2,0,0,0,0,1,1,6

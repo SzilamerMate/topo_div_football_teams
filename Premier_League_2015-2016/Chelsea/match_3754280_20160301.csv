@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2956,Bertrand Isidore Traoré,58,3,0,0.14398998999999998,0,23,21,1,1,0.36398044,0,0,2,1,0,0,3,1,4,3,2,1,1,2,0,7
+3381,Nemanja Matić,90,2,0,0.13431163499999998,0,54,47,0,0,0.0,1,1,6,1,0,0,3,2,4,2,3,1,4,2,1,6
+3472,Willian Borges da Silva,32,0,0,0.0,0,17,12,0,1,0.097602785,1,0,4,0,0,0,1,0,4,1,0,0,1,0,0,2
+3478,Francesc Fàbregas i Soler,90,1,0,0.08400795,0,86,73,0,4,0.31813669,2,1,5,1,1,0,6,3,4,1,2,3,3,4,1,15
+3509,Thibaut Courtois,90,0,0,0.0,0,36,17,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+3621,Eden Hazard,90,0,0,0.0,0,58,50,1,3,0.176976164,5,4,13,0,4,0,4,0,7,1,2,2,4,1,0,4
+3645,Gary Cahill,90,0,0,0.0,0,23,20,0,0,0.0,0,0,4,0,2,1,3,2,1,0,7,5,2,2,0,6
+3666,Robert Kenedy Nunes do Nascimento,68,1,1,0.056259364,1,49,41,0,0,0.0,1,1,5,0,3,2,4,1,4,0,1,5,3,3,0,5
+3957,César Azpilicueta Tanco,90,0,0,0.0,0,69,56,0,0,0.0,0,0,8,1,2,0,2,0,5,1,4,1,2,1,0,6
+5198,Diego da Silva Costa,90,2,1,0.5381271400000001,1,43,34,0,1,0.033155013,4,3,9,1,2,0,4,0,1,2,0,1,0,0,0,0
+5475,John Michael Nchekwube Obinna,31,0,0,0.0,0,18,17,0,0,0.0,0,0,0,0,0,0,2,0,1,0,3,2,3,0,0,3
+5594,Branislav Ivanović,90,0,0,0.0,0,33,28,0,0,0.0,1,0,1,0,1,0,4,0,5,0,7,1,3,2,0,2
+12325,Abdul Rahman Baba,22,0,0,0.0,0,10,8,0,0,0.0,0,0,0,0,0,0,1,1,1,0,3,1,1,1,0,4
+40122,Oscar dos Santos Emboaba Júnior,59,1,0,0.033155013,0,33,30,0,0,0.0,2,1,5,2,2,0,5,3,1,0,1,0,1,4,1,6

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3004,Oswaldo Augusto Vizcarrondo Araújo,90,0,0,0.0,0,63,44,0,0,0.0,0,0,6,2,0,0,4,1,3,0,1,2,0,1,1,11
+3114,Emiliano Sala,45,1,0,0.028544832,0,10,6,0,0,0.0,0,0,0,0,1,0,11,1,0,0,0,0,1,1,1,14
+3151,Jules Iloki,45,1,0,0.048907835,0,19,12,0,0,0.0,1,1,5,1,0,0,0,0,0,0,0,0,0,0,0,8
+3375,Adrien Thomasson,90,1,0,0.02247615,1,49,38,0,3,0.102397042,2,0,5,2,0,0,2,0,5,0,1,0,2,1,0,31
+3404,Youssouf Sabaly,90,1,0,0.023659008,1,68,46,0,1,0.028544832,2,0,10,2,1,1,2,0,11,1,7,4,0,0,0,14
+4249,Wilfried Moimbé,90,0,0,0.0,0,58,42,0,0,0.0,1,0,8,2,2,1,2,0,5,0,0,4,2,0,0,8
+4380,Guillaume Gillet,90,0,0,0.0,0,52,41,0,2,0.051502742,3,1,5,0,3,1,6,2,10,1,0,1,0,3,1,19
+6284,Kolbeinn Sigþórsson,76,3,0,0.107897228,2,27,20,0,1,0.02247615,1,1,5,1,1,0,7,2,0,3,0,0,2,2,0,10
+10746,Ermir Lenjani,14,2,0,0.055811987,0,6,4,0,0,0.0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,4
+10936,Lorik Agim Cana,90,1,0,0.0881547,1,66,59,0,0,0.0,0,0,7,0,1,1,8,1,4,0,6,1,1,1,0,16
+25377,Rémy Riou,90,0,0,0.0,0,44,34,0,0,0.0,0,0,4,0,0,0,0,0,7,0,0,0,0,0,0,0
+31687,Adryan Oliveira Tavares,60,1,0,0.00794791,1,30,21,0,1,0.0881547,0,0,5,1,2,1,4,1,3,3,0,1,1,1,1,12
+401477,Johan Audel,30,1,0,0.025520954,0,17,11,0,0,0.0,0,0,4,0,0,0,2,0,2,0,0,0,0,0,0,5
+401478,Rémi Gomis,90,1,0,0.037031572,0,73,61,0,0,0.0,0,0,8,3,0,0,3,2,3,0,0,1,0,3,1,18

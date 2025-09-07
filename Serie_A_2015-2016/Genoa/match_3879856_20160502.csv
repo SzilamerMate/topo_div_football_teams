@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5554,Blerim Džemaili,90,0,0,0.0,0,35,34,0,3,0.11793814799999999,1,0,9,1,3,0,2,1,2,0,4,1,3,1,1,37
+5717,Diego Sebastián Laxalt Suárez,90,0,0,0.0,0,43,26,1,2,0.1834097136,3,3,14,1,0,0,2,0,11,4,2,1,2,1,0,20
+6894,Ezequiel Muñoz,90,1,0,0.054414038,0,31,21,0,0,0.0,0,0,3,0,0,0,2,0,2,0,6,1,4,0,0,25
+7022,Jesús Joaquín Fernández Sáez de la Torre,81,5,0,0.19261011899999997,2,39,27,0,3,0.14738501,2,1,6,0,0,0,3,0,5,1,0,1,1,1,0,11
+7146,Goran Pandev,9,0,0,0.0,0,5,4,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7467,Nicolás Andrés Burdisso,90,0,0,0.0,0,35,30,0,0,0.0,0,0,3,0,0,0,1,0,7,0,7,2,2,0,0,12
+7475,Tomás Eduardo Rincón Hernández,90,0,0,0.0,0,38,35,1,2,0.535588654,3,3,6,3,3,0,2,1,3,1,2,1,1,1,1,22
+8180,Leonardo Pavoletti,90,3,1,0.439632334,1,18,13,0,1,0.046198174,1,1,2,0,0,0,11,0,4,1,0,1,0,1,0,14
+9940,Armando Izzo,90,1,0,0.0053012036,0,35,21,0,0,0.0,1,0,4,1,2,0,1,0,7,1,5,3,4,0,0,22
+24683,Diego Ángel Capel Trinidad,21,1,0,0.412925,1,7,4,0,0,0.0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,1
+30772,Panagiotis Tachtsidis,60,3,1,0.2495914,1,31,27,0,1,0.06363566,3,1,9,2,1,1,2,0,4,1,1,1,1,1,0,20
+34355,Riccardo Fiamozzi,69,0,0,0.0,0,23,19,0,0,0.0,2,1,3,0,0,0,1,0,5,0,5,2,1,0,0,11
+38312,Eugenio Lamanna,90,0,0,0.0,0,33,21,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,1
+40457,Giovanni Marchese,30,0,0,0.0,0,18,13,0,0,0.0,0,0,2,2,0,0,1,1,2,0,5,0,0,1,1,6

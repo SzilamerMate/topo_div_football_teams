@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3054,Fernando Luiz Rosa,90,1,0,0.0696508,0,47,39,0,1,0.04043981,1,1,7,3,1,0,4,1,11,4,1,1,3,1,0,22
+3064,David Josué Jiménez Silva,90,0,0,0.0,0,70,54,0,1,0.0696508,7,4,15,1,1,0,2,1,12,5,1,2,0,2,0,24
+3087,Gnégnéri Yaya Touré,78,1,0,0.021324355,0,51,42,0,1,0.008881683,2,2,9,0,1,0,4,2,3,3,2,2,0,2,2,7
+3090,Nicolás Hernán Otamendi,90,0,0,0.0,0,28,21,0,0,0.0,1,0,8,2,1,1,5,2,3,0,15,2,4,4,0,16
+3233,Raheem Sterling,15,0,0,0.0,0,3,2,0,0,0.0,0,0,0,1,0,0,1,0,0,1,0,1,0,1,0,2
+3237,Sergio Leonel Agüero del Castillo,90,4,1,0.482857574,2,19,15,0,0,0.0,3,1,7,3,0,0,4,2,4,4,1,1,3,2,0,17
+3291,Joe Hart,90,0,0,0.0,0,27,13,0,0,0.0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0
+3708,Kelechi Promise Iheanacho,45,0,0,0.0,0,17,14,0,2,0.055564958,0,0,1,3,1,0,3,0,4,2,1,0,0,1,0,10
+5596,Aleksandar Kolarov,12,0,0,0.0,0,6,4,0,0,0.0,1,0,0,0,0,0,2,0,2,3,1,1,0,0,0,1
+6821,Jesús Navas González,75,1,0,0.008881683,0,34,22,0,0,0.0,1,1,5,2,1,0,0,0,1,2,0,3,2,0,0,9
+7110,Bacary Sagna,90,0,0,0.0,0,56,43,0,0,0.0,1,1,2,0,1,0,5,1,3,0,4,2,2,2,1,4
+16003,Fernando Francisco Reges,45,0,0,0.0,0,22,20,0,0,0.0,0,0,2,0,0,0,1,1,0,0,3,1,3,1,0,7
+19288,Martín Gastón Demichelis,90,0,0,0.0,0,36,28,0,0,0.0,1,1,3,2,1,1,3,1,5,1,11,1,2,2,1,6
+20302,Gaël Clichy,90,0,0,0.0,0,47,27,0,0,0.0,3,2,4,0,0,0,4,2,3,1,4,5,1,3,1,16

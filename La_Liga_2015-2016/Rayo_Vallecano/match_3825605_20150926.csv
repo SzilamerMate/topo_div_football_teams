@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6713,Diego Javier Llorente Ríos,90,0,0,0.0,0,43,36,0,1,0.022337029,1,1,7,3,1,0,6,0,3,0,6,4,4,3,0,7
+6852,Jozabed Sánchez Ruiz,90,2,0,0.25251441599999996,1,37,33,0,1,0.009391015,3,2,8,1,2,0,0,0,5,0,1,0,1,0,0,10
+7900,Tiago Manuel Dias Correia,90,4,1,0.058984855499999995,2,24,17,1,1,0.015414222,4,3,11,1,2,0,6,3,3,2,1,0,2,4,1,14
+10727,Răzvan Dincă Raț,90,2,0,0.0279229398,0,54,35,0,2,0.0435313345,0,0,6,1,0,0,2,0,2,2,5,3,2,1,0,4
+11298,José Ignacio Martínez García,90,2,0,0.06564662,0,60,47,0,1,0.008417112,0,0,5,2,0,0,2,0,4,1,0,1,1,0,0,15
+11539,Adrián Embarba Blázquez,63,0,0,0.0,0,21,17,0,1,0.024251807,4,1,6,1,1,0,2,1,2,0,0,1,0,1,1,9
+11542,Javier Guerra Rodríguez,79,2,1,0.036643504,1,23,21,0,2,0.119637528,5,4,10,2,3,0,3,1,1,1,0,0,1,1,1,9
+11543,José Antonio Dorado Ramírez,6,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,2
+23761,Alhassane Bangoura,27,2,0,0.029415251999999996,0,7,5,0,0,0.0,4,3,6,1,0,0,3,1,0,0,0,0,1,2,0,5
+26070,Antonio Rodríguez Martínez,90,0,0,0.0,0,39,29,0,0,0.0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0
+26607,José Raúl Baena Urdiales,90,1,0,0.030354833,0,32,28,0,2,0.026584050799999998,2,1,8,3,1,0,2,0,6,2,0,3,0,1,0,22
+26690,Alberto Mateus Contreiras Gonçalves,11,1,0,0.043450195,0,4,2,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+26848,Roberto Trashorras Gayoso,84,2,0,0.114301282,1,67,58,0,3,0.088480403,1,0,5,2,1,0,3,0,8,2,0,3,1,2,0,7
+27144,Antonio Amaya Carazo,90,0,0,0.0,0,45,36,0,0,0.0,1,1,6,2,0,0,3,0,0,0,5,3,1,0,0,8

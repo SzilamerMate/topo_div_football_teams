@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3253,Adil Rami,45,0,0,0.0,0,29,26,0,0,0.0,1,0,2,0,0,0,0,0,1,0,2,0,3,0,0,1
+3486,Fernando Llorente Torres,90,3,0,0.5048601859999999,1,26,19,0,1,0.036414392,5,3,8,2,0,0,0,0,1,2,2,1,2,0,0,8
+3497,Vicente Iborra De La Fuente,72,2,1,0.36953516999999997,2,27,17,0,1,0.33701262,1,1,2,3,2,0,1,0,5,0,0,0,3,0,0,10
+3637,Grzegorz Krychowiak,90,2,0,0.04817025,0,55,47,0,1,0.068402246,0,0,16,0,2,0,5,2,8,1,5,2,3,3,0,12
+5504,Éver Maximiliano David Banega,18,0,0,0.0,0,22,15,0,0,0.0,4,3,7,0,2,0,1,1,4,1,0,1,1,1,1,3
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,26,0,0,0.0,0,19,18,0,0,0.0,0,0,5,0,0,0,2,1,2,0,0,1,0,2,1,3
+6672,Jorge Andújar Moreno,90,3,0,0.414976057,2,45,31,0,1,0.10584517,2,0,7,2,1,0,1,1,5,1,0,0,4,1,1,14
+6718,Sergio Escudero Palomo,90,0,0,0.0,0,56,41,0,3,0.405821205,2,1,7,4,1,0,4,3,4,0,3,2,3,4,2,15
+6823,Sergio Rico González,90,0,0,0.0,0,40,33,0,0,0.0,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0
+6825,Daniel Filipe Martins Carriço,90,1,0,0.09261098,1,44,38,0,0,0.0,1,0,9,1,0,0,4,1,2,0,6,5,1,1,0,7
+7154,Sebastián Carlos Cristóforo Pepe,64,2,0,0.105219212,0,45,41,0,0,0.0,1,1,8,4,2,2,7,3,5,1,0,0,0,4,1,16
+8523,Yevhen Konoplyanka,90,5,0,0.266866517,2,52,36,0,4,0.25539369300000003,4,4,20,1,1,0,0,0,5,3,0,2,2,0,0,2
+10476,Timothée Kolodziejczak,45,0,0,0.0,0,21,20,0,0,0.0,0,0,4,0,0,0,3,0,1,0,2,0,1,1,0,6
+21210,Mariano Ferreira Filho,90,0,0,0.0,0,39,30,0,2,0.13269163,2,2,8,0,0,0,4,1,2,1,1,3,4,3,0,2

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6686,Giampaolo Pazzini,90,0,0,0.0,0,23,13,0,1,0.06703344,1,0,2,1,1,0,10,0,3,6,0,0,0,0,0,14
+7695,Samuel Souprayen,12,0,0,0.0,0,8,4,0,0,0.0,0,0,1,0,1,1,1,1,3,1,3,0,1,1,1,4
+7770,Federico Viviani,90,0,0,0.0,0,66,47,1,3,0.347610245,3,2,4,2,5,1,4,1,6,0,4,2,1,3,0,17
+7794,Samir Caetano de Souza Santos,90,2,1,0.09987537499999999,1,22,21,0,0,0.0,0,0,1,0,2,1,7,2,2,0,9,4,1,5,1,12
+7949,Artur Ioniţă,90,0,0,0.0,0,41,37,0,0,0.0,0,0,10,1,0,0,4,3,5,1,3,2,1,3,1,33
+8274,Pierluigi Gollini,90,0,0,0.0,0,39,21,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+8421,Matteo Bianchetti,90,0,0,0.0,0,31,27,0,0,0.0,0,0,3,2,0,0,7,0,1,0,10,0,1,3,0,15
+8463,Urby Emanuelson,65,0,0,0.0,0,28,21,0,0,0.0,3,0,3,0,2,0,4,2,6,1,1,0,1,2,0,15
+11339,Paweł Wszołek,90,0,0,0.0,0,22,15,0,0,0.0,3,2,11,5,2,0,6,2,7,3,0,0,3,2,1,19
+11342,Eros Pisano,90,0,0,0.0,0,48,32,0,0,0.0,0,0,6,2,1,0,2,1,2,0,4,3,4,2,1,6
+25303,Gilberto Moraes Junior,25,0,0,0.0,0,8,1,0,0,0.0,0,0,1,1,1,0,2,1,3,2,1,0,1,2,1,13
+31572,Luca Marrone,17,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,4
+386650,Michelangelo Albertazzi,78,0,0,0.0,0,33,26,0,0,0.0,0,0,2,1,0,0,3,0,4,1,4,1,2,2,0,13
+386651,Juan Ignacio Gómez Taleb,73,2,0,0.31476831,0,23,14,0,0,0.0,0,0,6,2,2,2,11,2,4,1,1,0,6,3,1,17

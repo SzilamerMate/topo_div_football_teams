@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3026,Adrien Rabiot,90,1,0,0.04916204,0,27,24,0,0,0.0,1,0,6,2,1,1,3,2,2,0,0,0,0,3,2,6
+3166,Marco Verratti,72,0,0,0.0,0,68,61,0,0,0.0,3,2,9,2,1,1,5,3,6,1,3,1,3,4,2,18
+3295,Thiago Emiliano da Silva,90,0,0,0.0,0,44,41,0,0,0.0,0,0,0,1,1,0,1,0,2,0,12,2,2,1,0,2
+3481,Serge Aurier,90,0,0,0.0,0,34,22,0,0,0.0,2,2,3,2,3,2,5,2,6,4,5,1,2,4,1,17
+3745,Lucas Rodrigues Moura da Silva,88,2,1,1.03779552,1,28,18,0,1,0.04916204,5,2,15,0,1,0,6,2,7,5,1,0,1,2,1,4
+3956,David Luiz Moreira Marinho,90,0,0,0.0,0,42,39,0,0,0.0,1,1,5,2,2,0,2,1,2,0,3,3,2,2,0,10
+4319,Edinson Roberto Cavani Gómez,90,2,0,0.26461683,1,29,25,0,0,0.0,5,2,3,2,3,0,2,1,3,1,0,0,2,1,1,12
+4325,Thiago Motta,45,0,0,0.0,0,34,31,0,0,0.0,2,2,2,4,4,0,1,1,1,1,3,0,0,1,0,11
+4370,Javier Matías Pastore,45,1,0,0.06364755,0,28,17,0,0,0.0,1,1,7,0,1,0,3,1,2,2,0,0,0,2,0,6
+4375,Blaise Matuidi,90,0,0,0.0,0,39,36,1,2,1.02773365,2,2,8,2,4,2,0,0,5,3,3,2,5,0,0,13
+4440,Kevin Trapp,90,0,0,0.0,0,19,8,0,0,0.0,0,0,1,0,1,1,0,0,2,0,0,0,0,0,0,0
+8510,Jean-Kévin Augustin,2,0,0,0.0,0,1,1,0,1,0.18843307,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+8515,Benjamin Stambouli,18,0,0,0.0,0,9,7,0,0,0.0,0,0,0,2,1,0,0,0,4,0,0,2,1,0,0,1
+26613,Maxwell Scherrer Cabelino Andrade,90,0,0,0.0,0,43,41,0,0,0.0,2,1,5,2,0,0,2,1,1,2,1,3,5,2,1,5

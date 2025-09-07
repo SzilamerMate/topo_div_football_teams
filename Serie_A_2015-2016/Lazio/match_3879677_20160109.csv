@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3145,Keita Baldé Diao,86,2,1,0.42915372,2,18,10,0,0,0.0,3,1,10,1,3,0,1,0,6,1,0,1,1,0,0,14
+3588,Wesley Hoedt,90,0,0,0.0,0,30,21,0,0,0.0,0,0,3,4,0,0,0,0,1,0,0,1,3,0,0,10
+5510,Lucas Rodrigo Biglia,90,0,0,0.0,0,48,41,0,1,0.12800138,3,3,4,3,3,0,5,3,7,1,2,3,3,4,1,41
+5589,Sergej Milinković-Savić,90,3,1,0.37316143999999996,1,30,21,0,0,0.0,3,2,2,2,1,1,10,4,3,0,1,2,4,6,3,29
+6991,Etrit Berisha,90,0,0,0.0,0,25,15,0,0,0.0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0
+7776,Antonio Candreva,90,1,0,0.0769643,0,30,21,1,3,0.619885228,1,0,7,1,2,0,1,1,6,0,1,1,1,1,0,15
+7778,Ştefan Daniel Radu,75,0,0,0.0,0,39,26,0,2,0.16009447499999999,3,2,4,1,1,1,2,0,4,0,3,1,0,2,0,15
+8172,Felipe Anderson Pereira Gomes,4,1,1,0.29593024,1,1,1,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,4
+8173,Marco Parolo,90,1,0,0.044011638,0,24,17,0,1,0.0769643,0,0,0,1,0,0,7,2,4,1,1,1,8,4,1,43
+8296,Alessandro Matri,27,1,0,0.27994335,1,8,4,0,0,0.0,0,0,1,1,1,0,1,0,1,1,1,0,0,0,0,6
+8459,Edson Braafheid,15,0,0,0.0,0,3,1,0,0,0.0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,5
+9939,Maurício dos Santos Nascimento,90,0,0,0.0,0,21,14,0,0,0.0,1,1,2,5,0,0,3,1,0,0,7,0,1,1,0,9
+11427,Filip Đorđević,63,1,0,0.042678535,0,16,12,1,2,0.37497573,0,0,2,2,1,0,2,0,3,0,1,0,0,0,0,32
+26683,Abdoulay Konko,90,0,0,0.0,0,53,31,0,0,0.0,1,1,8,3,2,2,2,0,5,1,1,1,3,1,0,12

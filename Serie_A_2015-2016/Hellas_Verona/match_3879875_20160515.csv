@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6686,Giampaolo Pazzini,90,6,0,0.102637129,0,28,24,0,1,0.026019542,1,1,1,2,1,0,2,0,2,4,2,0,0,0,0,8
+7694,Rômulo Souza Orestes Caldeira,45,0,0,0.0,0,29,28,1,2,0.07675768429999999,1,1,4,1,3,0,1,0,3,0,0,0,3,0,0,6
+7770,Federico Viviani,90,2,1,0.079822797,1,103,90,1,3,0.1911891347,2,2,6,3,3,0,0,0,8,0,0,2,4,0,0,17
+7949,Artur Ioniţă,45,1,0,0.31625852,0,13,12,0,2,0.041946795999999995,0,0,3,2,0,0,3,2,3,1,1,0,2,2,1,23
+7966,Filip Helander,90,0,0,0.0,0,54,52,0,0,0.0,0,0,6,2,1,1,1,0,1,0,7,3,2,0,0,6
+8274,Pierluigi Gollini,90,0,0,0.0,0,24,17,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+8421,Matteo Bianchetti,90,0,0,0.0,0,57,51,0,0,0.0,0,0,12,3,2,2,3,0,5,0,7,3,1,1,0,18
+8463,Urby Emanuelson,90,0,0,0.0,0,84,76,0,0,0.0,2,1,11,0,2,0,5,2,8,2,1,3,0,4,0,7
+8717,Dominik Furman,20,0,0,0.0,0,17,15,0,0,0.0,0,0,7,2,0,0,0,0,0,0,0,0,0,0,0,10
+11339,Paweł Wszołek,90,0,0,0.0,0,17,15,0,1,0.026361354,1,0,4,1,1,1,2,1,3,1,1,0,0,1,0,7
+11342,Eros Pisano,90,1,1,0.16501334,1,72,57,0,0,0.0,0,0,5,0,3,1,1,0,4,0,5,0,0,1,0,6
+11494,Luca Siligardi,79,4,0,0.070032728,0,41,34,0,1,0.31625852,1,1,10,2,0,0,0,0,2,3,2,1,3,0,0,22
+31572,Luca Marrone,70,0,0,0.0,0,60,54,0,0,0.0,0,0,9,0,1,0,1,1,1,1,0,0,0,1,1,8
+386652,Luca Checchin,11,0,0,0.0,0,9,9,0,0,0.0,0,0,2,2,1,0,1,0,0,0,0,0,0,1,0,4

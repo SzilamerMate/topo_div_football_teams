@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3063,Danilo Luiz da Silva,28,1,0,0.021149408,0,17,13,0,0,0.0,1,0,4,3,0,0,1,1,1,0,1,1,1,1,0,3
+3990,Jesé Rodríguez Ruiz,75,1,1,0.70989615,1,30,22,1,1,0.3494427,2,0,8,0,1,0,4,3,8,3,1,0,1,4,0,22
+4926,Francisco Román Alarcón Suárez,90,1,0,0.030719228,0,72,66,0,0,0.0,11,9,14,1,2,0,4,2,6,1,0,0,3,3,1,8
+5200,Lucas Vázquez Iglesias,90,1,1,0.19110347,1,49,44,0,2,0.66996261,1,0,4,0,2,1,6,5,3,4,0,2,0,5,2,20
+5202,José Ignacio Fernández Iglesias,90,0,0,0.0,0,39,32,0,0,0.0,0,0,1,2,2,0,5,0,1,0,3,6,2,3,0,11
+5207,Cristiano Ronaldo dos Santos Aveiro,90,7,1,1.2686467659999998,3,35,25,2,3,0.9589495359999999,2,2,7,1,2,0,1,0,2,3,0,0,2,0,0,4
+5456,Mateo Kovačić,37,1,0,0.057949916,0,38,32,0,0,0.0,1,1,2,0,1,0,1,0,1,0,0,0,0,0,0,6
+5539,Carlos Henrique Casimiro,53,0,0,0.0,0,40,36,0,0,0.0,0,0,3,2,2,0,1,0,7,1,3,3,3,0,0,11
+5695,James David Rodríguez Rubio,90,2,1,0.10857372,1,69,56,0,5,0.344705322,4,2,7,3,2,0,6,2,8,1,0,3,1,4,1,22
+5721,Daniel Carvajal Ramos,62,0,0,0.0,0,45,39,0,0,0.0,0,0,0,0,1,0,3,1,5,0,1,0,2,3,0,12
+6706,Francisco Casilla Cortés,90,0,0,0.0,0,23,14,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+20016,Kléper Laveran Lima Ferreira,90,1,0,0.086288616,0,51,44,0,0,0.0,0,0,2,1,0,0,1,0,4,1,11,2,0,0,0,8
+20215,Álvaro Arbeloa Coca,90,0,0,0.0,0,70,59,0,0,0.0,1,1,5,1,1,0,7,1,6,2,4,2,1,5,0,17
+21147,Borja Mayoral Moya,15,0,0,0.0,0,4,3,0,1,0.024967402,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,4

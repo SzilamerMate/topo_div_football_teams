@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5687,Takashi Inui,90,3,0,0.063567758,2,29,20,0,1,0.12959452,3,2,5,1,0,0,3,2,7,6,1,0,1,2,2,24
+6557,Adrián González Morales,69,0,0,0.0,0,33,26,0,1,0.036923774,1,1,1,1,0,0,1,0,3,0,1,1,3,0,0,12
+6699,Ander Capa Rodríguez,90,1,0,0.007098317,0,49,27,0,0,0.0,0,0,9,3,0,0,3,2,3,2,2,9,1,2,0,15
+6700,Sergio Enrich Ametller,85,2,0,0.144544443,1,26,20,0,0,0.0,0,0,1,5,4,4,7,0,1,0,0,0,4,0,0,23
+6712,Gonzalo Escalante,90,0,0,0.0,0,29,25,0,0,0.0,1,1,4,7,0,0,7,3,6,1,0,2,4,5,3,31
+6775,Daniel García Carrillo,90,1,0,0.026898833,0,59,46,0,1,0.014949923,0,0,3,6,1,1,3,2,5,0,2,3,2,2,0,24
+6776,David Juncà Reñé,90,0,0,0.0,0,46,30,0,0,0.0,2,2,9,0,1,1,4,3,2,1,2,2,3,3,2,13
+6837,Mauro Javier Dos Santos,90,0,0,0.0,0,18,11,0,0,0.0,0,0,0,1,0,0,1,1,0,0,2,1,2,1,1,2
+7170,Simone Verdi,21,0,0,0.0,0,9,9,0,0,0.0,0,0,0,4,0,0,1,0,1,1,0,0,1,1,0,8
+9403,Izet Hajrović,5,0,0,0.0,0,4,4,0,0,0.0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,6
+10763,Asier Riesgo Unamuno,90,0,0,0.0,0,28,17,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+24070,Saúl Berjón Pérez,85,0,0,0.0,0,44,19,0,1,0.09329973,1,1,13,1,0,0,3,0,4,6,1,2,1,2,0,14
+27239,Aleksandar Pantić,90,1,0,0.09329973,0,25,16,0,0,0.0,0,0,2,1,0,0,3,0,4,0,4,1,5,0,0,5
+197493,Mikel Arruabarrena Aranbide,5,0,0,0.0,0,3,3,0,0,0.0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2

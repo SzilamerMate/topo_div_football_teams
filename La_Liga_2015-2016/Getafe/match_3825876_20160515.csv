@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6625,Vicente Guaita Panadero,90,0,0,0.0,0,20,16,0,0,0.0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0
+6627,Damián Nicolás Suárez Suárez,90,0,0,0.0,0,55,39,1,1,0.07083864,0,0,3,3,0,0,3,2,4,1,2,0,1,2,1,15
+6720,Pablo Sarabia García,90,2,0,0.16066533,1,38,31,0,7,0.9586974730000001,4,0,13,1,0,0,5,1,10,0,0,2,2,2,1,29
+6736,Álvaro Medrán Just,90,1,1,0.07083864,1,29,25,0,0,0.0,2,1,12,5,2,0,4,2,5,4,0,1,1,2,1,21
+6861,Juan Torres Ruiz,90,0,0,0.0,0,32,28,0,0,0.0,1,0,9,4,1,1,3,2,8,0,2,1,4,2,1,12
+6907,Pedro León Sánchez Gil,90,3,0,0.155103883,1,42,26,0,2,0.15029238,6,5,17,2,5,1,2,0,4,2,0,1,1,0,0,14
+11675,Moisés Gómez Bordonado,63,1,0,0.03058451,0,31,25,0,1,0.011193357,2,1,5,3,1,0,0,0,5,0,0,1,1,0,0,14
+11813,Emiliano Buendía,34,0,0,0.0,0,7,7,0,0,0.0,1,0,2,3,1,0,0,0,1,3,0,0,0,0,0,3
+23416,Stefan Šćepović,90,3,0,0.819796525,1,19,13,0,2,0.12198413,0,0,0,1,2,0,0,0,0,2,1,0,1,0,0,14
+24035,Álvaro Vázquez García,23,1,0,0.029945375,0,4,3,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+25881,Juan Antonio Rodríguez Villamuela,56,1,0,0.07116478,1,19,13,0,0,0.0,0,0,2,4,0,0,6,2,2,0,1,2,0,3,1,9
+27092,Abdoul Karim Yoda,27,1,0,0.0404464,0,14,6,0,0,0.0,4,3,8,2,0,0,0,0,4,2,0,0,1,0,0,3
+27402,Álvaro Daniel Pereira Barragán,67,1,0,0.011193357,0,31,21,0,0,0.0,0,0,2,2,0,0,5,4,1,0,2,1,1,4,1,17
+27403,Santiago Vergini,90,0,0,0.0,0,37,34,0,0,0.0,0,0,7,1,0,0,0,0,5,1,1,2,0,0,0,4

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2955,Ronny Rodelin,90,2,1,0.19192367,1,43,28,0,3,0.29122443600000003,0,0,5,1,1,0,5,1,5,2,0,1,2,1,1,11
+2959,Julien Féret,90,0,0,0.0,0,29,21,1,2,0.12292428200000001,4,3,4,0,1,0,3,0,6,3,4,6,3,2,0,10
+2963,Rémy Vercoutre,90,0,0,0.0,0,28,12,0,0,0.0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0
+2970,Christian Kouakou Yao,9,0,0,0.0,0,3,3,0,0,0.0,1,0,1,0,0,0,2,0,2,1,0,0,0,0,0,5
+2991,Hervé Bazile,17,0,0,0.0,0,7,6,1,1,0.29361144,2,1,2,0,0,0,0,0,0,1,0,0,0,0,0,1
+2992,Vincent Bessat,90,1,0,0.024334192,0,49,38,0,0,0.0,1,1,9,0,0,0,1,0,9,1,2,2,1,0,0,4
+3038,Andy Delort,81,5,1,0.63547268,3,33,23,0,5,0.409731011,1,0,9,1,2,1,4,0,7,5,0,1,1,0,0,10
+5656,Syam Ben Youssef,90,0,0,0.0,0,33,21,0,0,0.0,0,0,5,2,0,0,9,4,2,0,5,2,1,6,0,17
+7344,Jordan Adéoti,90,0,0,0.0,0,18,12,0,0,0.0,3,2,5,3,0,0,2,0,4,1,5,4,5,1,0,14
+7444,Alaeddine Yahia,90,0,0,0.0,0,16,9,0,0,0.0,0,0,1,2,1,0,3,2,2,0,11,0,2,2,0,8
+13592,Alexandre Raineau,3,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,3
+22111,Dennis Appiah,90,3,0,0.091377945,1,52,42,0,0,0.0,5,1,8,1,0,0,3,2,9,3,1,2,3,2,1,13
+40701,Jordan Leborgne,87,0,0,0.0,0,27,16,0,0,0.0,2,2,6,0,1,0,5,1,7,3,2,2,1,2,0,15
+106683,Saïdi Ntibazonkiza,73,5,0,0.45164349299999995,1,22,13,0,1,0.03577306,1,1,6,2,3,1,2,0,6,1,0,1,2,1,0,9

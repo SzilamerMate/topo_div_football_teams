@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3049,Matt Ritchie,88,3,1,0.04986646,1,41,29,0,1,0.053225473,2,1,4,3,0,0,4,0,11,5,0,0,2,1,0,25
+3085,Glenn Murray,16,1,0,0.010145112,1,4,3,0,0,0.0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0,6
+3341,Steve Cook,90,0,0,0.0,0,46,36,0,0,0.0,0,0,9,1,0,0,1,0,2,0,3,0,0,0,0,3
+3343,Dan Gosling,90,0,0,0.0,0,55,45,1,6,0.204201372,2,1,6,3,1,0,7,3,5,0,2,1,4,3,1,18
+3344,Andrew Surman,90,1,0,0.039306756,0,53,48,0,1,0.020883983,1,1,5,3,0,0,2,0,6,2,3,0,4,0,0,16
+3345,Charlie Daniels,90,0,0,0.0,0,57,44,0,1,0.1450499,2,2,6,2,3,1,6,6,2,2,1,1,2,6,2,13
+3608,Simon Francis,90,0,0,0.0,0,62,48,0,2,0.064076522,4,2,9,1,1,0,10,3,4,0,3,2,0,5,0,10
+3616,Callum Wilson,74,2,1,0.07760251600000001,1,20,16,0,0,0.0,5,2,3,2,6,0,6,0,3,5,0,0,2,0,0,17
+3646,Marc Pugh,90,5,0,0.181250949,1,42,32,0,1,0.010145112,3,2,15,0,3,0,4,1,10,3,1,0,3,2,0,8
+4738,Lee Tomlin,64,1,0,0.025731878,1,19,14,0,0,0.0,6,3,6,0,1,0,4,0,1,1,0,0,2,1,0,25
+6409,Adam Smith,2,1,0,0.044645246,0,3,3,0,1,0.046460558,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4
+13248,Eunan O''Kane,26,0,0,0.0,0,15,14,0,0,0.0,1,1,4,0,0,0,1,0,1,1,1,0,0,0,0,7
+20074,Artur Boruc,90,0,0,0.0,0,30,19,0,0,0.0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+40218,Sylvain Distin,90,1,0,0.1450499,0,59,50,0,0,0.0,0,0,7,0,0,0,2,0,6,1,8,0,1,0,0,5

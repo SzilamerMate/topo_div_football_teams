@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3321,Patrick van Aanholt,90,2,0,0.0391259318,0,40,33,0,0,0.0,2,2,11,1,1,0,4,3,7,1,3,0,3,3,2,20
+3337,Jermain Defoe,85,1,1,0.29319227,1,24,18,0,0,0.0,2,2,3,0,0,0,4,0,6,0,0,0,0,1,0,16
+4217,Danny Graham,66,1,0,0.08177785,1,14,4,0,0,0.0,1,0,0,2,0,0,6,0,1,2,2,0,4,0,0,11
+4429,Yann Gérard M''Vila,90,0,0,0.0,0,55,41,0,4,0.1433077048,4,4,7,1,2,2,3,1,11,3,0,0,0,1,1,24
+6300,Sebastián Coates Nión,90,1,0,0.06437001,0,20,15,0,0,0.0,0,0,1,2,0,0,4,3,4,0,6,3,0,3,0,14
+6871,Costel Fane Pantilimon,90,0,0,0.0,0,37,20,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+9554,Steven Fletcher,24,0,0,0.0,0,6,3,0,0,0.0,1,1,2,1,1,0,4,0,0,0,0,0,0,0,0,2
+10503,Billy Jones,90,0,0,0.0,0,30,18,0,1,0.082863525,1,1,6,1,0,0,2,1,0,0,0,0,3,2,0,17
+10783,Lee Cattermole,90,0,0,0.0,0,39,31,0,0,0.0,1,0,8,1,1,0,4,3,8,0,3,0,1,3,1,20
+16457,Jeremain Lens,93,2,0,0.11883224,0,35,15,1,1,0.29319227,6,3,15,5,4,1,1,0,7,2,1,0,1,0,0,19
+16890,John O''Shea,90,1,0,0.04369689,0,27,20,0,0,0.0,0,0,3,1,1,1,2,0,6,0,7,0,0,1,0,10
+18751,Jack Rodwell,90,2,0,0.112550348,0,31,24,0,1,0.04223536,0,0,3,3,2,1,6,2,5,0,2,1,1,4,2,32
+22281,Duncan Watmore,5,0,0,0.0,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

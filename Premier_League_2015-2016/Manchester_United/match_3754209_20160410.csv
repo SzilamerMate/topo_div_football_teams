@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2988,Memphis Depay,14,0,0,0.0,0,5,2,0,0,0.0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,3
+3293,Jesse Lingard,90,2,0,0.13308207500000002,0,44,39,0,0,0.0,0,0,4,1,0,0,5,1,4,2,0,2,2,2,1,25
+3294,Juan Manuel Mata García,76,0,0,0.0,0,41,34,0,1,0.031551704,3,2,5,0,2,0,2,0,7,2,1,5,3,0,0,8
+3311,Daley Blind,90,0,0,0.0,0,43,29,0,1,0.14610139,0,0,2,0,0,0,7,1,1,0,4,4,1,3,1,14
+3318,Marcus Rashford,45,0,0,0.0,0,11,5,0,0,0.0,0,0,2,1,0,0,3,0,1,1,0,0,0,0,0,8
+3333,David de Gea Quintana,90,0,0,0.0,0,30,16,0,0,0.0,0,0,1,0,0,0,0,0,3,0,1,0,0,0,0,0
+3465,Timothy Evans Fosu-Mensah,67,1,0,0.031551704,0,37,19,0,0,0.0,1,1,5,0,1,1,6,4,3,2,5,6,1,4,0,6
+3600,Morgan Schneiderlin,90,0,0,0.0,0,49,42,0,0,0.0,2,2,4,2,1,0,4,2,10,4,1,6,1,4,1,21
+3602,Faustino Marcos Alberto Rojo,90,1,0,0.022236804,0,75,53,0,1,0.17508154,0,0,10,2,2,1,4,2,4,0,2,3,1,3,1,15
+3612,Ashley Young,45,0,0,0.0,0,19,14,0,0,0.0,2,1,0,2,1,0,4,1,2,1,0,0,1,1,0,10
+4587,Matteo Darmian,23,0,0,0.0,0,9,8,0,0,0.0,0,0,0,2,1,1,3,1,1,0,1,0,1,3,1,6
+4751,Michael Carrick,90,0,0,0.0,0,44,37,0,1,0.022236804,0,0,1,0,0,0,2,2,2,0,2,1,2,2,0,9
+10958,Chris Smalling,90,1,0,0.14610139,0,29,20,0,0,0.0,1,1,2,1,0,0,5,0,2,0,8,5,1,4,0,15
+20039,Anthony Martial,90,1,0,0.17508154,1,45,28,0,1,0.043568965,6,4,15,1,2,2,3,0,12,6,0,0,4,0,0,14

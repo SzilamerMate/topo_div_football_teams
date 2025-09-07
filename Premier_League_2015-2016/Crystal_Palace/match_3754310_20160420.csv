@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3277,Yohan Cabaye,65,0,0,0.0,0,35,31,0,0,0.0,2,0,4,0,1,0,3,3,5,1,1,6,3,3,1,15
+3326,Chung-Yong Lee,59,0,0,0.0,0,14,12,0,1,0.12302865,3,1,3,0,0,0,1,0,1,5,0,1,1,0,0,16
+3448,Martin Kelly,90,0,0,0.0,0,44,36,0,0,0.0,1,0,4,2,0,0,3,0,3,0,4,1,0,3,0,16
+3464,James McArthur,25,0,0,0.0,0,8,6,0,0,0.0,0,0,0,1,0,0,0,0,2,0,1,0,1,0,0,7
+3469,Bakary Sako,90,3,0,0.060610943,0,30,25,0,0,0.0,4,2,12,0,1,1,4,3,3,0,1,2,1,3,2,12
+3487,Julián Speroni,90,0,0,0.0,0,35,20,0,0,0.0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0
+3507,Wilfried Zaha,90,1,0,0.037294954,0,20,13,0,1,0.014420888,7,7,14,0,6,0,6,4,6,6,0,2,1,4,4,28
+3693,Damien Delaney,90,0,0,0.0,0,19,17,0,0,0.0,0,0,0,0,0,0,1,0,1,0,7,2,1,0,0,3
+3731,Adrian Mariappa,90,0,0,0.0,0,36,30,0,0,0.0,2,1,9,1,2,2,6,2,5,1,5,2,3,4,2,11
+4884,Pape N''Diaye Souaré,90,0,0,0.0,0,35,25,0,0,0.0,1,1,3,2,0,0,3,0,5,5,4,3,2,2,0,6
+5489,Mile Jedinak,90,0,0,0.0,0,40,31,0,0,0.0,0,0,2,3,1,1,3,1,5,0,2,2,1,1,0,16
+15892,Jordon Mutch,31,0,0,0.0,0,5,4,0,0,0.0,1,1,2,1,0,0,1,0,1,1,0,0,1,1,0,13
+20641,Connor Wickham,16,0,0,0.0,0,6,3,0,1,0.026160775,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,5
+26699,Emmanuel Adebayor,74,1,0,0.12302865,0,30,22,0,0,0.0,2,1,9,0,1,0,3,0,1,4,0,0,0,0,0,10

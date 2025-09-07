@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2990,Benjamin André,90,0,0,0.0,0,65,58,0,2,0.0214335835,5,4,9,3,4,2,6,1,6,4,3,0,5,2,1,31
+2994,Abdoulaye Diallo,90,0,0,0.0,0,24,21,0,0,0.0,0,0,3,0,0,0,0,0,9,0,0,0,0,0,0,0
+3018,Giovanni-Guy Yann Sio,69,6,1,0.6599099867,3,16,13,0,2,0.06313569399999999,3,2,5,2,0,0,2,0,4,0,0,0,0,0,0,6
+3022,Fallou Diagne,90,1,0,0.0045949887,0,42,35,0,1,0.026717223,0,0,5,1,0,0,6,0,6,0,5,0,1,2,0,12
+3250,Edson André Sitoe,90,0,0,0.0,0,33,28,0,1,0.0045949887,1,0,2,0,0,0,2,1,4,0,5,1,2,1,1,6
+3292,Abdoulaye Doucouré,90,1,0,0.11175142,1,41,35,0,0,0.0,0,0,8,1,0,0,5,1,1,1,0,0,1,1,0,12
+3424,Cheikh M''Bengue,66,0,0,0.0,0,50,38,0,1,0.19064273,1,0,6,3,0,0,3,2,6,2,1,1,0,3,1,10
+3753,Pedro Filipe Teodósio Mendes,90,1,0,0.069568574,0,39,31,0,0,0.0,2,2,8,0,1,1,2,0,9,0,2,0,1,1,0,14
+4475,Romain Danzé,90,2,0,0.458787926,1,74,46,1,2,0.38569622,3,3,11,1,0,0,4,1,6,1,3,1,2,1,0,19
+4909,Jeremie Boga,24,0,0,0.0,0,8,4,0,0,0.0,1,1,7,0,1,0,0,0,0,1,0,0,1,0,0,2
+5667,Kamil Grosicki,29,3,0,0.0844685915,1,20,15,0,1,0.3768541,0,0,8,1,0,0,0,0,1,0,0,0,0,0,0,2
+8672,Gélson da Conceição Tavares Fernandes,21,0,0,0.0,0,13,12,0,0,0.0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,6
+16503,Pedro Henrique Konzen Medina da Silva,61,3,0,0.225639339,1,22,16,0,0,0.0,3,1,7,2,0,0,0,0,1,1,0,0,1,0,0,8
+29714,Yacouba Sylla,90,1,0,0.020351354,1,56,45,0,1,0.18256356,1,1,12,1,0,0,2,0,5,2,0,0,2,1,0,27

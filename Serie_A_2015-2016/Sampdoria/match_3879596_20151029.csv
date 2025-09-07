@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6334,Luis Fernando Muriel Fruto,29,2,0,0.221113652,0,7,6,0,0,0.0,0,0,2,2,0,0,5,0,2,0,0,0,0,1,0,14
+6759,Roberto Soriano,64,1,0,0.030571992,1,20,16,0,0,0.0,1,0,3,6,1,1,3,1,2,1,2,0,0,3,0,24
+6822,Carlos Joaquín Correa,26,1,0,0.11717449,0,18,16,0,2,0.221113652,1,1,8,0,1,1,0,0,5,2,1,0,0,0,0,5
+7000,Eder Citadin Martins,90,3,1,0.174862833,1,41,29,0,2,0.14873784,4,1,12,0,2,0,6,3,7,3,0,0,6,5,0,19
+7009,Édgar Osvaldo Barreto Cáceres,90,4,0,0.094915311,1,45,44,0,0,0.0,0,0,2,0,0,0,8,7,5,2,0,3,3,8,3,48
+7018,Emiliano Viviano,90,0,0,0.0,0,34,18,0,0,0.0,0,0,2,0,0,0,0,0,8,0,0,0,0,0,0,0
+7019,Matías Agustín Silvestre,90,0,0,0.0,0,39,29,0,0,0.0,0,0,3,2,1,1,2,1,2,0,5,0,4,1,0,15
+7137,Ervin Zukanović,90,0,0,0.0,0,47,42,0,1,0.016018795,0,0,11,0,0,0,0,0,6,0,8,1,4,0,0,6
+16586,Fernando Lucas Martins,90,1,0,0.06473153,0,64,53,1,3,0.18941603,3,2,9,4,6,2,3,3,10,1,4,6,5,3,2,28
+19850,Antonio Cassano,61,0,0,0.0,0,34,24,0,1,0.03163457,0,0,1,1,1,0,0,0,2,1,0,0,0,0,0,4
+22822,Alejandro Miguel Rodriguez,2,0,0,0.0,0,1,0,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+27595,Carlos Mario Carbonero Mancilla,88,1,0,0.16315068,0,41,36,0,0,0.0,0,0,8,2,3,0,2,1,8,0,0,1,4,1,1,23
+40394,Djamel Eddine Mesbah,90,1,0,0.03156335,0,54,46,0,0,0.0,1,0,6,0,0,0,3,3,4,0,2,0,0,3,0,13
+387417,Mattia Cassani,90,0,0,0.0,0,56,42,0,2,0.170306385,3,3,9,4,1,0,3,1,2,0,3,1,1,1,0,13

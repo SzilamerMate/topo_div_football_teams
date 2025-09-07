@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3008,Benjamin Lecomte,90,0,0,0.0,0,1,0,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3140,François Bellugou,90,0,0,0.0,0,49,44,0,1,0.04895375,1,0,10,2,5,2,2,2,5,0,3,2,4,2,2,15
+3552,Benjamin Jeannot,6,1,0,0.03588626,0,3,3,0,0,0.0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,1
+3769,Wesley Lautoa,90,0,0,0.0,0,33,21,0,0,0.0,0,0,3,0,0,0,5,3,7,1,7,3,4,4,1,13
+5209,Raphaël Adelino José Guerreiro,77,3,0,0.17548458,1,28,19,0,1,0.092931315,0,0,2,1,2,0,1,0,3,2,1,0,1,0,0,4
+6335,Lamine Gassama,90,0,0,0.0,0,47,33,0,2,0.23112504,1,1,9,0,5,2,4,3,9,1,2,2,0,4,1,10
+7190,Denis Bouanga,2,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7199,Vincent Le Goff,90,2,0,0.043209634000000004,0,39,29,0,0,0.0,0,0,7,0,1,1,4,2,3,2,3,1,2,3,1,12
+7338,Romain Philippoteaux,13,0,0,0.0,0,8,7,0,0,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+7766,Walid Mesloub,90,0,0,0.0,0,47,37,0,1,0.054314036,3,1,11,3,5,0,5,0,6,3,3,0,0,1,0,19
+13286,Lamine Koné,90,1,0,0.054314036,1,18,11,0,0,0.0,0,0,6,1,2,2,1,0,4,1,11,1,2,0,0,7
+22587,Didier Ndong Ibrahim,90,2,0,0.144924655,0,31,25,0,0,0.0,3,1,5,5,2,2,8,2,7,5,0,0,3,3,0,18
+33178,Benjamin Moukandjo Bilé,84,1,0,0.19940497,0,18,12,0,0,0.0,3,2,8,2,4,1,13,1,3,3,0,0,4,2,1,9
+401467,Florent Chaigneau,88,0,0,0.0,0,36,13,0,0,0.0,0,0,3,0,0,0,0,0,8,0,0,0,0,0,0,0

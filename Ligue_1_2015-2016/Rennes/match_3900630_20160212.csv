@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2990,Benjamin André,90,1,0,0.1028017,0,115,100,0,0,0.0,1,1,21,2,3,0,9,1,5,1,8,2,6,2,0,22
+3018,Giovanni-Guy Yann Sio,72,2,0,0.062519294,0,23,13,0,0,0.0,1,0,2,0,1,0,4,1,0,1,1,0,2,1,1,13
+3354,Benoît Guy Robert Costil,90,0,0,0.0,0,26,24,0,0,0.0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+3424,Cheikh M''Bengue,90,0,0,0.0,0,53,45,0,0,0.0,1,0,1,2,3,1,4,2,4,1,3,2,5,2,1,14
+3753,Pedro Filipe Teodósio Mendes,90,0,0,0.0,0,65,60,0,0,0.0,0,0,5,1,1,0,5,1,3,0,2,2,1,1,1,9
+4475,Romain Danzé,90,1,0,0.1180253,1,85,72,0,0,0.0,1,0,7,0,1,0,6,1,5,1,0,2,1,4,1,11
+4602,Yoann Gourcuff,45,0,0,0.0,0,38,35,0,0,0.0,1,1,4,0,3,0,3,2,5,2,0,0,2,2,1,12
+4900,Paul-Georges Ntep de Madiba,90,1,0,0.027291233,0,51,37,0,5,0.587537019,11,6,14,2,6,0,4,2,3,1,1,0,0,2,2,18
+5477,Ousmane Dembélé,90,2,0,0.153802202,0,26,19,0,0,0.0,5,4,10,0,1,0,1,0,0,2,1,0,0,0,0,21
+5667,Kamil Grosicki,18,1,0,0.31327492,1,5,1,0,0,0.0,0,0,1,0,0,0,0,0,3,1,0,0,1,0,0,3
+8672,Gélson da Conceição Tavares Fernandes,90,0,0,0.0,0,68,58,0,0,0.0,1,1,3,2,0,0,3,3,2,0,0,1,1,3,2,19
+40699,Sylvain Armand,90,1,0,0.075615086,0,93,83,0,1,0.12751554,1,0,25,0,1,0,3,0,12,0,6,1,2,0,0,3
+45685,Sébastien Antoine Luc Salles Lamonge,45,1,0,0.08595131,0,41,33,0,2,0.06266209,1,1,2,1,2,1,4,0,2,0,0,1,0,1,0,12

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4711,Pablo Hernández Domínguez,74,2,0,0.119719374,0,34,25,0,1,0.03517233,1,1,6,1,0,0,3,1,5,0,0,1,1,1,0,15
+6713,Diego Javier Llorente Ríos,90,0,0,0.0,0,31,21,0,0,0.0,0,0,5,2,2,2,1,1,6,1,2,2,2,1,1,13
+6914,Roberto Román Triguero,90,1,0,0.051758185,0,38,29,0,1,0.09530813,2,0,2,1,2,0,1,0,2,0,6,1,1,0,0,7
+7900,Tiago Manuel Dias Correia,28,0,0,0.0,0,5,3,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3
+9246,Patrick Ebert,16,0,0,0.0,0,4,3,0,1,0.027609276,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,4
+10727,Răzvan Dincă Raț,90,0,0,0.0,0,48,35,0,1,0.051758185,0,0,5,0,0,0,6,1,5,0,4,3,2,2,0,13
+11539,Adrián Embarba Blázquez,90,0,0,0.0,0,22,14,0,0,0.0,2,0,9,1,1,0,9,2,6,3,2,1,2,2,1,19
+11542,Javier Guerra Rodríguez,90,3,2,0.858725616,2,26,8,0,0,0.0,3,2,5,1,2,0,12,0,2,0,1,0,3,0,0,17
+11543,José Antonio Dorado Ramírez,62,0,0,0.0,0,13,9,0,1,0.024411244,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,4
+24255,Juan Carlos Martín Corral,13,0,0,0.0,0,10,6,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26070,Antonio Rodríguez Martínez,77,0,0,0.0,0,37,22,0,0,0.0,0,0,6,0,1,1,0,0,3,0,0,0,0,0,0,0
+26222,José Eduardo Rosa Vale de Castro,90,0,0,0.0,0,18,12,0,0,0.0,0,0,0,2,0,0,1,0,2,0,2,0,0,0,0,3
+26607,José Raúl Baena Urdiales,90,0,0,0.0,0,23,15,0,0,0.0,0,0,3,1,2,0,6,0,4,0,4,1,3,2,0,17
+26848,Roberto Trashorras Gayoso,90,1,0,0.03517233,0,41,27,0,0,0.0,2,0,3,6,5,0,5,3,7,2,1,0,1,3,1,18

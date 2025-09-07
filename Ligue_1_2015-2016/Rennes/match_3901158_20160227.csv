@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2985,Ludovic Baal,63,0,0,0.0,0,41,30,0,1,0.008597089,0,0,6,1,0,0,4,0,6,6,1,1,6,1,0,16
+2990,Benjamin André,90,1,0,0.03765243,1,76,58,0,1,0.046682805,0,0,8,1,4,0,7,3,7,7,1,3,5,5,1,35
+3018,Giovanni-Guy Yann Sio,81,4,0,0.17109994300000003,0,32,26,0,1,0.16688402,4,3,7,2,5,1,2,0,2,1,0,0,1,0,0,12
+3354,Benoît Guy Robert Costil,90,0,0,0.0,0,30,23,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+3424,Cheikh M''Bengue,90,1,0,0.05584622,0,71,63,0,0,0.0,1,1,6,1,2,0,3,2,4,2,3,0,3,2,0,8
+3753,Pedro Filipe Teodósio Mendes,90,1,0,0.046682805,0,55,44,0,0,0.0,2,2,6,0,2,0,6,3,10,0,4,2,2,6,0,12
+4475,Romain Danzé,90,0,0,0.0,0,81,65,0,2,0.050778164,2,2,9,0,1,1,7,3,7,1,4,1,3,6,0,15
+4602,Yoann Gourcuff,27,0,0,0.0,0,19,16,0,1,0.047534164,1,1,5,0,0,0,0,0,2,2,0,1,1,0,0,3
+4900,Paul-Georges Ntep de Madiba,45,1,0,0.008597089,0,15,11,0,1,0.041107718,1,0,6,0,2,1,3,1,3,3,1,0,1,3,1,9
+5477,Ousmane Dembélé,90,6,1,0.35689450899999997,3,40,32,1,4,0.213077585,7,4,18,0,1,0,3,0,9,3,0,0,1,1,0,20
+5667,Kamil Grosicki,9,1,1,0.05355317,1,4,2,0,0,0.0,0,0,0,0,1,1,1,1,2,0,0,0,0,1,0,3
+8672,Gélson da Conceição Tavares Fernandes,90,0,0,0.0,0,47,44,0,2,0.08186359400000001,0,0,3,2,0,0,7,3,2,1,0,0,6,7,0,46
+16503,Pedro Henrique Konzen Medina da Silva,45,2,0,0.930575756,0,19,12,0,0,0.0,0,0,5,1,1,0,1,0,6,3,0,1,0,0,0,11
+40699,Sylvain Armand,90,1,0,0.05839294,0,63,54,0,0,0.0,0,0,15,2,1,0,5,3,7,0,5,2,1,4,1,13

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3034,Kamil Glik,90,2,0,0.121701416,0,32,30,0,0,0.0,0,0,3,4,1,1,2,1,1,0,6,0,1,2,0,19
+3660,Davide Zappacosta,68,2,0,0.065650128,0,34,19,0,0,0.0,2,2,8,2,1,0,1,0,2,0,1,1,2,1,0,18
+6965,Bruno da Silva Peres,58,1,0,0.032827493,1,30,23,0,1,0.03971246,3,2,8,1,0,0,2,0,2,1,1,1,0,0,0,6
+7149,Marco Benassi,90,2,0,0.186107906,2,35,30,1,2,0.147196343,3,2,6,1,1,0,5,3,3,0,0,2,3,3,1,22
+7465,Daniele Baselli,90,0,0,0.0,0,27,21,0,3,0.349196916,1,1,6,0,3,0,3,2,2,1,1,0,0,2,2,20
+7471,Andrea Belotti,90,4,0,0.77807149,0,21,15,0,3,0.44399747100000003,5,2,11,3,1,1,5,0,7,2,1,0,0,0,0,9
+7476,Emiliano Moretti,90,1,0,0.09391683,0,49,45,0,1,0.032827493,0,0,2,2,1,1,5,0,3,0,7,0,6,3,0,16
+7479,Cristian Molinaro,32,0,0,0.0,0,18,13,0,0,0.0,1,1,4,1,1,0,4,1,1,1,1,0,1,4,0,7
+7788,Ciro Immobile,81,7,2,1.759490376,3,17,14,0,6,0.736020229,1,0,16,2,3,0,0,0,3,3,0,0,2,0,0,10
+12619,Josef Alexander Martínez Mencia,9,1,0,0.018449463,0,4,3,0,0,0.0,0,0,2,1,0,0,1,0,1,0,0,0,0,0,0,3
+16202,Nikola Maksimović,90,0,0,0.0,0,60,58,0,1,0.18602388,1,1,14,2,1,0,2,1,5,0,3,1,1,1,0,14
+28289,Gastón Alexis Silva Perdomo,22,0,0,0.0,0,15,13,0,1,0.16745234,1,1,1,1,0,0,3,2,1,0,0,0,3,3,1,10
+34881,Daniele Padelli,90,0,0,0.0,0,38,29,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,1
+40430,Giuseppe Vives,90,0,0,0.0,0,65,48,0,0,0.0,0,0,7,2,0,0,6,4,5,0,4,2,3,5,1,35

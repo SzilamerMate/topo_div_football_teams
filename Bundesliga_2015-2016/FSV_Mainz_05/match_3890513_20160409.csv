@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3630,Loris Karius,90,0,0,0.0,0,40,29,0,0,0.0,1,1,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+5467,Leon Aderemi Balogun,90,1,0,0.060875155,0,44,42,0,0,0.0,0,0,6,0,0,0,2,0,4,0,4,1,0,0,0,9
+6925,Jairo Samperio Bustara,30,3,1,0.69690378,2,5,5,0,0,0.0,2,1,4,0,0,0,1,0,2,0,1,0,0,1,0,6
+8539,Danny Latza,90,1,0,0.056245416,0,65,51,0,3,0.156774218,0,0,7,1,1,1,7,3,5,1,1,0,2,4,1,19
+8548,Daniel Brosinski,90,2,0,0.071481022,1,58,40,0,1,0.07960261,1,1,7,0,1,0,4,0,6,0,2,1,7,0,0,4
+8549,Giulio Donati,90,0,0,0.0,0,46,34,0,0,0.0,2,1,3,2,0,0,3,0,3,2,3,1,3,1,0,5
+8555,Pablo Ezequiel De Blasis,60,0,0,0.0,0,20,15,0,1,0.036275927,3,1,1,1,1,0,6,1,4,2,1,0,2,3,0,11
+8559,Stefan Bell,90,2,0,0.332988075,1,59,52,1,1,0.23061384,0,0,9,1,0,0,1,0,2,1,6,2,3,0,0,5
+8679,Yunus Mallı,91,2,0,0.400672673,2,30,24,0,1,0.022595372,4,1,6,1,0,0,2,0,2,0,0,0,1,1,0,13
+8817,Jhon Andrés Córdoba Copete,90,2,0,0.100364587,1,10,9,0,1,0.3827445,1,1,4,5,8,2,8,0,0,1,1,0,1,1,0,14
+9098,Christian Clemens,86,3,0,0.111566702,2,35,26,0,2,0.431453195,0,0,4,2,0,0,1,0,6,0,1,1,2,0,0,25
+11278,Karim Onisiwo,4,0,0,0.0,0,1,1,0,0,0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+20037,Julian Baumgartlinger,90,0,0,0.0,0,45,40,0,1,0.06408866,0,0,8,2,0,0,2,0,5,0,3,0,1,2,0,27

@@ -1,0 +1,13 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4350,Yannick Cahuzac,90,0,0,0.0,0,50,45,0,0,0.0,0,0,12,1,0,0,7,4,3,0,2,4,5,6,2,27
+4508,Julian Palmieri,90,0,0,0.0,0,60,51,1,3,0.166454075,3,2,5,2,2,0,6,2,7,1,1,4,0,5,1,20
+7349,Gaël Danic,90,0,0,0.0,0,29,15,0,0,0.0,0,0,6,1,1,1,2,0,2,2,1,1,3,1,0,22
+7791,Seko Fofana,90,0,0,0.0,0,63,61,0,0,0.0,1,1,11,0,0,0,0,0,5,0,1,1,2,0,0,24
+15689,Floyd Ayité,90,3,0,0.131578691,0,31,27,0,1,0.025144173,2,1,6,1,4,0,3,0,3,3,0,0,0,0,0,19
+24469,Jesper Hansen,90,0,0,0.0,0,26,23,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+26481,Sébastien Squillaci,90,0,0,0.0,0,33,30,0,0,0.0,0,0,6,0,0,0,2,1,1,0,7,0,2,1,1,8
+29875,Axel Ngando,27,0,0,0.0,0,11,9,0,0,0.0,0,0,3,0,2,0,0,0,1,0,0,2,0,0,0,6
+31711,Abdoulaye Sadio Diallo,63,2,0,0.037120614999999996,1,25,20,0,0,0.0,1,0,6,3,2,1,1,1,2,1,2,1,1,1,1,20
+401194,François Modesto,90,1,0,0.053258978,0,48,40,0,0,0.0,1,1,11,0,0,0,2,2,1,0,4,2,1,2,1,12
+401491,Yassine Jebbour,90,0,0,0.0,0,37,28,0,0,0.0,0,0,1,2,0,0,2,1,1,1,4,0,2,2,1,12
+401541,Evaeverson Lemos da Silva Brandão,90,1,1,0.10555262,1,18,10,0,1,0.070677236,2,0,2,1,0,0,7,1,3,2,0,0,2,1,0,24

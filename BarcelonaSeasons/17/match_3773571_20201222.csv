@@ -1,0 +1,16 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3501,Philippe Coutinho Correia,10,1,0,0.05710108,0,10,10,0,0,0.0,1,0,4,0,0,0,1,0,0,0,0,0,0,0,0,4
+4447,Martin Braithwaite Christensen,90,6,1,1.6698730300000002,2,9,7,0,0,0.0,0,0,4,0,1,0,2,1,2,4,0,1,1,1,1,11
+5203,Sergio Busquets i Burgos,20,0,0,0.0,0,25,23,0,2,0.25618414,2,2,1,0,2,0,1,0,0,0,0,0,1,1,0,7
+5211,Jordi Alba Ramos,70,0,0,0.0,0,54,47,0,2,0.50417317,0,0,2,1,0,0,3,2,2,0,1,2,1,3,0,15
+5492,Samuel Yves Umtiti,20,0,0,0.0,0,7,6,0,0,0.0,0,0,1,0,0,0,2,1,0,0,0,0,0,2,0,5
+5503,Lionel Andrés Messi Cuccittini,90,11,1,1.477243009,7,88,81,1,3,0.32420557000000005,7,5,17,0,1,0,1,1,3,3,0,0,0,1,1,20
+6826,Clément Lenglet,90,1,1,0.22927417,1,75,73,0,0,0.0,0,0,10,2,1,0,1,0,2,0,5,2,1,1,0,7
+6947,Miralem Pjanić,90,2,0,0.12424316,0,112,108,0,1,0.029678088,1,1,6,1,3,0,2,0,1,0,0,1,0,1,0,9
+8118,Frenkie de Jong,70,0,0,0.0,0,65,55,0,2,0.21149858500000002,2,2,14,3,3,0,0,0,0,2,3,0,1,0,0,9
+17304,Héctor Junior Firpo Adames,20,0,0,0.0,0,12,12,0,1,0.10538758,1,1,3,1,0,0,0,0,0,1,1,0,0,0,0,2
+20055,Marc-André ter Stegen,90,0,0,0.0,0,43,35,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+21881,Sergino Dest,90,0,0,0.0,0,52,47,1,5,1.1966307960000002,4,1,3,1,0,0,0,0,2,1,0,1,1,0,0,20
+30486,Pedro González López,80,0,0,0.0,0,50,38,1,4,0.8543274,2,2,9,1,1,0,2,1,6,4,0,0,3,2,1,17
+32480,Ronald Federico Araújo da Silva,70,0,0,0.0,0,47,46,0,0,0.0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,3
+43728,Óscar Mingueza García,90,0,0,0.0,0,68,60,0,0,0.0,0,0,9,1,1,0,6,3,4,0,1,2,4,4,3,19

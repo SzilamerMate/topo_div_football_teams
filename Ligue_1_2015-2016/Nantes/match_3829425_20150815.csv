@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2943,Lucas Deaux,90,0,0,0.0,0,62,50,0,0,0.0,0,0,5,2,0,0,3,0,4,0,4,0,0,1,0,11
+3004,Oswaldo Augusto Vizcarrondo Araújo,16,0,0,0.0,0,7,6,0,0,0.0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,1
+3144,Léo Dubois,90,0,0,0.0,0,55,46,0,0,0.0,2,1,6,1,0,0,8,3,3,1,3,0,6,3,1,15
+3174,Lévy Koffi Djidji,90,0,0,0.0,0,53,47,0,0,0.0,2,2,7,0,3,2,5,3,5,0,4,5,1,3,1,14
+3319,Yacine Bammou,64,1,0,0.012704711,1,16,10,0,0,0.0,1,0,1,2,0,0,4,0,1,2,0,0,1,1,0,10
+3365,Valentin Rongier,74,0,0,0.0,0,71,59,0,0,0.0,1,1,13,3,1,1,4,2,5,2,1,2,1,3,2,18
+3375,Adrien Thomasson,90,0,0,0.0,0,53,37,0,1,0.05070284,1,0,14,2,3,0,9,1,8,1,1,0,2,3,1,32
+4776,Enock Kwateng,12,0,0,0.0,0,5,4,0,0,0.0,0,0,1,0,1,0,3,0,2,0,1,1,1,2,0,3
+6284,Kolbeinn Sigþórsson,90,0,0,0.0,0,25,17,0,0,0.0,2,1,2,3,0,0,7,0,4,0,3,0,0,1,0,17
+7350,Birama Touré,90,0,0,0.0,0,63,48,0,0,0.0,0,0,10,4,1,0,9,0,6,1,2,1,5,3,0,19
+25377,Rémy Riou,90,0,0,0.0,0,40,29,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,1
+31681,Olivier Veigneau,78,0,0,0.0,0,45,30,0,0,0.0,1,0,3,0,0,0,4,1,4,1,2,1,2,1,0,9
+31687,Adryan Oliveira Tavares,90,0,0,0.0,0,29,20,0,1,0.012704711,3,2,8,1,3,2,4,2,3,1,0,0,0,2,0,10
+401477,Johan Audel,26,1,0,0.05070284,0,13,7,0,0,0.0,0,0,2,0,0,0,4,1,2,0,1,0,1,1,0,8

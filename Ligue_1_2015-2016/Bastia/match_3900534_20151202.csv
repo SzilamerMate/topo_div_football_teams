@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4508,Julian Palmieri,90,1,0,0.06843952,0,44,34,0,0,0.0,1,0,6,5,2,0,7,2,3,3,0,1,2,3,2,27
+7282,Jean-Louis Leca,90,0,0,0.0,0,30,15,0,0,0.0,0,0,4,0,1,1,0,0,6,0,0,0,0,0,0,1
+7349,Gaël Danic,66,0,0,0.0,0,31,15,0,1,0.046609618,1,1,6,1,0,0,4,2,2,3,0,1,1,2,0,22
+7791,Seko Fofana,90,0,0,0.0,0,55,43,0,3,0.16194628900000002,2,0,11,2,1,0,4,3,11,3,0,1,2,3,2,26
+10522,Mehdi Mostefa Sbaa,90,0,0,0.0,0,51,34,0,1,0.073499575,0,0,4,3,0,0,4,0,3,1,5,1,1,1,0,26
+15689,Floyd Ayité,90,6,0,0.327525582,3,28,20,0,1,0.048302226,2,2,6,2,2,0,9,1,6,1,0,0,0,1,1,7
+16271,Florian Raspentino,23,2,1,0.685448726,1,10,4,0,0,0.0,0,0,0,2,0,0,3,0,4,1,0,0,2,0,0,8
+23850,Mathieu Peybernes,90,0,0,0.0,0,36,21,0,0,0.0,0,0,5,1,2,1,5,2,9,0,3,1,0,3,0,13
+29875,Axel Ngando,24,0,0,0.0,0,22,16,0,2,0.11390962,2,2,5,1,0,0,3,1,4,0,0,0,0,1,0,10
+40517,Gilles Cioni,19,0,0,0.0,0,12,6,0,0,0.0,0,0,0,0,0,0,3,1,0,0,0,0,0,1,0,2
+40528,Florian Marange,90,0,0,0.0,0,73,54,0,0,0.0,0,0,2,0,3,2,4,3,7,0,3,0,2,3,2,12
+401194,François Modesto,90,0,0,0.0,0,44,24,0,0,0.0,0,0,4,1,0,0,6,2,7,1,6,0,1,3,0,16
+401491,Yassine Jebbour,71,0,0,0.0,0,22,15,0,0,0.0,0,0,1,2,0,0,6,0,4,0,1,0,3,2,0,25
+401541,Evaeverson Lemos da Silva Brandão,67,0,0,0.0,0,20,11,0,0,0.0,0,0,4,0,0,0,8,1,1,0,1,0,0,1,0,16

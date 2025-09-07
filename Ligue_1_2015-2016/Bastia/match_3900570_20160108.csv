@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2989,Alexander Djiku,12,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,3
+3405,François Kamano,28,1,0,0.0091440845,0,4,2,0,0,0.0,3,0,6,2,1,0,1,0,4,4,0,1,0,1,0,5
+4350,Yannick Cahuzac,90,0,0,0.0,0,28,21,0,0,0.0,1,1,5,3,0,0,5,4,4,0,1,2,6,4,1,28
+4508,Julian Palmieri,90,0,0,0.0,0,38,28,0,1,0.050067358,3,2,3,3,0,0,5,2,4,3,1,0,3,3,1,15
+7282,Jean-Louis Leca,90,0,0,0.0,0,43,25,0,0,0.0,0,0,8,0,0,0,0,0,4,0,1,0,0,0,0,0
+7349,Gaël Danic,62,0,0,0.0,0,14,10,0,0,0.0,0,0,3,1,0,0,3,0,1,2,0,0,2,0,0,17
+7791,Seko Fofana,90,2,0,0.141401357,0,39,37,0,0,0.0,3,2,5,4,1,0,2,2,11,0,1,0,2,2,1,22
+10522,Mehdi Mostefa Sbaa,12,0,0,0.0,0,8,7,0,0,0.0,0,0,0,1,0,0,1,1,1,0,0,1,0,1,0,5
+26481,Sébastien Squillaci,90,1,0,0.15605973,0,13,13,0,1,0.0091440845,0,0,1,2,0,0,2,0,3,0,11,1,3,1,0,6
+29875,Axel Ngando,78,0,0,0.0,0,17,15,0,2,0.141401357,2,1,3,3,1,0,3,0,3,1,3,1,1,1,0,23
+40517,Gilles Cioni,78,0,0,0.0,0,16,12,0,0,0.0,0,0,1,0,2,2,1,0,0,0,1,4,1,0,0,7
+40528,Florian Marange,90,0,0,0.0,0,44,35,0,0,0.0,2,0,3,2,0,0,4,1,6,1,6,0,2,3,0,17
+401194,François Modesto,90,0,0,0.0,0,24,16,0,0,0.0,0,0,0,1,2,2,1,0,3,0,4,0,3,0,0,12
+401541,Evaeverson Lemos da Silva Brandão,90,1,0,0.050067358,0,21,10,0,0,0.0,1,0,2,0,3,2,7,0,2,1,0,0,0,0,0,9

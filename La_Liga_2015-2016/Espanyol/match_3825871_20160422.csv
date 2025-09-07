@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5719,Marco Asensio Willemsen,90,3,0,0.701933984,0,36,30,0,0,0.0,1,1,4,1,3,1,3,0,4,0,0,1,1,0,0,34
+6624,Jorge Franco Alviz,90,3,0,0.247224786,3,35,27,0,3,0.98031861,3,2,11,0,4,1,3,0,6,3,0,1,2,0,0,20
+6701,Joan Jordán Moreno,78,1,0,0.01773404,1,38,37,0,0,0.0,1,1,5,3,0,0,3,1,3,0,0,1,2,2,0,26
+6762,Álvaro González Soberón,90,0,0,0.0,0,30,19,0,1,0.099043876,0,0,6,0,2,2,5,0,2,0,5,1,2,1,0,13
+6766,Gerard Moreno Balaguero,53,1,0,0.16252981,0,17,14,0,0,0.0,2,1,3,0,1,0,0,0,2,0,0,2,0,0,0,25
+6791,Javier López Rodríguez,90,0,0,0.0,0,41,29,0,0,0.0,2,1,6,3,1,1,4,4,6,0,2,3,1,4,1,26
+6838,Hernán Arsenio Pérez González,90,3,0,0.7360146160000001,1,30,25,0,3,0.12961609600000001,7,2,12,0,4,1,6,4,7,2,0,3,0,5,1,36
+6867,Papa Kouly Diop,58,1,0,0.022630546,0,28,24,0,0,0.0,0,0,3,2,0,0,3,0,3,0,2,0,0,0,0,21
+16456,Enzo Pablo Roco Roco,90,0,0,0.0,0,30,25,0,0,0.0,0,0,1,3,0,0,5,2,1,0,2,4,2,3,0,16
+23924,Mamadou Sylla Diallo,37,0,0,0.0,0,4,4,0,0,0.0,1,1,4,3,2,0,2,0,0,2,0,0,0,0,0,19
+24072,Salvador Sevilla López,32,0,0,0.0,0,16,15,0,0,0.0,0,0,2,1,0,0,1,0,3,2,0,0,0,0,0,12
+27148,Abraham González Casanova,12,0,0,0.0,0,8,4,0,0,0.0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,7
+27241,Víctor Guillermo Álvarez Delgado,90,0,0,0.0,0,51,42,0,0,0.0,2,2,6,0,0,0,2,0,5,1,3,3,3,1,0,27
+31904,Giedrius Arlauskis,90,0,0,0.0,0,27,14,0,0,0.0,0,0,4,0,0,0,0,0,3,0,0,0,0,0,0,0

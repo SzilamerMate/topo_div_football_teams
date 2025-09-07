@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3275,Henrikh Mkhitaryan,45,1,0,0.06455134,0,29,18,0,2,0.4787497,2,0,2,3,0,0,0,0,1,0,1,0,0,0,0,10
+3712,Pierre-Emerick Aubameyang,90,6,1,1.0086742590000002,2,20,11,0,1,0.053302925,1,1,9,0,1,0,1,0,1,0,0,0,1,0,0,12
+5559,Marco Reus,53,2,0,0.105646136,1,31,23,0,2,0.128282446,1,1,9,0,1,0,0,0,0,1,0,1,0,0,0,6
+5572,Mats Hummels,90,0,0,0.0,0,113,92,0,0,0.0,0,0,14,2,1,1,6,4,6,1,3,4,1,4,2,13
+5684,Shinji Kagawa,90,1,0,0.0935265,0,69,62,0,1,0.05059943,1,1,15,2,1,0,4,0,1,1,0,0,2,1,0,20
+8225,Roman Bürki,90,0,0,0.0,0,36,35,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,1
+8233,Gonzalo Castro Randon,75,1,0,0.14608745,1,51,39,1,2,0.5735751560000001,0,0,4,1,2,0,4,3,1,0,0,1,3,4,1,19
+8244,Sokratis Papastathopoulos,90,0,0,0.0,0,72,65,0,0,0.0,0,0,8,2,1,0,2,0,4,1,4,0,0,1,0,13
+8804,Jonas Hofmann,45,0,0,0.0,0,15,11,0,0,0.0,1,1,2,0,1,0,3,1,2,0,0,0,0,1,0,12
+8808,Matthias Ginter,90,0,0,0.0,0,63,45,0,2,0.10571358,0,0,2,1,2,0,2,1,5,1,4,2,0,2,0,7
+8816,Julian Weigl,90,0,0,0.0,0,86,80,0,0,0.0,0,0,10,3,5,1,3,0,2,1,2,0,0,2,0,16
+10287,İlkay Gündoğan,37,1,0,0.023034414,0,57,49,0,0,0.0,1,0,8,3,0,0,0,0,4,2,0,1,1,0,0,10
+11458,Marcel Schmelzer,90,0,0,0.0,0,73,62,0,2,0.38871055,0,0,4,0,1,0,6,2,1,0,3,2,4,2,0,14
+24324,Gustavo Adrián Ramos Vásquez,15,2,0,0.385965175,0,5,3,0,0,0.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,3

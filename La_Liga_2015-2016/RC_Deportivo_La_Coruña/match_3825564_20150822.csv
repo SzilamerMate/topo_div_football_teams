@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5582,Celso Borges Mora,90,2,0,0.068889184,2,43,35,0,0,0.0,1,1,4,2,1,0,5,3,2,0,3,3,2,4,1,19
+5724,Fayçal Fajr,90,2,0,0.072412295,1,60,46,0,5,0.179234521,3,1,14,3,3,0,4,0,2,1,0,1,0,0,0,14
+6728,Federico Nicolás Cartabia,17,3,0,0.091665724,0,11,4,0,1,0.06882264,1,0,1,1,1,1,0,0,2,1,0,0,2,0,0,5
+6732,Lucas Pérez Martínez,90,5,0,0.22388777199999998,1,23,21,0,1,0.008733591,2,0,4,1,1,1,4,0,1,1,0,1,0,1,0,14
+6733,Pedro Mosquera Parada,90,2,0,0.08032133799999999,1,63,59,0,0,0.0,0,0,12,2,1,0,6,2,10,1,4,1,1,2,1,21
+6738,Juan Francisco Moreno Fuertes,73,1,0,0.03221642,0,39,23,0,3,0.115367621,1,0,9,0,0,0,2,0,7,1,0,2,0,0,0,6
+6777,Sidnei Rechel da Silva Júnior,90,0,0,0.0,0,64,53,0,0,0.0,1,1,8,0,0,0,1,1,6,0,3,3,2,1,0,9
+6913,Fernando Navarro i Corbacho,90,0,0,0.0,0,51,39,0,0,0.0,0,0,6,2,0,0,6,1,2,0,3,1,3,1,1,8
+23800,Laureano Sanabria Ruiz,90,0,0,0.0,0,57,41,0,0,0.0,1,1,9,3,0,0,6,1,5,3,4,3,1,1,0,15
+25921,Rubén Gracia Calmache,62,1,0,0.029043347,0,36,27,0,1,0.045812007,1,1,12,1,1,0,1,1,5,2,0,4,1,1,1,6
+26107,Alberto Lopo García,90,0,0,0.0,0,55,42,0,0,0.0,0,0,6,2,2,2,8,2,3,0,6,1,3,3,0,11
+27243,Oriol Riera Magem,28,0,0,0.0,0,6,3,0,0,0.0,0,0,0,1,0,0,3,0,0,1,0,0,1,0,0,9
+27305,Germán Darío Lux,90,0,0,0.0,0,36,24,0,0,0.0,0,0,5,0,0,0,0,0,6,0,0,0,0,0,0,0

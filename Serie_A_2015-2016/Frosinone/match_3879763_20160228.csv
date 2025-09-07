@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7462,Aleandro Rosi,90,0,0,0.0,0,40,31,0,0,0.0,4,3,4,4,4,1,2,2,4,1,4,2,4,2,2,13
+8291,Arlind Afrim Ajeti,90,0,0,0.0,0,24,16,0,0,0.0,0,0,3,1,0,0,2,1,3,0,7,2,4,1,0,10
+8661,Daniel Pavlovic,90,0,0,0.0,0,68,41,0,2,0.10107065200000001,2,1,6,1,0,0,1,0,0,2,3,2,4,0,0,13
+8793,Oliver Kragl,23,2,0,0.055306624,0,7,5,0,0,0.0,0,0,1,1,0,0,0,0,3,1,0,0,0,0,0,5
+9898,Aleksandar Tonev,78,3,0,0.087210797,1,16,10,0,1,0.020412425,2,2,6,0,0,0,2,1,1,1,2,0,1,1,1,8
+11672,Samuele Longo,7,1,0,0.00678717,0,1,0,0,0,0.0,0,0,0,0,1,1,1,0,3,1,0,0,0,0,0,2
+13613,Daniel Ciofani,90,2,0,0.15237773,0,11,10,0,2,0.065136265,1,1,0,2,0,0,10,1,4,2,1,0,2,1,1,12
+20636,Mirko Gori,90,2,0,0.0281968647,0,55,37,0,2,0.06353682299999999,1,1,8,0,4,1,4,1,10,1,4,2,3,2,0,29
+23349,Paolo Sammarco,90,0,0,0.0,0,37,23,0,1,0.04095829,1,0,2,2,0,0,2,1,3,2,2,3,1,2,1,25
+23470,Luca Paganini,12,1,0,0.022996673,0,2,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+24235,Federico Dionisi,90,3,0,0.09413636,0,21,12,0,0,0.0,5,1,4,4,4,1,3,0,3,6,1,0,2,0,0,13
+32037,Nicola Leali,90,0,0,0.0,0,30,23,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+386512,Alessandro Frara,67,0,0,0.0,0,15,9,0,0,0.0,0,0,1,2,2,2,5,0,3,1,1,1,9,2,0,21
+387847,Leonardo Blanchard,83,0,0,0.0,0,44,34,0,1,0.043328535,0,0,6,0,1,1,3,0,2,0,6,2,3,0,0,6

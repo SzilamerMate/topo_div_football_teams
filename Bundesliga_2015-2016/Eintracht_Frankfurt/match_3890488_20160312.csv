@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5543,Haris Seferović,90,2,0,0.120899015,0,46,28,0,0,0.0,1,0,6,3,1,0,4,1,3,5,0,1,2,1,0,27
+5681,Makoto Hasebe,49,0,0,0.0,0,21,14,0,0,0.0,0,0,1,2,1,1,1,1,2,3,1,1,2,1,1,18
+6317,Marco Jhonfai Fabián De La Mora,53,0,0,0.0,0,15,12,0,0,0.0,2,0,1,2,0,0,3,0,3,0,0,1,1,0,0,26
+7846,Luc Castaignos,5,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+8667,Lukáš Hrádecký,90,0,0,0.0,0,32,23,0,0,0.0,0,0,4,0,0,0,0,0,2,0,0,0,0,0,0,0
+8678,David Ángel Abraham,90,0,0,0.0,0,36,26,0,0,0.0,0,0,2,2,0,0,4,2,7,0,8,2,0,2,1,19
+8812,Marco Russ,90,0,0,0.0,0,27,25,0,0,0.0,1,1,3,1,1,1,2,0,3,0,4,2,0,1,0,8
+9216,Slobodan Medojević,90,0,0,0.0,0,37,30,0,0,0.0,0,0,4,1,1,0,6,3,5,0,1,2,1,4,0,36
+10822,Sonny Kittel,37,1,0,0.016591318,0,15,11,0,0,0.0,0,0,2,1,0,0,0,0,3,1,0,0,3,0,0,4
+18888,Szabolcs Huszti,41,0,0,0.0,0,19,15,0,1,0.06709572,0,0,2,3,3,1,2,1,1,1,0,1,0,2,0,13
+20950,Yanni Regäsel,90,1,0,0.008139321,0,41,30,0,0,0.0,1,1,3,2,0,0,1,0,4,2,1,2,1,0,0,28
+21156,Stefan Aigner,85,0,0,0.0,0,25,17,0,0,0.0,1,0,2,3,1,0,2,0,2,0,0,0,3,0,0,23
+400619,Stefan Reinartz,90,0,0,0.0,0,53,41,0,1,0.016591318,1,0,8,2,0,0,2,1,5,1,1,0,2,2,0,19
+400621,Tohouri Zahoui Constant Djakpa,90,0,0,0.0,0,59,38,0,1,0.053803295,1,0,8,2,1,0,2,2,8,3,4,5,6,2,0,15

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+8306,Christian Mathenia,90,0,0,0.0,0,36,19,0,0,0.0,0,0,5,0,0,0,0,0,4,0,0,0,0,0,0,0
+8388,Jérôme Gondorf,90,1,0,0.010931541,0,26,12,1,1,0.04456634,1,0,3,0,4,3,3,0,3,0,2,1,2,1,0,23
+9217,Aytac Sulu,90,0,0,0.0,0,21,15,0,0,0.0,0,0,2,0,2,2,3,1,6,0,3,1,5,2,0,8
+9401,Marcel Heller,90,2,1,0.101247478,1,27,15,0,0,0.0,1,0,4,1,3,1,4,0,8,5,2,0,2,1,0,15
+9404,Luca Caldirola,90,0,0,0.0,0,20,14,0,0,0.0,0,0,1,1,5,4,3,2,4,0,3,1,1,2,2,16
+9723,Sandro Wagner,90,6,0,1.072276685,2,39,19,0,0,0.0,1,0,5,1,1,1,16,0,2,1,4,0,1,0,0,12
+11134,Konstantin Rausch,81,0,0,0.0,0,25,17,1,4,0.824170633,1,0,5,1,2,0,4,2,5,0,1,1,0,2,2,12
+13675,Mario Vrančić,17,0,0,0.0,0,8,4,0,0,0.0,0,0,1,1,1,1,2,1,2,0,0,1,3,1,0,9
+20522,György Garics,90,0,0,0.0,0,39,25,0,0,0.0,0,0,1,4,0,0,2,2,3,0,4,2,1,2,0,15
+40467,Peter Niemeyer,73,1,0,0.028417384,0,30,16,0,0,0.0,0,0,2,2,1,1,3,2,8,1,2,1,2,3,1,29
+40477,Jan Rosenthal,45,0,0,0.0,0,7,5,0,0,0.0,1,0,0,0,1,1,3,0,1,0,0,1,1,0,0,6
+40481,Dominik Stroh-Engel,9,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+108336,Júnior Enrique Díaz Campbell,90,1,0,0.10470844,0,33,18,0,1,0.09219331,0,0,1,2,1,0,6,3,3,1,3,1,5,6,2,22
+400612,Marco Sailer,45,2,1,0.64731965,1,6,2,0,1,0.07953749,1,1,1,0,0,0,4,0,0,0,1,0,0,0,0,14

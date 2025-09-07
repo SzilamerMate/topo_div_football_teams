@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3145,Keita Baldé Diao,45,1,0,0.021169279,0,19,16,0,3,0.094334054,3,3,11,0,1,0,2,1,4,1,0,0,1,1,0,2
+3588,Wesley Hoedt,90,1,0,0.059122603,0,45,40,0,0,0.0,0,0,2,0,0,0,2,0,6,0,2,1,0,1,0,4
+6991,Etrit Berisha,90,0,0,0.0,0,23,19,0,0,0.0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+7107,Danilo Cataldi,61,0,0,0.0,0,39,25,0,0,0.0,1,0,2,2,1,0,2,1,3,3,1,0,2,2,1,12
+7776,Antonio Candreva,90,4,0,0.07699632000000001,0,51,35,0,4,0.427378421,3,2,10,1,2,1,1,0,5,4,0,0,2,0,0,4
+7778,Ştefan Daniel Radu,90,2,0,0.065579041,0,87,76,0,2,0.031758076999999996,0,0,15,0,1,0,0,0,5,0,1,0,1,0,0,2
+8172,Felipe Anderson Pereira Gomes,45,2,0,0.034099123700000004,0,27,22,0,0,0.0,3,2,7,1,0,0,1,0,4,6,0,1,1,0,0,8
+8173,Marco Parolo,90,1,0,0.03805994,0,57,45,0,1,0.023143804,0,0,5,1,1,0,6,1,5,2,1,2,4,2,1,14
+8296,Alessandro Matri,80,0,0,0.0,0,20,11,0,0,0.0,1,0,1,1,1,0,4,0,2,3,0,0,1,0,0,1
+9939,Maurício dos Santos Nascimento,90,0,0,0.0,0,53,38,0,0,0.0,0,0,5,2,0,0,6,1,6,0,7,3,2,3,0,14
+11427,Filip Đorđević,10,0,0,0.0,0,3,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+19286,Miroslav Klose,29,1,0,0.28880298,0,8,6,0,0,0.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,4
+26683,Abdoulay Konko,90,3,0,0.0488853583,0,100,75,0,0,0.0,5,4,22,1,0,0,6,1,15,7,3,1,1,3,1,18
+33311,Ogenyi Eddy Onazi,90,0,0,0.0,0,97,76,0,1,0.021169279,5,4,20,4,3,0,6,1,13,1,0,2,3,4,1,14

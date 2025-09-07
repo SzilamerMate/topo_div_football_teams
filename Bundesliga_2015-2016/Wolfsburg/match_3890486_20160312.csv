@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3197,Dante Bonfim da Costa Santos,90,1,0,0.027583728,0,117,105,0,0,0.0,1,0,20,2,0,0,1,0,9,0,2,2,6,0,0,10
+3545,Luiz Gustavo Dias,90,0,0,0.0,0,61,52,0,0,0.0,1,1,13,2,1,0,3,0,3,2,0,0,0,3,0,15
+5544,Ricardo Iván Rodríguez Araya,90,2,0,0.0127517642,1,97,85,0,4,0.13955230000000002,2,1,9,2,0,0,4,0,4,0,3,0,1,0,0,19
+8230,Josuha Guilavogui,90,1,0,0.036869314,1,55,50,0,3,0.1235402562,1,1,8,3,0,0,1,1,6,2,1,0,2,1,1,11
+8235,Maximilian Arnold,74,1,0,0.004805028,1,36,31,0,1,0.07634976,0,0,6,2,2,0,3,0,6,2,0,2,2,1,0,15
+8239,Robin Knoche,90,0,0,0.0,0,91,76,0,0,0.0,0,0,12,1,0,0,6,3,4,0,3,0,4,5,2,15
+8240,Koen Casteels,90,0,0,0.0,0,36,35,0,0,0.0,0,0,2,1,0,0,0,0,5,0,0,0,0,0,0,1
+8386,Max Kruse,59,3,0,0.043039364999999996,2,21,16,0,1,0.108841866,3,3,5,1,1,0,0,0,0,0,0,0,0,0,0,12
+8521,Daniel Caligiuri,90,4,0,0.273797984,2,51,41,0,3,0.042351039,10,4,15,0,3,1,4,0,10,4,1,0,5,1,0,14
+10281,André Schürrle,90,2,0,0.146964326,1,29,26,0,0,0.0,1,1,10,0,0,0,5,0,0,1,0,0,0,4,0,17
+10790,Adelino André Vieira Freitas,31,1,0,0.032270227,0,36,29,0,0,0.0,0,0,4,0,0,0,4,2,4,0,0,2,0,4,0,7
+23266,Christian Träsch,69,0,0,0.0,0,51,40,0,0,0.0,0,0,8,2,2,1,2,1,1,0,4,2,5,1,0,17
+25152,Bruno Henrique Pinto,21,0,0,0.0,0,8,7,0,0,0.0,1,0,3,1,0,0,0,0,1,3,0,0,0,0,0,3
+40469,Marcel Schäfer,16,0,0,0.0,0,9,7,0,0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

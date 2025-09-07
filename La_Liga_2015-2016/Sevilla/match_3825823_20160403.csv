@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3253,Adil Rami,90,0,0,0.0,0,58,44,0,0,0.0,0,0,17,3,0,0,3,1,9,0,2,1,1,2,0,9
+3497,Vicente Iborra De La Fuente,45,1,0,0.11998898,0,8,5,0,0,0.0,0,0,1,0,0,0,6,1,1,1,0,0,1,1,0,3
+3637,Grzegorz Krychowiak,65,0,0,0.0,0,49,44,0,0,0.0,1,1,4,3,3,2,3,0,2,2,5,5,2,2,0,5
+5504,Éver Maximiliano David Banega,90,3,0,0.11932563,1,89,77,0,4,0.48043056400000006,5,4,20,3,2,1,4,2,6,1,0,0,1,3,2,15
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,25,1,0,0.35111466,0,19,13,0,1,0.02878278,0,0,1,1,0,0,1,0,1,1,0,1,0,0,0,4
+6401,Kevin Gameiro,90,5,1,1.3218317560000001,3,17,12,0,0,0.0,2,1,3,0,1,0,3,1,1,2,1,0,1,1,0,9
+6823,Sergio Rico González,90,0,0,0.0,0,26,19,0,0,0.0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+6841,Víctor Machín Pérez,90,2,0,0.063845762,1,51,40,0,3,0.218265724,3,3,21,5,2,1,3,2,10,4,0,2,1,2,0,13
+7154,Sebastián Carlos Cristóforo Pepe,45,0,0,0.0,0,34,30,0,0,0.0,1,0,5,1,2,0,3,1,3,0,0,2,1,1,0,14
+8523,Yevhen Konoplyanka,19,1,0,0.02878278,1,13,7,0,0,0.0,0,0,6,0,0,0,0,0,2,1,0,0,0,0,0,2
+10476,Timothée Kolodziejczak,90,0,0,0.0,0,53,48,0,0,0.0,1,1,14,2,0,0,5,1,3,0,1,0,0,3,1,8
+21210,Mariano Ferreira Filho,90,0,0,0.0,0,77,52,0,0,0.0,4,2,5,4,0,0,5,3,7,0,2,1,3,4,2,15
+23816,José Antonio Reyes Calderón,71,2,0,0.14067047,0,35,22,0,1,0.35111466,5,1,6,2,4,0,4,3,5,4,0,1,6,3,2,18
+27483,Benoît Trémoulinas,90,0,0,0.0,0,47,41,0,0,0.0,1,1,6,0,0,0,2,0,3,1,2,0,2,0,0,4

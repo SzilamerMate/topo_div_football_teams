@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4320,Neymar da Silva Santos Junior,90,3,0,0.2302325625,0,67,47,1,5,0.47092760599999994,17,10,22,0,4,0,0,0,1,1,0,1,0,0,0,8
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,93,88,0,0,0.0,0,0,9,1,2,2,2,1,3,0,1,2,1,1,0,15
+5216,Andrés Iniesta Luján,27,1,0,0.03206861,0,18,15,0,0,0.0,1,1,4,0,1,0,1,1,0,0,0,0,1,1,1,2
+5246,Luis Alberto Suárez Díaz,25,0,0,0.0,0,9,6,0,0,0.0,3,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+5470,Ivan Rakitić,90,2,0,0.19772455,0,54,47,0,0,0.0,4,2,5,1,1,0,6,3,5,2,1,2,0,3,0,7
+5503,Lionel Andrés Messi Cuccittini,31,3,0,0.18724497499999998,0,22,15,0,0,0.0,5,4,7,0,0,0,0,0,0,1,0,0,0,0,0,2
+5506,Javier Alejandro Mascherano,90,1,0,0.06821879,0,106,100,0,2,0.20567264,0,0,23,1,1,1,1,0,8,0,4,1,0,0,0,7
+6400,Aleix Vidal Parreu,90,2,0,0.049020451,1,69,62,0,1,0.016592197,3,0,5,0,1,0,1,0,4,0,2,1,0,0,0,15
+6402,Francisco Alcácer García,65,1,0,0.112651,0,14,12,0,0,0.0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,7
+6609,Denis Suárez Fernández,59,0,0,0.0,0,43,37,0,0,0.0,2,1,7,4,1,0,1,0,1,1,0,0,3,0,0,14
+6849,Lucas Digne,90,1,0,0.016592197,0,91,75,0,1,0.09885991,2,1,10,0,2,1,6,4,4,1,0,0,2,5,1,14
+8652,Jasper Cillessen,90,0,0,0.0,0,27,27,0,0,0.0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+10609,Jérémy Mathieu,90,3,1,0.755683366,1,92,84,0,1,0.047768235,1,1,15,2,0,0,2,2,6,0,0,1,1,2,1,11
+11094,Arda Turan,63,0,0,0.0,0,41,36,0,3,0.188498291,4,2,13,3,1,0,1,0,4,1,0,0,1,0,0,9

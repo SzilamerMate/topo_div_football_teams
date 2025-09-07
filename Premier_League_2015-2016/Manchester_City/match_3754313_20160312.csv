@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3052,Pablo Javier Zabaleta Girod,6,0,0,0.0,0,6,5,0,0,0.0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,2
+3054,Fernando Luiz Rosa,90,1,0,0.041729327,0,84,75,0,1,0.03661159,0,0,10,2,2,1,6,3,8,2,0,0,2,3,1,21
+3064,David Josué Jiménez Silva,90,3,0,0.24646059,0,110,95,0,4,0.17881908600000002,0,0,16,1,3,0,5,2,8,5,0,1,1,3,1,13
+3090,Nicolás Hernán Otamendi,90,1,0,0.040291592,0,34,31,0,0,0.0,2,1,6,2,1,1,4,0,6,1,10,4,3,2,0,16
+3101,Vincent Kompany,90,3,0,0.146161121,1,41,35,0,0,0.0,2,1,5,1,1,0,4,2,6,0,13,3,1,2,0,3
+3233,Raheem Sterling,33,0,0,0.0,0,17,13,0,0,0.0,1,0,4,1,3,0,0,0,5,3,0,1,0,0,0,4
+3237,Sergio Leonel Agüero del Castillo,90,5,0,0.213806049,2,37,32,0,0,0.0,5,2,14,0,3,0,1,1,11,3,0,0,0,1,0,11
+3291,Joe Hart,90,0,0,0.0,0,21,13,0,0,0.0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+3598,Wilfried Guemiand Bony,57,1,0,0.030861653,0,20,15,0,0,0.0,1,0,3,0,1,0,6,0,1,1,0,0,0,0,0,4
+3708,Kelechi Promise Iheanacho,14,1,0,0.05654639,0,11,6,0,0,0.0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0,4
+6821,Jesús Navas González,76,0,0,0.0,0,55,41,0,2,0.17960013200000002,1,1,8,0,1,0,4,0,5,0,0,0,0,0,0,12
+7110,Bacary Sagna,84,0,0,0.0,0,65,49,0,1,0.03314006,1,0,1,0,0,0,3,1,5,0,4,0,1,1,0,7
+16003,Fernando Francisco Reges,90,0,0,0.0,0,70,64,0,1,0.039933015,3,3,4,1,1,0,8,1,7,0,6,5,1,1,1,15
+20302,Gaël Clichy,90,0,0,0.0,0,89,71,0,1,0.046900023,2,2,21,2,0,0,4,0,9,0,10,6,3,1,0,15

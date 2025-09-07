@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7114,Gaetano Letizia,90,1,0,0.019043973,0,57,42,0,0,0.0,4,2,11,3,5,0,8,4,9,3,3,1,2,7,4,18
+7172,Simone Romagnoli,90,0,0,0.0,0,30,26,0,0,0.0,0,0,0,0,0,0,6,0,3,0,5,0,3,2,0,5
+7460,Isaac Cofie,78,0,0,0.0,0,36,29,0,1,0.19514598,1,0,1,0,0,0,9,3,6,2,3,3,2,5,1,23
+7793,Kevin Lasagna,39,3,0,0.36916298999999997,1,13,10,0,1,0.04462,2,2,5,4,1,1,0,0,0,0,0,0,2,0,0,7
+8662,Vid Belec,90,0,0,0.0,0,27,15,0,0,0.0,0,0,2,0,1,0,0,0,4,0,0,0,0,0,0,0
+11499,Riccardo Gagliolo,90,2,0,0.12947939,1,51,38,0,0,0.0,0,0,9,4,3,2,3,2,7,1,4,1,4,2,0,15
+11502,Antonio Di Gaudio,60,2,1,0.21260509,2,11,10,1,2,0.40019328,1,0,3,1,1,0,1,0,3,2,3,0,2,0,0,15
+30750,Stefano Sabelli,30,1,1,0.1280708,1,10,5,0,0,0.0,0,0,1,0,2,0,1,1,3,1,1,0,1,1,1,10
+30829,Lorenzo Lollo,51,2,1,0.66565585,2,19,12,0,1,0.05059296,0,0,3,2,0,0,4,0,2,2,0,0,3,0,0,21
+31273,Marco Crimi,12,1,0,0.04462,1,6,6,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6
+32525,Fabrizio Poli,90,0,0,0.0,0,21,17,0,0,0.0,0,0,1,1,0,0,3,1,1,0,3,2,4,2,1,11
+32608,Jerry Uche Mbakogu,90,1,0,0.19514598,0,37,25,1,4,0.53117512,3,2,8,0,5,1,5,1,6,4,1,0,1,2,0,11
+352172,Raffaele Bianco,90,1,0,0.03520107,0,45,38,0,0,0.0,2,2,5,2,3,1,2,0,11,1,1,2,0,1,0,24
+387472,Lorenzo Pasciuti,90,1,1,0.1435448,1,58,41,1,2,0.428051343,0,0,6,0,1,1,5,1,7,0,0,1,3,1,0,12

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3075,Javier Manquillo Gaitán,90,0,0,0.0,0,64,53,0,0,0.0,1,1,5,1,0,0,4,1,0,0,0,0,1,3,1,18
+3181,Lassana Diarra,90,1,0,0.01660286,0,56,43,0,0,0.0,1,0,3,2,0,0,4,2,14,3,2,0,2,3,1,20
+3261,Benjamin Mendy,90,0,0,0.0,0,64,53,0,1,0.08355937,5,4,12,1,2,0,7,1,9,3,4,1,4,4,0,13
+3420,Rémy Cabella,90,0,0,0.0,0,57,48,0,0,0.0,3,1,11,0,1,0,7,1,7,2,0,1,2,1,0,16
+3457,Michy Batshuayi Tunga,90,3,0,0.302450882,2,14,10,0,0,0.0,1,1,3,2,0,0,5,1,1,6,0,0,0,1,0,15
+3543,Steve Mandanda,90,0,0,0.0,0,36,26,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+4345,Lucas Ariel Ocampos,25,0,0,0.0,0,9,6,0,0,0.0,4,3,3,1,1,0,4,1,0,2,0,0,1,2,1,8
+4351,Bouna Sarr,65,0,0,0.0,0,22,14,0,1,0.01660286,2,0,6,2,1,0,1,0,4,6,0,0,0,0,0,5
+7472,Nicolas Alexis Julio N'Koulou Ndoubena,90,0,0,0.0,0,73,65,0,0,0.0,0,0,7,1,2,1,2,1,4,0,5,1,2,1,0,9
+10036,Jacques-Alaixys Romao,90,1,1,0.0722348,1,68,58,0,0,0.0,0,0,7,4,2,1,8,2,6,0,0,2,1,6,0,32
+19813,Rolando Jorge Pires da Fonseca,90,0,0,0.0,0,54,49,0,0,0.0,0,0,6,1,0,0,1,1,2,0,6,0,3,1,0,10
+23933,Abdelaziz Barrada,85,1,0,0.018901287,1,54,33,1,2,0.27895362,4,3,13,1,1,0,6,3,4,3,0,0,2,4,1,12
+25199,Lucas Silva Borges,5,0,0,0.0,0,3,0,0,0,0.0,1,1,0,0,1,1,1,1,1,0,0,0,0,1,0,5

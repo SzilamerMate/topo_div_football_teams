@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2947,Anthony Lopes,90,0,0,0.0,0,33,24,0,0,0.0,1,1,1,0,0,0,0,0,8,0,1,0,0,0,0,0
+2948,Nabil Fekir,23,0,0,0.0,0,6,4,0,0,0.0,3,2,2,2,1,0,2,1,0,5,0,0,0,1,1,1
+2983,Jérémy Morel,75,0,0,0.0,0,47,38,0,0,0.0,1,0,3,0,0,0,1,0,2,0,3,0,5,0,0,6
+3118,Jordan Ferri,90,0,0,0.0,0,56,50,1,2,0.235573184,3,2,8,2,2,0,4,0,2,1,0,0,1,0,0,7
+3156,Rafael Pereira da Silva,90,2,0,0.40456053999999997,0,53,41,0,0,0.0,4,3,8,1,1,0,5,2,5,3,5,0,1,3,1,11
+3361,Clément Grenier,23,1,1,0.03298235,1,15,10,0,0,0.0,2,0,1,2,1,1,1,0,2,0,0,0,1,0,0,2
+3372,Rachid Ghezzal,67,1,0,0.03962194,0,38,27,0,0,0.0,2,1,9,1,3,1,2,0,3,3,0,0,2,0,0,4
+3451,Alexandre Lacazette,90,1,1,0.21852085,1,28,22,0,1,0.056623135,5,2,2,1,1,0,2,0,3,4,0,0,1,0,0,6
+4463,Mapou Yanga-Mbiwa,90,1,0,0.19207764,0,63,53,0,0,0.0,0,0,12,1,2,1,0,0,7,0,5,1,0,0,0,4
+4895,Henri Bedimo Nsamè,15,0,0,0.0,0,9,6,0,0,0.0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,1
+5480,Corentin Tolisso,90,3,1,0.743863954,1,67,52,0,2,0.045373164300000005,0,0,11,2,0,0,7,0,13,1,2,1,3,1,0,8
+5492,Samuel Yves Umtiti,90,1,0,0.0059726443,0,59,49,0,0,0.0,0,0,15,1,0,0,0,0,5,1,6,0,4,0,0,5
+6982,Maxime Gonalons,90,0,0,0.0,0,47,42,0,0,0.0,0,0,4,1,2,0,7,3,8,2,6,1,2,3,1,14
+18868,Mathieu Valbuena,67,2,0,0.101584625,0,49,41,0,1,0.19207764,3,1,8,4,0,0,3,0,3,2,0,0,1,0,0,3

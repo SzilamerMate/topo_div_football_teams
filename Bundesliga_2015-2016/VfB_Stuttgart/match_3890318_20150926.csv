@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5557,Timo Werner,90,3,0,0.203683591,0,23,20,0,1,0.24174234,0,0,7,0,3,2,5,0,3,1,0,0,3,0,0,16
+5591,Filip Kostić,90,5,0,0.18766922850000003,1,42,20,0,2,0.190509225,4,2,13,0,1,0,3,0,11,2,0,0,2,0,0,18
+8243,Daniel Didavi,62,3,0,0.39570824299999996,1,20,12,0,0,0.0,0,0,1,1,3,1,5,0,3,2,0,0,0,1,0,18
+8550,Alexandru Iulian Maxim,28,3,0,0.398719507,1,20,16,0,3,0.202067447,0,0,1,1,1,1,0,0,2,0,0,0,1,0,0,9
+8557,Martin Harnik,3,0,0,0.0,0,2,2,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+8956,Timo Baumgartl,87,0,0,0.0,0,37,34,0,0,0.0,0,0,7,1,2,1,9,1,5,1,4,0,3,7,1,22
+8959,Christian Gentner,81,3,0,0.156327317,0,46,31,0,1,0.058199875,3,1,4,3,1,1,4,2,3,0,1,1,2,3,2,16
+9082,Przemysław Tytoń,90,0,0,0.0,0,32,17,0,0,0.0,0,0,6,0,0,0,0,0,7,0,0,0,0,0,0,0
+9409,Daniel Ginczek,90,2,1,0.94150506,1,37,23,0,2,0.14503204,5,4,3,0,0,0,8,0,4,1,2,0,3,0,0,22
+9728,Florian Klein,90,1,0,0.028530544,0,46,36,0,1,0.2184062,1,1,6,2,0,0,3,0,4,0,2,1,2,2,0,23
+12626,Emiliano Adrián Insúa Zapata,90,1,0,0.008194608,0,47,31,0,0,0.0,1,1,5,2,0,0,3,1,8,0,3,2,6,2,0,23
+34558,Sereso Geoffroy Gonzaroua Dié,90,0,0,0.0,0,54,44,0,3,0.082470673,8,6,12,3,4,0,4,4,13,1,0,2,3,4,2,27
+35496,Jan Kliment,9,1,0,0.02001125,1,4,3,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,3
+38172,Toni Šunjić,90,1,0,0.03048949,1,40,31,0,0,0.0,0,0,6,3,2,1,4,3,2,0,3,1,2,4,1,20

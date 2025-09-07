@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6686,Giampaolo Pazzini,90,4,1,0.443655885,1,13,10,0,0,0.0,0,0,3,3,1,0,4,1,3,2,0,0,3,1,1,29
+7949,Artur Ioniţă,77,1,0,0.058630403,0,24,15,0,0,0.0,1,1,9,3,3,2,8,0,5,1,1,1,4,0,0,30
+7966,Filip Helander,90,0,0,0.0,0,42,31,0,0,0.0,0,0,2,1,1,1,4,2,4,0,4,1,3,2,0,8
+8274,Pierluigi Gollini,90,0,0,0.0,0,37,28,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+8463,Urby Emanuelson,45,2,0,0.133997827,0,23,18,0,0,0.0,2,0,7,1,0,0,2,2,5,1,0,1,1,2,0,16
+11339,Paweł Wszołek,90,0,0,0.0,0,33,22,2,6,1.241810161,5,5,10,1,1,0,3,1,8,2,0,1,2,3,0,26
+11342,Eros Pisano,90,0,0,0.0,0,47,29,0,1,0.14090475,0,0,5,5,2,1,4,0,5,0,2,0,7,2,0,15
+11494,Luca Siligardi,45,2,1,0.592104643,1,11,5,0,0,0.0,4,4,1,2,0,0,2,0,2,1,1,0,3,0,0,16
+20252,Luca Toni,90,3,0,0.35627267399999996,1,18,8,0,1,0.033523962,2,0,1,2,3,1,2,1,3,3,1,0,1,1,0,21
+25303,Gilberto Moraes Junior,23,0,0,0.0,0,15,13,0,1,0.058630403,2,2,7,1,3,1,1,0,2,1,1,0,0,0,0,5
+31488,Vangelis Moras,90,0,0,0.0,0,53,38,0,0,0.0,0,0,13,0,4,2,2,0,7,0,7,1,3,0,0,6
+31572,Luca Marrone,90,0,0,0.0,0,59,42,0,1,0.12877484,1,0,5,2,0,0,5,4,7,2,1,2,0,4,2,37
+386650,Michelangelo Albertazzi,67,0,0,0.0,0,33,25,0,1,0.055215493,1,1,3,2,0,0,3,2,4,0,3,2,2,2,0,7
+386651,Juan Ignacio Gómez Taleb,13,1,0,0.21474658,1,6,5,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2

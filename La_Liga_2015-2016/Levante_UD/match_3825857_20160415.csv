@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5678,Jefferson Andrés Lerma Solís,90,1,0,0.05459679,0,48,37,0,0,0.0,1,0,2,1,0,0,3,0,5,1,4,0,2,0,0,6
+6659,Víctor Camarasa Ferrando,1,0,0,0.0,0,2,1,0,0,0.0,2,2,2,0,1,0,0,0,1,1,0,0,0,0,0,1
+6668,José Luis Morales Nogales,89,2,0,0.051038047,0,32,22,0,0,0.0,5,2,12,2,0,0,2,1,5,4,1,3,2,2,1,18
+6787,Pedro López Muñoz,60,1,0,0.042703345,0,33,26,0,0,0.0,1,0,7,0,2,0,3,0,7,1,2,0,0,1,0,6
+7141,Giuseppe Rossi,72,3,1,0.3190895465,2,19,16,0,1,0.123146966,3,2,2,1,1,0,6,0,4,3,0,0,2,1,0,12
+23843,Diego Mariño Villar,90,0,0,0.0,0,34,22,0,0,0.0,0,0,2,0,2,1,0,0,5,0,0,0,0,0,0,0
+24149,José Antonio García Rabasco,90,0,0,0.0,0,49,39,0,1,0.011071622,3,2,8,2,1,1,3,1,6,1,2,0,0,3,1,14
+25134,Deyverson Brum Silva Acosta,90,2,0,0.14686032599999999,1,29,13,0,1,0.03745566,1,1,2,1,3,2,11,1,2,3,5,0,0,1,0,16
+26012,David Navarro Pedrós,90,0,0,0.0,0,41,33,0,0,0.0,0,0,9,1,0,0,0,0,2,0,7,1,5,0,0,3
+26023,Juan Francisco García García,90,0,0,0.0,0,62,42,0,1,0.06325463,1,0,10,1,3,1,4,1,5,1,2,0,0,2,1,7
+26211,Joan Verdú Fernández,90,0,0,0.0,0,40,35,1,3,0.26467119,1,1,6,0,0,0,6,2,6,2,0,1,0,2,1,8
+27122,Simão Mate,18,0,0,0.0,0,9,5,0,0,0.0,0,0,1,1,0,0,1,0,2,0,3,1,0,1,0,5
+27463,Mauricio Andrés Cuero Castillo,30,2,0,0.034259101,0,7,3,0,0,0.0,4,1,6,1,1,1,2,2,2,0,2,1,0,2,0,6
+27656,Carl Medjani,90,1,1,0.18636104,1,35,26,0,1,0.246801,0,0,7,1,1,1,4,3,2,0,5,1,1,3,1,7

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5216,Andrés Iniesta Luján,29,1,0,0.03910947,1,30,28,0,0,0.0,3,3,5,0,1,0,2,1,3,2,0,1,0,2,1,7
+5503,Lionel Andrés Messi Cuccittini,90,2,1,0.4815572,1,40,36,0,2,0.732449793,1,0,9,2,3,0,2,0,0,0,0,0,1,0,0,16
+5558,Rafael Márquez Álvarez,90,2,0,0.148763673,0,74,61,0,0,0.0,1,1,4,0,1,1,1,0,3,1,6,1,1,1,0,5
+15071,Lilian Thuram,90,0,0,0.0,0,91,88,0,0,0.0,0,0,7,1,0,0,3,1,2,1,3,0,2,2,1,7
+15774,Gianluca Zambrotta,80,1,0,0.03107375,0,50,45,0,0,0.0,1,1,3,1,2,0,3,1,2,0,2,1,1,2,0,11
+19298,Samuel Eto''o Fils,90,7,2,1.0505668780000001,3,26,24,1,1,0.19429968,4,3,5,0,2,0,3,0,8,1,0,0,3,0,0,18
+19757,Anderson Luís de Souza,61,0,0,0.0,0,55,49,0,3,0.101311787,2,1,4,1,1,0,0,0,5,3,0,1,1,0,0,15
+20131,Xavier Hernández Creus,90,0,0,0.0,0,87,80,0,4,0.53654578,3,3,12,2,3,0,3,2,4,1,0,3,1,2,1,14
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,37,19,0,0,0.0,0,0,1,0,0,0,0,0,7,0,0,0,0,0,0,0
+25854,Sylvio Mendes Campos Junior,90,0,0,0.0,0,68,59,0,0,0.0,2,1,11,1,2,0,5,1,12,0,1,1,2,4,1,11
+25873,Oleguer Presas Renom,10,0,0,0.0,0,6,4,0,0,0.0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,2
+25878,Ludovic Giuly,19,2,0,0.81657703,0,7,3,0,0,0.0,1,1,4,0,0,0,1,0,0,1,0,0,1,0,0,2
+25879,Ronaldo de Assis Moreira,71,0,0,0.0,0,61,50,1,4,0.70376547,0,0,11,0,3,1,1,0,1,4,0,0,1,0,0,6
+25910,José Edmílson Gomes de Moraes,90,1,0,0.027712582,0,53,47,0,0,0.0,1,0,6,2,3,0,1,1,7,5,2,2,2,1,0,17

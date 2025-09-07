@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7042,Ivan Radovanović,90,3,0,0.0419497357,1,88,73,0,0,0.0,0,0,10,1,1,0,4,2,11,0,3,2,0,2,1,12
+7043,Roberto Inglese,25,0,0,0.0,0,11,8,0,0,0.0,0,0,0,0,0,0,4,1,1,2,0,0,1,1,0,5
+7045,Valter Birsa,71,3,0,0.127167458,1,34,28,0,2,0.06979553969999999,1,0,4,0,3,1,1,0,3,2,0,0,3,0,0,12
+7046,Perparim Hetemaj,90,0,0,0.0,0,53,40,0,0,0.0,0,0,9,4,3,1,9,2,5,2,0,1,3,7,1,34
+7049,Lucas Nahuel Castro,90,1,0,0.062207095,0,44,38,0,0,0.0,3,2,7,1,2,1,7,4,3,2,4,0,1,4,1,14
+7050,Fabrizio Cacciatore,90,0,0,0.0,0,69,58,0,2,0.12337512,2,2,7,1,0,0,2,1,6,0,5,0,8,1,0,15
+7052,Alessandro Gamberini,90,0,0,0.0,0,31,23,0,0,0.0,0,0,2,0,0,0,0,0,7,0,6,0,4,0,0,7
+7803,Albano Benjamín Bizzarri,90,0,0,0.0,0,33,21,0,0,0.0,0,0,5,0,0,0,0,0,4,0,0,0,0,0,0,0
+8278,Nicolás Federico Spolli,90,0,0,0.0,0,19,15,0,0,0.0,0,0,2,4,0,0,0,0,2,1,9,1,3,0,0,15
+8644,Sergio Pellissier,36,0,0,0.0,0,9,6,0,1,0.022400804,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2
+8645,Massimo Gobbi,90,0,0,0.0,0,55,43,0,1,0.017414981,3,2,8,1,0,0,2,0,5,0,6,0,1,0,0,14
+11643,Riccardo Meggiorini,65,1,0,0.06005748,0,24,16,0,0,0.0,5,2,6,3,1,1,4,1,2,1,1,2,2,1,0,11
+27110,Antonio Floro Flores,54,1,0,0.06056553,0,16,10,0,1,0.026168466,0,0,2,3,1,0,3,0,4,0,0,0,1,0,0,11
+40247,Simone Pepe,19,1,0,0.022400804,0,24,13,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,2

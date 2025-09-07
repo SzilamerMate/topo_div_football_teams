@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5560,Carlos Alberto Vela Garrido,87,3,0,0.62831296,1,39,23,0,0,0.0,4,4,11,0,3,0,3,1,3,0,0,0,2,1,0,9
+6605,Joseba Zaldúa Bengoetxea,90,0,0,0.0,0,45,31,0,2,0.084846561,1,0,6,2,4,1,1,0,6,2,2,2,1,0,0,11
+6633,Markel Bergara Larrañaga,90,0,0,0.0,0,38,30,0,0,0.0,0,0,1,1,0,0,5,4,1,0,0,2,2,4,1,22
+6665,Íñigo Martínez Berridi,90,0,0,0.0,0,39,27,0,1,0.22820511,1,1,3,1,1,0,2,1,4,1,7,3,2,2,1,2
+6673,Sergio Canales Madrazo,6,0,0,0.0,0,3,2,0,0,0.0,0,0,2,0,1,0,0,0,2,0,0,0,0,0,0,2
+6674,Alberto De La Bella Madureño,90,0,0,0.0,0,56,36,0,1,0.399308,0,0,2,0,1,0,8,3,4,2,4,5,6,5,2,14
+6690,Xabier Prieto Argarate,90,0,0,0.0,0,44,31,0,0,0.0,3,1,4,1,1,0,2,0,4,0,0,0,4,0,0,13
+6694,Gerónimo Rulli,90,0,0,0.0,0,27,19,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+6740,Gonzalo Castro Irizábal,3,0,0,0.0,0,3,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6899,Rubén Pardo Gutiérrez,90,3,0,0.07981470400000001,1,42,28,0,0,0.0,1,0,6,1,0,0,4,2,6,0,1,0,0,2,1,11
+8522,Armindo Tué Na Bangna,84,1,0,0.058821734,0,30,22,0,0,0.0,2,0,4,2,3,0,4,1,2,0,0,2,2,1,1,19
+8584,Jonathas Cristian de Jesus,90,3,0,0.313051671,1,28,20,0,2,0.22900496,4,3,0,3,4,0,9,0,4,3,1,0,4,0,0,21
+16539,Diego Antonio Reyes Rosales,90,0,0,0.0,0,23,22,0,0,0.0,0,0,1,1,0,0,3,0,2,0,4,1,6,1,0,6

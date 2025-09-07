@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4383,Nicolas de Roussel de Préville,90,4,1,0.541411629,2,41,27,0,0,0.0,1,1,13,4,4,2,6,2,11,8,0,0,2,4,1,17
+4545,Prince Oniangué,66,0,0,0.0,0,69,63,0,0,0.0,1,1,10,1,2,1,0,0,4,1,2,1,1,0,0,12
+6648,Aïssa Mandi,90,1,0,0.31769994,0,66,59,0,0,0.0,1,1,6,0,0,0,2,1,9,0,5,1,2,1,1,6
+7375,Theoson Jordan Siebatcheu,24,0,0,0.0,0,7,4,0,0,0.0,1,1,1,0,0,0,2,0,1,1,0,0,1,0,0,6
+7498,Mickaël Tacalfred,90,0,0,0.0,0,65,54,0,0,0.0,1,0,5,1,1,1,4,0,5,1,1,2,2,1,0,7
+7815,Antoine Devaux,90,2,0,0.108793728,1,61,46,0,1,0.16362967,2,1,13,0,1,0,4,3,2,1,1,0,0,3,2,16
+7817,Frédéric Bulot,45,2,0,0.123316497,0,26,20,0,0,0.0,1,0,9,0,2,1,2,1,1,1,0,1,1,2,0,5
+40521,Franck Signorino,90,0,0,0.0,0,60,52,0,0,0.0,0,0,3,0,1,0,5,0,4,0,4,5,1,2,0,11
+46801,Jaba Kankava,75,0,0,0.0,0,70,63,0,2,0.376733228,4,2,10,1,0,0,3,2,9,1,1,3,2,2,1,21
+95699,Alexi Peuget,15,0,0,0.0,0,13,13,0,1,0.02768022,0,0,3,0,0,0,1,1,1,0,2,0,1,1,0,2
+401453,"David N""Gog",90,2,0,0.19130989,1,28,23,0,2,0.150762432,1,0,7,1,0,0,11,0,5,5,0,0,3,2,0,16
+401454,Kossi Agassa,90,0,0,0.0,0,27,21,0,0,0.0,0,0,1,0,0,0,0,0,3,0,1,0,0,0,0,0
+401455,Mohamed Fofana,90,0,0,0.0,0,51,49,0,0,0.0,0,0,11,1,1,1,1,1,1,0,8,4,0,1,0,7
+401488,Odaïr Junior Lopes Fortes,45,0,0,0.0,0,17,13,0,1,0.08795134,4,0,5,0,0,0,5,0,3,2,1,0,2,3,0,12

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2946,Frédéric Guilbert,90,0,0,0.0,0,46,34,0,0,0.0,0,0,4,1,1,0,4,1,0,1,2,1,1,2,0,12
+3109,Malcom Filipe Silva de Oliveira,90,1,0,0.038467288,0,32,23,0,2,0.068671386,3,2,6,4,5,1,0,0,4,2,1,1,2,0,0,11
+3184,Enzo Crivelli,4,1,0,0.047504906,0,4,3,0,0,0.0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,3
+3408,Thomas Touré,14,1,0,0.055003457,0,2,2,0,0,0.0,1,1,2,1,0,0,0,0,1,0,0,0,0,0,0,4
+3779,Cédric Yambéré,39,1,0,0.0065465984,0,13,7,0,0,0.0,1,1,1,1,1,0,3,2,3,0,4,1,1,2,1,10
+4442,Maxime Poundjé,90,0,0,0.0,0,61,46,0,0,0.0,5,3,6,0,3,0,1,0,6,0,3,0,4,0,0,17
+4542,Pablo Nascimento Castro,90,0,0,0.0,0,43,31,0,0,0.0,0,0,3,1,1,0,0,0,4,0,12,0,0,0,0,5
+6863,Mauro Wilney Arambarri Rosa,51,1,0,0.032641906,0,23,19,0,0,0.0,1,0,0,2,0,0,2,0,6,1,0,0,1,0,0,20
+7130,Cheick Tidiane Diabaté,86,1,0,0.047178056,0,19,16,0,1,0.05590879,3,1,4,3,7,4,5,0,3,4,2,0,0,0,0,5
+7193,Paul Bernardoni,90,0,0,0.0,0,45,23,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,1
+7552,Clément Chantôme,90,0,0,0.0,0,47,36,0,1,0.0065465984,0,0,5,2,4,2,3,1,6,1,4,1,2,3,0,26
+8385,Ludovic Lamine Sané,90,0,0,0.0,0,31,26,0,0,0.0,0,0,2,1,1,1,2,1,5,0,2,0,0,1,1,2
+10448,Adam Ounas,76,4,0,0.07876171900000001,1,20,13,0,0,0.0,4,3,8,4,1,0,4,0,6,1,0,0,1,2,0,12
+30338,André Biyogo Poko,90,3,0,0.277407746,1,33,26,0,2,0.064567393,6,4,7,0,1,1,9,2,11,5,2,1,1,4,1,37

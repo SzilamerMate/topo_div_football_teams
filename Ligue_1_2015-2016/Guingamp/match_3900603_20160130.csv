@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2936,Christophe Kerbrat,90,0,0,0.0,0,28,16,0,0,0.0,0,0,3,2,1,1,6,3,3,0,7,2,2,5,0,18
+3122,Yannis Salibur,70,1,0,0.007054991,1,22,14,0,0,0.0,3,2,11,1,2,0,2,1,2,4,0,1,3,1,1,10
+3124,Jérémy Sorbon,90,0,0,0.0,0,25,18,0,0,0.0,0,0,7,2,2,0,4,1,6,0,5,3,3,3,0,12
+3213,Jimmy Briand,85,2,1,0.41235352999999997,2,41,30,1,1,0.51308495,1,0,2,1,1,0,3,1,6,1,2,1,4,2,0,14
+3322,Jonas Lössl,90,0,0,0.0,0,28,11,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,1,0,0,0,0
+3348,Younousse Sankharé,90,1,1,0.51308495,1,22,15,1,1,0.28350735,0,0,6,1,2,1,4,1,4,2,0,1,6,3,1,21
+3363,Marcus Coco,5,0,0,0.0,0,2,1,0,0,0.0,0,0,1,0,0,0,2,1,1,1,0,0,1,1,0,2
+4434,Thibault Giresse,90,0,0,0.0,0,34,25,0,1,0.068155184,0,0,4,3,0,0,3,1,4,0,0,0,2,1,1,15
+4799,Sloan Privat,73,1,0,0.068155184,0,17,13,0,1,0.12884618,0,0,1,3,3,2,9,1,1,2,0,1,2,1,1,12
+20027,Mevlüt Erdinç,17,0,0,0.0,0,3,2,0,0,0.0,0,0,0,0,1,1,2,0,2,2,0,0,0,0,0,2
+20199,Lars Christian Jacobsen,90,0,0,0.0,0,32,25,0,1,0.007054991,1,1,6,1,1,1,1,1,2,0,1,2,2,1,0,10
+30182,Dorian Lévêque,90,1,0,0.007431608,0,40,22,0,0,0.0,0,0,4,1,1,1,4,1,6,1,2,0,1,3,0,12
+401512,Lionel Mathis,90,0,0,0.0,0,37,23,0,0,0.0,0,0,2,4,3,0,7,3,4,0,1,2,1,5,2,24
+401525,Julien Cardy,20,0,0,0.0,0,7,5,0,0,0.0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,8

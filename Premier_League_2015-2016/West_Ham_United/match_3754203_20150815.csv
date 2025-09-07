@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3062,Aaron Cresswell,90,0,0,0.0,0,95,83,0,1,0.14813939,4,2,8,1,1,1,4,0,3,1,3,0,1,2,0,9
+3491,Dimitri Payet,90,3,1,0.21770035,1,68,38,0,2,0.076926619,3,3,9,1,0,0,1,1,2,4,0,0,1,1,0,6
+3595,Manuel Lanzini,15,0,0,0.0,0,13,9,0,1,0.2043519,0,0,2,0,0,0,1,0,3,2,0,0,0,0,0,1
+3623,Adrián San Miguel del Castillo,90,0,0,0.0,0,30,23,0,0,0.0,0,0,2,1,1,1,0,0,7,0,0,0,0,0,0,0
+3684,Cheikhou Kouyaté,75,1,0,0.14813939,0,32,26,1,1,0.099775836,2,2,6,1,2,0,7,1,1,2,0,0,1,1,0,8
+3843,Angelo Obinze Ogbonna,90,0,0,0.0,0,80,66,0,0,0.0,0,0,7,1,1,0,6,3,3,0,7,1,0,3,1,12
+3874,Mark Noble,90,1,0,0.044324145,0,78,71,0,1,0.07271517,1,0,4,2,3,0,2,1,5,1,0,0,2,2,0,11
+3897,Pedro Mba Obiang Avomo,45,0,0,0.0,0,37,31,0,0,0.0,3,2,3,2,1,1,4,2,1,0,0,0,0,3,1,9
+3962,Diafra Sakho,90,2,0,0.33260347,2,17,10,0,0,0.0,2,2,5,1,1,0,9,0,4,2,0,0,3,0,0,10
+4273,Reece Oxford,45,0,0,0.0,0,14,10,0,0,0.0,0,0,0,1,0,0,2,1,1,0,0,0,0,2,0,8
+4280,Winston Reid,90,0,0,0.0,0,66,60,0,0,0.0,0,0,9,1,2,1,4,1,3,0,4,0,3,1,0,9
+21254,Carl Jenkinson,90,1,0,0.032602474,0,77,65,0,0,0.0,2,0,15,2,0,0,2,1,9,2,3,0,0,1,1,8
+27853,Mauro Matías Zárate,82,1,0,0.031002764,0,35,30,0,1,0.12825157,7,4,16,2,2,1,3,0,2,4,0,0,1,0,0,9
+42702,Modibo Maïga,8,0,0,0.0,0,6,3,0,0,0.0,2,1,2,0,1,0,1,0,0,0,0,0,0,0,0,1

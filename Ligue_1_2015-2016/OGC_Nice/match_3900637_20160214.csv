@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3136,Rémi Walter,15,0,0,0.0,0,13,13,0,1,0.06279728,0,0,2,1,0,0,2,0,1,0,0,0,0,0,0,3
+3210,Valère Germain,79,2,1,0.5599920399999999,1,30,19,0,1,0.01236042,0,0,3,0,1,0,2,2,4,1,2,0,0,2,0,13
+3229,Maxime Le Marchand,90,0,0,0.0,0,43,34,0,0,0.0,1,1,4,1,2,2,7,4,3,1,5,2,0,5,2,14
+3230,Alassane Pléa,90,0,0,0.0,0,34,24,0,0,0.0,4,1,6,4,1,0,2,0,4,5,0,0,2,1,0,30
+3359,Jean Michaël Seri,90,3,0,0.10169859,1,76,65,0,2,0.068486397,1,1,4,0,2,0,5,5,5,0,1,3,1,5,2,18
+3403,Alexandre Mendy,11,0,0,0.0,0,6,2,0,0,0.0,0,0,0,0,1,1,3,0,0,1,0,0,0,0,0,3
+4257,Yoan Cardinale,90,0,0,0.0,0,25,16,0,0,0.0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+4264,Vincent Koziello,84,0,0,0.0,0,56,49,1,1,0.506508,4,3,7,4,1,0,7,1,7,5,1,0,1,6,1,45
+4270,Jérémy Pied,90,2,0,0.034363658000000005,0,67,53,0,0,0.0,1,1,13,1,1,0,4,4,4,0,1,2,1,4,1,20
+4373,Mathieu Bodmer,75,0,0,0.0,0,52,42,0,1,0.039928365,0,0,2,0,1,0,2,0,2,1,0,0,0,1,0,4
+4443,Paul Baysse,90,1,0,0.04205424,0,44,34,0,0,0.0,3,2,6,0,1,1,5,1,2,1,4,0,3,2,0,9
+4506,Nampalys Mendy,90,0,0,0.0,0,53,50,0,0,0.0,1,0,6,3,1,0,3,3,8,0,0,1,2,3,1,23
+6352,Ricardo Domingos Barbosa Pereira,90,1,0,0.039928365,1,71,52,0,1,0.02654089,2,1,10,1,1,1,6,3,5,4,4,9,3,6,2,21
+16056,Niklas Hult,6,0,0,0.0,0,4,2,0,0,0.0,0,0,1,0,0,0,3,0,0,0,0,1,0,0,0,1

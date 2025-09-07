@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3265,José Luis Sanmartín Mato,5,1,0,0.09217938,0,3,3,0,0,0.0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,4
+3325,Marko Arnautović,89,3,0,0.28440248,1,42,31,0,0,0.0,3,1,13,0,0,0,0,0,6,1,1,3,1,0,0,7
+3467,Erik Pieters,90,0,0,0.0,0,63,50,0,0,0.0,1,1,7,2,1,0,7,4,8,0,4,4,6,6,1,18
+3480,Geoff Cameron,90,4,0,0.219200122,0,40,30,0,1,0.025980763,4,1,5,1,0,0,3,0,3,0,1,4,2,2,0,16
+3533,Xherdan Shaqiri,90,1,0,0.18579698,1,49,34,0,4,0.256861878,2,0,17,1,1,0,3,0,7,5,0,0,0,2,0,7
+3537,Jack Butland,90,0,0,0.0,0,35,23,0,1,0.027780285,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0
+3603,Mame Biram Diouf,85,3,1,0.531299156,1,17,11,0,1,0.028520329,1,1,4,1,3,1,5,1,2,1,1,1,1,1,1,13
+4346,Gilbert Gianelli Imbula Wanga,90,1,0,0.027780285,0,62,56,0,1,0.101031855,6,5,15,3,2,0,4,2,4,1,1,1,0,2,0,21
+4632,Stephen Ireland,1,0,0,0.0,0,3,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4891,Ibrahim Afellay,90,2,0,0.053398741,2,56,50,0,1,0.21823533,1,1,13,1,2,0,3,1,6,2,2,0,0,1,1,12
+4913,Bojan Krkíc Pérez,16,1,0,0.101031855,1,14,10,0,1,0.09217938,1,1,2,1,1,0,0,0,1,1,0,0,0,0,0,3
+6560,Marc Muniesa Martínez,90,1,0,0.020159142,0,36,32,0,0,0.0,0,0,3,1,1,0,6,2,1,1,0,6,3,3,1,20
+9625,Glenn Whelan,74,0,0,0.0,0,58,54,0,1,0.047882438,1,0,3,1,1,0,2,2,6,1,3,1,1,2,1,16
+40121,Philipp Wollscheid,90,0,0,0.0,0,40,33,0,2,0.229735047,0,0,3,0,0,0,5,2,2,0,7,3,1,3,0,13

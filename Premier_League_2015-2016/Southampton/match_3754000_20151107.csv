@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3272,Oriol Romeu Vidal,13,0,0,0.0,0,7,6,0,0,0.0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0
+3300,Maya Yoshida,90,0,0,0.0,0,64,52,0,0,0.0,2,1,1,0,0,0,6,1,2,2,4,1,3,3,1,17
+3328,James Ward-Prowse,90,3,0,0.1295547,0,58,51,0,1,0.13167104,2,1,5,1,0,0,4,0,6,2,1,0,4,0,0,7
+3629,Sadio Mané,82,4,0,0.37859909799999997,2,44,32,0,2,0.063881614,3,3,21,2,5,1,5,3,9,1,0,0,3,4,3,16
+3669,Virgil van Dijk,90,1,0,0.0060670497,0,48,43,0,0,0.0,0,0,10,1,0,0,7,2,3,0,18,2,1,3,0,5
+3828,Steven Davis,90,1,0,0.054730084,0,65,49,0,0,0.0,0,0,8,4,1,0,4,1,5,0,0,0,1,1,1,18
+3831,Dušan Tadić,89,2,1,1.01125717,2,60,32,0,2,0.11230935,0,0,12,0,1,0,3,1,5,0,1,0,0,1,0,6
+3960,José Miguel da Rocha Fonte,90,1,0,0.13167104,0,57,50,0,0,0.0,0,0,9,0,2,2,4,2,6,0,13,0,0,2,0,4
+6695,Juan Miguel Jiménez López,8,0,0,0.0,0,1,1,0,0,0.0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,2
+9958,Steven Caulker,1,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11062,Graziano Pellè,90,1,0,0.066125825,0,39,23,0,1,0.22775717,1,1,5,3,1,1,11,1,3,5,0,0,1,1,0,8
+16181,Jordy Clasie,77,1,0,0.018500574,0,75,61,0,1,0.0060670497,1,1,9,0,1,0,7,3,5,0,1,0,0,4,2,17
+20045,Ryan Bertrand,90,0,0,0.0,0,57,41,0,0,0.0,1,0,9,1,1,0,1,0,3,1,5,0,2,0,0,8
+20201,Maarten Stekelenburg,90,0,0,0.0,0,29,17,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0

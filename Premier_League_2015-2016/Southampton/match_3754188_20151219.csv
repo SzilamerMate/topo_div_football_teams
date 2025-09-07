@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3098,Victor Wanyama,90,0,0,0.0,0,37,29,0,0,0.0,2,2,5,4,5,0,9,6,7,3,0,0,0,8,4,25
+3328,James Ward-Prowse,13,1,0,0.21294688,1,9,8,0,0,0.0,0,0,1,0,0,0,1,0,1,1,1,0,1,0,0,4
+3329,Cédric Ricardo Alves Soares,90,0,0,0.0,0,77,50,0,2,0.14175532000000002,0,0,10,1,0,0,6,3,9,2,1,0,2,3,2,11
+3629,Sadio Mané,90,5,0,0.402953058,1,36,35,0,1,0.064816475,1,1,6,5,2,0,5,2,11,5,0,0,0,2,1,20
+3669,Virgil van Dijk,90,0,0,0.0,0,34,26,0,0,0.0,0,0,2,2,1,1,4,3,1,1,5,0,2,4,1,12
+3828,Steven Davis,63,1,0,0.03701559,0,28,21,0,1,0.06368191,1,0,1,0,0,0,5,3,5,1,0,0,1,4,1,16
+3831,Dušan Tadić,63,0,0,0.0,0,33,19,0,4,0.306189378,0,0,4,0,1,0,4,1,2,1,0,0,2,2,0,11
+3842,Shane Long,27,1,0,0.18604238,1,7,4,0,0,0.0,0,0,0,1,0,0,0,0,0,3,0,1,1,0,0,5
+3960,José Miguel da Rocha Fonte,90,0,0,0.0,0,38,22,0,0,0.0,0,0,7,2,0,0,4,0,2,2,6,1,0,1,0,10
+5109,Paulo Dino Gazzaniga,90,0,0,0.0,0,36,29,0,0,0.0,0,0,3,0,0,0,0,0,7,0,0,0,0,0,0,0
+6695,Juan Miguel Jiménez López,27,0,0,0.0,0,7,5,0,0,0.0,0,0,0,2,1,0,1,1,0,0,0,0,0,1,0,6
+11062,Graziano Pellè,90,3,0,0.206571795,1,40,20,0,1,0.18604238,2,2,4,2,0,0,7,0,1,1,1,0,1,0,0,11
+16181,Jordy Clasie,77,0,0,0.0,0,35,30,0,0,0.0,0,0,1,2,1,0,7,3,3,2,1,0,1,5,1,24
+20045,Ryan Bertrand,90,0,0,0.0,0,48,33,0,1,0.21294688,2,1,3,3,2,1,2,0,2,2,0,2,3,1,0,13

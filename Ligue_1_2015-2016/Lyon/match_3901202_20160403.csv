@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2947,Anthony Lopes,90,0,0,0.0,0,29,21,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+2983,Jérémy Morel,66,0,0,0.0,0,50,39,0,1,0.068321764,0,0,10,0,0,0,3,1,2,1,2,1,0,2,0,8
+3118,Jordan Ferri,90,2,0,0.040800983,0,71,63,0,2,0.061092168,2,1,12,2,0,0,6,2,3,4,1,0,1,4,1,23
+3162,Gnaly Maxwell Cornet,75,0,0,0.0,0,23,13,0,1,0.039751444,1,1,6,2,0,0,1,0,2,3,0,0,3,0,0,21
+3236,Sergi Darder Moll,84,2,0,0.12406282399999999,1,49,41,0,1,0.01844787,1,1,10,2,0,0,2,2,0,1,0,1,0,2,0,15
+3361,Clément Grenier,6,0,0,0.0,0,12,10,0,1,0.1296479,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,6
+3372,Rachid Ghezzal,90,5,1,0.21796558700000002,3,62,49,1,5,1.105879984,5,2,17,1,1,1,1,0,13,2,1,0,2,0,0,21
+3451,Alexandre Lacazette,90,3,2,0.988438374,2,37,26,0,0,0.0,2,2,7,1,0,0,1,0,2,0,0,0,0,0,0,13
+4410,Christophe Jallet,90,0,0,0.0,0,92,82,0,2,0.09967704399999999,1,0,10,0,0,0,5,1,6,0,2,1,2,4,1,12
+4463,Mapou Yanga-Mbiwa,90,0,0,0.0,0,80,71,0,0,0.0,1,1,16,1,1,1,3,2,6,2,4,2,1,2,0,11
+4895,Henri Bedimo Nsamè,24,1,0,0.006052804,0,22,21,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+5480,Corentin Tolisso,90,3,0,0.251396637,0,85,75,0,2,0.045131451,0,0,10,2,2,1,4,1,5,1,2,1,2,1,1,24
+5492,Samuel Yves Umtiti,90,0,0,0.0,0,77,66,0,0,0.0,0,0,7,1,0,0,2,0,6,0,6,0,2,2,0,10
+18868,Mathieu Valbuena,15,1,0,0.1296479,1,13,12,1,1,0.08188085,0,0,1,2,1,1,2,0,1,1,0,0,0,0,0,9

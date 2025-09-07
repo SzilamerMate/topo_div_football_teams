@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3041,Ciaran Clark,90,1,0,0.06489188,0,26,19,0,0,0.0,0,0,7,0,0,0,0,0,4,0,1,2,1,0,0,8
+3436,Idrissa Gana Gueye,45,0,0,0.0,0,25,23,0,0,0.0,1,0,1,0,0,0,1,0,2,0,1,1,1,1,0,19
+3450,Jordan Ayew,90,2,0,0.20181461,2,24,14,0,0,0.0,7,5,10,2,0,0,5,0,1,1,1,0,0,1,0,37
+3583,Ashley Westwood,90,2,0,0.048159104,0,76,60,0,1,0.1453917,0,0,8,1,0,0,1,0,5,1,2,0,0,1,0,32
+5685,Carlos Alberto Sánchez Moreno,45,0,0,0.0,0,34,30,0,0,0.0,0,0,4,3,0,0,4,1,2,0,0,1,1,4,1,16
+6800,Carles Gil de Pareja Vicent,56,1,0,0.029423933,0,21,17,0,1,0.06489188,2,1,11,0,0,0,1,1,3,1,0,0,3,1,1,17
+7153,Jordan Veretout,90,3,0,0.707040517,1,39,35,0,3,0.10979082400000001,0,0,10,2,3,0,2,0,5,0,1,0,0,1,0,30
+9638,Jack Grealish,73,1,0,0.039676666,0,28,23,0,4,0.126655224,2,0,10,0,0,0,2,1,2,0,1,1,1,1,1,23
+9642,Alan Hutton,90,0,0,0.0,0,51,42,0,0,0.0,1,1,13,0,0,0,1,1,3,2,2,0,2,1,1,18
+12608,Bradley Guzan,90,0,0,0.0,0,29,19,0,0,0.0,0,0,2,0,1,1,0,0,4,0,0,0,0,0,0,1
+19362,Rudy Gestede,34,0,0,0.0,0,6,4,0,1,0.02962633,1,1,0,0,1,0,0,0,1,2,0,0,1,0,0,4
+42700,Micah Richards,90,0,0,0.0,0,30,28,0,0,0.0,1,0,9,0,2,1,1,0,6,0,4,0,1,0,0,6
+42701,Kieran Richardson,90,1,0,0.013691248,1,54,47,0,0,0.0,0,0,11,2,1,1,3,1,3,0,3,0,0,3,1,15
+48634,"Charles N""Zogbia",17,0,0,0.0,0,4,4,0,0,0.0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,3

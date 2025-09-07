@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3210,Valère Germain,85,0,0,0.0,0,34,23,1,2,0.22740329,1,0,8,1,3,2,5,0,2,2,1,1,2,0,0,10
+3229,Maxime Le Marchand,90,0,0,0.0,0,36,29,0,0,0.0,1,1,3,2,0,0,3,0,3,1,5,1,4,0,0,8
+3359,Jean Michaël Seri,64,1,1,0.08052245,1,59,52,0,1,0.0063989414,0,0,6,1,2,0,2,1,5,2,1,3,2,1,0,16
+4264,Vincent Koziello,90,1,1,0.3491195,1,48,43,1,2,0.15335849299999998,0,0,5,2,1,0,5,4,9,1,0,0,2,4,1,40
+4270,Jérémy Pied,90,1,0,0.0063989414,0,60,40,0,0,0.0,2,2,11,1,0,0,5,3,4,0,5,1,2,4,0,12
+4373,Mathieu Bodmer,90,0,0,0.0,0,35,27,0,0,0.0,1,1,10,1,1,1,2,1,3,0,9,3,1,1,0,6
+4443,Paul Baysse,7,0,0,0.0,0,2,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+4506,Nampalys Mendy,90,1,0,0.017699435,0,44,43,0,0,0.0,1,1,6,1,1,0,0,0,7,1,1,0,0,0,0,6
+5653,Mouez Hassen,90,0,0,0.0,0,31,9,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+6352,Ricardo Domingos Barbosa Pereira,90,0,0,0.0,0,63,54,1,1,0.3491195,3,1,6,0,2,0,4,1,5,2,3,4,4,4,0,16
+7212,Mohamed Saïd Benrahma,5,0,0,0.0,0,2,2,0,0,0.0,1,0,1,0,0,0,1,1,1,0,0,0,0,1,1,5
+16462,Hatem Ben Arfa,83,4,2,0.329134735,4,33,23,0,0,0.0,7,5,12,0,2,1,2,1,7,3,0,0,2,1,0,13
+134561,Wallyson Teixeira Mallmann,90,0,0,0.0,0,54,48,0,0,0.0,1,0,8,0,2,0,10,4,4,3,2,0,5,4,1,29
+401528,Mahamane El-Hadj Traoré,26,0,0,0.0,0,13,11,0,0,0.0,1,1,0,0,0,0,2,1,2,0,3,1,0,1,0,8

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3530,Hiroki Sakai,90,3,0,0.17160732,0,49,31,0,0,0.0,1,0,3,2,0,0,8,1,4,0,7,0,1,4,0,21
+5664,Salif Sané,90,2,0,0.408449164,0,49,37,0,0,0.0,3,2,12,2,3,1,3,2,9,1,4,3,4,2,1,10
+8407,Ádám Szalai,15,0,0,0.0,0,3,2,0,0,0.0,0,0,1,1,0,0,3,0,2,1,0,1,0,0,0,4
+8538,Waldemar Anton,90,1,0,0.03750936,0,42,35,0,0,0.0,0,0,9,0,0,0,5,0,8,0,7,3,0,1,0,8
+8543,Manuel Schmiedebach,90,1,0,0.06641968,0,57,40,0,0,0.0,1,0,9,0,2,0,6,3,5,0,1,3,2,6,2,24
+8551,Felix Klaus,70,2,0,0.10914475100000001,1,17,11,0,0,0.0,1,0,3,1,2,0,3,1,4,0,0,1,2,1,1,24
+8947,Ron-Robert Zieler,90,0,0,0.0,0,35,26,0,0,0.0,0,0,7,0,0,0,0,0,5,0,0,0,0,0,0,0
+11845,Artur Sobiech,90,4,1,0.6987991219999999,1,28,21,0,3,0.09533642299999999,1,1,0,5,0,0,6,2,2,2,0,0,1,2,1,16
+13125,Iver Tobias Rørvik Fossum,85,2,0,0.150749892,0,36,23,0,0,0.0,3,2,4,2,1,0,7,0,6,1,1,0,3,6,0,28
+13126,Miiko Martín Albornoz Inola,90,0,0,0.0,0,39,27,0,2,0.206870254,1,0,4,0,5,2,5,3,3,2,2,1,3,4,2,12
+21311,Noah-Joel Sarenren-Bazee,75,5,0,0.49952574499999997,0,10,6,1,2,0.562975602,1,1,4,2,3,0,3,0,9,3,0,0,0,0,0,14
+24914,Edgar Prib,5,0,0,0.0,0,1,0,0,0,0.0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,2
+38524,Hiroshi Kiyotake,90,1,0,0.051753413,0,48,34,0,5,0.30990065499999997,2,1,6,0,3,1,4,1,4,4,1,0,1,1,1,7
+49010,Valmir Sulejmani,20,0,0,0.0,0,5,4,0,0,0.0,1,1,2,0,0,0,0,0,4,0,0,0,0,0,0,8

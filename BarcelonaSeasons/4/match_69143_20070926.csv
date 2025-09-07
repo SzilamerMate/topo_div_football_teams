@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3087,Gnégnéri Yaya Touré,90,1,0,0.007095679,0,64,61,0,0,0.0,2,2,6,1,3,0,5,4,8,0,0,0,2,4,1,14
+4913,Bojan Krkíc Pérez,8,1,0,0.009464984,0,4,4,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5216,Andrés Iniesta Luján,90,7,1,1.1413459179999998,3,67,58,0,4,0.5944360919999999,7,7,14,0,8,1,1,0,12,3,0,0,3,1,0,15
+5503,Lionel Andrés Messi Cuccittini,82,4,2,0.613930984,2,55,48,0,2,0.163925538,10,6,21,0,1,0,4,2,6,5,0,1,0,2,1,13
+5558,Rafael Márquez Álvarez,90,1,1,0.60377854,1,76,63,0,0,0.0,0,0,10,1,0,0,1,0,7,0,1,3,0,1,0,3
+5987,Giovani dos Santos Ramírez,18,0,0,0.0,0,8,5,0,0,0.0,3,2,3,0,0,0,0,0,1,0,0,0,1,0,0,4
+15516,Thierry Henry,90,8,0,1.213717009,5,23,16,1,1,0.16205767,10,8,11,0,2,0,4,2,7,4,0,0,0,2,1,12
+15774,Gianluca Zambrotta,20,0,0,0.0,0,7,7,0,0,0.0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,3
+19757,Anderson Luís de Souza,72,2,0,0.024582984000000002,0,88,73,2,6,1.4797835119999998,2,1,8,1,1,1,3,2,2,3,1,1,1,2,2,21
+20131,Xavier Hernández Creus,90,0,0,0.0,0,99,84,0,1,0.3316223,1,1,13,1,2,1,2,1,6,4,0,2,1,1,1,25
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,16,13,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+20177,Eric-Sylvain Bilal Abidal,90,0,0,0.0,0,75,67,0,2,0.110246775,4,2,8,1,0,0,3,1,6,0,1,0,0,1,1,5
+25873,Oleguer Presas Renom,70,0,0,0.0,0,68,59,0,0,0.0,3,3,5,0,0,0,4,2,2,0,0,3,1,3,0,9
+25919,Gabriel Alejandro Milito,90,0,0,0.0,0,62,60,0,0,0.0,0,0,6,1,1,0,1,0,5,1,1,4,0,0,0,12

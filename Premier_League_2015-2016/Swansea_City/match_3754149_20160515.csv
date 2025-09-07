@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3290,Federico Fernández,90,1,0,0.07481259,0,56,46,0,0,0.0,0,0,7,0,0,0,2,0,2,0,6,3,2,1,0,13
+3347,André Ayew Pelé,90,1,1,0.04864248,1,39,35,0,0,0.0,4,1,1,0,3,1,5,0,1,1,0,1,0,1,0,21
+3449,Wayne Routledge,57,1,0,0.027078118,0,29,15,0,0,0.0,1,1,3,0,0,0,0,0,5,1,0,1,0,0,0,8
+3462,Jack Frank Porteous Cork,90,0,0,0.0,0,59,45,0,0,0.0,3,3,9,1,1,0,2,0,2,2,3,3,3,2,0,25
+3973,Àngel Rangel Zaragoza,90,0,0,0.0,0,88,74,0,0,0.0,4,3,11,0,3,3,4,1,2,2,3,2,1,2,0,16
+4045,Leroy Fer,90,0,0,0.0,0,58,46,0,1,0.028559996,1,0,10,1,1,0,2,2,4,2,4,1,1,2,1,14
+4631,Leon Britton,90,0,0,0.0,0,57,47,0,0,0.0,3,2,4,1,3,1,4,1,6,0,2,3,1,2,1,37
+6652,Jordi Amat Maas,90,0,0,0.0,0,46,35,0,0,0.0,0,0,4,1,2,2,1,0,6,2,5,4,1,0,0,14
+7063,Jefferson Antonio Montero Vite,82,1,0,0.028559996,0,19,11,0,0,0.0,8,2,11,1,5,1,3,1,5,2,0,1,1,1,1,18
+9536,Modou Barrow,33,0,0,0.0,0,9,6,0,0,0.0,0,0,1,0,1,1,2,0,0,2,0,0,3,1,0,15
+9563,Kristoffer Nordfeldt,90,0,0,0.0,0,29,24,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+9629,Stephen Kingsley,90,0,0,0.0,0,48,37,0,1,0.07481259,1,1,5,0,0,0,3,0,8,0,3,0,1,2,0,15
+20521,Bafétimbi Gomis,8,0,0,0.0,0,4,3,0,0,0.0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,2

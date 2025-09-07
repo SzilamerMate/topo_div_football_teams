@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4320,Neymar da Silva Santos Junior,90,5,0,0.252910417,2,52,38,0,3,0.19052764800000002,4,3,7,2,8,1,1,0,5,5,0,0,1,0,0,4
+5203,Sergio Busquets i Burgos,50,0,0,0.0,0,46,44,0,0,0.0,0,0,3,1,0,0,3,2,1,0,0,2,0,2,0,13
+5211,Jordi Alba Ramos,90,1,0,0.044339,0,102,93,0,2,0.099132722,1,0,9,0,0,0,2,0,1,2,2,1,1,2,0,6
+5213,Gerard Piqué Bernabéu,90,1,0,0.09427214,0,100,95,0,0,0.0,0,0,20,1,2,0,5,2,5,0,2,5,1,2,0,4
+5216,Andrés Iniesta Luján,90,2,0,0.045231077,1,81,67,1,3,0.25444626000000004,7,6,17,3,2,0,1,1,8,1,0,4,2,1,1,14
+5246,Luis Alberto Suárez Díaz,90,2,0,0.098690006,0,25,20,0,1,0.048364207,3,2,1,2,1,0,1,0,0,3,0,0,1,0,0,15
+5470,Ivan Rakitić,90,3,1,0.293049696,2,63,55,0,2,0.128163225,3,2,9,2,1,1,2,1,3,4,0,1,0,1,0,24
+5503,Lionel Andrés Messi Cuccittini,58,5,0,0.20610414300000002,2,27,23,0,1,0.015618659,3,2,7,1,1,0,0,0,4,3,0,0,0,0,0,8
+5506,Javier Alejandro Mascherano,90,0,0,0.0,0,98,93,0,0,0.0,0,0,17,0,1,1,5,1,3,0,1,1,1,2,0,5
+6379,Sergi Roberto Carnicer,90,0,0,0.0,0,98,87,0,3,0.119768321,3,3,11,0,0,0,2,0,4,1,0,0,1,0,0,12
+10802,André Filipe Tavares Gomes,40,0,0,0.0,0,33,30,0,0,0.0,0,0,3,1,1,1,3,2,0,2,1,0,0,2,2,10
+11094,Arda Turan,32,0,0,0.0,0,13,12,0,0,0.0,0,0,1,2,3,0,2,1,2,2,1,0,0,1,0,5
+20055,Marc-André ter Stegen,90,0,0,0.0,0,37,35,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0

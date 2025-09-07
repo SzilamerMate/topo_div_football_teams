@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2950,Jonas Martin,90,0,0,0.0,0,45,42,0,2,0.10399683600000001,2,2,8,2,2,1,4,1,6,2,0,1,3,2,1,43
+2975,Mathieu Deplagne,18,0,0,0.0,0,15,13,0,0,0.0,0,0,0,0,0,0,2,1,2,0,0,0,0,1,0,6
+3011,Daniel Congré,90,0,0,0.0,0,34,27,0,0,0.0,0,0,6,0,0,0,1,0,4,0,1,0,2,1,0,11
+3191,Ramy Bensebaini,67,2,0,0.073402973,1,16,15,0,0,0.0,0,0,1,4,0,0,9,3,3,1,1,1,2,7,1,26
+3421,Bryan Dabo,90,1,0,0.044156455,0,58,51,0,1,0.021852221,4,3,19,4,2,0,1,0,5,2,1,3,0,1,0,21
+3674,Vitorino Hilton da Silva,90,1,0,0.034776945,0,47,28,0,0,0.0,0,0,5,1,1,1,3,2,9,0,1,3,2,2,1,16
+3676,Jérôme Roussillon,72,0,0,0.0,0,25,20,0,0,0.0,0,0,2,0,0,0,3,0,1,1,1,1,1,2,0,14
+3679,Souleymane Camara,23,1,0,0.07664132,0,12,11,0,1,0.017131511,0,0,2,0,1,1,0,0,1,1,0,0,0,0,0,9
+3682,Paul Lasne,68,1,0,0.021852221,0,22,19,0,0,0.0,1,1,2,0,0,0,0,0,1,0,0,0,2,0,0,23
+6661,Ryad Boudebouz,90,1,0,0.017131511,0,52,44,0,2,0.086784773,3,2,11,2,1,1,1,0,4,2,0,1,1,0,0,29
+7485,Djamel Bakar,90,2,0,0.09849772600000001,1,24,17,0,2,0.120797775,2,1,4,3,0,0,6,0,0,3,0,0,1,0,0,28
+7590,Joris Marveaux,22,0,0,0.0,0,16,14,0,0,0.0,0,0,3,0,0,0,0,0,1,0,1,0,0,0,0,8
+34565,Anthony Mounier,90,1,0,0.026810033,1,31,22,0,0,0.0,4,0,10,0,1,0,5,1,5,3,0,1,3,3,1,27
+42428,Jonathan Ligali,90,0,0,0.0,0,25,16,0,0,0.0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0

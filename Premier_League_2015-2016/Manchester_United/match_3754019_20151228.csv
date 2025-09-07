@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2988,Memphis Depay,15,0,0,0.0,0,6,5,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,1
+3294,Juan Manuel Mata García,75,2,0,0.066606577,0,42,35,0,0,0.0,2,1,8,0,0,0,1,0,1,0,0,2,0,0,0,11
+3311,Daley Blind,80,0,0,0.0,0,80,74,0,2,0.069174832,0,0,11,1,1,1,2,2,5,0,0,5,1,2,1,12
+3314,Phil Jones,10,0,0,0.0,0,9,8,0,0,0.0,0,0,3,0,0,0,1,0,0,0,1,1,0,0,0,2
+3333,David de Gea Quintana,90,0,0,0.0,0,29,25,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+3538,Wayne Mark Rooney,90,2,0,0.26960860999999997,1,40,33,0,3,0.08848113499999999,2,0,10,1,2,0,2,0,3,2,0,0,2,0,0,9
+3600,Morgan Schneiderlin,90,1,0,0.021874558,0,70,63,0,0,0.0,0,0,5,2,1,1,5,3,2,1,1,1,1,4,0,30
+3606,Ander Herrera Agüera,90,2,0,0.730838234,1,66,60,0,1,0.05639233,3,0,6,3,1,0,7,4,4,3,1,2,0,6,1,28
+3612,Ashley Young,90,0,0,0.0,0,62,47,0,1,0.019716727,6,1,15,2,1,0,3,1,8,2,2,4,3,3,0,10
+4587,Matteo Darmian,69,1,0,0.01209295,0,46,37,0,0,0.0,0,0,7,1,0,0,0,0,1,0,1,1,0,0,0,6
+10779,Cameron Borthwick-Jackson,21,0,0,0.0,0,16,11,0,1,0.24865225,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,8
+10958,Chris Smalling,90,0,0,0.0,0,58,53,0,0,0.0,0,0,8,2,0,0,3,2,5,0,0,0,2,2,1,16
+18414,Bastian Schweinsteiger,90,3,0,0.095485412,0,95,88,0,2,0.043268344,1,1,16,4,0,0,2,0,9,2,1,2,2,1,0,19
+20039,Anthony Martial,90,2,0,0.092991176,0,42,35,0,1,0.70852625,7,2,15,1,2,0,2,0,10,6,2,1,1,1,0,13

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3145,Keita Baldé Diao,13,0,0,0.0,0,10,9,0,0,0.0,1,1,2,0,0,0,0,0,1,0,0,0,0,0,0,1
+5589,Sergej Milinković-Savić,82,1,0,0.09928284,1,33,25,0,0,0.0,2,1,5,4,3,3,6,1,6,3,1,3,1,2,0,18
+7107,Danilo Cataldi,90,1,0,0.033702902,0,51,46,0,1,0.024649642,1,0,3,3,1,0,4,4,3,0,2,0,2,4,0,24
+7785,Senad Lulić,90,0,0,0.0,0,90,74,1,1,0.33181825,4,1,22,0,1,0,2,1,7,0,1,0,3,1,0,15
+8172,Felipe Anderson Pereira Gomes,82,3,1,0.103412371,1,27,16,0,1,0.06565069,6,3,15,1,3,0,3,0,9,1,1,3,4,2,0,30
+8173,Marco Parolo,90,1,0,0.03790725,0,47,42,0,0,0.0,1,0,5,0,0,0,1,0,3,0,2,3,3,1,0,35
+8443,Dušan Basta,90,0,0,0.0,0,58,50,0,0,0.0,3,2,11,1,1,0,2,0,6,2,0,2,0,0,0,13
+8847,Santiago Juan Gentiletti Selak,90,1,0,0.019436358,0,50,46,0,0,0.0,0,0,2,4,0,0,3,0,5,0,2,3,1,1,0,16
+9939,Maurício dos Santos Nascimento,90,0,0,0.0,0,50,43,0,0,0.0,0,0,3,4,2,2,4,0,1,0,3,1,2,2,0,21
+11427,Filip Đorđević,77,2,1,0.42673563,1,15,13,0,0,0.0,0,0,3,0,0,0,4,1,1,3,0,1,2,1,0,11
+12491,Federico Marchetti,90,0,0,0.0,0,27,23,0,0,0.0,0,0,5,0,0,0,0,0,4,0,0,0,0,0,0,0
+22828,Ricardo Kishna,90,2,0,0.090300332,0,38,26,0,3,0.15662644799999997,5,1,5,1,0,0,1,1,3,3,0,1,1,1,1,19
+26827,Ravel Morrison,8,0,0,0.0,0,9,9,0,0,0.0,2,0,3,1,1,0,0,0,1,0,0,0,0,0,0,1
+386641,Stefano Mauri,8,0,0,0.0,0,4,4,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2

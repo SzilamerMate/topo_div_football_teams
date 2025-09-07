@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3371,Mario Barwuah Balotelli,21,2,0,0.0424230897,1,15,11,0,0,0.0,0,0,4,0,1,0,1,0,3,0,0,0,0,1,0,3
+5683,Keisuke Honda,78,3,0,0.27024965300000003,1,47,40,0,2,0.14582748,3,3,6,3,0,0,2,2,6,3,0,2,2,2,2,26
+5688,Carlos Arturo Bacca Ahumada,90,4,2,0.391782567,3,23,14,0,1,0.037716113,1,0,7,0,0,0,2,0,4,4,1,0,2,0,0,21
+6360,Cristian Eduardo Zapata Valencia,90,0,0,0.0,0,38,30,0,2,0.048718752,0,0,4,0,0,0,4,2,3,0,8,1,2,2,0,14
+6768,Diego López Rodríguez,90,0,0,0.0,0,24,16,0,1,0.0067765997,0,0,4,0,0,0,0,0,3,0,0,0,0,0,0,0
+6944,Mattia De Sciglio,90,1,0,0.01717394,0,79,58,0,3,0.251644455,4,1,16,1,0,0,3,3,7,1,1,3,3,3,2,14
+7026,Giacomo Bonaventura,90,3,1,0.13060468,2,77,66,1,2,0.189025933,1,0,22,0,5,0,5,1,15,4,1,1,2,3,1,19
+7032,Davide Calabria,73,0,0,0.0,0,48,33,0,2,0.095841643,1,0,7,0,3,1,6,2,6,1,4,2,4,6,1,14
+7166,Riccardo Montolivo,90,1,0,0.022526303,0,50,45,0,0,0.0,0,0,7,2,0,0,6,5,11,1,0,1,2,5,2,29
+7168,Andrea Poli,12,0,0,0.0,0,8,7,0,0,0.0,1,1,2,0,0,0,1,0,3,1,2,1,1,1,0,11
+7458,Alessio Romagnoli,90,0,0,0.0,0,27,24,0,1,0.06176243,2,0,4,1,0,0,4,2,1,0,8,0,0,2,1,11
+7463,Ignazio Abate,17,0,0,0.0,0,21,18,0,0,0.0,1,1,2,0,0,0,1,0,3,1,0,0,0,1,0,3
+10919,Juraj Kucka,90,2,0,0.045566904,0,49,36,1,2,0.08224551000000001,4,2,10,1,2,1,7,6,5,1,3,0,1,6,1,23
+21272,Luiz Adriano de Souza da Silva,69,2,0,0.099478543,1,18,15,0,0,0.0,0,0,4,1,1,0,7,1,1,1,0,0,0,1,0,14

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5584,Giancarlo González Castro,90,0,0,0.0,0,17,12,0,0,0.0,0,0,1,1,1,1,0,0,2,0,7,1,1,0,0,4
+5605,Oscar Hiljemark,90,0,0,0.0,0,29,22,0,2,0.05115512,0,0,3,0,0,0,3,0,3,1,0,2,2,2,0,7
+6719,Franco Damián Vázquez,90,2,1,0.283704422,1,38,28,1,1,0.35856187,2,1,13,5,11,5,6,0,6,5,2,1,2,0,0,27
+7055,Stefano Sorrentino,90,0,0,0.0,0,35,16,0,0,0.0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0
+8102,Edoardo Goldaniga,90,0,0,0.0,0,20,11,0,0,0.0,0,0,1,1,1,1,4,1,1,0,8,1,3,2,1,7
+8552,Robin Quaison,18,0,0,0.0,0,5,2,0,0,0.0,0,0,2,1,2,0,2,1,1,0,0,0,0,1,1,5
+10032,Achraf Lazaar,90,1,0,0.0062838397,0,42,29,0,1,0.011921828,2,2,2,3,0,0,1,1,8,0,4,0,2,1,0,13
+23846,Uroš Đurđević,79,3,1,0.427137168,1,10,9,0,0,0.0,0,0,1,4,1,1,7,2,1,1,1,0,1,2,1,14
+30512,Aleksandar Trajkovski,72,2,0,0.037383876,0,24,19,1,2,0.294437923,4,3,7,1,0,0,2,0,4,4,0,0,0,0,0,10
+30704,Gastón Brugman,90,1,0,0.021050103,0,49,39,0,0,0.0,3,2,7,2,2,0,4,1,9,0,4,2,1,2,1,19
+30769,Andrea Rispoli,11,0,0,0.0,0,0,0,0,0,0.0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,3
+31268,Michel Morganella,90,0,0,0.0,0,33,20,0,1,0.010316602,0,0,3,4,1,0,5,1,5,0,2,1,3,1,1,21
+40349,Ivaylo Chochev,90,0,0,0.0,0,38,31,0,0,0.0,1,0,5,2,2,1,5,1,5,0,2,2,1,1,0,17

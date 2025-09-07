@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3160,Rene Krhin,14,0,0,0.0,0,3,3,0,0,0.0,0,0,0,0,0,0,2,0,0,0,2,1,1,0,0,1
+3292,Abdoulaye Doucouré,10,0,0,0.0,0,2,1,0,0,0.0,0,0,1,0,0,0,1,0,2,1,0,2,0,1,0,6
+4546,Dimitri Foulquier,90,0,0,0.0,0,45,35,0,0,0.0,3,1,7,3,0,0,1,1,4,0,1,4,3,1,1,19
+6599,Rubén Salvador Pérez Del Mármol,90,0,0,0.0,0,62,53,0,0,0.0,2,2,6,3,1,0,5,3,6,0,2,1,2,4,2,36
+6680,Rubén Rochina Naixes,90,3,0,0.110337811,0,59,38,1,3,0.20794079000000001,5,4,12,6,5,1,5,2,9,2,0,1,2,3,2,29
+6702,David Rodríguez Lombán,90,1,0,0.05715164,0,21,17,0,0,0.0,0,0,2,0,0,0,2,1,0,0,2,3,2,2,1,11
+6847,Adalberto Peñaranda Maestre,80,1,0,0.009107318,0,25,20,0,1,0.067630425,3,3,12,2,0,0,5,2,3,2,1,1,4,3,1,19
+6918,Isaac Ajayi Success,90,3,0,0.15702338899999999,0,32,18,0,1,0.022619393,11,4,14,3,0,0,4,0,9,0,1,3,5,0,0,14
+8697,Andrés Eduardo Fernández Moreno,90,0,0,0.0,0,23,19,0,0,0.0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0
+19454,Ricardo Miguel Moreira da Costa,90,0,0,0.0,0,16,12,0,0,0.0,0,0,0,1,0,0,3,1,1,0,3,1,2,2,0,7
+20064,Hugo Miguel Almeida Costa Lopes,90,0,0,0.0,0,41,30,0,0,0.0,1,0,6,1,4,2,5,2,4,0,5,3,0,5,1,21
+25707,Francisco Manuel Rico Castro,76,0,0,0.0,0,43,37,0,4,0.225823357,2,1,1,5,1,0,4,3,3,0,1,1,1,3,1,28
+26248,David Barral Torres,57,4,0,0.320716158,1,12,10,0,0,0.0,0,0,1,4,1,1,2,1,4,2,0,0,1,1,1,18
+27109,Youssef El-Arabi,33,2,1,0.15078915,1,5,3,0,0,0.0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,13

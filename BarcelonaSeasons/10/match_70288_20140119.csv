@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3385,Alexis Alejandro Sánchez Sánchez,90,2,0,0.119309389,0,48,33,0,4,0.16609422599999998,6,4,22,2,2,0,4,1,3,4,0,0,5,1,0,9
+3478,Francesc Fàbregas i Soler,72,2,0,0.048914062999999994,1,65,53,0,0,0.0,0,0,9,2,1,0,3,0,3,0,0,0,0,0,0,8
+3958,Pedro Eliezer Rodríguez Ledesma,76,1,0,0.032272898,1,30,27,0,2,0.070223063,3,2,11,1,1,0,3,1,1,0,0,0,0,1,1,7
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,89,82,0,0,0.0,0,0,7,0,0,0,2,1,3,0,3,2,0,2,1,6
+5211,Jordi Alba Ramos,90,0,0,0.0,0,78,64,0,3,0.147296522,0,0,11,1,1,0,1,0,7,1,5,2,4,0,0,7
+5213,Gerard Piqué Bernabéu,90,1,1,0.11284213,1,76,69,0,0,0.0,1,1,16,1,2,2,3,0,5,1,7,1,3,0,0,7
+5503,Lionel Andrés Messi Cuccittini,90,6,0,0.43388654000000004,1,62,50,0,0,0.0,6,4,16,1,3,0,2,0,4,1,0,0,0,0,0,4
+5506,Javier Alejandro Mascherano,90,0,0,0.0,0,75,66,0,0,0.0,1,1,11,1,2,1,2,1,7,1,13,1,2,1,1,7
+6379,Sergi Roberto Carnicer,18,0,0,0.0,0,10,8,0,0,0.0,1,1,3,1,0,0,3,1,1,1,0,0,1,1,1,4
+6593,Martín Montoya Torralbo,90,0,0,0.0,0,66,56,0,0,0.0,2,2,4,1,1,0,1,1,5,4,1,0,2,1,0,8
+6658,Cristian Tello Herrera,14,1,0,0.028821964,1,11,8,0,1,0.033122838,0,0,6,0,0,0,0,0,2,0,0,0,0,0,0,2
+20131,Xavier Hernández Creus,84,3,0,0.29276424300000004,0,111,100,1,1,0.11284213,0,0,21,0,2,0,3,0,4,0,0,0,0,3,0,5
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,18,16,0,0,0.0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+25831,Jean Marie Dongou Tsafack,6,0,0,0.0,0,1,1,0,0,0.0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0

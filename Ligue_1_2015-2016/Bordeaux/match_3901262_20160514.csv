@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2946,Frédéric Guilbert,90,1,0,0.09912599,1,54,38,0,0,0.0,2,0,5,2,0,0,10,4,4,1,4,1,8,5,0,21
+3109,Malcom Filipe Silva de Oliveira,90,2,0,0.126421913,2,33,25,0,2,0.58766058,3,2,9,0,3,0,2,0,4,2,0,1,2,0,0,12
+3150,Jaroslav Plašil,90,1,0,0.040766235,1,70,59,0,0,0.0,3,2,8,1,3,0,5,0,4,0,0,1,4,1,0,27
+3184,Enzo Crivelli,30,0,0,0.0,0,11,8,0,0,0.0,0,0,0,2,0,0,4,0,1,0,0,0,0,0,0,3
+3256,Nicolas Pallois,90,1,0,0.13482916,0,76,65,0,0,0.0,2,2,11,2,0,0,4,1,2,1,6,3,3,1,0,9
+3356,Valentín Vada,90,2,0,0.116666822,0,63,52,0,4,0.340786355,1,0,6,1,1,0,5,3,5,2,0,3,2,4,1,16
+3408,Thomas Touré,7,0,0,0.0,0,6,4,0,0,0.0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,4
+4509,Jérôme Prior,90,0,0,0.0,0,33,24,0,0,0.0,0,0,5,0,0,0,0,0,7,0,0,0,0,0,0,0
+4542,Pablo Nascimento Castro,39,0,0,0.0,0,30,28,0,0,0.0,0,0,5,2,1,1,2,1,2,0,1,0,0,1,0,5
+4628,Diego Armando Valentin Contento,90,1,0,0.016905742,0,70,57,0,1,0.045516983,0,0,5,0,5,2,2,1,8,0,2,2,2,1,0,11
+6739,Diego Alejandro Rolan Silva,90,1,0,0.4001297,0,51,44,0,1,0.040766235,4,2,4,3,2,1,6,0,12,3,0,2,1,0,0,28
+7130,Cheick Tidiane Diabaté,60,1,0,0.18753088,0,27,17,0,0,0.0,3,1,6,1,2,0,4,0,2,0,1,0,0,1,0,7
+8385,Ludovic Lamine Sané,83,0,0,0.0,0,74,63,0,0,0.0,0,0,7,1,0,0,2,1,7,2,8,0,1,2,0,15
+21792,Robin Maulun,51,1,0,0.025926275,0,41,35,0,1,0.085425906,1,1,5,1,0,0,5,1,6,0,0,0,2,5,0,16

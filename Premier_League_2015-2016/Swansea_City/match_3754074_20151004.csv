@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3057,Jonjo Shelvey,85,1,0,0.017418165,0,46,33,0,1,0.057925273,0,0,6,2,0,0,2,2,8,2,1,1,1,2,0,9
+3262,Łukasz Fabiański,90,0,0,0.0,0,33,19,0,0,0.0,0,0,2,1,1,1,0,0,2,0,0,0,0,0,0,0
+3290,Federico Fernández,90,1,0,0.07038136,0,41,34,0,0,0.0,0,0,5,1,2,0,4,4,3,0,5,0,6,4,3,8
+3347,André Ayew Pelé,90,1,1,0.14928359,1,37,30,0,1,0.03377062,0,0,6,1,8,1,7,4,5,0,1,0,1,4,3,8
+3462,Jack Frank Porteous Cork,5,0,0,0.0,0,4,4,0,0,0.0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,3
+3605,Sung-Yeung Ki,90,2,0,0.096740969,0,41,35,0,1,0.07038136,0,0,6,0,0,0,5,2,6,0,1,0,0,5,1,10
+3644,Ashley Williams,90,0,0,0.0,0,36,32,0,0,0.0,0,0,5,1,0,0,2,1,2,0,14,0,2,1,1,1
+3944,Gylfi Þór Sigurðsson,73,1,0,0.031316414,0,23,19,0,0,0.0,1,0,0,0,0,0,1,0,6,1,0,0,1,0,0,17
+3973,Àngel Rangel Zaragoza,90,0,0,0.0,0,76,54,0,0,0.0,1,1,7,0,0,0,4,1,5,1,5,0,2,2,0,4
+7063,Jefferson Antonio Montero Vite,90,1,0,0.06014335,0,25,15,1,2,0.29927916,6,2,17,2,4,0,1,0,3,4,2,0,0,1,0,8
+9536,Modou Barrow,17,0,0,0.0,0,8,7,0,1,0.06014335,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,6
+9627,Neil Taylor,90,0,0,0.0,0,44,40,0,1,0.038150445,1,1,4,0,1,1,2,0,4,0,5,1,2,1,0,3
+20521,Bafétimbi Gomis,90,4,0,0.49659600299999995,0,29,20,0,1,0.058590524,2,1,6,2,2,1,2,0,2,4,1,0,0,1,0,5

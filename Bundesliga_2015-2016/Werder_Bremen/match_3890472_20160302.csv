@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3774,Papiss Mison Djilobodji,90,2,0,0.159559794,0,25,13,0,0,0.0,0,0,3,1,1,1,1,1,5,0,10,2,5,1,1,7
+6321,Milos Veljkovic,30,0,0,0.0,0,10,8,0,0,0.0,0,0,0,0,1,1,1,0,0,0,3,1,1,0,0,5
+8389,Fin Bartels,60,1,1,0.07245834,1,17,13,0,0,0.0,3,1,3,0,0,0,0,0,6,1,0,0,1,0,0,12
+8396,Theodor Gebre Selassie,90,0,0,0.0,0,30,19,0,0,0.0,0,0,3,2,0,0,3,3,3,1,6,0,2,3,0,15
+8554,Levin Mete Öztunali,90,0,0,0.0,0,24,13,0,1,0.074534886,9,7,11,0,2,0,6,0,7,5,2,0,3,0,0,18
+8762,Zlatko Junuzović,90,0,0,0.0,0,36,28,1,3,0.370847015,1,0,1,3,3,2,6,1,4,2,2,0,0,5,0,24
+8815,Jannik Vestergaard,90,0,0,0.0,0,16,6,0,0,0.0,0,0,1,0,0,0,2,0,1,0,5,0,4,0,0,6
+11132,Claudio Miguel Pizarro Bossio,83,4,3,1.2194896229999999,3,30,18,0,0,0.0,4,4,3,2,0,0,6,0,7,2,3,0,1,0,0,9
+11396,Florian Grillitsch,90,1,0,0.0067600785,0,29,21,0,0,0.0,3,2,0,0,2,0,8,3,4,0,1,6,3,8,1,27
+12624,Anthony Ujah,7,1,0,0.1601649,0,5,4,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+16502,László Kleinheisler,4,1,0,0.074534886,0,4,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+20010,Clemens Fritz,86,0,0,0.0,0,27,21,0,0,0.0,2,1,7,0,5,3,9,3,12,0,1,1,2,5,1,10
+23269,Felix Wiedwald,90,0,0,0.0,0,34,14,0,0,0.0,0,0,5,0,0,0,0,0,7,0,0,0,0,0,0,0
+26359,Santiago García,90,1,0,0.116062805,0,40,29,0,0,0.0,2,2,3,1,1,0,7,3,7,0,1,1,1,6,2,13

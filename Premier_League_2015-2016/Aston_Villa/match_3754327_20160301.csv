@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3041,Ciaran Clark,90,0,0,0.0,0,46,38,0,0,0.0,0,0,7,1,2,1,5,0,3,0,6,4,1,0,0,15
+3436,Idrissa Gana Gueye,90,2,0,0.04592659,0,73,61,0,3,0.049974814,3,3,13,2,1,0,10,6,12,0,3,6,3,9,2,29
+3450,Jordan Ayew,90,2,0,0.08090825800000001,1,33,29,0,1,0.023254063,10,5,12,1,2,0,1,0,12,7,0,0,1,0,0,29
+3583,Ashley Westwood,70,3,0,0.19519940000000002,1,30,24,0,0,0.0,0,0,3,1,2,0,2,1,4,0,0,1,1,1,0,13
+7153,Jordan Veretout,20,0,0,0.0,0,24,19,1,2,0.1961165,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,6
+9533,Leandro Bacuna,90,2,0,0.046361081,1,66,48,0,2,0.07465287,1,0,8,3,1,1,4,1,7,0,0,1,0,2,0,9
+9642,Alan Hutton,90,1,0,0.085672334,0,42,27,0,0,0.0,1,0,8,1,0,0,1,1,2,2,0,0,4,1,0,12
+12608,Bradley Guzan,90,0,0,0.0,0,14,8,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+19362,Rudy Gestede,25,2,1,0.12917853899999998,1,11,7,0,2,0.075689277,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4
+20285,Joleon Lescott,90,0,0,0.0,0,31,24,0,0,0.0,0,0,5,0,0,0,0,0,4,0,4,1,3,0,0,10
+27146,Aly Cissokho,90,1,0,0.009244653,1,54,40,0,0,0.0,1,1,12,0,0,0,2,1,2,1,3,0,2,2,1,3
+42699,Gabriel Imuetinyan Agbonlahor,65,0,0,0.0,0,30,22,0,0,0.0,2,1,1,1,0,0,3,0,3,2,0,1,3,0,0,8
+42700,Micah Richards,90,1,0,0.03629089,0,50,46,0,1,0.09388591,2,0,6,0,1,0,6,3,6,2,3,2,1,4,2,8

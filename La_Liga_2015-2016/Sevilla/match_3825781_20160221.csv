@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3253,Adil Rami,90,2,0,0.29689273,1,32,16,0,0,0.0,0,0,3,1,0,0,3,0,5,1,6,0,0,0,0,3
+3497,Vicente Iborra De La Fuente,65,2,1,1.01007462,1,24,13,0,1,0.44245142,1,1,1,3,1,1,8,0,4,1,1,0,0,1,0,8
+5504,Éver Maximiliano David Banega,25,0,0,0.0,0,20,11,0,0,0.0,4,1,3,1,0,0,0,0,0,0,0,0,0,0,0,6
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,90,3,1,0.563198052,2,37,23,0,0,0.0,3,2,4,4,4,1,6,1,4,0,4,0,2,2,1,19
+6349,Federico Julián Fazio,90,1,0,0.054777976,1,21,10,0,0,0.0,0,0,2,1,1,1,0,0,1,0,9,1,1,0,0,4
+6356,Michael Krohn-Dehli,90,1,0,0.65836847,0,39,28,0,5,0.485232698,2,0,5,3,0,0,2,1,4,0,1,1,1,1,0,7
+6401,Kevin Gameiro,90,6,0,1.0778988360000001,1,19,14,0,1,0.1825645,2,1,4,1,2,1,6,2,7,0,0,0,3,2,1,15
+6672,Jorge Andújar Moreno,90,0,0,0.0,0,37,19,1,1,0.37728137,2,2,3,3,0,0,8,1,2,0,2,1,3,2,1,14
+6823,Sergio Rico González,90,0,0,0.0,0,22,8,0,0,0.0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,1
+6825,Daniel Filipe Martins Carriço,25,0,0,0.0,0,8,6,0,0,0.0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,6
+6841,Víctor Machín Pérez,78,1,0,0.1825645,1,16,9,0,2,0.70061682,1,0,8,2,2,0,3,0,7,0,0,0,4,1,0,22
+7154,Sebastián Carlos Cristóforo Pepe,65,0,0,0.0,0,15,7,0,0,0.0,0,0,0,2,3,1,1,0,3,1,2,0,2,0,0,20
+8523,Yevhen Konoplyanka,12,0,0,0.0,0,2,1,0,0,0.0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,0,1
+27483,Benoît Trémoulinas,90,0,0,0.0,0,38,23,0,1,0.14890417,4,3,5,2,1,0,3,0,6,0,4,1,3,0,0,5

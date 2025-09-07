@@ -1,0 +1,13 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5208,Thiago Alcântara do Nascimento,90,1,0,0.11325566,1,111,97,1,1,0.6621219,5,2,17,3,3,0,7,3,7,3,0,0,4,5,1,12
+5562,Thomas Müller,90,3,1,1.09002511,1,37,29,0,2,0.30280178,4,3,2,1,2,1,5,0,2,0,0,0,1,0,0,4
+5570,Manuel Neuer,90,0,0,0.0,0,32,27,0,0,0.0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+5578,Jérôme Boateng,90,0,0,0.0,0,110,96,0,0,0.0,0,0,13,0,0,0,1,0,5,0,1,1,0,0,0,0
+5579,Joshua Kimmich,13,0,0,0.0,0,16,15,0,0,0.0,0,0,0,1,1,0,1,0,2,0,0,0,0,0,0,4
+5668,Robert Lewandowski,90,5,0,0.5750755540000001,2,27,18,0,0,0.0,1,0,4,1,0,0,3,0,3,2,1,0,0,1,0,10
+8206,Arturo Erasmo Vidal Pardo,91,1,0,0.019860027,0,87,77,0,0,0.0,1,1,7,2,3,1,5,1,0,0,1,0,2,3,1,19
+8209,Márcio Rafael Ferreira de Souza,77,0,0,0.0,0,85,79,0,1,0.05678976,3,2,8,2,0,0,2,1,4,2,0,1,0,1,0,4
+8220,David Olatukunbo Alaba,90,0,0,0.0,0,89,81,0,0,0.0,0,0,17,0,2,0,0,0,7,1,1,1,2,0,0,3
+15651,Juan Bernat Velasco,90,2,0,0.034141082,0,86,79,0,1,0.37111345,3,2,9,1,1,1,4,0,8,1,1,1,3,1,0,8
+19295,Philipp Lahm,90,0,0,0.0,0,80,69,0,2,0.318431096,3,2,7,0,2,1,2,0,7,1,0,0,1,1,0,7
+20133,Xabier Alonso Olano,90,1,0,0.043190405,0,154,138,0,3,0.073280758,0,0,7,2,3,1,8,4,5,1,0,0,2,5,1,16

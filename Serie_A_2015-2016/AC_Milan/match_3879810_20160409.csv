@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3371,Mario Barwuah Balotelli,76,4,0,0.5764368059999999,1,23,11,1,2,0.157708719,2,0,3,3,2,0,4,2,2,2,0,0,1,2,2,13
+5683,Keisuke Honda,72,1,0,0.024599245,1,13,11,0,0,0.0,2,0,3,2,2,0,3,0,0,1,0,0,2,0,0,33
+5688,Carlos Arturo Bacca Ahumada,90,2,0,0.092505742,1,11,8,0,0,0.0,1,0,2,1,0,0,2,0,4,0,1,0,1,0,0,21
+7026,Giacomo Bonaventura,90,0,0,0.0,0,36,28,0,0,0.0,5,2,7,0,2,1,3,0,5,2,2,1,6,0,0,16
+7036,Gianluigi Donnarumma,90,0,0,0.0,0,18,11,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+7166,Riccardo Montolivo,90,1,0,0.044903915,0,55,45,0,1,0.061665613,2,1,5,1,0,0,3,2,4,1,0,2,1,3,2,16
+7458,Alessio Romagnoli,90,0,0,0.0,0,49,44,0,0,0.0,0,0,1,0,1,1,6,1,4,0,2,2,0,2,0,16
+7463,Ignazio Abate,90,0,0,0.0,0,56,42,0,0,0.0,2,0,7,4,1,1,5,2,3,1,2,0,2,3,1,27
+8668,Kevin-Prince Boateng,14,1,0,0.04497397,0,8,4,0,0,0.0,0,0,1,0,0,0,5,1,2,1,0,0,2,2,0,9
+8874,Luca Antonelli,90,1,0,0.28132135,1,50,36,0,0,0.0,2,0,7,2,5,2,3,3,6,0,1,2,1,3,2,15
+10919,Juraj Kucka,90,0,0,0.0,0,37,31,0,2,0.06917242900000001,1,1,9,3,4,0,9,8,8,0,5,1,1,9,2,27
+21272,Luiz Adriano de Souza da Silva,18,0,0,0.0,0,6,3,0,0,0.0,0,0,1,0,1,0,3,1,2,1,0,0,0,2,1,6
+40945,Alex Rodrigo Dias da Costa,90,2,1,0.157708719,1,43,42,0,0,0.0,0,0,3,7,2,2,5,2,4,0,6,0,2,4,1,19

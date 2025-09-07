@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4741,Juan Rafael Fuentes Hernández,45,1,0,0.018549595,1,19,16,0,0,0.0,0,0,4,1,1,1,0,0,0,0,1,1,1,0,0,5
+5598,Óscar Esau Duarte Gaitán,45,1,0,0.06630944,0,10,6,0,0,0.0,0,0,1,0,0,0,1,0,0,0,3,0,0,0,0,5
+6612,Rubén Duarte Sánchez,45,0,0,0.0,0,22,12,0,0,0.0,0,0,1,1,0,0,3,0,1,1,1,1,1,1,0,16
+6701,Joan Jordán Moreno,90,2,0,0.076987873,1,41,37,0,3,0.137303151,3,3,1,3,0,0,6,2,4,0,0,1,1,5,1,33
+6758,Víctor Sánchez Mata,56,0,0,0.0,0,21,17,0,1,0.018549595,1,0,0,2,2,1,0,0,2,0,0,1,2,0,0,22
+6762,Álvaro González Soberón,90,1,0,0.037584454,0,33,30,0,2,0.236440922,0,0,3,3,2,1,4,2,2,0,4,3,3,3,1,16
+6791,Javier López Rodríguez,90,0,0,0.0,0,37,27,0,0,0.0,3,3,8,4,2,0,5,4,3,0,1,2,2,5,3,22
+6838,Hernán Arsenio Pérez González,90,2,0,0.064343664,0,43,35,0,3,0.262868179,11,10,24,0,3,0,3,0,3,1,0,2,2,0,0,28
+6867,Papa Kouly Diop,90,2,0,0.058902826000000005,0,37,32,0,0,0.0,1,1,0,4,4,0,2,0,3,0,2,3,6,1,0,20
+16456,Enzo Pablo Roco Roco,90,1,0,0.071483925,0,20,15,0,0,0.0,0,0,3,1,0,0,0,0,1,1,3,1,1,0,0,10
+23924,Mamadou Sylla Diallo,90,2,0,0.23818257999999998,0,14,13,0,1,0.2574516,1,1,2,5,3,1,8,1,0,2,0,0,2,1,0,24
+24072,Salvador Sevilla López,45,1,0,0.2574516,1,18,15,0,1,0.035216313,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,9
+27148,Abraham González Casanova,34,2,0,0.5895304299999999,2,21,17,0,1,0.06630944,1,1,0,1,1,0,0,0,3,1,0,1,1,0,0,5
+31904,Giedrius Arlauskis,90,0,0,0.0,0,25,8,0,0,0.0,0,0,2,0,0,0,1,0,2,0,0,0,0,1,0,1

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2981,Alban Lafont,90,0,0,0.0,0,32,20,0,0,0.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+3024,Jacques François Moubandje,90,0,0,0.0,0,67,45,0,2,0.15354424500000002,2,1,5,0,2,1,4,1,7,3,3,1,1,2,0,13
+3030,Wergiton do Rosário Calmon,90,0,0,0.0,0,41,32,0,0,0.0,2,2,6,3,0,0,4,1,6,4,6,4,0,4,0,18
+3032,Zinédine Machach,24,1,0,0.014699945,0,12,9,0,2,0.029843484,3,2,5,1,0,0,1,1,2,1,0,1,0,1,0,4
+4349,Issa Diop,90,0,0,0.0,0,32,25,0,0,0.0,1,0,5,2,1,0,2,0,5,0,6,3,5,0,0,4
+4447,Martin Braithwaite Christensen,90,1,0,0.18307577,1,19,14,0,0,0.0,1,1,4,2,1,0,3,0,2,4,3,0,1,0,0,11
+6723,Wissam Ben Yedder,79,2,0,0.91890508,1,19,12,0,1,0.18307577,5,1,3,0,0,0,6,2,2,1,0,0,1,2,1,14
+8677,Marcel Tisserand,66,0,0,0.0,0,28,22,0,0,0.0,1,0,4,1,2,0,4,2,5,2,4,3,2,2,2,9
+11540,Óscar Guido Trejo,73,1,0,0.018139165,0,49,32,0,0,0.0,3,2,5,4,3,0,5,0,4,1,1,2,0,3,0,11
+16418,Adrien Regattin,17,3,0,0.079751597,1,20,13,0,1,0.120627135,0,0,5,0,2,0,0,0,0,1,0,0,0,0,0,2
+16430,Uroš Spajić,90,1,0,0.25302088,0,49,38,0,0,0.0,0,0,7,1,2,2,4,1,2,0,3,1,0,2,0,5
+16522,Tongo Hamed Doumbia,90,0,0,0.0,0,41,34,0,0,0.0,0,0,3,2,2,1,5,2,4,0,2,2,2,2,1,11
+31174,Jean-Daniel Akpa Akpro,90,0,0,0.0,0,43,37,0,0,0.0,5,4,6,4,5,4,7,3,6,2,2,4,4,5,1,22
+40431,Aleksandar Pešić,11,1,0,0.120627135,0,1,0,0,0,0.0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0

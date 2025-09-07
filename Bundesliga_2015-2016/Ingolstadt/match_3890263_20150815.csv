@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2968,Elias Kachunga,30,2,0,0.173653598,0,9,8,0,0,0.0,2,0,2,0,2,1,0,0,2,0,1,0,0,0,0,10
+3097,Pascal Groß,80,3,0,0.054594861,1,53,35,0,2,0.29278799,0,0,3,3,2,1,3,2,9,2,2,1,1,2,1,17
+5481,Mathew Leckie,90,2,0,0.053363664,0,34,23,0,2,0.1682108826,2,2,8,2,3,0,8,0,6,2,1,0,1,0,0,14
+8394,Robert Bauer,10,0,0,0.0,0,4,1,0,0,0.0,0,0,2,1,1,0,0,0,1,0,0,0,0,0,0,1
+8405,Benjamin Hübner,90,2,0,0.262351116,1,19,11,0,0,0.0,0,0,0,2,2,2,3,1,1,0,8,0,4,2,1,8
+9103,Lukas Hinterseer,85,1,1,0.08745279,1,41,29,0,1,0.028018458,2,2,4,1,0,0,15,0,5,3,1,1,4,1,0,31
+9106,Marvin Matip,90,0,0,0.0,0,25,20,0,0,0.0,2,2,5,0,1,1,3,1,1,0,13,3,1,3,1,7
+12304,Alfredo Morales,90,0,0,0.0,0,28,16,1,1,0.08745279,3,2,2,2,3,2,6,0,7,1,3,1,3,1,0,20
+12319,Ramazan Özcan,90,0,0,0.0,0,41,15,0,0,0.0,0,0,4,0,0,0,0,0,10,0,0,0,0,0,0,0
+13332,Romain Brégerie,5,0,0,0.0,0,3,2,0,1,0.011331598,0,0,1,0,0,0,3,0,0,0,1,0,0,0,0,1
+36641,Konstantin Engel,90,2,0,0.0170227746,1,37,22,0,1,0.038042866,1,0,3,2,1,1,2,0,5,0,4,2,1,0,0,6
+40459,Roger de Oliveira Bernardo,90,0,0,0.0,0,24,12,0,0,0.0,0,0,0,1,2,2,4,0,2,0,6,2,1,1,0,11
+40460,Tobias Levels,90,0,0,0.0,0,66,50,0,0,0.0,1,0,7,1,1,0,5,2,3,1,1,2,1,3,1,16
+40464,Moritz Hartmann,60,2,0,0.094577753,1,22,13,0,1,0.021910008,1,0,1,0,2,1,4,0,5,2,0,0,0,0,0,12

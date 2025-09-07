@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4741,Juan Rafael Fuentes Hernández,90,0,0,0.0,0,41,32,0,0,0.0,0,0,2,0,2,1,5,0,1,0,8,2,5,3,0,13
+5719,Marco Asensio Willemsen,80,1,0,0.03526766,0,37,27,3,6,1.017330681,2,2,9,0,1,0,0,0,1,5,0,1,0,0,0,17
+6709,Anaitz Arbilla Zabala,90,0,0,0.0,0,53,39,0,1,0.18236946,0,0,2,1,0,0,5,4,3,2,2,2,3,4,3,11
+6758,Víctor Sánchez Mata,85,1,1,0.1345387,1,36,29,0,0,0.0,2,2,4,7,0,0,9,3,3,1,0,1,0,7,2,36
+6762,Álvaro González Soberón,90,1,0,0.107746035,0,29,20,0,0,0.0,0,0,1,0,1,1,1,0,2,0,5,2,4,0,0,6
+6791,Javier López Rodríguez,10,0,0,0.0,0,3,2,0,0,0.0,0,0,1,2,1,0,0,0,1,0,1,0,0,0,0,2
+6792,Pau López Sabata,90,0,0,0.0,0,29,8,0,0,0.0,0,0,3,0,1,0,0,0,6,0,0,0,1,0,0,0
+6838,Hernán Arsenio Pérez González,70,2,0,0.14757880299999998,0,24,18,0,0,0.0,4,3,12,3,2,0,3,1,6,3,0,2,1,2,1,11
+7781,Felipe Salvador Caicedo Corozo,90,4,1,0.861477877,1,20,14,0,0,0.0,4,2,8,4,3,0,12,2,4,3,0,1,2,2,2,11
+16456,Enzo Pablo Roco Roco,90,1,1,0.059610553,1,25,19,0,0,0.0,2,1,7,2,2,1,1,0,5,1,9,2,1,0,0,6
+18407,José Alberto Cañas Ruiz Herrera,90,0,0,0.0,0,31,25,0,1,0.042123172,0,0,4,2,0,0,5,0,2,1,1,0,4,2,0,19
+24072,Salvador Sevilla López,5,0,0,0.0,0,7,6,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+24578,Francisco Montañés Claverías,20,1,0,0.042123172,1,4,4,0,0,0.0,1,1,4,0,2,0,0,0,2,1,0,1,0,0,0,4
+27241,Víctor Guillermo Álvarez Delgado,90,1,0,0.01812173,0,25,15,0,1,0.03526766,1,1,2,2,5,3,2,1,5,3,0,0,2,2,0,18

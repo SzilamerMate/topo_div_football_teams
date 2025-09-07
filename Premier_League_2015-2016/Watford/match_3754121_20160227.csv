@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3263,Craig Cathcart,90,0,0,0.0,0,22,17,0,0,0.0,0,0,0,1,1,1,3,0,2,1,13,2,1,1,0,6
+3288,Miguel Ángel Britos Cabrera,90,1,0,0.09189994,0,29,21,0,0,0.0,2,2,5,0,3,2,2,2,6,0,8,3,5,2,1,10
+3302,Nordin Amrabat,82,1,0,0.040872205,0,31,18,0,2,0.199308294,2,2,6,4,5,0,6,1,12,7,1,1,4,2,1,31
+3306,Nathan Aké,90,1,0,0.016914438,0,41,25,0,0,0.0,1,0,11,2,1,0,3,1,5,1,6,3,3,2,0,20
+3454,Troy Deeney,90,3,0,0.10847725899999999,0,30,20,0,0,0.0,3,2,5,3,4,0,10,0,3,3,3,1,1,0,0,19
+3522,Heurelho da Silva Gomes,90,0,0,0.0,0,36,16,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+3626,Ben Watson,90,0,0,0.0,0,42,30,0,3,0.226137916,1,1,0,1,0,0,4,1,1,0,3,4,0,1,0,16
+3721,Etienne Capoue,56,1,0,0.047674134,0,30,23,0,1,0.0662026,1,0,2,1,1,0,1,1,3,0,3,1,0,1,0,13
+5458,Odion Jude Ighalo,90,4,0,0.52372313,1,15,13,0,0,0.0,2,2,2,1,0,0,5,0,2,6,2,1,1,0,0,11
+5540,Valon Behrami,90,1,0,0.019907001,0,24,17,0,0,0.0,1,0,3,2,1,0,8,3,6,2,2,1,3,4,1,21
+23488,Mario Suárez Mata,34,1,0,0.029758055,0,11,10,0,1,0.036996637,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,6
+36983,Juan Carlos Paredes Reasco,90,1,0,0.030148849,0,32,22,0,1,0.22488426,2,0,5,1,1,0,5,2,8,3,2,3,2,3,1,18
+43081,Almen Abdi,8,0,0,0.0,0,5,2,0,0,0.0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,5

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3063,Danilo Luiz da Silva,90,0,0,0.0,0,66,58,0,0,0.0,3,1,8,2,1,0,3,2,3,0,1,4,1,2,0,12
+3990,Jesé Rodríguez Ruiz,79,2,1,0.41700505,2,34,25,0,2,0.301540275,3,3,11,0,1,0,1,1,6,1,1,0,0,1,1,6
+4926,Francisco Román Alarcón Suárez,90,3,1,0.75909619,2,61,48,0,1,0.029791342,5,4,13,1,3,0,3,1,6,6,0,3,0,2,1,14
+5200,Lucas Vázquez Iglesias,45,2,0,0.32953862500000003,2,22,18,0,0,0.0,2,0,4,2,2,0,3,3,5,1,1,1,0,3,1,13
+5202,José Ignacio Fernández Iglesias,90,1,0,0.027095128,1,58,53,0,0,0.0,1,1,1,1,0,0,2,2,2,0,4,1,0,2,1,6
+5207,Cristiano Ronaldo dos Santos Aveiro,90,5,1,0.8001953694999999,3,27,22,0,0,0.0,3,1,4,0,0,0,4,0,4,2,0,0,0,0,0,8
+5463,Luka Modrić,45,1,0,0.0675776,1,36,32,0,0,0.0,0,0,4,1,0,0,1,0,3,0,0,1,0,0,0,4
+5485,Raphaël Varane,90,1,0,0.06547593,0,67,62,0,0,0.0,0,0,5,1,0,0,2,1,2,0,3,1,0,1,0,9
+5539,Carlos Henrique Casimiro,90,0,0,0.0,0,80,68,1,2,0.98751377,1,1,7,4,3,0,5,4,6,0,0,4,2,5,2,21
+5552,Marcelo Vieira da Silva Júnior,90,1,0,0.032796256,0,86,72,1,4,0.45641203,1,0,8,0,1,0,7,3,5,2,0,5,3,5,2,10
+5574,Toni Kroos,86,1,0,0.013883513,0,91,82,1,3,0.269397848,0,0,11,2,0,0,5,5,2,0,1,2,1,5,2,28
+6706,Francisco Casilla Cortés,90,0,0,0.0,0,19,17,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+6840,Marcos Llorente Moreno,11,0,0,0.0,0,7,7,0,1,0.06820712,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+21147,Borja Mayoral Moya,4,0,0,0.0,0,3,2,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3

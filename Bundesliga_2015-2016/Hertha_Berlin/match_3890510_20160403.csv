@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5569,Marvin Plattenhardt,90,1,0,0.01407509,0,58,49,0,2,0.089353312,0,0,4,2,0,0,1,0,3,1,1,0,1,1,0,10
+5697,Genki Haraguchi,80,0,0,0.0,0,23,18,0,1,0.029996071,0,0,5,0,1,1,4,0,8,2,0,0,1,1,0,15
+8570,Niklas Stark,90,0,0,0.0,0,54,49,0,0,0.0,0,0,8,1,1,1,4,2,3,0,5,0,2,2,0,17
+8571,Vedad Ibišević,90,1,0,0.53146476,1,23,16,0,0,0.0,0,0,5,0,1,0,7,0,3,2,3,0,2,0,0,10
+8575,Salomon Armand Magloire Kalou,90,1,0,0.062383406,0,21,12,0,0,0.0,1,1,3,3,4,1,5,0,4,5,0,0,2,0,0,5
+8576,Mitchell Weiser,90,1,0,0.026969906,0,50,40,0,0,0.0,5,2,9,1,2,2,3,1,7,3,0,0,1,3,1,7
+8577,Rune Almenning Jarstein,90,0,0,0.0,0,51,27,0,0,0.0,0,0,6,0,0,0,0,0,2,0,0,0,0,0,0,0
+8578,Per Ciljan Skjelbred,90,0,0,0.0,0,51,45,0,0,0.0,0,0,6,1,0,0,2,1,5,1,2,2,2,1,1,15
+8579,Vladimír Darida,61,2,0,0.068466064,0,25,17,0,0,0.0,0,0,2,2,4,3,1,0,2,3,1,0,0,0,0,9
+8965,Fabian Lustenberger,90,0,0,0.0,0,64,58,0,0,0.0,0,0,3,0,1,1,3,0,2,0,6,2,1,2,0,4
+9721,Valentin Stocker,10,0,0,0.0,0,4,4,0,0,0.0,0,0,0,0,0,0,1,0,1,1,0,0,2,0,0,4
+30439,Tolga Ciğerci,45,0,0,0.0,0,26,20,0,0,0.0,2,1,6,1,1,0,0,0,4,1,0,2,2,0,0,8
+33459,Alexander Baumjohann,29,0,0,0.0,0,21,16,0,1,0.036014598,0,0,3,0,1,0,1,1,2,2,0,0,0,1,1,4
+40474,Jens Hegeler,45,1,0,0.036014598,1,27,23,0,0,0.0,1,1,4,0,0,0,1,0,2,1,2,0,0,0,0,5

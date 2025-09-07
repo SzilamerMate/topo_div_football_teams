@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3416,Gabriel Moisés Antunes da Silva,90,1,0,0.008562098,0,24,13,0,0,0.0,0,0,3,0,4,1,3,1,5,1,0,6,3,3,1,18
+7114,Gaetano Letizia,90,2,0,0.014600012999999998,0,44,23,0,2,0.0348045245,2,1,13,0,3,0,4,4,4,2,2,2,1,4,3,22
+7172,Simone Romagnoli,90,1,0,0.045670394,0,13,10,0,0,0.0,0,0,1,1,0,0,1,0,0,0,10,1,4,0,0,12
+7460,Isaac Cofie,90,1,0,0.021962907,0,23,21,0,0,0.0,2,1,2,2,0,0,6,5,4,0,3,4,2,6,3,44
+7696,Ryder Matos Santos,88,1,0,0.024798391,1,23,21,0,1,0.10740696,3,2,12,0,2,0,6,1,2,3,1,0,2,2,1,16
+7793,Kevin Lasagna,2,0,0,0.0,0,1,1,0,0,0.0,1,1,2,0,0,0,0,0,1,0,0,0,1,0,0,4
+8871,Marco Borriello,23,0,0,0.0,0,7,5,0,1,0.016232938,2,1,2,1,0,0,2,0,2,1,1,0,0,0,0,3
+28442,Matteo Fedele,90,0,0,0.0,0,34,24,0,4,0.16004659499999999,2,0,3,5,1,0,2,2,7,1,2,0,1,2,0,45
+30829,Lorenzo Lollo,90,2,0,0.0262390715,0,26,15,0,0,0.0,3,2,4,5,3,1,4,3,7,1,1,1,3,3,0,53
+32608,Jerry Uche Mbakogu,67,1,0,0.10740696,0,18,10,0,0,0.0,1,0,2,1,1,1,4,0,1,0,1,0,2,0,0,9
+57655,Željko Brkić,62,0,0,0.0,0,26,14,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+387300,Cristian Zaccardo,90,1,0,0.047597047,0,28,22,0,0,0.0,0,0,2,1,0,0,1,1,4,0,1,2,1,1,0,8
+387474,Igor Bubnjić,90,1,0,0.08543241,0,23,17,0,1,0.008562098,0,0,1,0,0,0,3,1,2,0,7,2,2,1,0,6
+387477,Francesco Benussi,28,0,0,0.0,0,11,7,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0

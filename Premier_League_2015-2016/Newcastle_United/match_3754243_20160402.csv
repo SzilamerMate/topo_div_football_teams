@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3044,Chancel Mbemba Mangulu,90,1,0,0.10872074,0,51,40,0,0,0.0,0,0,4,3,0,0,6,0,1,1,13,0,3,1,0,13
+3057,Jonjo Shelvey,90,1,0,0.032449093,0,68,58,0,3,0.1823412036,1,0,5,0,0,0,2,1,6,0,1,1,0,1,0,7
+3076,Ayoze Pérez Gutiérrez,45,0,0,0.0,0,18,13,0,0,0.0,2,0,4,1,1,1,3,0,4,1,1,1,2,2,0,13
+3091,Moussa Sissoko,90,0,0,0.0,0,60,48,0,2,0.20369123,4,3,14,2,1,0,3,2,2,0,1,0,0,2,1,17
+3297,Andros Townsend,90,2,0,0.106166713,1,40,26,1,2,0.160176815,1,1,17,0,0,0,4,0,3,2,0,0,4,0,0,21
+3567,Georginio Wijnaldum,90,0,0,0.0,0,52,44,0,2,0.11237244299999999,1,1,7,1,0,0,2,0,4,0,2,1,1,0,0,9
+3649,Karl Darlow,90,0,0,0.0,0,34,10,0,0,0.0,0,0,4,0,0,0,0,0,7,0,0,0,0,0,0,0
+3650,Daryl Janmaat,90,0,0,0.0,0,62,48,0,1,0.053281166,0,0,7,2,0,0,4,1,3,0,4,0,5,1,1,11
+3722,Steven Taylor,90,0,0,0.0,0,45,40,0,0,0.0,0,0,6,1,2,1,0,0,5,0,9,3,2,0,0,6
+4269,Aleksandar Mitrović,29,6,2,1.228220921,3,11,9,0,1,0.5432019,1,0,0,0,1,0,6,0,1,0,0,1,2,0,0,0
+16072,Vurnon Anita,61,0,0,0.0,0,43,33,0,0,0.0,0,0,3,1,0,0,4,1,1,0,1,1,0,3,0,11
+30289,Papiss Demba Cissé,90,3,0,0.5954563836,1,26,17,0,0,0.0,2,2,2,1,2,0,9,0,1,3,2,0,1,0,0,10
+42900,Cheik Ismaël Tioté,45,0,0,0.0,0,36,31,0,1,0.032449093,0,0,1,2,1,0,7,1,2,0,2,1,1,3,1,18

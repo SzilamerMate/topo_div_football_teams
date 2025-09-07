@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4691,Claudio Andrés Bravo Muñoz,90,0,0,0.0,0,39,20,0,0,0.0,0,0,3,0,0,0,0,0,5,0,1,0,0,0,0,0
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,58,54,0,1,0.22053735,0,0,6,1,1,1,5,3,3,0,7,0,2,3,1,9
+5216,Andrés Iniesta Luján,90,0,0,0.0,0,72,67,0,0,0.0,4,3,11,3,2,0,1,1,6,0,2,0,1,1,1,9
+5246,Luis Alberto Suárez Díaz,90,1,0,0.07571788,1,24,19,0,0,0.0,3,0,3,0,1,0,4,0,1,3,1,0,2,0,0,3
+5470,Ivan Rakitić,35,0,0,0.0,0,14,13,0,1,0.07766422,0,0,1,0,1,0,4,1,1,0,1,0,0,3,1,10
+5503,Lionel Andrés Messi Cuccittini,90,6,1,0.9252415600000001,2,53,42,0,3,0.256840595,3,3,16,1,2,0,0,0,7,5,0,0,0,0,0,10
+5506,Javier Alejandro Mascherano,90,0,0,0.0,0,64,54,0,0,0.0,0,0,7,0,0,0,3,1,0,0,9,0,3,2,0,4
+6332,Thomas Vermaelen,45,0,0,0.0,0,23,21,0,0,0.0,0,0,3,1,2,1,4,0,1,0,10,0,2,0,0,2
+6379,Sergi Roberto Carnicer,18,0,0,0.0,0,12,7,0,0,0.0,0,0,0,0,0,0,2,1,0,0,1,0,0,2,0,4
+6400,Aleix Vidal Parreu,90,0,0,0.0,0,79,61,0,0,0.0,1,0,14,0,2,0,2,1,4,1,4,1,5,2,0,12
+6616,Munir El Haddadi Mohamed,55,2,1,1.010786725,2,14,13,0,0,0.0,1,0,3,0,1,0,1,1,4,1,0,0,1,1,1,4
+10609,Jérémy Mathieu,45,0,0,0.0,0,20,18,0,0,0.0,0,0,2,0,1,1,0,0,0,0,12,0,0,0,0,1
+11094,Arda Turan,90,1,0,0.08370209,0,56,53,0,0,0.0,4,3,8,2,4,0,7,2,8,3,0,0,3,2,1,11
+22102,Adriano Correia Claro,72,1,0,0.03642713,0,69,64,1,1,0.23106429,0,0,11,2,1,0,1,1,6,0,3,0,3,1,1,6

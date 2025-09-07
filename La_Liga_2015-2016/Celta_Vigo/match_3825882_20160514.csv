@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5217,Iago Aspas Juncal,32,0,0,0.0,0,21,13,0,0,0.0,1,0,6,1,0,0,2,1,1,2,0,1,2,1,1,8
+6038,John Guidetti,90,2,0,0.133334526,1,26,20,0,0,0.0,3,2,0,1,2,1,1,0,2,0,0,0,1,0,0,16
+6724,Manuel Agudo Durán,90,2,0,0.124484368,2,46,32,0,1,0.08713822,7,1,9,4,3,1,3,0,6,6,1,3,2,2,0,22
+6796,Nemanja Radoja,9,0,0,0.0,0,5,4,0,0,0.0,0,0,2,0,1,0,1,0,2,0,0,0,1,0,0,3
+6797,Daniel Wass,58,0,0,0.0,0,27,25,0,0,0.0,0,0,3,0,2,0,2,0,0,1,1,2,0,0,0,5
+6801,Pedro Pablo Hernández,81,0,0,0.0,0,68,58,0,0,0.0,2,2,14,3,4,0,4,3,6,1,0,0,0,3,3,20
+6802,Jonathan Castro Otto,90,0,0,0.0,0,55,46,0,0,0.0,2,0,5,2,1,0,2,0,1,0,5,4,6,2,0,18
+6804,Sergi Gómez Solà,90,0,0,0.0,0,57,50,0,0,0.0,0,0,2,1,0,0,2,0,9,0,6,2,3,1,0,12
+6805,Hugo Mallo Novegil,90,0,0,0.0,0,63,57,0,0,0.0,0,0,5,2,0,0,7,4,4,1,2,1,1,6,3,19
+6884,Sergio Álvarez Conde,90,0,0,0.0,0,26,20,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+7105,Fabián Ariel Orellana Valenzuela,70,1,0,0.08713822,1,39,32,0,1,0.08540681,4,2,7,1,1,0,2,0,4,4,2,2,0,1,0,12
+7577,Carles Planas Antolínez,90,0,0,0.0,0,76,60,0,0,0.0,1,0,7,0,1,1,9,3,3,1,4,6,2,5,1,22
+23785,Théo Bongonda Mbul''Ofeko Batombo,20,0,0,0.0,0,6,6,0,0,0.0,3,1,4,0,1,1,0,0,0,1,0,0,0,0,0,2
+27341,Marcelo Alfonso Díaz Rojas,90,2,0,0.11016295000000001,0,69,66,0,0,0.0,0,0,9,2,0,0,0,0,4,0,0,1,2,0,0,20

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3244,John Stones,90,0,0,0.0,0,83,78,0,0,0.0,1,1,21,0,1,0,3,1,10,1,2,0,1,2,0,7
+3289,Romelu Lukaku Menama,90,5,2,0.509726325,2,29,24,0,1,0.20944506,4,3,6,2,0,0,2,1,4,1,0,0,1,1,1,2
+3607,James McCarthy,83,1,0,0.019998597,0,65,61,0,1,0.05818535,0,0,9,0,0,0,2,0,5,0,2,0,2,1,0,14
+3633,Gareth Barry,90,0,0,0.0,0,98,82,0,0,0.0,0,0,12,2,2,2,4,3,2,1,3,0,2,3,1,16
+3726,Gerard Deulofeu Lázaro,73,1,0,0.05818535,1,38,29,0,3,0.29548309800000006,7,3,18,0,2,0,0,0,5,2,0,2,2,0,0,3
+4275,Ross Barkley,73,2,2,0.8776323500000001,2,45,39,1,1,0.27603883,0,0,6,0,1,0,1,1,6,1,0,1,3,1,0,9
+4317,Kevin Mirallas,17,3,0,0.12169666500000001,1,20,16,0,1,0.037602577,2,2,7,0,2,0,0,0,3,0,0,0,1,0,0,1
+4589,Séamus Coleman,90,0,0,0.0,0,48,43,1,1,0.097524256,0,0,11,1,0,0,1,1,5,0,4,0,1,1,1,11
+4629,José Ramiro Funes Mori,90,0,0,0.0,0,89,82,0,0,0.0,0,0,23,0,1,1,4,1,3,0,6,0,1,2,0,5
+13042,Tim Howard,90,0,0,0.0,0,28,24,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+20067,Darron Gibson,7,0,0,0.0,0,7,7,0,2,0.100599784,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,2
+26696,Arouna Koné,90,3,0,0.42404587800000004,3,23,22,0,0,0.0,2,1,5,1,0,0,3,3,6,1,0,0,2,3,1,6
+30702,Brendan Joel Zibusiso Galloway,90,1,0,0.31015974,0,52,45,0,0,0.0,1,1,6,0,1,1,1,0,3,0,0,2,2,1,0,8
+42947,Leon Osman,17,0,0,0.0,0,17,13,0,0,0.0,0,0,0,1,1,1,0,0,2,1,0,0,0,0,0,6

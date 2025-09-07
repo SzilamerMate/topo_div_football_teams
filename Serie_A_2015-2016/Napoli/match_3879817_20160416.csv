@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3949,Manolo Gabbiadini,90,1,0,0.037587974,0,10,6,0,0,0.0,0,0,0,1,2,1,2,0,2,1,0,0,1,0,0,8
+5457,Ivan Strinić,49,1,0,0.016551066,0,42,37,0,0,0.0,1,0,3,0,1,0,1,1,5,1,1,3,3,1,0,5
+5630,Dries Mertens,41,0,0,0.0,0,20,14,0,2,0.063911473,3,1,5,5,1,0,0,0,3,0,0,0,3,0,0,10
+5675,Kalidou Koulibaly,90,0,0,0.0,0,81,67,0,0,0.0,0,0,11,2,0,0,4,0,6,0,6,4,4,1,0,5
+7024,Jorge Luiz Frello Filho,72,0,0,0.0,0,89,79,0,1,0.024081143,0,0,6,3,3,1,3,1,4,0,0,0,1,2,0,21
+7025,Marek Hamšík,90,3,0,0.089829396,1,99,86,0,2,0.05764614800000001,3,1,13,0,1,0,3,1,6,0,2,0,2,3,1,5
+7028,José Manuel Reina Páez,90,0,0,0.0,0,19,18,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+7029,José María Callejón Bueno,90,2,0,0.096419022,0,41,35,0,0,0.0,2,0,3,0,2,0,1,0,3,1,0,2,2,0,0,12
+7030,Raúl Albiol i Tortajada,90,0,0,0.0,0,84,73,0,0,0.0,1,1,13,2,0,0,4,0,6,0,3,2,5,1,0,3
+7031,Elseid Hysaj,90,0,0,0.0,0,85,74,0,0,0.0,6,2,6,0,4,2,6,1,8,0,1,0,3,2,0,13
+7035,Allan Marques Loureiro,90,1,0,0.020026935,1,63,55,0,1,0.05691759,5,2,6,0,1,0,6,2,4,3,5,0,4,3,1,31
+7037,Lorenzo Insigne,49,1,0,0.018144716,0,34,28,0,2,0.044591675,1,0,7,0,2,0,0,0,1,1,0,0,0,0,0,4
+8876,Faouzi Ghoulam,41,1,0,0.02272796,0,33,25,0,0,0.0,1,0,3,0,1,0,2,1,5,1,1,0,0,1,1,6
+16495,Omar El Kaddouri,18,0,0,0.0,0,12,10,0,0,0.0,1,0,2,0,0,0,1,0,1,0,0,0,0,0,0,2

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5203,Sergio Busquets i Burgos,90,1,0,0.04526853,0,102,93,0,1,0.04678642,1,1,9,0,2,1,0,0,7,0,2,1,1,0,0,10
+5211,Jordi Alba Ramos,90,0,0,0.0,0,95,82,0,1,0.1974961,0,0,10,0,0,0,3,2,5,0,1,1,0,2,1,9
+5213,Gerard Piqué Bernabéu,90,1,0,0.028238246,0,78,75,0,0,0.0,0,0,9,4,0,0,4,3,4,0,1,2,2,3,1,9
+5470,Ivan Rakitić,90,2,0,0.10887986,1,72,69,0,0,0.0,2,1,5,2,4,0,1,1,1,1,1,1,0,1,1,9
+5487,Antoine Griezmann,70,3,0,0.7910766,0,33,28,0,0,0.0,0,0,1,0,0,0,1,0,2,2,1,0,1,1,0,15
+5503,Lionel Andrés Messi Cuccittini,90,10,0,0.983463906,5,67,52,2,7,0.9795601660000001,14,10,23,0,1,0,1,0,2,1,0,0,0,0,0,4
+6374,Nélson Cabral Semedo,90,1,0,0.16660585,0,79,71,0,1,0.5128116,5,5,7,0,1,1,1,0,5,2,0,2,2,1,0,11
+6379,Sergi Roberto Carnicer,20,0,0,0.0,0,19,18,0,3,0.397199804,1,1,0,0,0,0,1,1,2,0,0,0,0,1,0,5
+6826,Clément Lenglet,90,0,0,0.0,0,70,68,0,0,0.0,1,1,9,0,2,0,1,1,2,0,2,1,1,1,0,10
+8118,Frenkie de Jong,79,0,0,0.0,0,64,55,0,3,0.150665062,1,1,10,0,1,0,3,0,5,1,0,1,0,1,0,13
+11392,Arthur Henrique Ramos de Oliveira Melo,11,0,0,0.0,0,8,7,0,0,0.0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4
+20055,Marc-André ter Stegen,90,0,0,0.0,0,48,48,0,0,0.0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0
+24841,Ricard Puig Martí,4,0,0,0.0,0,3,3,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+30756,Anssumane Fati,86,5,2,0.80228785,2,45,37,0,3,0.40732001999999995,5,4,10,0,0,0,5,2,2,1,0,0,2,4,1,20

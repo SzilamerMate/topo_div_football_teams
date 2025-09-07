@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3726,Gerard Deulofeu Lázaro,71,1,1,0.48004502,1,43,39,0,0,0.0,1,0,10,1,0,0,1,1,3,3,1,1,0,1,0,14
+5203,Sergio Busquets i Burgos,75,0,0,0.0,0,50,41,0,0,0.0,1,1,1,2,7,2,3,0,1,1,0,3,3,0,0,29
+5216,Andrés Iniesta Luján,90,1,1,0.067599,1,80,68,0,1,0.04702447,3,1,9,1,4,0,3,2,1,2,0,2,3,2,0,17
+5246,Luis Alberto Suárez Díaz,82,3,0,0.8177053320000001,0,29,23,0,0,0.0,4,2,3,1,0,0,1,0,1,1,0,1,0,1,0,11
+5470,Ivan Rakitić,90,1,0,0.021278273,0,74,69,0,1,0.08082567,1,1,5,1,1,0,1,0,0,1,1,0,1,0,0,29
+5492,Samuel Yves Umtiti,90,0,0,0.0,0,103,98,0,0,0.0,1,1,30,2,0,0,3,2,2,0,1,4,1,2,0,15
+5503,Lionel Andrés Messi Cuccittini,90,3,0,0.177598048,1,48,39,1,2,0.10151486200000001,13,7,12,0,1,0,0,0,2,3,0,0,1,0,0,11
+5506,Javier Alejandro Mascherano,90,0,0,0.0,0,77,73,0,0,0.0,0,0,16,1,0,0,8,4,2,0,2,1,3,6,2,11
+5542,José Paulo Bezzera Maciel Júnior,15,2,0,0.1982107,1,19,17,0,0,0.0,1,0,3,0,0,0,1,1,2,1,0,1,1,1,0,3
+6374,Nélson Cabral Semedo,19,0,0,0.0,0,18,17,0,2,0.07618417899999999,1,0,4,0,0,0,1,1,2,0,0,0,0,1,0,3
+6379,Sergi Roberto Carnicer,90,1,0,0.054905906,0,83,78,0,1,0.7029638,3,1,8,0,0,0,3,2,3,1,0,3,1,2,2,21
+6402,Francisco Alcácer García,8,0,0,0.0,0,3,2,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+6849,Lucas Digne,90,0,0,0.0,0,79,70,1,2,0.59891129,5,4,7,1,2,0,2,1,5,0,0,3,3,2,1,14
+20055,Marc-André ter Stegen,90,0,0,0.0,0,40,34,0,0,0.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6941,Jasmin Kurtič,73,5,0,0.35878104600000005,1,36,25,0,1,0.075977035,2,1,6,2,1,0,5,1,2,0,1,0,4,2,1,23
+6952,Alberto Grassi,61,4,0,0.32171822,2,25,18,0,2,0.147698229,0,0,4,0,1,0,2,1,4,0,0,1,1,2,0,15
+6994,Marten de Roon,90,1,0,0.031237094,0,39,31,0,1,0.017632367,1,0,3,4,1,1,6,3,7,0,0,2,1,5,1,26
+7002,Rafael Tolói,90,2,0,0.14635972,0,19,13,0,0,0.0,1,1,3,0,1,0,1,1,5,0,5,0,3,1,1,14
+7006,Alejandro Darío Gómez,90,3,0,0.107552563,1,55,38,0,2,0.12431149699999999,8,4,15,3,3,0,4,2,8,2,1,0,0,2,2,19
+7157,Marco Sportiello,90,0,0,0.0,0,23,15,0,0,0.0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0
+8420,Luca Cigarini,17,0,0,0.0,0,9,5,0,0,0.0,0,0,0,2,0,0,1,1,2,1,0,1,1,1,0,5
+11722,Boukary Dramé,90,1,0,0.006769331,0,68,55,0,3,0.30200402600000004,2,1,6,0,0,0,3,3,3,2,3,2,4,3,2,14
+12759,Maximiliano Nicol Moralez,90,3,0,0.248867502,0,53,41,1,5,0.523221783,2,0,10,3,4,0,2,0,8,2,0,2,7,0,0,28
+36770,Mauricio Ricardo Pinilla Ferreira,31,0,0,0.0,0,9,6,0,0,0.0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,9
+38237,Gabriel Alejandro Paletta,90,0,0,0.0,0,17,15,0,1,0.07921892,0,0,1,2,0,0,5,1,2,0,8,1,2,4,1,14
+40455,Giulio Migliaccio,29,0,0,0.0,0,10,5,0,0,0.0,0,0,0,1,0,0,2,1,0,0,4,0,1,2,0,7
+49439,Germán Gustavo Denis,59,2,1,0.8068862,2,25,19,0,1,0.020246295,2,2,6,1,4,2,5,1,4,1,1,0,0,1,0,4
+386607,Gianpaolo Bellini,90,0,0,0.0,0,32,25,0,0,0.0,3,2,5,3,0,0,2,1,4,0,2,1,1,2,0,13

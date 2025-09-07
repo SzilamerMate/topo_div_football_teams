@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6334,Luis Fernando Muriel Fruto,90,0,0,0.0,0,24,16,0,1,0.05373259,3,2,3,2,1,0,2,1,2,4,0,0,0,1,0,15
+6759,Roberto Soriano,81,1,0,0.06086375,1,45,38,0,3,0.086940435,0,0,14,0,1,1,1,1,4,3,2,1,0,1,0,9
+6822,Carlos Joaquín Correa,29,3,0,0.089996121,2,23,17,0,1,0.021291286,2,0,8,0,2,1,0,0,0,1,0,0,0,0,0,9
+7000,Eder Citadin Martins,90,5,0,0.33800249400000004,1,26,20,0,2,0.116229096,2,2,8,3,1,0,1,0,5,2,0,0,0,0,0,10
+7009,Édgar Osvaldo Barreto Cáceres,90,0,0,0.0,0,57,48,0,0,0.0,0,0,4,0,0,0,6,4,4,0,0,0,2,4,1,26
+7012,Vasco Regini,45,1,0,0.25530466,0,28,24,0,0,0.0,1,1,6,1,0,0,0,0,2,0,1,0,2,0,0,11
+7018,Emiliano Viviano,90,0,0,0.0,0,30,20,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+7019,Matías Agustín Silvestre,90,1,0,0.115350276,1,49,42,0,0,0.0,0,0,4,0,1,1,1,0,1,0,4,1,5,0,0,8
+8423,Pedro Miguel Almeida Lopes Pereira,90,0,0,0.0,0,41,36,0,0,0.0,0,0,8,0,1,0,1,0,4,1,3,1,3,0,0,13
+9884,Niklas Moisander,90,0,0,0.0,0,45,40,0,0,0.0,0,0,3,0,0,0,2,0,3,0,2,1,0,0,0,6
+15318,Lazaros Christodoulopoulos,45,1,0,0.012368165,0,36,30,0,0,0.0,3,2,10,2,1,0,0,0,3,2,0,0,2,0,0,9
+16586,Fernando Lucas Martins,90,0,0,0.0,0,84,70,0,4,0.420933299,2,0,16,3,3,0,1,0,6,0,1,3,3,0,0,16
+22822,Alejandro Miguel Rodriguez,9,0,0,0.0,0,1,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+36364,Dávid Ivan,61,0,0,0.0,0,26,21,0,1,0.17275876,1,0,6,0,0,0,2,1,0,1,2,1,0,1,1,16

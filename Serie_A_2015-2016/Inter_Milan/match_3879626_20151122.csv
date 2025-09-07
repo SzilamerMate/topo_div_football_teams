@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3434,Stevan Jovetić,90,4,0,0.510584587,3,63,49,1,4,0.492743162,3,2,11,0,4,0,4,2,2,4,0,0,0,2,2,10
+5469,Marcelo Brozović,3,1,1,0.14014982,1,8,8,0,0,0.0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,4
+5474,Ivan Perišić,5,0,0,0.0,0,4,3,0,0,0.0,1,0,3,1,0,0,0,0,0,0,0,0,1,0,0,1
+5551,João Miranda de Souza Filho,90,0,0,0.0,0,38,29,0,0,0.0,0,0,3,2,1,0,0,0,6,1,4,0,1,0,0,9
+5587,Adem Ljajić,90,6,0,0.27794119629999997,1,63,57,2,6,1.436106095,2,1,13,0,1,0,2,2,8,1,0,0,0,2,0,5
+5690,Yuto Nagatomo,59,1,0,0.009785594,0,41,32,0,0,0.0,1,1,3,1,1,0,6,3,5,2,1,0,2,5,0,14
+6585,Jeison Fabián Murillo Cerón,90,1,1,0.36972192,1,51,42,0,0,0.0,1,1,4,1,1,0,3,2,10,0,2,0,1,2,0,8
+6589,Geoffrey Kondogbia,90,2,0,0.07656932400000001,0,71,62,0,1,0.08801204,2,0,10,3,4,2,3,1,11,4,2,0,1,3,0,24
+6987,Mauro Emanuel Icardi Rivero,87,3,1,0.8775617430000001,2,25,17,0,2,0.20449646700000002,1,1,3,1,1,0,10,3,2,0,4,0,1,3,0,11
+7001,Samir Handanovič,90,0,0,0.0,0,28,21,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+7962,Andrea Ranocchia,31,0,0,0.0,0,17,13,0,0,0.0,0,0,0,0,1,1,0,0,2,0,1,0,1,0,0,1
+11183,Alex Nicolao Telles,90,0,0,0.0,0,67,49,0,1,0.033101153,0,0,5,3,2,0,3,0,4,0,4,2,7,2,0,10
+11497,Jonathan Ludovic Biabiany,85,3,1,0.31518337300000004,1,35,23,0,1,0.0064902003,3,3,9,1,0,0,5,2,6,4,2,0,3,2,2,11
+25430,Felipe Melo de Carvalho,90,1,0,0.08600375,0,63,56,0,1,0.014526697,2,1,4,2,3,2,7,4,5,2,1,0,1,6,3,19

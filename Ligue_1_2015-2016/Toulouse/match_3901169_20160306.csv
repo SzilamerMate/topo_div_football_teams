@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2961,Yann Bodiger,19,1,0,0.06598858,1,16,12,0,1,0.0109079955,0,0,3,3,0,0,1,0,1,0,2,2,0,1,0,6
+2981,Alban Lafont,90,0,0,0.0,0,29,17,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,0
+3024,Jacques François Moubandje,90,0,0,0.0,0,47,37,0,1,0.050350863,3,2,5,0,1,0,5,2,4,2,4,0,6,2,0,15
+3030,Wergiton do Rosário Calmon,90,0,0,0.0,0,40,32,0,2,0.19228565399999997,5,2,8,0,0,0,8,5,5,2,5,1,7,7,1,24
+3036,Alexis Blin,90,2,0,0.051200046,1,41,34,0,1,0.031054484,1,1,2,2,0,0,7,1,4,1,3,1,3,2,1,19
+3189,Étienne Didot,86,1,0,0.065332144,0,66,52,1,5,0.48953032099999993,1,1,6,3,3,1,3,0,6,2,0,0,0,1,0,18
+4349,Issa Diop,90,0,0,0.0,0,37,29,0,0,0.0,0,0,4,2,0,0,1,0,3,0,11,2,0,1,0,9
+4447,Martin Braithwaite Christensen,90,4,0,0.1587299565,1,37,30,0,0,0.0,4,2,9,1,4,1,5,0,9,6,1,0,1,0,0,9
+6723,Wissam Ben Yedder,90,5,1,0.553103883,2,33,25,0,2,0.114488596,1,1,7,1,0,0,2,0,4,2,1,1,1,0,0,12
+8677,Marcel Tisserand,90,1,0,0.047982257,0,33,25,0,0,0.0,0,0,2,1,1,0,2,0,1,1,8,2,2,0,0,4
+11540,Óscar Guido Trejo,12,1,0,0.050350863,1,6,4,0,0,0.0,1,1,3,0,0,0,0,0,0,1,0,0,0,0,0,1
+16522,Tongo Hamed Doumbia,78,1,0,0.048500016,1,53,45,0,0,0.0,1,1,9,1,1,0,4,3,9,2,0,1,3,3,2,20
+31174,Jean-Daniel Akpa Akpro,71,2,0,0.0344987607,0,29,21,0,1,0.050935093,3,1,8,1,2,0,5,2,7,1,0,1,3,4,1,19
+40526,François Pantxi Sirieix,4,0,0,0.0,0,5,2,0,0,0.0,0,0,2,0,1,0,0,0,1,1,0,0,0,0,0,1

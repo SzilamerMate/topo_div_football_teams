@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3253,Adil Rami,90,0,0,0.0,0,31,26,0,0,0.0,0,0,4,1,0,0,2,0,4,1,4,3,0,0,0,4
+3486,Fernando Llorente Torres,64,4,1,0.47100096299999994,1,22,17,0,0,0.0,1,0,2,1,0,0,5,1,3,0,0,0,0,1,0,13
+3497,Vicente Iborra De La Fuente,13,1,0,0.07008362,0,7,4,0,0,0.0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1
+5504,Éver Maximiliano David Banega,77,2,0,0.433333902,2,57,46,0,2,0.113120038,7,6,12,0,2,0,3,1,5,2,2,1,2,2,1,11
+5737,Steven N''Kemboanza Mike Christopher Nzonzi,90,1,0,0.027208682,0,50,43,0,1,0.034990072,0,0,7,0,1,0,6,3,5,1,9,2,1,4,1,21
+6356,Michael Krohn-Dehli,90,2,0,0.398966506,0,53,41,1,5,0.5120151669999999,3,2,13,1,2,1,2,0,4,1,0,1,1,0,0,7
+6401,Kevin Gameiro,26,0,0,0.0,0,5,4,0,1,0.39834383,0,0,2,0,0,0,2,0,0,0,0,2,0,0,0,6
+6823,Sergio Rico González,90,0,0,0.0,0,40,24,0,0,0.0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+6825,Daniel Filipe Martins Carriço,90,2,0,0.209684622,1,53,43,0,0,0.0,1,1,8,1,3,1,5,1,3,2,11,2,0,1,1,14
+6841,Víctor Machín Pérez,32,1,0,0.036551747,0,8,5,0,0,0.0,1,1,4,1,1,1,1,0,5,1,0,0,0,0,0,5
+7154,Sebastián Carlos Cristóforo Pepe,90,0,0,0.0,0,47,39,0,0,0.0,0,0,5,4,3,0,6,0,6,4,2,7,2,5,0,25
+21210,Mariano Ferreira Filho,90,0,0,0.0,0,35,28,0,0,0.0,0,0,7,2,1,1,1,0,2,0,2,0,1,0,0,7
+23816,José Antonio Reyes Calderón,58,2,0,0.071929135,0,24,14,0,1,0.0940114,2,2,3,1,2,0,2,0,2,2,1,0,0,1,0,10
+27483,Benoît Trémoulinas,90,0,0,0.0,0,71,57,0,2,0.158975766,1,0,7,1,5,3,1,0,6,0,1,1,2,0,0,4

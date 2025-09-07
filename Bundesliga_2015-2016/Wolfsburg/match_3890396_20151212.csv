@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3186,Julian Draxler,89,1,0,0.026711179,0,43,32,0,1,0.2078205,5,4,15,2,1,0,6,0,5,1,1,1,1,1,0,11
+3197,Dante Bonfim da Costa Santos,90,0,0,0.0,0,83,57,0,0,0.0,0,0,14,3,2,1,6,2,9,1,8,1,2,3,0,15
+4600,Diego Orlando Benaglio,90,0,0,0.0,0,29,22,0,0,0.0,0,0,4,0,0,0,0,0,2,0,0,0,0,0,0,0
+8230,Josuha Guilavogui,90,1,0,0.026184632,1,55,45,0,1,0.078016356,1,0,5,4,4,0,9,4,11,0,4,2,3,5,3,30
+8235,Maximilian Arnold,90,3,1,0.507748192,2,60,51,0,2,0.21437952700000001,1,1,4,2,6,1,5,2,7,3,0,1,0,4,0,22
+8386,Max Kruse,90,4,0,0.23987678899999998,1,51,44,0,5,0.17878700150000001,4,3,15,0,1,0,2,0,6,5,0,0,0,0,0,11
+8516,Ronaldo Aparecido Rodrigues,90,4,0,0.408976691,1,69,63,0,0,0.0,1,1,5,2,1,0,8,2,9,0,4,0,3,2,1,6
+8521,Daniel Caligiuri,28,2,0,0.24084498,1,10,8,0,0,0.0,4,3,8,0,1,0,1,0,2,1,0,0,0,1,0,2
+10281,André Schürrle,62,3,0,0.2421110805,3,28,20,0,0,0.0,5,3,11,0,0,0,4,3,0,1,0,0,3,3,1,16
+10594,Bas Dost,45,1,0,0.08027162,0,13,10,0,0,0.0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,0,3
+10790,Adelino André Vieira Freitas,90,1,0,0.008270882,0,59,48,1,3,0.535094025,3,2,6,3,2,0,9,3,3,0,1,1,4,6,1,22
+23266,Christian Träsch,45,0,0,0.0,0,29,24,0,0,0.0,1,0,3,0,1,0,1,0,1,0,0,0,1,0,0,7
+24919,Sebastian Jung,1,0,0,0.0,0,7,6,0,1,0.037824262,0,0,1,0,0,0,1,1,2,1,0,0,0,1,0,0
+40469,Marcel Schäfer,90,0,0,0.0,0,74,53,0,4,0.32678384699999996,2,1,6,0,1,0,3,1,6,0,1,0,2,1,1,12

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2988,Memphis Depay,90,3,0,0.10848865499999999,0,42,30,0,1,0.048899963,3,1,8,2,1,0,7,1,7,6,0,0,1,1,1,10
+3267,Luis Antonio Valencia Mosquera,90,1,0,0.028996581,0,81,70,0,1,0.01597577,1,1,14,1,0,0,2,1,10,0,4,2,5,2,0,11
+3293,Jesse Lingard,76,1,0,0.045772087,1,47,42,0,0,0.0,1,0,9,2,2,1,3,0,1,3,1,3,1,1,0,17
+3294,Juan Manuel Mata García,90,2,1,0.4479089,1,76,68,0,4,0.409648594,2,0,9,1,3,0,1,0,5,1,0,1,1,0,0,12
+3333,David de Gea Quintana,90,0,0,0.0,0,29,16,0,0,0.0,0,0,3,0,0,0,0,0,9,0,0,0,0,0,0,0
+3465,Timothy Evans Fosu-Mensah,4,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4
+3538,Wayne Mark Rooney,90,0,0,0.0,0,29,25,1,3,0.62583605,1,1,2,2,1,0,7,0,3,1,0,0,2,0,0,9
+3600,Morgan Schneiderlin,14,1,0,0.17792715,0,8,6,0,0,0.0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0,2
+3602,Faustino Marcos Alberto Rojo,90,1,0,0.055608224,0,61,46,0,0,0.0,0,0,10,2,0,0,7,3,5,0,8,1,0,4,0,15
+3606,Ander Herrera Agüera,90,4,0,0.23762251899999998,0,75,62,0,3,0.09745922800000001,3,2,5,0,4,1,7,5,4,1,4,2,3,6,3,17
+4587,Matteo Darmian,15,0,0,0.0,0,9,6,0,0,0.0,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,1
+4751,Michael Carrick,86,0,0,0.0,0,67,59,0,0,0.0,1,1,13,0,1,1,2,0,8,1,2,1,1,2,0,8
+10779,Cameron Borthwick-Jackson,75,0,0,0.0,0,63,46,0,0,0.0,0,0,6,1,0,0,10,3,1,1,1,1,1,4,0,18
+10958,Chris Smalling,90,2,0,0.210837863,0,35,30,0,0,0.0,0,0,6,1,0,0,6,3,2,1,10,1,1,4,1,13

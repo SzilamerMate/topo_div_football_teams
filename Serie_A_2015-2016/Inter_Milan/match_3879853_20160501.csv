@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3434,Stevan Jovetić,71,6,0,0.3861061849,3,33,22,0,2,0.174449424,0,0,6,1,1,1,4,0,3,5,0,0,0,1,0,12
+5469,Marcelo Brozović,90,2,0,0.13435524199999999,0,80,65,0,6,0.2096074579,4,2,15,1,1,1,4,3,4,3,0,3,1,3,2,27
+5474,Ivan Perišić,90,4,0,0.150967855,2,51,36,0,1,0.1414102,2,1,10,0,1,0,1,1,4,2,0,1,3,1,0,10
+5551,João Miranda de Souza Filho,90,1,0,0.09971104,0,57,50,0,0,0.0,0,0,4,1,4,2,0,0,9,1,10,3,2,0,0,9
+5690,Yuto Nagatomo,78,0,0,0.0,0,50,40,0,0,0.0,0,0,4,2,1,0,2,0,3,0,1,0,2,1,0,9
+6585,Jeison Fabián Murillo Cerón,90,0,0,0.0,0,64,57,0,0,0.0,0,0,12,4,0,0,6,1,7,1,4,1,1,3,0,9
+6589,Geoffrey Kondogbia,90,1,0,0.1414102,0,63,57,0,1,0.24000499,5,3,12,2,5,0,3,2,13,4,0,0,4,2,1,28
+6984,Danilo D''Ambrosio,90,0,0,0.0,0,49,42,0,0,0.0,2,1,6,0,1,1,2,1,7,1,1,0,2,2,0,22
+6987,Mauro Emanuel Icardi Rivero,90,1,0,0.0315196,0,22,17,0,1,0.012246384,0,0,1,0,3,0,1,0,2,0,0,0,0,0,0,14
+7000,Eder Citadin Martins,19,1,0,0.009428048,0,5,4,0,0,0.0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,7
+7001,Samir Handanovič,90,0,0,0.0,0,21,21,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+7165,Rodrigo Sebastián Palacio,12,0,0,0.0,0,7,5,0,1,0.029972777,1,1,1,0,0,0,1,1,0,2,0,0,0,1,0,3
+11497,Jonathan Ludovic Biabiany,35,0,0,0.0,0,11,9,0,0,0.0,0,0,2,0,0,0,1,1,0,1,0,0,0,1,0,6
+16453,Gary Alexis Medel Soto,55,0,0,0.0,0,55,51,0,1,0.059598047,0,0,3,1,1,0,3,2,2,1,1,0,0,3,0,14

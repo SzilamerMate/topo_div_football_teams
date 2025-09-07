@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3477,Álvaro Borja Morata Martín,22,0,0,0.0,0,8,6,0,0,0.0,2,1,1,0,1,0,1,0,1,0,0,0,0,0,0,8
+5472,Mario Mandžukić,90,2,2,0.39396326000000004,2,45,31,0,0,0.0,1,1,5,5,3,1,1,0,3,2,0,1,1,0,0,26
+5541,Stephan Lichtsteiner,8,0,0,0.0,0,3,2,0,0,0.0,0,0,0,1,1,0,1,0,1,1,0,0,0,1,0,4
+5566,Sami Khedira,90,3,0,0.314269908,2,48,40,0,0,0.0,0,0,6,1,1,0,0,0,2,2,3,0,4,0,0,17
+5689,Juan Guillermo Cuadrado Bello,82,0,0,0.0,0,53,45,0,1,0.26710606,2,1,10,3,4,0,2,1,6,1,2,0,1,1,1,14
+5743,Paulo Bruno Exequiel Dybala,68,2,0,0.355295686,0,35,28,0,1,0.13778849,4,2,3,0,3,0,0,0,2,2,0,1,1,0,0,14
+6943,Andrea Barzagli,56,0,0,0.0,0,56,53,0,0,0.0,0,0,1,0,0,0,2,1,4,0,3,0,2,1,1,6
+6949,Gianluigi Buffon,90,0,0,0.0,0,31,28,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+6953,Daniele Rugani,34,0,0,0.0,0,33,27,0,0,0.0,1,0,5,0,1,1,2,2,3,1,3,0,0,2,1,6
+6954,Giorgio Chiellini,90,1,0,0.13778849,0,93,80,0,0,0.0,0,0,18,1,0,0,6,1,8,1,8,1,0,3,1,10
+7173,Leonardo Bonucci,90,0,0,0.0,0,64,59,0,0,0.0,0,0,2,0,1,1,1,1,3,0,9,0,0,1,0,11
+8294,Claudio Marchisio,90,1,0,0.016162248,1,103,97,1,3,0.289199439,2,2,10,2,2,0,2,0,7,0,1,1,4,1,0,23
+20004,Paul Pogba,90,1,1,0.24627352,1,56,39,0,2,0.039855193,4,3,13,4,0,0,4,2,5,3,0,1,3,4,2,24
+20008,Patrice Evra,90,0,0,0.0,0,52,43,1,1,0.20839594,1,0,8,0,2,0,1,0,1,1,2,0,3,1,0,9

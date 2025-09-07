@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2953,Abdou Kader Mangane,90,2,0,0.128782256,0,25,21,0,0,0.0,0,0,3,0,0,0,5,4,2,0,6,0,1,4,1,12
+3207,Pablo Jean Antoine Martínez,90,0,0,0.0,0,59,47,0,0,0.0,1,1,11,0,0,0,2,0,2,0,1,2,3,0,0,4
+5726,Khalid Boutaïb,29,1,0,0.0476256,0,11,9,0,0,0.0,0,0,2,2,0,0,11,1,2,0,0,0,2,1,0,11
+7428,Alexandre Coeff,90,0,0,0.0,0,59,43,0,0,0.0,0,0,11,1,3,2,4,0,4,1,1,1,0,1,0,5
+7430,Kévin Mayi,11,1,0,0.028718315,0,5,4,0,0,0.0,2,1,4,0,1,0,0,0,1,0,1,0,0,0,0,1
+7603,Jérémie Bréchet,90,0,0,0.0,0,37,32,0,0,0.0,0,0,2,0,0,0,1,0,1,0,5,1,2,0,0,6
+10616,Mohamed Larbi,90,1,1,0.0069405767,1,55,45,0,5,0.22653632499999998,2,1,9,1,0,0,4,2,7,0,0,0,0,4,1,21
+40536,Issiar Dia,61,2,0,0.08430721,0,25,21,0,0,0.0,3,2,10,0,5,0,5,2,1,2,0,0,0,3,0,7
+310534,Louis Poggi,20,1,0,0.021410154,0,7,6,0,0,0.0,0,0,1,0,0,0,0,0,2,0,1,2,0,0,0,2
+401505,Jacques Zoua Daogari,79,3,0,0.150776806,1,26,20,0,1,0.03400834,0,0,5,1,2,1,4,0,2,3,0,0,1,0,0,10
+401506,Grégory Pujol,70,0,0,0.0,0,24,15,0,2,0.07642220599999999,0,0,3,0,1,0,7,0,6,2,1,0,1,2,0,16
+401507,Jérôme Le Moigne,90,1,0,0.019310845,0,44,38,0,1,0.0064118607,2,2,3,0,1,0,3,1,4,0,3,1,0,3,0,11
+401508,Clément Maury,90,0,0,0.0,0,51,30,0,0,0.0,0,0,2,0,1,0,0,0,8,0,0,0,0,0,0,1
+401509,David Ducourtioux,90,1,0,0.0064118607,0,52,42,0,2,0.12465347000000002,2,1,4,2,1,0,1,0,1,0,1,0,0,0,0,12

@@ -1,0 +1,18 @@
+Megvan: statisztikak csapatonknet az 5 top bajnoksagbol (2015-16)
+    - meccsekre
+    - szezonra osszesitve (osszeadva)
+
+Otletek:
+    - norma problema (?)
+    - lehetne nezni egy csapat szezonjanak alakjat
+        - ponthallmaz: meccsek
+    - a statisztikakat ne osszeadjuk, hanem szamoljunk beloluk atlagot 90 percre
+    - ido szerinti valtozasok - wassersteine tavolsag, bottleneck
+        - Barcelona (Messi osszes Barcelona meccsek) / szezon
+        - Barcelona (Messi osszes Barcelona meccsek) / edzo
+        - 5 topliga csapatai 2015-16 - edzovaltas elott, utan - nezzuk meg, hogy volt-e 'feltamadas'
+        - meccsek szintjen - itt fontos lenne belevenni az ellenfelek statisztikait is
+            - felosztani a 90 percet (45-45, 6x15) - itt nezni valtozasokat
+            - cserek szerint felosztani a 90 percet
+            - "Tacktical Shift" Event szerint
+    

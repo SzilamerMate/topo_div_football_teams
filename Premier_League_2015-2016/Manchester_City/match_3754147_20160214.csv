@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3052,Pablo Javier Zabaleta Girod,90,0,0,0.0,0,55,41,0,0,0.0,0,0,2,1,2,0,3,3,3,1,3,3,3,3,2,15
+3054,Fernando Luiz Rosa,90,1,0,0.045641605,0,60,47,0,2,0.09410022300000001,1,1,1,1,0,0,5,2,7,1,0,4,0,3,1,30
+3064,David Josué Jiménez Silva,90,2,0,0.60502117,0,59,49,0,1,0.05743682,3,3,9,2,1,0,4,1,6,1,0,1,2,4,0,22
+3087,Gnégnéri Yaya Touré,90,4,0,0.157220139,1,56,45,0,0,0.0,3,1,7,1,3,0,4,0,7,3,0,0,0,1,0,30
+3090,Nicolás Hernán Otamendi,90,2,0,0.117812134,0,35,30,0,1,0.04137915,1,1,6,0,1,1,4,2,4,3,4,4,1,2,2,12
+3101,Vincent Kompany,90,1,0,0.06693416,0,50,38,0,0,0.0,2,2,7,2,0,0,2,1,4,0,10,5,1,2,0,7
+3233,Raheem Sterling,90,2,0,0.16449749000000002,0,65,49,0,2,0.096252135,6,3,20,1,3,0,3,2,11,2,0,2,3,2,2,12
+3237,Sergio Leonel Agüero del Castillo,90,5,0,0.58510226,0,28,19,0,0,0.0,2,1,9,0,3,1,2,1,8,6,0,1,1,1,1,15
+3291,Joe Hart,90,0,0,0.0,0,20,11,0,0,0.0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0
+3708,Kelechi Promise Iheanacho,25,1,1,0.24457578,1,19,13,0,2,0.056465116,0,0,0,1,0,0,2,1,0,0,0,0,1,1,0,10
+5596,Aleksandar Kolarov,16,0,0,0.0,0,24,16,0,1,0.06693416,1,0,2,0,1,0,0,0,1,0,1,0,0,0,0,3
+16003,Fernando Francisco Reges,65,0,0,0.0,0,16,13,0,1,0.1736277,0,0,0,2,0,0,4,3,2,2,0,6,0,4,1,22
+20302,Gaël Clichy,74,0,0,0.0,0,50,43,1,2,0.29783827,0,0,6,1,2,2,0,0,4,2,3,0,1,0,0,8

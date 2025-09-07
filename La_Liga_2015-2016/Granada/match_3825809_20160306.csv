@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3292,Abdoulaye Doucouré,90,0,0,0.0,0,64,56,0,2,0.048611591999999995,1,0,8,1,1,1,7,1,8,0,1,0,2,2,0,19
+4498,Jean-Sylvain Claude Babin,90,1,0,0.04588816,0,33,30,0,0,0.0,0,0,4,0,0,0,4,0,1,0,2,1,2,0,0,1
+4546,Dimitri Foulquier,23,0,0,0.0,0,11,11,0,1,0.089818865,2,1,4,1,0,0,0,0,2,0,0,0,0,0,0,1
+6599,Rubén Salvador Pérez Del Mármol,78,1,0,0.01209176,0,58,49,0,2,0.069541302,0,0,2,2,1,0,6,1,4,0,1,0,1,3,0,17
+6680,Rubén Rochina Naixes,90,3,0,0.119367703,1,46,34,0,0,0.0,2,1,12,1,3,1,1,0,6,2,1,0,0,0,0,14
+6847,Adalberto Peñaranda Maestre,54,0,0,0.0,0,19,15,0,2,0.0266065555,0,0,2,4,0,0,3,1,5,2,0,0,4,2,1,12
+6918,Isaac Ajayi Success,90,2,0,0.027086230000000003,1,25,17,0,0,0.0,8,4,9,2,3,1,6,1,0,1,1,0,3,3,1,9
+7158,Cristiano Biraghi,90,1,0,0.026526127,1,68,51,0,0,0.0,0,0,6,1,0,0,5,2,2,1,3,0,2,4,1,13
+8697,Andrés Eduardo Fernández Moreno,90,0,0,0.0,0,29,16,0,0,0.0,0,0,4,1,0,0,1,1,8,0,0,0,0,1,1,0
+19454,Ricardo Miguel Moreira da Costa,90,0,0,0.0,0,38,35,0,1,0.10978851,0,0,5,2,0,0,2,0,7,0,6,1,1,0,0,5
+20064,Hugo Miguel Almeida Costa Lopes,67,0,0,0.0,0,31,24,0,0,0.0,1,1,9,1,1,1,1,1,0,1,1,1,0,1,1,9
+25707,Francisco Manuel Rico Castro,12,0,0,0.0,0,15,13,0,1,0.0125714345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+26248,David Barral Torres,36,2,0,0.199607375,1,8,8,0,0,0.0,2,1,1,3,0,0,0,0,0,0,1,0,0,0,0,5
+27109,Youssef El-Arabi,90,0,0,0.0,0,22,15,0,1,0.073629096,1,1,5,2,2,1,8,0,3,0,1,0,3,1,0,20

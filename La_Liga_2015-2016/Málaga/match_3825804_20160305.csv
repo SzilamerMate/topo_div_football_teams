@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3084,Christian Atsu Twasam,90,1,0,0.08445326,0,25,20,0,0,0.0,4,2,4,2,1,1,7,0,4,1,0,1,2,1,0,18
+5577,Francisco Guillermo Ochoa Magaña,54,0,0,0.0,0,16,10,0,0,0.0,0,0,4,0,0,0,0,0,3,0,0,0,0,0,0,0
+6569,Roberto José Rosales Altuve,90,0,0,0.0,0,51,31,0,1,0.08927807,2,0,9,0,1,0,1,1,4,0,1,1,2,1,0,16
+6580,José Luis García del Pozo,90,0,0,0.0,0,60,47,2,3,0.572775523,4,4,12,1,1,0,2,1,6,1,0,1,1,1,0,19
+6707,Charles Días Barbosa de Oliveira,90,1,1,0.47277087,1,20,15,0,0,0.0,0,0,1,3,2,1,4,0,1,1,3,0,1,0,0,9
+6727,Raúl Albentosa Redal,90,1,0,0.051002163,0,41,29,0,0,0.0,0,0,7,0,1,1,1,0,4,0,3,2,2,1,0,13
+6740,Gonzalo Castro Irizábal,45,1,0,0.08927807,0,16,11,0,1,0.08445326,2,2,2,0,0,0,2,0,0,0,0,0,0,0,0,2
+6764,Pablo Fornals Malla,37,0,0,0.0,0,13,11,0,0,0.0,1,0,4,0,1,0,1,0,0,0,0,0,1,0,0,9
+6878,Miguel Torres Gómez,90,0,0,0.0,0,40,22,0,0,0.0,0,0,2,2,0,0,3,0,1,0,3,2,5,1,0,10
+8234,Ignacio Camacho Barnola,90,1,1,0.04900249,1,64,51,0,0,0.0,1,1,4,3,2,0,2,0,5,1,0,2,2,0,0,18
+10868,Ricardo Jorge Luz Horta,45,0,0,0.0,0,14,11,0,0,0.0,1,1,1,3,0,0,2,0,2,0,0,0,1,0,0,14
+26103,Idriss Carlos Kameni,36,0,0,0.0,0,14,10,0,0,0.0,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,0
+26669,Weligton Róbson Pena de Oliveira,90,0,0,0.0,0,37,22,0,0,0.0,0,0,7,0,2,1,4,1,4,1,9,1,3,2,1,12
+26783,Roque Luis Santa Cruz Cantero,53,0,0,0.0,0,20,14,0,0,0.0,1,0,1,1,2,2,0,0,1,1,1,0,0,0,0,5

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3098,Victor Wanyama,90,0,0,0.0,0,43,33,0,1,0.020308955,1,0,1,4,0,0,4,1,2,0,3,2,2,1,0,19
+3300,Maya Yoshida,31,0,0,0.0,0,9,6,0,0,0.0,0,0,2,1,0,0,1,0,1,0,1,0,1,0,0,2
+3328,James Ward-Prowse,90,0,0,0.0,0,30,19,0,3,0.3212946,1,1,3,2,1,1,2,0,4,3,6,1,3,1,0,25
+3329,Cédric Ricardo Alves Soares,59,1,0,0.008237691,0,35,27,0,1,0.04863929,0,0,3,0,1,1,6,1,6,0,4,0,3,2,0,8
+3629,Sadio Mané,90,2,0,0.053627222,1,26,20,0,1,0.06495623,9,4,5,2,4,0,4,2,7,5,2,0,5,2,0,22
+3669,Virgil van Dijk,90,3,1,0.942659978,1,55,47,0,0,0.0,1,1,6,3,0,0,1,1,5,0,13,1,5,1,0,10
+3685,Jay Rodriguez,16,1,0,0.020308955,1,6,5,0,0,0.0,1,0,1,0,0,0,1,1,1,0,0,0,1,1,0,5
+3828,Steven Davis,59,0,0,0.0,0,20,19,0,1,0.047929198,2,1,3,0,1,1,3,3,2,1,3,1,1,3,1,9
+3831,Dušan Tadić,74,1,0,0.03942306,1,25,14,1,1,0.041064397,1,1,5,1,1,0,2,0,1,1,0,0,1,0,0,4
+3960,José Miguel da Rocha Fonte,90,1,1,0.041064397,1,51,46,0,1,0.004987932,0,0,3,1,1,1,2,0,2,0,9,1,3,0,0,4
+11062,Graziano Pellè,90,4,0,0.258747865,0,33,19,0,0,0.0,3,0,0,0,1,1,5,0,13,3,1,0,0,0,0,15
+16181,Jordy Clasie,31,0,0,0.0,0,10,8,0,0,0.0,0,0,0,3,0,0,0,0,0,1,2,0,0,0,0,12
+20045,Ryan Bertrand,90,0,0,0.0,0,45,28,0,1,0.03942306,1,0,11,2,0,0,8,3,6,0,4,1,2,6,0,21
+43121,Kelvin Davis,90,0,0,0.0,0,29,15,0,0,0.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0

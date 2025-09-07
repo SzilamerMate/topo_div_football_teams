@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6686,Giampaolo Pazzini,68,1,0,0.13953693,1,15,6,0,0,0.0,1,1,1,1,2,2,1,0,5,0,0,0,0,0,0,10
+7694,Rômulo Souza Orestes Caldeira,40,0,0,0.0,0,23,18,0,0,0.0,1,0,7,0,0,0,1,0,3,1,1,1,0,0,0,7
+7705,Mohamed Salim Fares,50,0,0,0.0,0,23,13,0,1,0.007301914,0,0,3,0,0,0,2,2,3,0,3,0,0,2,2,8
+7949,Artur Ioniţă,90,1,0,0.048715904,1,31,23,0,0,0.0,5,4,6,2,2,2,3,2,6,3,0,2,3,3,1,25
+7966,Filip Helander,90,0,0,0.0,0,24,20,0,0,0.0,0,0,4,0,0,0,1,0,2,1,8,1,6,1,0,10
+8274,Pierluigi Gollini,90,0,0,0.0,0,42,24,0,0,0.0,0,0,6,0,0,0,0,0,8,0,0,0,0,0,0,0
+11339,Paweł Wszołek,90,1,0,0.095653534,0,28,22,1,3,0.31760188,5,4,10,0,0,0,4,2,6,3,0,2,2,2,2,12
+11342,Eros Pisano,90,0,0,0.0,0,39,28,0,0,0.0,0,0,5,1,0,0,3,2,6,1,2,0,6,3,0,10
+20252,Luca Toni,90,3,1,0.27618789,1,22,9,0,0,0.0,2,1,2,3,3,2,5,0,4,2,1,0,1,0,0,7
+25303,Gilberto Moraes Junior,41,0,0,0.0,0,28,20,0,0,0.0,3,2,5,1,0,0,2,0,4,3,3,0,3,1,0,12
+26442,Boško Janković,49,1,0,0.0069887517,0,6,3,0,0,0.0,1,0,2,0,1,1,3,1,2,0,0,2,0,2,0,10
+31488,Vangelis Moras,90,0,0,0.0,0,41,31,0,1,0.13953693,0,0,5,0,0,0,2,0,3,0,7,2,1,2,0,4
+32119,Leandro Greco,90,1,1,0.069267,1,57,44,0,0,0.0,0,0,7,1,0,0,5,5,5,0,0,2,1,5,1,29
+386651,Juan Ignacio Gómez Taleb,22,0,0,0.0,0,8,5,0,0,0.0,2,2,3,0,0,0,4,0,0,0,0,0,0,0,0,6

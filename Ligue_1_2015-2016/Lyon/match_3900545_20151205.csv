@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2947,Anthony Lopes,90,0,0,0.0,0,18,16,0,0,0.0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+2983,Jérémy Morel,90,1,0,0.08781775,0,72,62,0,0,0.0,0,0,11,0,1,0,3,1,8,0,3,2,0,1,1,6
+3117,Lucas Tousart,60,0,0,0.0,0,42,39,0,0,0.0,1,0,8,2,0,0,5,1,6,1,4,1,2,4,0,21
+3118,Jordan Ferri,90,0,0,0.0,0,104,94,0,1,0.006076552,1,1,19,2,0,0,3,2,13,0,1,0,0,3,0,18
+3162,Gnaly Maxwell Cornet,45,1,0,0.022844043,0,15,13,0,1,0.16460037,0,0,5,0,0,0,3,1,1,2,0,0,0,1,0,9
+3236,Sergi Darder Moll,28,1,0,0.04682265,0,22,19,0,0,0.0,0,0,4,1,0,0,3,0,1,0,1,0,2,2,0,12
+3361,Clément Grenier,30,1,0,0.021285156,0,24,18,0,1,0.08781775,1,0,1,1,0,0,2,0,2,0,0,0,0,1,0,6
+3451,Alexandre Lacazette,90,3,0,0.25643613,1,36,29,0,2,0.11520902999999999,3,2,7,3,1,0,8,2,1,5,0,0,1,2,1,24
+4450,Bakary Koné,90,1,0,0.052570265,0,42,38,0,0,0.0,0,0,7,3,1,1,6,1,3,0,7,1,2,2,0,7
+4895,Henri Bedimo Nsamè,90,1,0,0.006076552,0,65,58,0,1,0.015924105,2,0,6,0,1,1,1,0,3,1,1,1,1,1,0,7
+5480,Corentin Tolisso,90,0,0,0.0,0,77,64,0,1,0.03370975,0,0,10,3,1,0,5,1,10,1,3,1,1,4,0,29
+7616,Arnold Mvuemba,45,2,0,0.08431048499999999,0,49,45,0,0,0.0,0,0,13,2,0,0,1,1,1,2,1,0,0,1,1,7
+18868,Mathieu Valbuena,90,2,0,0.289005753,0,63,48,0,4,0.199487968,3,3,19,0,3,1,2,1,6,6,0,1,0,1,0,12
+40407,Steed Malbranque,62,1,0,0.06594765,0,45,39,0,1,0.24489455,0,0,9,0,2,0,3,2,4,0,0,0,0,3,0,14

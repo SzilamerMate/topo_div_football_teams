@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2946,Frédéric Guilbert,90,0,0,0.0,0,11,6,0,0,0.0,1,1,1,0,0,0,6,2,1,0,7,1,2,4,1,8
+3150,Jaroslav Plašil,90,0,0,0.0,0,35,28,0,1,0.123387925,1,0,5,1,2,1,5,2,5,1,5,1,1,4,1,32
+3184,Enzo Crivelli,75,0,0,0.0,0,11,7,0,0,0.0,1,0,0,2,2,0,20,0,5,2,0,1,1,1,0,18
+3408,Thomas Touré,90,2,0,0.16284608,1,27,18,0,2,0.098051186,5,3,8,3,1,0,7,1,6,5,0,1,1,3,1,31
+3779,Cédric Yambéré,90,1,0,0.05613476,1,26,19,0,1,0.0938641,1,1,3,3,1,0,0,0,5,1,8,0,2,0,0,21
+4428,Mathieu Debuchy,80,0,0,0.0,0,33,25,0,2,0.09004895199999999,2,1,2,0,1,0,7,4,5,0,5,7,1,7,1,23
+4509,Jérôme Prior,90,0,0,0.0,0,34,11,0,0,0.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+4542,Pablo Nascimento Castro,90,0,0,0.0,0,15,10,0,0,0.0,0,0,1,2,0,0,5,1,2,0,6,1,2,2,0,16
+4628,Diego Armando Valentin Contento,90,0,0,0.0,0,26,12,0,0,0.0,0,0,1,0,2,1,11,1,3,1,4,0,1,8,0,18
+6739,Diego Alejandro Rolan Silva,36,0,0,0.0,0,17,14,0,1,0.032798287,6,4,6,1,1,0,5,0,11,4,0,2,1,0,0,12
+8385,Ludovic Lamine Sané,10,0,0,0.0,0,4,3,0,0,0.0,0,0,0,0,1,1,1,0,2,0,1,0,1,0,0,2
+10448,Adam Ounas,54,3,0,0.20370071099999998,1,10,7,0,0,0.0,2,2,8,1,1,0,3,0,4,3,0,1,0,1,0,12
+30338,André Biyogo Poko,90,2,0,0.10303727200000001,0,26,13,0,0,0.0,3,1,9,0,2,1,13,7,8,3,2,1,2,12,2,52
+401489,Jussiê Ferreira Vieira,15,1,0,0.032798287,0,7,6,0,0,0.0,1,1,3,0,0,0,0,0,0,0,1,0,0,0,0,1

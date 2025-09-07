@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3062,Aaron Cresswell,90,1,0,0.037865665,0,47,40,0,4,0.126282273,0,0,6,3,1,1,3,2,5,0,2,0,1,3,2,6
+3316,James Tomkins,90,0,0,0.0,0,56,48,0,2,0.079022824,0,0,9,1,0,0,3,2,3,0,5,0,1,3,1,7
+3491,Dimitri Payet,49,0,0,0.0,0,37,34,0,3,0.21506387799999999,3,2,7,0,3,0,0,0,4,1,0,0,2,0,0,2
+3595,Manuel Lanzini,90,4,1,0.121123474,2,53,48,0,3,0.140839268,4,0,19,0,2,0,4,3,6,2,0,0,2,3,0,15
+3623,Adrián San Miguel del Castillo,90,0,0,0.0,0,26,20,0,0,0.0,0,0,6,0,0,0,0,0,8,0,0,0,0,0,0,0
+3684,Cheikhou Kouyaté,90,0,0,0.0,0,50,43,0,1,0.029730862,0,0,9,1,0,0,4,1,1,0,0,1,1,3,1,15
+3874,Mark Noble,90,2,0,0.083965396,1,67,61,0,1,0.014380477,2,2,9,0,1,0,2,1,7,1,1,0,0,2,1,20
+3963,Victor Moses,90,3,0,0.238850562,0,29,20,0,1,0.0903166,2,0,13,3,3,1,7,1,5,3,1,0,0,3,1,18
+4271,Andy Carroll,86,2,0,0.071716184,0,13,9,0,0,0.0,1,0,1,2,2,1,4,0,1,0,0,0,1,0,0,6
+4280,Winston Reid,90,1,0,0.0903166,0,38,33,0,0,0.0,0,0,8,1,1,0,2,1,4,1,4,0,1,1,1,12
+20543,Nikica Jelavić,4,0,0,0.0,0,2,1,0,0,0.0,0,0,1,0,0,0,2,1,0,1,0,0,0,2,1,5
+21254,Carl Jenkinson,90,1,0,0.05791496,1,46,38,0,0,0.0,1,0,8,0,1,0,1,1,4,0,1,0,1,1,1,3
+27853,Mauro Matías Zárate,22,3,0,0.077835498,2,9,7,0,0,0.0,1,1,9,1,0,0,2,0,0,0,2,0,1,2,0,5
+28559,Enner Remberto Valencia Lastra,19,1,0,0.060556736,0,7,5,0,0,0.0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,4

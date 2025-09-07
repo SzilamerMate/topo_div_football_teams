@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3098,Victor Wanyama,90,0,0,0.0,0,29,24,0,0,0.0,2,1,4,2,2,0,5,2,7,0,2,0,1,5,2,19
+3328,James Ward-Prowse,27,0,0,0.0,0,10,9,0,0,0.0,0,0,3,0,1,0,0,0,2,0,1,0,1,0,0,4
+3329,Cédric Ricardo Alves Soares,90,0,0,0.0,0,56,36,0,2,0.085231163,0,0,6,0,0,0,7,5,8,0,4,1,4,6,1,11
+3629,Sadio Mané,90,2,1,0.872960725,1,29,22,0,0,0.0,6,3,11,4,3,1,2,2,13,4,0,0,4,2,0,21
+3669,Virgil van Dijk,90,1,0,0.15204303,1,39,34,0,0,0.0,1,0,2,1,0,0,3,0,3,0,13,0,2,1,0,3
+3828,Steven Davis,79,1,0,0.1293495,1,37,23,0,1,0.15204303,0,0,2,0,0,0,3,0,4,1,1,1,3,2,0,14
+3831,Dušan Tadić,63,0,0,0.0,0,31,23,0,3,0.233414854,2,1,4,0,0,0,2,1,3,2,4,0,2,2,0,10
+3960,José Miguel da Rocha Fonte,90,2,0,0.170472024,0,32,29,0,1,0.06234869,0,0,4,0,0,0,5,1,3,0,5,1,2,2,1,4
+6695,Juan Miguel Jiménez López,15,0,0,0.0,0,1,1,0,0,0.0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1
+7010,Gastón Exequiel Ramírez Pereyra,11,1,0,0.06234869,1,7,7,0,0,0.0,2,2,3,0,0,0,2,1,0,0,0,0,0,1,0,2
+11062,Graziano Pellè,90,2,0,0.10367236800000001,0,31,20,0,0,0.0,2,0,1,1,1,1,9,0,3,1,1,0,1,0,0,3
+16181,Jordy Clasie,75,0,0,0.0,0,25,17,0,0,0.0,1,1,2,2,0,0,3,2,3,1,7,0,6,3,0,15
+20045,Ryan Bertrand,90,0,0,0.0,0,54,38,0,0,0.0,3,1,5,1,2,1,0,0,6,1,3,1,2,0,0,10
+20201,Maarten Stekelenburg,90,0,0,0.0,0,31,21,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0

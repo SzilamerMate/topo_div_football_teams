@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2971,Romain Genevois,90,0,0,0.0,0,67,55,0,0,0.0,2,2,4,1,1,1,6,1,3,0,4,3,1,3,0,28
+3210,Valère Germain,76,2,0,0.097246742,2,39,31,0,0,0.0,0,0,1,0,1,0,0,0,2,1,1,0,0,0,0,6
+3229,Maxime Le Marchand,90,1,0,0.0069891596,0,87,74,0,0,0.0,2,0,8,3,1,0,3,2,8,0,2,1,3,3,0,24
+3359,Jean Michaël Seri,90,1,0,0.0303009,0,91,85,0,1,0.0069891596,2,0,9,1,3,0,1,0,4,1,0,0,0,0,0,17
+4257,Yoan Cardinale,61,0,0,0.0,0,20,18,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+4264,Vincent Koziello,90,0,0,0.0,0,65,58,0,1,0.05004303,1,0,7,1,3,1,14,8,6,3,1,0,3,11,3,67
+4270,Jérémy Pied,90,1,0,0.1429136,1,86,66,0,1,0.047203712,4,4,24,2,2,1,10,4,5,3,3,2,4,6,1,32
+4373,Mathieu Bodmer,90,0,0,0.0,0,76,68,0,0,0.0,0,0,9,3,1,0,6,3,5,0,1,2,1,6,2,20
+4506,Nampalys Mendy,90,0,0,0.0,0,113,104,0,0,0.0,2,1,12,0,1,0,2,1,7,1,0,2,3,2,0,16
+5653,Mouez Hassen,90,0,0,0.0,0,8,7,0,0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+6352,Ricardo Domingos Barbosa Pereira,29,0,0,0.0,0,24,17,0,0,0.0,2,1,8,1,1,1,0,0,2,3,0,0,1,0,0,16
+7212,Mohamed Saïd Benrahma,14,0,0,0.0,0,7,4,0,0,0.0,1,1,2,1,0,0,2,0,0,1,0,0,1,2,0,9
+16462,Hatem Ben Arfa,76,3,0,0.147286959,1,47,37,0,0,0.0,6,4,10,0,1,0,0,0,4,6,0,0,1,0,0,14
+146696,Paulin Puel,14,0,0,0.0,0,6,5,0,0,0.0,1,0,2,0,0,0,0,0,0,1,0,0,1,0,0,4

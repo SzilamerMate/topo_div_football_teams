@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4711,Pablo Hernández Domínguez,61,0,0,0.0,0,20,12,0,1,0.07756196,5,1,3,1,1,0,0,0,4,1,0,0,1,0,0,13
+6713,Diego Javier Llorente Ríos,90,2,0,0.08897121,1,44,29,0,0,0.0,2,2,5,1,2,2,5,2,7,2,4,1,0,2,1,15
+6852,Jozabed Sánchez Ruiz,90,4,0,0.537658276,1,44,33,0,2,0.241270064,2,2,7,1,2,0,2,0,5,6,0,2,1,0,0,15
+6914,Roberto Román Triguero,90,0,0,0.0,0,46,39,0,2,0.4296098003,1,0,3,2,0,0,3,0,4,0,5,2,3,1,0,12
+7900,Tiago Manuel Dias Correia,90,5,1,0.5978894279,4,33,24,0,0,0.0,1,1,10,1,2,0,3,0,7,2,0,0,5,0,0,11
+11542,Javier Guerra Rodríguez,6,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+11543,José Antonio Dorado Ramírez,26,0,0,0.0,0,21,14,0,0,0.0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1
+24138,Joaquín José Marín Ruiz,90,1,0,0.061282907,0,51,35,0,0,0.0,0,0,6,1,1,0,7,3,5,1,2,3,2,3,1,15
+24255,Juan Carlos Martín Corral,90,0,0,0.0,0,35,24,0,0,0.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+26222,José Eduardo Rosa Vale de Castro,90,1,0,0.057924125,0,47,35,0,0,0.0,0,0,9,0,0,0,5,0,6,0,2,3,0,2,0,14
+26607,José Raúl Baena Urdiales,64,0,0,0.0,0,24,19,0,1,0.029692285,1,0,1,1,1,0,2,0,1,0,1,0,0,1,0,21
+26685,Nicolás Ladislao Fedor Flores,84,3,1,1.11435632,2,18,14,1,1,0.3422961,1,1,2,3,1,1,6,0,3,0,0,0,2,0,0,10
+26797,Francisco Medina Luna,29,1,0,0.05483732,1,12,10,0,0,0.0,2,1,5,2,0,0,2,1,2,1,0,1,1,1,1,7
+26848,Roberto Trashorras Gayoso,90,2,0,0.0362552253,0,77,52,0,4,0.251758746,5,4,7,4,4,0,4,3,4,1,1,0,0,3,0,20

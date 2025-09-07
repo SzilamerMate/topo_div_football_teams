@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3287,Nathaniel Chalobah,5,0,0,0.0,0,7,5,0,1,0.028324258,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0
+5497,Gonzalo Gerardo Higuaín,90,7,1,0.8052657749999999,2,41,29,0,0,0.0,1,1,7,0,2,0,1,0,3,2,0,0,1,0,0,10
+5630,Dries Mertens,20,1,0,0.028324258,0,13,10,0,1,0.19692397,1,1,5,1,0,0,1,1,2,0,0,0,0,1,1,3
+5675,Kalidou Koulibaly,90,0,0,0.0,0,95,90,0,0,0.0,2,1,14,1,0,0,9,3,5,1,6,0,2,3,3,13
+6754,David López Silva,66,1,0,0.042417634,0,52,47,0,0,0.0,0,0,1,1,0,0,6,1,5,0,3,0,2,1,1,15
+7024,Jorge Luiz Frello Filho,90,0,0,0.0,0,114,102,1,3,0.40128481699999996,1,0,3,1,2,2,2,2,4,1,1,1,0,2,1,21
+7025,Marek Hamšík,85,2,0,0.055131052,1,122,108,0,4,0.6233247367,0,0,19,1,2,0,1,0,6,3,1,1,0,0,0,10
+7028,José Manuel Reina Páez,90,0,0,0.0,0,40,34,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,0
+7029,José María Callejón Bueno,90,7,1,1.28490924,4,39,32,0,1,0.08761988,1,1,8,0,4,0,1,0,7,1,2,0,2,0,0,13
+7031,Elseid Hysaj,90,0,0,0.0,0,63,57,0,0,0.0,1,1,9,0,0,0,3,2,10,0,3,1,3,2,1,12
+7035,Allan Marques Loureiro,24,1,0,0.056271713,0,27,23,1,1,0.48991403,0,0,3,1,0,0,1,1,2,0,0,0,0,1,0,8
+7037,Lorenzo Insigne,70,3,0,0.512057367,0,43,35,0,4,0.463309474,1,0,7,0,2,0,1,0,3,1,0,0,2,1,0,4
+8876,Faouzi Ghoulam,90,2,0,0.0148668217,1,99,88,1,4,0.49742232000000003,3,3,14,0,1,0,5,2,6,1,1,0,2,3,1,7
+10736,Vlad Iulian Chiricheș,90,1,1,0.3164938,1,82,75,0,0,0.0,1,0,12,1,1,0,4,0,3,0,7,0,1,0,0,9

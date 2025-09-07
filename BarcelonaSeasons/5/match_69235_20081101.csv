@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3087,Gnégnéri Yaya Touré,90,0,0,0.0,0,25,12,0,1,0.046326302,0,0,1,2,0,0,3,1,4,1,6,1,1,1,0,7
+4324,Daniel Alves da Silva,90,3,0,0.0343317817,0,50,25,0,0,0.0,4,3,6,2,3,0,6,5,9,3,8,2,1,5,4,20
+4913,Bojan Krkíc Pérez,6,0,0,0.0,0,4,3,0,0,0.0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3
+5203,Sergio Busquets i Burgos,90,2,0,0.086391672,1,47,28,0,1,0.01985141,5,2,1,6,4,2,11,5,13,3,4,2,3,7,0,26
+5213,Gerard Piqué Bernabéu,90,0,0,0.0,0,24,16,0,0,0.0,1,1,1,2,1,1,2,2,4,1,15,0,0,2,2,10
+5216,Andrés Iniesta Luján,49,1,0,0.01985141,0,13,9,0,0,0.0,1,0,2,1,1,0,4,0,0,2,0,0,3,2,0,9
+5503,Lionel Andrés Messi Cuccittini,78,1,1,0.050486434,1,21,17,0,0,0.0,6,5,4,4,4,0,4,0,7,2,0,1,2,1,0,12
+5558,Rafael Márquez Álvarez,90,0,0,0.0,0,22,10,0,0,0.0,0,0,1,0,0,0,1,0,5,0,9,1,1,0,0,7
+6758,Víctor Sánchez Mata,12,0,0,0.0,0,5,5,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+15516,Thierry Henry,41,1,0,0.03704529,0,20,15,1,1,0.24138425,1,1,4,4,1,0,2,0,3,2,0,2,0,0,0,2
+19298,Samuel Eto''o Fils,84,2,0,0.0566413375,0,27,12,0,0,0.0,4,4,6,2,1,0,2,0,4,1,0,0,2,1,0,12
+20125,Carles Puyol i Saforcada,90,1,0,0.02698936,0,53,24,0,0,0.0,0,0,1,0,2,1,9,3,5,2,11,0,1,7,2,13
+20131,Xavier Hernández Creus,90,2,2,0.324253534,2,46,29,0,1,0.0103150355,3,3,1,2,4,1,2,0,8,3,0,0,2,0,0,15
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,20,9,0,0,0.0,0,0,4,0,0,0,0,0,9,0,1,0,0,0,0,0

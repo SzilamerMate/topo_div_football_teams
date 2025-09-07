@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4447,Martin Braithwaite Christensen,13,1,0,0.11062013,0,7,6,0,0,0.0,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0,3
+5203,Sergio Busquets i Burgos,58,0,0,0.0,0,70,67,0,0,0.0,1,1,4,1,0,0,3,2,1,0,1,0,3,2,2,9
+5211,Jordi Alba Ramos,90,0,0,0.0,0,106,99,2,2,0.35677271,0,0,3,2,1,0,0,0,3,0,0,0,1,0,0,16
+5246,Luis Alberto Suárez Díaz,90,5,1,1.041483449,3,27,21,0,1,0.032207064,2,2,4,1,1,0,0,0,2,0,0,0,3,0,0,1
+5503,Lionel Andrés Messi Cuccittini,90,4,2,0.8216801069999999,2,58,50,0,3,0.43047916900000005,12,8,7,1,2,0,0,0,2,2,0,0,0,0,0,5
+6374,Nélson Cabral Semedo,41,1,1,0.29617724,1,34,31,0,0,0.0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,0,7
+6379,Sergi Roberto Carnicer,90,0,0,0.0,0,84,77,0,0,0.0,3,1,4,0,3,0,4,4,3,0,0,0,2,4,2,14
+6590,Norberto Murara Neto,90,0,0,0.0,0,23,22,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+6826,Clément Lenglet,49,0,0,0.0,0,42,39,0,0,0.0,0,0,4,1,1,1,1,0,3,0,0,0,3,1,0,19
+8118,Frenkie de Jong,32,0,0,0.0,0,54,51,0,1,0.11062013,3,3,6,0,3,0,0,0,1,0,0,0,0,0,0,3
+8206,Arturo Erasmo Vidal Pardo,90,2,0,0.30288935,1,89,81,0,0,0.0,0,0,5,1,1,0,4,1,6,0,2,0,2,3,0,19
+24841,Ricard Puig Martí,90,1,0,0.030396786,0,75,71,2,4,1.29863979,1,1,5,4,3,2,3,1,5,0,0,0,0,2,0,30
+30756,Anssumane Fati,77,2,1,0.309898784,1,45,41,0,2,0.067760993,2,0,6,1,3,0,0,0,2,0,0,0,4,0,0,21
+32480,Ronald Federico Araújo da Silva,90,0,0,0.0,0,78,74,0,0,0.0,0,0,1,0,1,1,3,1,3,0,0,0,5,2,0,9

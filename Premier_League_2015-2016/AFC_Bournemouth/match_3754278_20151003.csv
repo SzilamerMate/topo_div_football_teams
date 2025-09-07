@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3049,Matt Ritchie,90,1,0,0.022098018,0,55,38,1,2,0.286829274,2,2,5,3,3,1,2,1,2,4,2,1,4,1,0,20
+3085,Glenn Murray,90,5,1,1.170882356,3,22,14,0,0,0.0,2,2,5,2,4,1,2,0,3,3,1,0,1,0,0,10
+3341,Steve Cook,90,1,0,0.02242716,1,62,48,0,0,0.0,0,0,8,0,0,0,4,0,6,1,1,1,4,2,0,5
+3343,Dan Gosling,90,1,0,0.029086938,0,50,41,0,1,0.02242716,1,1,4,0,4,0,1,0,9,3,0,0,2,0,0,10
+3344,Andrew Surman,90,0,0,0.0,0,68,60,0,3,0.096633775,2,1,4,1,1,0,3,1,6,2,4,1,2,1,0,11
+3345,Charlie Daniels,90,0,0,0.0,0,82,62,0,2,0.085025169,3,2,10,0,0,0,2,0,4,0,0,0,2,1,0,5
+3346,Joshua King,69,1,0,0.052408677,0,17,11,0,0,0.0,4,4,8,1,0,0,7,1,2,2,0,0,1,1,1,19
+3608,Simon Francis,90,0,0,0.0,0,87,63,0,1,0.077777095,2,2,7,1,0,0,5,0,4,1,3,0,0,1,0,6
+3646,Marc Pugh,56,1,0,0.032616492,0,32,26,0,0,0.0,1,0,11,0,1,1,2,0,2,1,0,0,0,0,0,3
+6409,Adam Smith,34,0,0,0.0,0,13,8,0,0,0.0,3,1,3,0,1,0,4,1,1,1,0,0,2,2,1,7
+13248,Eunan O''Kane,21,1,0,0.05175977,1,11,8,0,0,0.0,1,1,1,0,0,0,2,0,0,0,0,0,0,1,0,0
+20074,Artur Boruc,90,0,0,0.0,0,25,17,0,0,0.0,0,0,3,0,0,0,0,0,8,0,0,0,0,0,0,0
+40218,Sylvain Distin,90,0,0,0.0,0,53,46,0,0,0.0,0,0,4,1,0,0,1,1,3,1,5,0,2,1,1,10

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3577,Molla Wagué,90,0,0,0.0,0,38,30,0,1,0.04975655,0,0,4,3,1,1,8,3,3,0,2,0,0,7,2,16
+3742,Orestis Karnezis,90,0,0,0.0,0,26,21,0,0,0.0,0,0,5,0,0,0,0,0,3,0,0,0,0,0,0,0
+5204,Bruno Miguel Borges Fernandes,87,2,0,0.18658106,0,44,36,0,1,0.044370536,4,1,5,1,4,1,1,1,7,1,0,1,0,1,0,20
+5512,Emil Hallfreðsson,40,1,0,0.023807885,0,23,17,0,1,0.039722238,2,1,4,2,0,0,1,0,4,0,2,0,0,0,0,4
+6577,Zdravko Kuzmanović,90,2,0,0.050811604999999996,0,43,33,0,0,0.0,0,0,3,3,0,0,1,0,4,0,0,0,0,0,0,15
+6938,Felipe Dias da Silva dal Belo,90,0,0,0.0,0,26,21,0,0,0.0,0,0,6,1,1,1,5,2,2,0,3,3,4,2,1,11
+7017,Duván Esteban Zapata Banguera,90,5,0,0.953380174,1,18,14,0,2,0.06374648,1,0,4,3,3,1,6,0,3,2,0,1,1,0,0,10
+7796,Silvan Widmer,90,2,0,0.15877613000000002,1,39,26,0,0,0.0,4,3,5,2,0,0,3,0,2,0,0,0,4,1,0,23
+7799,Danilo Larangeira,90,2,0,0.068228208,1,45,33,0,0,0.0,1,1,6,0,0,0,3,1,6,0,6,0,0,1,1,11
+8191,Ali Adnan Kadhim Al Tameemi,35,0,0,0.0,0,20,14,0,0,0.0,0,0,1,0,1,1,3,2,4,1,1,0,0,2,1,4
+8272,Cyril Théréau,90,2,0,0.08864929099999999,0,36,25,0,4,0.522229736,1,0,8,4,8,2,2,0,4,3,0,1,0,0,0,16
+8852,Thomas Heurtaux,3,0,0,0.0,0,5,5,0,0,0.0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,2
+24722,Emmanuel Agyemang-Badu,50,0,0,0.0,0,19,12,0,1,0.10901958,0,0,4,0,2,1,1,0,3,0,0,0,2,0,0,9
+386656,Giovanni Pasquale,55,0,0,0.0,0,34,26,0,1,0.033323765,0,0,5,1,0,0,3,1,2,0,0,1,0,2,0,3

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3638,Shkodran Mustafi,90,4,0,0.238555162,0,54,37,0,0,0.0,0,0,11,2,3,3,9,3,8,1,8,1,3,3,1,15
+5186,Denis Cheryshev,77,2,1,0.288913778,1,31,22,0,0,0.0,3,3,8,4,3,1,6,1,2,0,0,1,1,2,0,21
+5718,Rodrigo Moreno Machado,26,2,0,0.086625476,0,6,2,0,0,0.0,0,0,3,1,0,0,0,0,1,0,0,0,0,0,0,4
+6402,Francisco Alcácer García,91,1,0,0.022034667,0,19,11,0,2,0.108916078,2,2,4,0,3,0,2,1,0,2,1,0,1,1,1,3
+6595,Daniel Parejo Muñoz,90,1,0,0.036091533,0,48,31,0,3,0.13845555499999998,2,2,4,0,4,0,4,1,4,3,1,1,5,2,1,35
+6596,José Luis Gayà Peña,90,0,0,0.0,0,63,44,0,1,0.022034667,3,3,8,1,1,1,6,1,3,0,1,0,1,4,0,19
+6663,Antonio Barragán Fernández,90,0,0,0.0,0,66,51,0,0,0.0,2,2,8,2,1,1,6,1,5,0,2,4,4,4,0,14
+6751,Javier Fuego Martínez,90,0,0,0.0,0,67,53,0,1,0.025414698,2,2,5,3,1,0,3,0,5,2,2,1,3,1,0,24
+6763,Pablo Daniel Piatti,13,0,0,0.0,0,5,3,0,0,0.0,0,0,1,1,0,0,3,0,1,2,0,0,3,0,0,6
+10802,André Filipe Tavares Gomes,90,1,0,0.013314181,0,51,42,1,1,0.26349908,7,6,15,3,0,0,2,0,8,7,0,0,0,0,0,26
+18724,Sofiane Feghouli,64,0,0,0.0,0,26,20,0,0,0.0,1,1,3,0,3,0,3,0,3,0,0,0,2,0,0,9
+25144,Diego Alves Carreira,90,0,0,0.0,0,28,19,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+27482,Aderllan Leandro de Jesus Santos,90,1,0,0.713237,1,23,17,0,0,0.0,0,0,2,0,0,0,5,1,7,0,9,1,0,3,1,11

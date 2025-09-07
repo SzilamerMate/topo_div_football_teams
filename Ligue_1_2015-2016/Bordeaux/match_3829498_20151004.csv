@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3150,Jaroslav Plašil,90,1,0,0.030284448,1,55,49,0,0,0.0,2,1,8,4,1,1,7,4,5,0,1,0,2,4,0,29
+3196,Wahbi Khazri,90,2,0,0.094829373,1,46,32,1,2,0.30244961000000004,4,0,12,2,0,0,8,4,4,3,1,1,4,7,2,34
+3256,Nicolas Pallois,90,0,0,0.0,0,61,51,0,0,0.0,0,0,7,0,0,0,3,2,5,0,8,4,0,2,1,8
+4442,Maxime Poundjé,90,0,0,0.0,0,63,50,1,1,0.07257619,3,1,10,3,0,0,5,2,8,1,2,0,3,5,1,24
+4542,Pablo Nascimento Castro,90,2,0,0.27513546,1,46,38,0,1,0.05447872,0,0,5,3,1,1,4,0,4,0,10,4,2,2,0,9
+4823,Milan Gajić,90,0,0,0.0,0,53,35,0,1,0.030284448,1,0,3,1,0,0,3,1,3,2,3,0,2,2,1,17
+5110,Henri Saivet,67,0,0,0.0,0,56,42,0,1,0.006075806,2,1,9,0,2,0,6,2,9,2,0,1,2,2,2,24
+5615,Isaac Kiese Thelin,81,1,0,0.022896336,0,15,7,0,0,0.0,0,0,2,2,0,0,6,2,2,0,1,0,1,2,0,20
+6739,Diego Alejandro Rolan Silva,70,1,1,0.17054772,1,27,19,0,0,0.0,3,1,3,0,2,0,3,2,4,2,2,0,0,3,0,34
+10448,Adam Ounas,20,1,1,0.07257619,1,12,9,0,0,0.0,0,0,5,0,0,0,0,0,3,0,0,1,0,0,0,7
+30338,André Biyogo Poko,90,1,0,0.006075806,0,48,39,0,0,0.0,3,2,7,3,1,0,6,4,5,3,2,2,3,6,1,31
+40533,Cédric Carrasso,90,0,0,0.0,0,21,13,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+42430,Nicolas Maurice-Belay,9,0,0,0.0,0,15,13,0,1,0.040350653,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+401489,Jussiê Ferreira Vieira,23,0,0,0.0,0,9,7,0,1,0.14323357,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4

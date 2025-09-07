@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3433,Lassana Coulibaly,28,0,0,0.0,0,9,4,0,0,0.0,2,2,4,0,0,0,4,0,1,0,3,0,0,2,0,8
+4350,Yannick Cahuzac,81,0,0,0.0,0,48,37,0,0,0.0,0,0,8,0,2,1,5,2,5,1,3,3,2,3,2,13
+4508,Julian Palmieri,90,1,1,0.4057631,1,30,21,0,0,0.0,5,3,8,1,1,0,6,1,7,1,0,0,3,2,0,15
+7282,Jean-Louis Leca,90,0,0,0.0,0,31,10,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+7349,Gaël Danic,90,2,0,0.055069127,1,30,19,0,1,0.102259524,2,1,8,1,0,0,6,1,3,1,0,0,1,5,0,19
+7791,Seko Fofana,90,0,0,0.0,0,42,38,0,0,0.0,0,0,2,3,1,0,2,1,9,4,2,1,0,2,0,13
+10522,Mehdi Mostefa Sbaa,77,0,0,0.0,0,36,31,0,1,0.111371055,2,1,1,3,0,0,5,3,3,1,1,1,4,4,0,25
+17617,Christopher Maboulou,13,0,0,0.0,0,5,5,0,0,0.0,0,0,0,0,0,0,2,1,2,0,2,0,0,1,1,4
+23850,Mathieu Peybernes,90,0,0,0.0,0,23,19,0,0,0.0,0,0,2,1,0,0,2,1,1,0,7,3,1,2,1,8
+26481,Sébastien Squillaci,90,3,2,0.573444304,3,17,10,0,0,0.0,0,0,1,1,0,0,4,2,2,0,9,1,4,2,0,11
+31711,Abdoulaye Sadio Diallo,62,1,0,0.018754663,0,26,23,1,2,0.08270026,2,1,6,3,2,0,3,1,5,3,1,0,4,2,0,16
+40517,Gilles Cioni,9,0,0,0.0,0,6,2,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+40528,Florian Marange,90,0,0,0.0,0,47,38,0,1,0.041264847,0,0,3,1,0,0,8,2,3,2,5,1,2,5,0,16
+401541,Evaeverson Lemos da Silva Brandão,90,2,0,0.150712505,0,18,5,0,0,0.0,0,0,2,2,2,0,13,1,1,2,4,1,2,1,1,13

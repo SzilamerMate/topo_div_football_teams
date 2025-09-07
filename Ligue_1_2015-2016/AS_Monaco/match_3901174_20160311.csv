@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3009,Kylian Mbappé Lottin,5,0,0,0.0,0,1,1,0,0,0.0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,2
+3168,João Filipe Iria Santos Moutinho,90,1,0,0.03249519,1,66,49,0,3,0.330424906,1,1,4,0,0,0,2,0,4,0,2,1,0,0,0,15
+3193,Bernardo Mota Veiga de Carvalho e Silva,90,1,0,0.03533252,0,40,29,0,0,0.0,5,3,8,1,2,1,5,0,5,1,1,3,7,2,0,39
+3245,Thomas Lemar,85,0,0,0.0,0,41,30,0,2,0.20900397999999998,2,1,4,0,1,0,7,3,5,3,0,1,2,4,1,18
+3247,Fábio Henrique Tavares,90,1,0,0.01987117,0,44,27,0,0,0.0,0,0,10,2,0,0,9,2,2,0,2,0,1,6,1,20
+3406,Jérémy Toulalan,90,1,0,0.025018686,0,41,34,0,0,0.0,2,2,3,3,4,2,10,2,7,1,1,2,5,7,2,27
+3444,Danijel Subašić,90,0,0,0.0,0,20,13,0,1,0.31820643,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0
+3553,Lacina Traoré,8,1,0,0.03557871,1,4,0,0,0,0.0,0,0,0,0,0,0,1,0,2,2,0,0,1,0,0,1
+3955,Tiemoué Bakayoko,28,0,0,0.0,0,15,14,0,0,0.0,1,1,2,2,0,0,3,1,1,0,2,2,2,1,0,10
+8277,Wallace Fortuna dos Santos,90,1,0,0.13795,1,43,32,0,0,0.0,0,0,6,3,1,0,3,1,5,0,3,2,2,1,0,17
+9931,Hélder Wander Sousa Azevedo Costa,62,1,0,0.0910086,0,11,6,0,0,0.0,4,3,6,3,0,0,7,1,2,2,2,2,2,1,0,21
+10805,Ricardo Alberto Silveira de Carvalho,82,0,0,0.0,0,40,36,0,0,0.0,0,0,2,0,0,0,4,0,2,0,4,1,6,2,0,11
+18953,Vágner Silva de Souza,90,5,2,1.0711300000000001,4,13,8,0,1,0.0910086,2,1,4,0,1,1,6,0,3,2,5,1,1,0,0,20
+27558,Elderson Uwa Echiejile,90,0,0,0.0,0,48,33,0,0,0.0,1,1,5,1,3,1,4,2,7,1,3,2,4,3,1,22

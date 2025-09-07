@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6334,Luis Fernando Muriel Fruto,74,3,2,0.261691134,3,14,12,0,0,0.0,3,1,5,1,6,0,2,1,3,0,0,0,0,2,1,9
+6759,Roberto Soriano,82,0,0,0.0,0,47,44,1,1,0.07529238,0,0,8,2,2,0,0,0,2,0,0,3,0,0,0,13
+7000,Eder Citadin Martins,90,3,2,0.882611122,2,36,30,1,1,0.09680537,3,2,12,1,1,0,0,0,5,3,1,1,1,0,0,18
+7009,Édgar Osvaldo Barreto Cáceres,90,0,0,0.0,0,66,59,0,0,0.0,1,0,5,0,0,0,2,0,5,0,1,0,2,1,0,23
+7012,Vasco Regini,90,0,0,0.0,0,64,57,0,0,0.0,0,0,9,4,2,0,4,1,5,0,0,0,2,3,0,19
+7018,Emiliano Viviano,90,0,0,0.0,0,38,20,0,0,0.0,0,0,3,0,0,0,0,0,6,0,0,0,0,0,0,0
+7019,Matías Agustín Silvestre,90,1,0,0.07403488,1,41,37,0,0,0.0,0,0,4,1,0,0,6,0,2,0,6,2,6,3,0,17
+11339,Paweł Wszołek,8,0,0,0.0,0,5,4,0,0,0.0,1,1,3,0,1,0,2,1,1,0,0,0,0,1,1,0
+16586,Fernando Lucas Martins,90,2,1,0.159562975,1,85,74,0,2,0.097853622,1,0,7,1,2,1,1,1,4,0,3,4,2,1,0,15
+19850,Antonio Cassano,16,0,0,0.0,0,6,4,0,0,0.0,0,0,4,0,1,1,0,0,0,0,0,0,0,0,0,3
+36364,Dávid Ivan,90,0,0,0.0,0,39,32,0,0,0.0,0,0,8,4,1,0,2,2,3,1,1,3,2,2,0,24
+40321,Andrea Coda,90,0,0,0.0,0,60,51,0,0,0.0,0,0,3,1,1,1,3,1,3,1,8,1,2,1,0,10
+387417,Mattia Cassani,90,1,0,0.008656412,0,62,56,1,1,0.11013192,1,1,13,2,1,1,0,0,7,1,2,3,0,0,0,6

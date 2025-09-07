@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3324,Eric Bertrand Bailly,90,0,0,0.0,0,23,18,0,0,0.0,0,0,3,3,0,0,2,2,4,0,2,1,1,2,1,11
+5588,Antonio Rukavina,90,0,0,0.0,0,21,17,0,0,0.0,0,0,1,1,0,0,0,0,0,1,2,0,0,0,0,5
+6609,Denis Suárez Fernández,73,1,0,0.13343097,1,27,25,0,5,0.517563897,3,3,6,1,1,0,1,1,2,3,0,0,5,1,0,20
+6622,Tomás Pina Isla,17,0,0,0.0,0,8,6,0,0,0.0,0,0,0,1,0,0,1,0,2,1,0,0,2,0,0,3
+6735,Adrián López Álvarez,20,0,0,0.0,0,9,5,0,0,0.0,1,0,4,0,1,0,0,0,0,0,2,0,1,0,0,6
+6752,Víctor Ruíz Torre,90,0,0,0.0,0,32,26,0,0,0.0,0,0,3,1,0,0,3,0,5,0,8,1,3,1,0,4
+6755,Sergio Asenjo Andrés,90,0,0,0.0,0,22,10,0,0,0.0,0,0,3,1,0,0,0,0,3,0,0,0,0,0,0,0
+6761,Leonardo Carrilho Baptistão,8,0,0,0.0,0,5,2,0,0,0.0,1,0,2,0,0,0,1,1,0,0,0,0,0,1,1,2
+6771,Manuel Trigueros Muñoz,90,5,0,0.2974884144,1,45,39,0,1,0.035289574,1,1,3,4,0,0,2,2,6,0,0,1,1,2,2,27
+6772,Mario Gaspar Pérez Martínez,90,0,0,0.0,0,38,32,0,0,0.0,0,0,3,2,1,0,5,2,3,0,8,0,3,4,1,16
+6829,Samuel Castillejo Azuaga,90,1,0,0.038918547,1,21,14,0,0,0.0,2,1,7,3,1,0,5,1,4,1,2,0,3,2,1,33
+6862,Cédric Bakambu,70,5,1,0.569569194,3,22,14,0,1,0.15411259,2,2,5,0,1,0,1,0,6,2,0,0,0,0,0,14
+22819,Bruno Soriano Llido,90,2,0,0.077154291,0,43,41,0,0,0.0,0,0,1,1,1,0,4,3,5,2,2,1,2,3,0,21
+26009,Roberto Soldado Rillo,82,1,0,0.153808,0,30,26,0,0,0.0,0,0,4,1,2,2,1,1,3,2,1,0,0,1,0,15

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2943,Lucas Deaux,90,0,0,0.0,0,39,34,0,0,0.0,0,0,7,1,3,3,1,0,2,0,2,1,4,0,0,7
+3144,Léo Dubois,90,0,0,0.0,0,54,49,0,3,0.281222528,4,2,12,0,1,1,6,4,7,0,2,3,2,4,0,11
+3174,Lévy Koffi Djidji,90,0,0,0.0,0,53,52,0,0,0.0,0,0,9,0,1,0,4,1,4,0,2,2,3,2,0,10
+3319,Yacine Bammou,16,0,0,0.0,0,10,8,0,0,0.0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,6
+3365,Valentin Rongier,90,1,0,0.050489318,0,73,61,0,1,0.006634409,2,2,7,4,1,0,3,1,6,2,1,1,2,1,0,20
+3375,Adrien Thomasson,74,1,0,0.02815696,1,45,35,0,1,0.007993169,1,0,8,3,1,1,1,0,3,3,0,1,2,0,0,20
+6284,Kolbeinn Sigþórsson,91,4,0,0.30731024100000004,2,33,27,0,1,0.026649965,1,1,3,3,1,0,9,3,2,1,0,0,1,3,2,20
+7350,Birama Touré,90,1,0,0.026649965,0,66,58,0,1,0.035343006,1,1,12,0,2,0,3,1,7,0,0,3,1,1,1,8
+10746,Ermir Lenjani,90,1,1,0.10894282,1,50,36,0,1,0.038630705,2,1,9,0,1,0,2,0,4,0,2,1,4,0,0,5
+12351,Alejandro Bedoya,27,0,0,0.0,0,19,17,0,1,0.11878185,0,0,5,1,0,0,1,1,0,0,0,1,1,1,0,2
+25377,Rémy Riou,90,0,0,0.0,0,34,26,0,0,0.0,0,0,3,0,0,0,0,0,7,0,1,0,0,0,0,0
+31687,Adryan Oliveira Tavares,63,1,0,0.035343006,0,27,22,0,0,0.0,3,2,11,0,2,0,3,0,0,2,0,0,0,0,0,5
+401477,Johan Audel,90,4,0,0.505245824,2,39,24,1,2,0.26607102,3,0,9,3,1,0,5,2,5,1,0,0,1,3,1,16

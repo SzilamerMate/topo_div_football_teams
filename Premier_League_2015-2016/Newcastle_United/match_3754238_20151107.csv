@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3044,Chancel Mbemba Mangulu,90,0,0,0.0,0,27,21,0,0,0.0,1,1,2,0,0,0,2,0,2,0,11,0,5,1,0,8
+3065,Paul Dummett,90,0,0,0.0,0,24,14,0,0,0.0,0,0,1,2,0,0,4,0,3,0,3,0,5,4,0,16
+3076,Ayoze Pérez Gutiérrez,77,1,1,0.13705893,1,12,10,0,0,0.0,5,1,5,2,2,0,3,3,10,4,3,1,1,3,0,33
+3091,Moussa Sissoko,90,0,0,0.0,0,25,17,0,0,0.0,3,1,7,0,1,0,4,0,6,2,1,0,4,0,0,17
+3096,Rob Elliot,90,0,0,0.0,0,35,18,0,0,0.0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+3254,Florian Thauvin,13,0,0,0.0,0,11,8,0,0,0.0,4,0,4,0,2,0,0,0,5,0,0,0,0,0,0,0
+3567,Georginio Wijnaldum,90,0,0,0.0,0,22,16,1,1,0.13705893,2,1,2,0,0,0,2,0,6,1,1,1,1,1,0,9
+3650,Daryl Janmaat,90,0,0,0.0,0,37,28,0,0,0.0,1,0,1,2,0,0,7,2,5,0,2,0,5,7,1,22
+4269,Aleksandar Mitrović,62,0,0,0.0,0,20,14,0,0,0.0,0,0,1,1,1,1,9,1,0,2,4,0,2,1,0,17
+16072,Vurnon Anita,92,0,0,0.0,0,38,27,0,0,0.0,0,0,3,1,1,1,7,3,7,0,1,0,5,4,0,33
+26207,Fabricio Coloccini,90,1,0,0.10001013,0,24,18,0,0,0.0,1,1,4,0,2,0,2,1,4,0,8,1,6,1,0,11
+30289,Papiss Demba Cissé,28,0,0,0.0,0,14,11,0,0,0.0,0,0,2,0,0,0,6,0,2,1,0,0,0,0,0,6
+42900,Cheik Ismaël Tioté,90,0,0,0.0,0,30,23,0,0,0.0,0,0,0,4,0,0,5,2,3,1,2,0,6,4,1,28

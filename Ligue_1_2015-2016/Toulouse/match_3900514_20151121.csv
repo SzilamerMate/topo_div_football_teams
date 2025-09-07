@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2961,Yann Bodiger,90,1,0,0.06399678,0,57,44,0,0,0.0,1,1,7,1,1,1,6,2,8,0,1,2,1,2,1,17
+3030,Wergiton do Rosário Calmon,90,2,0,0.083711843,1,42,36,0,1,0.09023767,0,0,6,2,3,1,4,2,9,3,5,2,2,3,2,21
+3032,Zinédine Machach,66,0,0,0.0,0,40,29,0,1,0.02385619,3,1,8,2,1,0,1,0,8,1,0,0,2,0,0,15
+3035,Steeve Yago,6,0,0,0.0,0,2,2,0,0,0.0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,1
+3189,Étienne Didot,24,1,0,0.062196646,0,15,8,0,0,0.0,0,0,3,0,1,0,1,0,2,0,0,1,0,0,0,2
+4447,Martin Braithwaite Christensen,66,4,0,0.633720132,1,17,16,0,0,0.0,2,1,6,0,1,0,0,0,2,2,1,0,2,0,0,7
+6723,Wissam Ben Yedder,90,2,0,0.27529369,1,31,25,0,2,0.45822216,0,0,7,4,1,0,7,1,8,5,0,0,2,1,1,11
+8677,Marcel Tisserand,84,0,0,0.0,0,33,31,0,0,0.0,0,0,2,3,1,1,8,5,1,0,5,1,0,7,0,12
+11540,Óscar Guido Trejo,90,2,0,0.051085175,0,62,44,0,3,0.138718802,4,3,15,4,4,1,2,2,11,5,0,0,1,2,0,21
+30447,Jean-Armel Kana-Biyik,90,1,0,0.0616146,0,36,29,0,0,0.0,0,0,4,3,1,1,5,2,1,1,8,1,0,2,0,12
+31174,Jean-Daniel Akpa Akpro,90,0,0,0.0,0,51,41,0,0,0.0,2,0,8,2,1,0,11,5,5,3,0,1,2,7,1,27
+40431,Aleksandar Pešić,24,2,0,0.114716012,0,6,4,0,0,0.0,1,1,7,0,1,0,2,0,0,1,0,1,1,0,0,4
+41385,Ali Nadhoim Ahamada,90,0,0,0.0,0,16,6,0,0,0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+44065,William Matheus da Silva,90,0,0,0.0,0,37,30,0,2,0.146118831,0,0,1,4,2,1,6,3,4,1,3,1,1,4,1,17

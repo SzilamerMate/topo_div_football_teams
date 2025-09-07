@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3774,Papiss Mison Djilobodji,90,1,0,0.08977625,1,47,35,0,0,0.0,1,1,5,0,0,0,4,0,3,0,7,3,3,3,0,4
+6321,Milos Veljkovic,19,0,0,0.0,0,2,2,0,0,0.0,0,0,0,1,0,0,2,0,0,0,3,1,2,2,0,14
+8369,Melvyn Lorenzen,8,0,0,0.0,0,2,0,0,0,0.0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,0,3
+8389,Fin Bartels,90,2,1,1.02382127,1,38,28,0,0,0.0,3,2,7,1,1,0,4,1,9,3,0,2,4,3,1,26
+8396,Theodor Gebre Selassie,90,2,1,0.128822445,1,42,37,1,1,0.054354165,1,1,3,1,2,1,3,0,2,1,0,0,2,1,0,16
+8554,Levin Mete Öztunali,82,3,0,0.21288943700000001,0,20,14,1,2,0.22783301,5,4,8,2,2,0,0,0,6,4,1,1,3,0,0,19
+8762,Zlatko Junuzović,90,2,1,0.06498467200000001,1,45,28,0,4,0.32450587799999997,4,1,7,4,1,0,5,1,6,3,0,2,0,2,0,29
+8815,Jannik Vestergaard,90,2,0,0.154431708,0,45,38,0,0,0.0,1,1,6,0,1,0,4,1,3,0,4,0,0,3,1,6
+11132,Claudio Miguel Pizarro Bossio,90,1,1,0.1405977,1,29,21,1,3,0.39673144499999996,3,2,4,0,6,3,11,2,5,4,0,0,3,3,1,10
+11396,Florian Grillitsch,90,1,0,0.3181081,0,39,30,0,0,0.0,1,0,4,2,0,0,8,2,9,0,2,5,2,6,2,27
+20010,Clemens Fritz,71,0,0,0.0,0,19,17,0,1,0.009246164,1,1,3,6,2,1,8,3,7,1,2,0,2,6,1,26
+22043,Ulisses Alexandre Garcia Lopes,5,0,0,0.0,0,3,3,0,0,0.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+23269,Felix Wiedwald,90,0,0,0.0,0,26,16,0,0,0.0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+26359,Santiago García,85,1,0,0.17378832,0,56,40,0,2,0.347332773,4,2,5,1,4,2,2,0,0,1,3,3,6,1,0,20

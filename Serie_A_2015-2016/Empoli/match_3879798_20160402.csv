@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5660,Piotr Zieliński,90,1,0,0.011604749,1,56,50,0,0,0.0,1,1,10,0,3,1,6,5,5,1,0,1,1,5,1,18
+7054,Manuel Pucciarelli,90,3,0,0.11771510900000001,1,32,23,0,2,0.126545936,1,1,5,1,1,0,4,1,3,2,0,1,0,1,1,26
+7150,Riccardo Saponara,59,1,0,0.106910825,0,38,31,0,0,0.0,2,1,8,0,1,0,0,0,2,2,1,0,1,0,0,14
+7151,Mário Rui Silva Duarte,90,0,0,0.0,0,64,56,0,0,0.0,1,1,8,4,4,1,4,0,5,1,1,6,0,1,0,15
+7160,Lorenzo Tonelli,90,0,0,0.0,0,74,73,0,1,0.0032002116,0,0,8,2,2,0,5,2,9,1,6,1,3,2,0,14
+8187,Marcel Büchel,53,1,0,0.02183789,0,33,26,0,1,0.035637807,0,0,2,1,1,0,1,1,2,2,0,1,2,1,0,14
+8664,Andrea Costa,90,1,0,0.0054452526,0,67,58,0,0,0.0,0,0,3,2,0,0,3,0,3,0,6,3,0,0,0,7
+11508,Łukasz Skorupski,90,0,0,0.0,0,31,23,0,0,0.0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0
+11512,Rade Krunić,16,0,0,0.0,0,4,4,0,0,0.0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,11
+16308,Leandro Daniel Paredes,90,1,0,0.0032002116,0,100,84,0,2,0.0170500016,0,0,6,0,4,0,4,2,5,2,0,0,3,4,2,17
+31172,Luca Bittante,90,0,0,0.0,0,69,56,0,1,0.078055635,1,1,6,2,2,0,2,1,7,0,3,2,1,1,0,12
+40251,Daniele Croce,37,0,0,0.0,0,19,17,0,1,0.037938695,1,0,1,0,0,0,2,0,2,0,1,0,1,1,0,11
+40252,Massimo Maccarone,74,2,0,0.182763681,1,17,14,0,1,0.044138607,1,0,2,2,1,0,2,0,1,1,1,0,1,0,0,10
+386516,Alessandro Piu,31,0,0,0.0,0,13,11,0,0,0.0,0,0,3,0,1,0,1,0,1,0,1,0,0,0,0,5

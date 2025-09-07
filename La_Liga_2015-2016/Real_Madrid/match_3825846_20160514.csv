@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3990,Jesé Rodríguez Ruiz,15,0,0,0.0,0,11,9,0,2,0.095272042,2,1,5,0,0,0,0,0,1,1,0,0,0,0,0,3
+4926,Francisco Román Alarcón Suárez,30,1,0,0.08893098,0,28,23,0,0,0.0,0,0,6,1,0,0,0,0,2,3,0,0,1,0,0,8
+5201,Sergio Ramos García,90,0,0,0.0,0,65,63,0,0,0.0,0,0,6,2,0,0,3,1,1,0,2,3,0,2,0,13
+5207,Cristiano Ronaldo dos Santos Aveiro,45,7,2,1.0219276400000001,2,27,22,0,0,0.0,3,2,7,0,0,0,1,0,2,0,0,0,0,0,0,2
+5463,Luka Modrić,90,1,0,0.020789662,0,87,79,0,0,0.0,2,2,8,2,1,1,2,1,9,0,0,4,1,1,0,19
+5539,Carlos Henrique Casimiro,90,1,0,0.34565815,0,71,66,0,0,0.0,0,0,3,0,0,0,2,1,5,0,2,4,1,2,0,26
+5552,Marcelo Vieira da Silva Júnior,90,1,0,0.017665412,1,72,62,0,1,0.059344236,6,3,8,0,0,0,5,3,3,1,1,1,2,5,2,21
+5574,Toni Kroos,60,0,0,0.0,0,70,61,1,2,0.141854215,0,0,7,1,0,0,1,0,4,1,0,0,1,0,0,24
+5597,Keylor Navas Gamboa,90,0,0,0.0,0,20,14,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+5695,James David Rodríguez Rubio,45,2,0,0.110301525,1,29,26,0,0,0.0,1,0,7,1,0,0,2,0,3,2,0,1,1,0,0,9
+5721,Daniel Carvajal Ramos,90,1,0,0.015346278,0,81,71,0,1,0.08893098,6,2,6,4,1,0,3,1,6,1,5,3,2,3,0,21
+6399,Gareth Frank Bale,75,0,0,0.0,0,43,34,0,1,0.08956686,8,7,12,0,2,1,1,0,4,2,1,1,1,1,0,9
+19677,Karim Benzema,90,2,0,0.21433047,1,42,34,0,1,0.032694895,4,4,10,1,2,0,1,0,3,3,1,1,1,0,0,7
+20016,Kléper Laveran Lima Ferreira,90,0,0,0.0,0,52,52,0,1,0.12084824,0,0,5,0,0,0,4,2,1,0,4,3,4,3,1,7

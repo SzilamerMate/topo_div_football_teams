@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3145,Keita Baldé Diao,52,0,0,0.0,0,14,13,0,2,0.091879903,4,2,6,2,3,0,4,3,4,2,0,1,1,3,2,13
+3588,Wesley Hoedt,90,1,0,0.010918222,0,54,41,0,0,0.0,0,0,6,2,0,0,1,0,2,0,1,2,2,0,0,6
+7776,Antonio Candreva,38,0,0,0.0,0,16,9,0,0,0.0,1,1,6,1,1,0,0,0,3,3,0,1,0,0,0,6
+7785,Senad Lulić,90,1,0,0.06485459,0,34,20,0,0,0.0,1,1,8,4,3,1,0,0,8,3,0,1,2,0,0,33
+8172,Felipe Anderson Pereira Gomes,86,0,0,0.0,0,44,34,0,2,0.140658538,5,3,10,1,1,1,6,2,8,2,0,1,2,4,2,26
+8173,Marco Parolo,90,0,0,0.0,0,40,31,0,1,0.24159847,0,0,2,4,1,1,6,2,2,2,1,0,6,5,0,51
+8443,Dušan Basta,90,0,0,0.0,0,60,43,0,0,0.0,0,0,8,0,0,0,4,0,7,0,1,2,0,1,0,9
+9939,Maurício dos Santos Nascimento,90,2,0,0.140658538,0,52,43,0,0,0.0,0,0,7,2,0,0,3,2,7,0,0,6,0,2,1,12
+11427,Filip Đorđević,4,1,0,0.032050755,0,2,2,0,1,0.010918222,1,1,1,0,0,0,0,0,2,0,0,0,1,0,0,1
+12491,Federico Marchetti,90,0,0,0.0,0,35,25,0,0,0.0,0,0,2,0,0,0,0,0,8,0,0,0,0,0,0,0
+19286,Miroslav Klose,69,1,0,0.24159847,0,16,13,0,0,0.0,1,0,0,0,1,0,2,0,0,1,0,2,1,0,0,22
+26683,Abdoulay Konko,90,1,0,0.07858208,0,49,37,0,1,0.06485459,1,0,5,1,0,0,3,1,5,2,2,1,0,2,0,15
+33311,Ogenyi Eddy Onazi,90,1,0,0.013297823,0,54,44,0,0,0.0,1,1,3,0,1,1,2,1,5,1,1,2,2,1,1,23
+386641,Stefano Mauri,21,0,0,0.0,0,10,7,0,0,0.0,0,0,0,0,1,1,2,1,1,0,0,0,0,1,0,4

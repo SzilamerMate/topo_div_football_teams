@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6941,Jasmin Kurtič,90,0,0,0.0,0,30,23,0,0,0.0,2,2,4,1,2,0,5,1,3,2,1,1,2,4,1,45
+6992,Andrea Masiello,90,0,0,0.0,0,33,20,0,0,0.0,0,0,2,2,0,0,1,1,4,2,8,0,1,1,0,17
+6994,Marten de Roon,90,0,0,0.0,0,21,16,0,0,0.0,1,0,3,2,0,0,8,3,5,0,3,3,1,4,0,49
+7006,Alejandro Darío Gómez,77,3,0,0.10726479500000001,0,32,23,0,2,0.107980277,5,4,13,0,3,1,2,1,6,0,1,1,1,1,1,14
+7157,Marco Sportiello,90,0,0,0.0,0,37,20,0,1,0.022282798,0,0,2,0,1,1,0,0,5,0,0,0,0,0,0,0
+8184,Marco D''Alessandro,27,0,0,0.0,0,3,1,0,0,0.0,2,0,0,0,1,0,4,0,1,1,2,0,2,2,0,16
+11722,Boukary Dramé,90,0,0,0.0,0,42,31,0,0,0.0,1,0,3,0,1,0,3,3,3,0,2,1,3,3,2,10
+12759,Maximiliano Nicol Moralez,63,1,0,0.036451027,0,21,20,0,0,0.0,2,1,5,2,2,0,2,0,3,3,0,0,1,1,0,33
+35923,Carlos Emilio Carmona Tello,90,0,0,0.0,0,24,18,0,2,0.084981997,1,0,2,2,1,1,2,2,2,1,1,0,4,2,0,40
+36770,Mauricio Ricardo Pinilla Ferreira,67,1,0,0.07152925,0,19,10,0,0,0.0,3,2,3,4,3,0,13,1,4,3,3,0,2,1,1,22
+40426,Guglielmo Stendardo,90,0,0,0.0,0,22,17,0,0,0.0,0,0,0,0,1,0,6,2,0,0,1,0,4,6,1,21
+40455,Giulio Migliaccio,13,0,0,0.0,0,5,4,0,0,0.0,0,0,0,0,0,0,5,0,0,0,3,0,1,0,0,2
+45590,Nicolò Cherubin,90,0,0,0.0,0,18,13,0,0,0.0,1,0,1,2,0,0,3,1,2,0,4,1,4,2,0,24
+49439,Germán Gustavo Denis,23,0,0,0.0,0,6,4,0,0,0.0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,3

@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6713,Diego Javier Llorente Ríos,90,1,0,0.028027544,1,34,28,0,0,0.0,1,1,4,5,1,0,6,2,4,1,1,0,3,4,1,14
+6852,Jozabed Sánchez Ruiz,90,3,1,0.148079617,1,69,58,0,3,0.092812665,0,0,4,0,1,0,5,3,13,2,0,1,3,4,0,25
+7900,Tiago Manuel Dias Correia,70,2,0,0.032305182,0,22,17,1,2,0.7677094600000001,5,3,9,4,0,0,1,0,7,3,2,0,8,0,0,15
+9246,Patrick Ebert,90,5,0,0.807489213,2,50,40,0,3,0.22363418200000001,2,2,5,2,2,0,0,0,8,1,0,1,0,0,0,25
+10727,Răzvan Dincă Raț,90,1,0,0.026219837,0,70,49,0,1,0.26980266,0,0,4,1,0,0,3,0,4,0,2,0,0,0,0,6
+11298,José Ignacio Martínez García,45,0,0,0.0,0,25,18,0,0,0.0,0,0,2,1,1,0,2,2,2,0,0,1,2,2,1,13
+11539,Adrián Embarba Blázquez,20,1,0,0.020192893,0,12,9,0,0,0.0,2,0,5,2,1,0,0,0,2,0,0,0,1,0,0,5
+11542,Javier Guerra Rodríguez,90,5,1,1.196497335,4,41,37,0,2,0.13292067300000002,3,1,4,0,0,0,6,0,2,1,0,1,3,0,0,20
+11543,José Antonio Dorado Ramírez,45,0,0,0.0,0,23,18,0,0,0.0,0,0,1,1,0,0,3,2,1,0,0,0,2,2,1,3
+23761,Alhassane Bangoura,90,3,0,0.192358855,0,48,34,0,1,0.09244093,6,4,20,2,1,0,4,4,7,4,0,0,1,4,2,14
+26070,Antonio Rodríguez Martínez,90,0,0,0.0,0,33,28,0,0,0.0,0,0,5,0,0,0,0,0,7,0,0,0,0,0,0,0
+26222,José Eduardo Rosa Vale de Castro,90,0,0,0.0,0,61,51,0,1,0.028027544,1,1,7,0,0,0,7,3,4,0,2,2,3,3,0,10
+26848,Roberto Trashorras Gayoso,90,1,0,0.022134798,0,84,76,0,1,0.048921015,1,1,5,1,2,1,3,1,8,0,0,1,2,1,1,13

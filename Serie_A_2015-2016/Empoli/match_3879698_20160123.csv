@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5660,Piotr Zieliński,86,4,1,0.259018124,2,52,44,0,3,0.0927252,5,3,8,1,2,0,1,0,7,3,0,1,3,1,0,18
+7054,Manuel Pucciarelli,90,3,0,0.19753054,1,29,20,0,0,0.0,1,0,6,1,2,0,2,1,3,1,0,0,3,1,0,30
+7150,Riccardo Saponara,90,3,0,0.075729222,0,40,32,1,3,0.256157334,7,2,11,0,6,2,0,0,6,7,0,0,1,0,0,16
+7151,Mário Rui Silva Duarte,90,0,0,0.0,0,111,95,0,0,0.0,0,0,9,3,2,0,4,1,4,0,3,0,0,2,0,18
+7155,Vincent Laurini,90,0,0,0.0,0,54,49,0,2,0.129769908,1,1,6,0,0,0,0,0,4,0,4,1,0,0,0,12
+7160,Lorenzo Tonelli,90,0,0,0.0,0,57,45,0,0,0.0,0,0,6,1,0,0,4,1,4,0,8,2,2,3,0,10
+8187,Marcel Büchel,90,1,0,0.027817376,0,83,71,0,1,0.037761845,0,0,7,3,1,1,4,2,8,2,1,0,3,2,0,20
+11508,Łukasz Skorupski,90,0,0,0.0,0,33,30,0,0,0.0,0,0,2,0,0,0,0,0,11,0,0,0,0,0,0,0
+11512,Rade Krunić,4,0,0,0.0,0,5,4,0,0,0.0,0,0,1,0,0,0,0,0,1,2,0,0,1,0,0,0
+11602,Raffaele Maiello,53,1,0,0.022676008,0,37,29,0,0,0.0,0,0,4,0,6,2,1,0,6,1,1,2,5,1,0,13
+17520,Federico Barba,90,0,0,0.0,0,80,76,0,0,0.0,0,0,10,1,1,1,0,0,7,0,8,0,1,0,0,4
+22041,Marko Livaja,21,0,0,0.0,0,12,11,0,0,0.0,1,0,0,2,1,0,3,0,1,0,0,0,1,0,0,5
+40251,Daniele Croce,37,0,0,0.0,0,25,22,0,0,0.0,4,1,1,0,2,0,1,0,2,2,0,0,1,1,0,12
+40252,Massimo Maccarone,69,4,1,0.6204689430000001,3,18,12,0,0,0.0,1,0,6,1,1,0,3,0,4,5,0,0,1,0,0,15

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4174,Ragnar Klavan,90,0,0,0.0,0,53,44,0,0,0.0,0,0,4,1,1,0,2,1,1,0,7,1,1,1,0,8
+5514,Alfreð Finnbogason,90,6,1,0.5430398169999999,2,30,22,0,1,0.022186074,0,0,3,2,2,0,5,0,6,3,0,1,2,0,0,14
+5627,Ja-Cheol Koo,32,3,0,0.11783650799999999,0,20,17,0,0,0.0,0,0,1,1,0,0,0,0,4,0,0,0,0,0,0,3
+8207,Dominik Kohr,90,2,0,0.082843402,0,63,55,0,1,0.07956331,1,1,7,2,2,1,5,4,6,1,4,1,1,5,3,25
+8237,Paul Verhaegh,90,0,0,0.0,0,57,51,1,4,0.29246694700000003,1,1,4,0,0,0,3,0,6,0,2,2,0,2,0,14
+8303,Caiuby Francisco da Silva,90,2,1,0.289844626,1,41,27,0,0,0.0,1,1,7,2,1,0,4,2,9,1,1,1,0,2,1,15
+8314,Marwin Hitz,90,0,0,0.0,0,37,23,0,0,0.0,0,0,8,0,1,1,0,0,3,0,0,0,0,0,0,0
+8318,Jeffrey Gouweleeuw,90,0,0,0.0,0,54,49,0,0,0.0,0,0,9,1,0,0,3,0,3,0,6,0,1,1,0,10
+8319,Philipp Max,90,1,0,0.008739537,0,61,51,0,1,0.13140363,1,0,7,0,1,0,5,4,3,1,2,3,0,5,0,21
+8574,Alexander Esswein,7,1,0,0.034515403,0,3,2,0,0,0.0,2,2,1,0,0,0,1,0,2,0,1,0,1,0,0,1
+8807,Raúl Marcelo Bobadilla,83,5,0,0.288229961,1,32,25,0,1,0.064263456,2,1,10,5,2,0,4,1,5,3,1,0,0,2,0,13
+9408,Jan Morávek,45,3,0,0.15833329000000002,0,33,29,0,3,0.166827442,0,0,4,0,0,0,2,2,3,0,2,0,0,2,0,17
+24117,Christoph Janker,13,0,0,0.0,0,7,7,0,0,0.0,0,0,4,3,0,0,0,0,2,1,0,0,0,0,0,4
+40462,Halil Altıntop,90,1,0,0.13140363,0,42,37,0,2,0.067094691,2,1,5,1,1,0,6,1,4,1,0,0,1,2,1,17

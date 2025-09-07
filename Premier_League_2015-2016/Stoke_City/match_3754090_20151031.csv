@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3325,Marko Arnautović,88,0,0,0.0,0,41,32,0,1,0.20471963,2,0,16,5,1,1,6,4,4,2,0,1,0,5,0,22
+3467,Erik Pieters,90,0,0,0.0,0,43,33,0,0,0.0,0,0,3,1,1,1,3,2,3,1,2,1,2,3,0,14
+3533,Xherdan Shaqiri,89,0,0,0.0,0,38,33,0,2,0.09759316800000001,6,2,16,1,1,0,0,0,8,0,0,1,0,0,0,8
+3537,Jack Butland,90,0,0,0.0,0,31,18,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+3636,Charlie Adam,90,2,0,0.0367986617,0,46,37,0,1,0.3401162,2,1,10,1,3,2,0,0,5,0,0,0,1,0,0,11
+3670,Jonathan Walters,90,5,0,1.0990336040000002,2,34,20,0,1,0.0819094,0,0,7,0,0,0,11,0,2,0,1,0,3,1,0,11
+4035,Ryan Shawcross,90,0,0,0.0,0,25,15,0,0,0.0,0,0,2,1,0,0,3,1,0,0,4,1,0,2,0,10
+4040,Peter Crouch,1,0,0,0.0,0,4,3,0,0,0.0,0,0,0,2,0,0,0,0,1,2,0,0,0,0,0,0
+4724,Glen Johnson,90,1,0,0.0819094,0,43,33,0,1,0.06968534,0,0,3,2,1,1,4,0,5,0,2,0,1,2,0,5
+4891,Ibrahim Afellay,31,1,0,0.05662114,0,15,15,0,0,0.0,1,0,3,0,0,0,2,1,0,0,0,0,0,1,0,1
+4913,Bojan Krkíc Pérez,59,0,0,0.0,0,31,27,0,0,0.0,6,3,9,1,1,0,0,0,5,0,0,0,1,0,0,11
+8251,Marco van Ginkel,2,0,0,0.0,0,1,1,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+9625,Glenn Whelan,90,0,0,0.0,0,52,44,0,1,0.0059593567,2,1,5,1,2,1,5,1,10,0,3,0,1,2,1,12
+40121,Philipp Wollscheid,90,1,0,0.06968534,0,22,15,0,0,0.0,0,0,2,2,0,0,5,2,4,1,6,1,2,2,1,8

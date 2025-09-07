@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5671,Alfred John Momar N''Diaye,90,3,0,0.22617512,0,45,42,0,0,0.0,2,2,9,1,1,0,6,1,9,2,4,2,2,2,1,19
+6630,Jorge Molina Vidal,16,0,0,0.0,0,5,4,0,0,0.0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,4
+6654,Antonio Adán Garrido,90,0,0,0.0,0,40,24,0,0,0.0,0,0,6,0,1,0,0,0,5,0,0,0,0,0,0,0
+6655,Fabián Ruiz Peña,79,1,0,0.0392898,1,42,33,0,1,0.044708643,2,1,5,0,0,0,4,0,4,2,0,1,0,1,0,16
+6832,Rubén Castro Martín,74,2,0,0.06698422600000001,1,21,16,0,3,0.026061079,2,1,4,0,5,4,0,0,4,2,0,1,1,0,0,7
+6865,Francisco José Molinero Calderón,8,0,0,0.0,0,7,4,0,0,0.0,0,0,0,1,0,0,2,1,0,0,1,1,0,1,1,2
+6872,Bruno González Cabrera,90,1,0,0.053681288,0,49,41,0,0,0.0,1,0,3,1,0,0,2,0,1,0,4,3,2,0,0,10
+6873,Francisco Portillo Soler,11,0,0,0.0,0,3,3,0,0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4
+7161,Germán Alejandro Pezzella,90,0,0,0.0,0,63,48,0,0,0.0,0,0,4,1,0,0,0,0,6,0,4,3,1,0,0,15
+11634,Cristiano Piccini,82,0,0,0.0,0,72,62,0,0,0.0,7,5,10,0,1,1,1,0,6,2,1,0,3,1,0,5
+26723,Álvaro Cejudo Carmona,90,1,0,0.022624314,0,47,34,0,2,0.168755682,3,2,8,4,0,0,6,2,7,5,1,1,2,3,0,15
+27346,Petros Matheus dos Santos Araújo,90,2,0,0.043221868999999996,0,59,52,0,1,0.022624314,3,1,8,1,2,2,8,5,6,1,0,1,3,7,2,32
+27347,Juan Manuel Vargas Risco,90,2,0,0.029372396,0,59,38,0,2,0.085043604,1,1,6,1,0,0,0,0,7,0,5,0,3,0,0,7
+186264,Foued Kadir,90,3,0,0.077216606,0,56,43,0,1,0.053681288,5,3,8,3,2,2,5,2,3,3,2,3,3,2,0,21

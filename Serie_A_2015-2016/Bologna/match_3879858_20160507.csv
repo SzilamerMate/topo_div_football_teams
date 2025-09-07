@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6948,Sergio Floccari,90,2,0,0.103235937,0,24,21,0,2,0.086168491,1,0,7,1,0,0,9,0,4,4,4,0,1,0,0,14
+7142,Luca Rossettini,89,1,0,0.077296585,0,47,33,0,2,0.074129889,0,0,4,2,1,1,4,2,3,0,8,1,4,2,0,10
+7169,Adam Masina,90,0,0,0.0,0,48,35,0,0,0.0,0,0,7,0,2,1,4,2,3,2,8,0,2,3,0,10
+7704,Alex Ferrari,1,0,0,0.0,0,1,1,0,0,0.0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,2
+7775,Emanuele Giaccherini,90,2,0,0.1129448,1,51,36,0,4,0.273788619,3,2,8,1,3,1,1,1,5,2,0,1,1,1,1,17
+8284,Amadou Diawara,90,0,0,0.0,0,10,6,0,0,0.0,1,0,1,2,1,0,0,0,3,0,0,0,0,0,0,3
+8851,Saphir Sliti Taïder,19,0,0,0.0,0,13,12,0,0,0.0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,0,9
+8873,Marios Oikonomou,90,1,0,0.06622063,0,37,29,0,0,0.0,0,0,1,1,1,1,3,1,1,0,7,1,1,1,1,7
+12475,Angelo Esmael da Costa Júnior,90,0,0,0.0,0,36,23,0,0,0.0,0,0,1,1,0,0,0,0,6,0,0,0,0,0,0,1
+18027,Matteo Brighi,90,0,0,0.0,0,33,27,0,0,0.0,1,0,4,2,1,0,5,3,4,1,1,4,6,4,2,32
+30745,Daniele Gastaldello,71,1,0,0.082234144,0,25,18,0,0,0.0,0,0,6,0,1,1,1,0,4,0,6,2,3,0,0,8
+34565,Anthony Mounier,11,0,0,0.0,0,5,4,0,0,0.0,0,0,2,0,0,0,1,0,1,0,0,0,0,0,0,6
+40119,Juan Camilo Zúñiga Mosquera,79,1,0,0.014890471,0,16,13,0,0,0.0,3,2,2,0,3,1,1,1,2,3,0,0,1,1,0,7
+45591,Franco Brienza,90,1,0,0.018931212,0,42,35,0,0,0.0,2,1,8,1,5,2,1,1,7,2,1,2,0,1,0,19

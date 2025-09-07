@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3097,Pascal Groß,90,2,0,0.074197749,0,80,51,0,2,0.110226635,2,1,5,3,2,2,12,4,9,2,1,1,3,8,1,32
+5481,Mathew Leckie,90,1,0,0.1037729,0,38,31,0,1,0.036695164,6,2,11,0,4,0,9,0,7,5,0,0,3,1,0,12
+8394,Robert Bauer,90,1,0,0.015425465,0,36,23,0,0,0.0,1,1,2,1,4,3,3,3,4,0,7,2,3,3,2,12
+8405,Benjamin Hübner,63,0,0,0.0,0,38,25,0,0,0.0,0,0,7,0,1,1,1,0,2,0,4,1,1,0,0,9
+9103,Lukas Hinterseer,93,1,0,0.039490394,0,29,14,0,0,0.0,4,0,1,2,1,1,6,0,10,2,1,1,4,0,0,23
+9106,Marvin Matip,90,0,0,0.0,0,55,49,0,0,0.0,0,0,5,0,2,1,6,1,6,0,9,1,3,2,0,9
+12304,Alfredo Morales,88,2,0,0.032858604,0,17,10,0,0,0.0,1,1,2,1,2,1,4,2,6,1,3,0,3,2,1,19
+12319,Ramazan Özcan,90,0,0,0.0,0,41,23,0,0,0.0,0,0,5,0,0,0,0,0,8,0,0,0,0,0,0,0
+12551,Max Christiansen,2,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+13332,Romain Brégerie,27,1,0,0.036695164,0,18,11,0,0,0.0,0,0,1,0,0,0,1,0,2,0,1,3,2,1,0,7
+40459,Roger de Oliveira Bernardo,90,1,1,0.08369856,1,39,28,0,0,0.0,2,2,5,0,3,1,0,0,11,1,6,0,4,0,0,12
+40460,Tobias Levels,90,1,0,0.075784884,1,94,73,0,1,0.039490394,0,0,7,0,1,0,8,1,7,1,4,1,4,3,0,12
+40463,Stefan Lex,90,0,0,0.0,0,21,14,0,2,0.091210349,0,0,2,5,3,2,13,2,3,4,1,0,1,3,0,29

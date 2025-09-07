@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3277,Yohan Cabaye,90,3,0,0.061782603,0,46,35,0,4,0.292470897,1,0,4,2,4,0,0,0,5,2,0,3,2,0,0,16
+3326,Chung-Yong Lee,20,0,0,0.0,0,12,10,0,0,0.0,0,0,5,1,0,0,2,1,0,0,0,0,0,1,0,6
+3407,Scott Dann,90,1,0,0.04097202,0,36,32,0,1,0.009765535,0,0,5,1,0,0,3,1,1,0,7,0,0,1,1,5
+3443,Joel Ward,90,0,0,0.0,0,58,46,0,0,0.0,0,0,12,0,0,0,5,1,8,1,6,2,2,3,0,11
+3464,James McArthur,74,1,0,0.03132807,0,33,27,0,0,0.0,0,0,5,0,1,0,4,0,5,1,1,4,3,0,0,16
+3488,Wayne Hennessey,90,0,0,0.0,0,23,11,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3507,Wilfried Zaha,90,1,0,0.10438086,0,32,20,0,0,0.0,8,6,12,2,6,1,2,1,4,4,0,5,3,1,0,24
+4884,Pape N''Diaye Souaré,90,0,0,0.0,0,78,58,0,1,0.029067177,1,1,9,1,1,0,3,1,4,1,4,3,3,2,0,16
+5489,Mile Jedinak,90,1,0,0.046267677,0,54,43,0,1,0.029339792,1,1,1,1,0,0,8,4,9,2,4,2,1,7,2,26
+10457,Patrick Bamford,45,1,0,0.23269138,1,7,2,0,0,0.0,0,0,1,0,0,0,0,0,2,0,1,1,0,0,0,8
+15892,Jordon Mutch,16,1,0,0.029339792,0,12,10,0,0,0.0,0,0,5,0,0,0,1,1,1,1,0,0,0,1,0,3
+19688,Jason Puncheon,70,0,0,0.0,0,27,16,0,0,0.0,4,2,10,1,1,0,2,1,5,2,1,1,0,1,0,14
+43695,Brede Hangeland,90,1,0,0.10085034,1,33,27,0,0,0.0,0,0,1,2,2,2,1,0,2,0,10,0,1,0,0,9
+50245,Marouane Chamakh,45,0,0,0.0,0,15,12,0,0,0.0,2,0,0,1,1,0,4,1,1,0,0,1,0,1,0,16

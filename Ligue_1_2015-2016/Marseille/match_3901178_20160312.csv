@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3075,Javier Manquillo Gaitán,90,0,0,0.0,0,66,52,0,0,0.0,3,2,2,1,2,0,2,1,1,0,0,1,3,1,1,18
+3254,Florian Thauvin,69,0,0,0.0,0,32,22,0,2,0.29706176,3,1,6,1,0,0,3,0,5,2,0,0,2,3,0,20
+3261,Benjamin Mendy,16,0,0,0.0,0,9,7,0,0,0.0,0,0,1,0,0,0,2,2,1,1,0,0,1,2,1,3
+3420,Rémy Cabella,90,4,0,0.390839076,2,83,72,0,1,0.05378233,1,0,8,4,1,0,1,0,8,1,0,0,5,0,0,37
+3457,Michy Batshuayi Tunga,90,3,0,0.160704146,0,39,28,0,1,0.055399492,0,0,4,2,4,2,5,2,2,2,0,0,1,2,1,11
+3543,Steve Mandanda,90,0,0,0.0,0,35,28,0,0,0.0,0,0,4,0,0,0,0,0,7,0,0,0,0,0,0,0
+3639,Georges-Kévin Nkoudou Mbida,90,1,0,0.055399492,0,40,29,0,0,0.0,3,2,17,1,3,0,0,0,5,4,0,0,2,0,0,22
+4351,Bouna Sarr,21,0,0,0.0,0,18,11,0,0,0.0,1,0,7,0,0,0,0,0,1,0,0,0,0,0,0,9
+7472,Nicolas Alexis Julio N'Koulou Ndoubena,90,1,0,0.083843,0,47,42,0,0,0.0,1,0,2,0,1,0,1,0,6,0,7,2,2,0,0,11
+8572,Karim Rekik,51,0,0,0.0,0,37,33,0,0,0.0,0,0,4,0,0,0,1,1,2,0,1,1,1,1,0,6
+10036,Jacques-Alaixys Romao,90,1,0,0.032325063,0,83,68,0,2,0.10527377,0,0,8,2,1,1,3,0,4,0,2,2,0,2,0,20
+18874,Mauricio Aníbal Isla Isla,90,1,1,0.06578606,1,58,54,0,1,0.032325063,1,1,6,0,1,1,4,3,5,2,2,0,1,3,1,11
+19813,Rolando Jorge Pires da Fonseca,39,0,0,0.0,0,17,14,0,0,0.0,0,0,1,0,0,0,0,0,3,0,2,1,1,0,0,3
+25199,Lucas Silva Borges,74,0,0,0.0,0,67,58,0,1,0.009511006,0,0,7,1,1,1,3,3,7,1,2,1,0,3,1,22

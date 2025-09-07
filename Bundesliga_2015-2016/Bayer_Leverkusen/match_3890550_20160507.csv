@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3058,Javier Hernández Balcázar,90,3,0,0.087804614,1,32,24,1,1,0.46950373,2,1,8,0,1,1,2,1,3,3,0,1,1,1,1,5
+5494,Robbie Kruse,90,1,0,0.12796181,0,44,28,0,3,0.1064227735,1,0,9,0,4,0,3,0,3,1,0,1,2,2,0,37
+6309,Tin Jedvaj,45,0,0,0.0,0,31,16,0,1,0.027835492,0,0,4,3,0,0,2,1,7,1,0,0,3,1,1,12
+7039,Hakan Çalhanoğlu,80,4,0,0.3952815977,2,38,29,0,5,0.757504779,1,0,2,0,1,0,2,1,7,2,0,0,3,2,1,16
+8210,Charles Mariano Aránguiz Sandoval,90,4,1,0.641797535,1,37,24,0,0,0.0,0,0,1,2,4,3,3,0,5,1,1,0,3,1,0,24
+8211,Benjamin Henrichs,90,0,0,0.0,0,41,30,0,1,0.061911967,1,1,8,0,1,0,2,1,5,0,5,5,2,2,1,9
+8219,Admir Mehmedi,10,0,0,0.0,0,7,6,0,1,0.028051943,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+8573,Ömer Toprak,82,0,0,0.0,0,21,18,0,0,0.0,0,0,2,2,1,1,1,0,3,0,4,2,5,0,0,8
+8805,Christoph Kramer,45,0,0,0.0,0,21,13,0,0,0.0,1,0,3,0,1,1,4,2,3,4,0,0,1,2,2,20
+8969,Lars Bender,90,0,0,0.0,0,45,37,0,0,0.0,0,0,1,1,0,0,8,3,3,0,3,0,5,7,1,23
+9363,André Ramalho Silva,90,0,0,0.0,0,21,17,0,0,0.0,0,0,1,1,1,1,3,1,1,0,1,1,6,1,1,17
+11394,Stefan Kießling,90,3,0,0.7322135670000001,2,30,20,0,1,0.12796181,2,0,2,0,3,2,14,0,4,0,1,1,1,0,0,17
+15581,Bernd Leno,90,0,0,0.0,0,35,24,0,0,0.0,0,0,7,0,0,0,0,0,11,0,0,0,0,0,0,0
+21168,Marlon Frey,8,1,0,0.028051943,1,2,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4325,Thiago Motta,61,2,0,0.043755116,0,32,30,0,0,0.0,0,0,6,3,0,0,2,2,3,0,3,0,0,2,1,13
+5216,Andrés Iniesta Luján,90,1,0,0.033497013,0,63,57,0,1,0.029362349,4,4,17,2,4,0,6,5,11,2,0,1,2,6,2,15
+5503,Lionel Andrés Messi Cuccittini,22,1,0,0.08329088,0,9,8,0,0,0.0,5,4,4,0,2,0,0,0,1,2,0,0,0,0,0,3
+5558,Rafael Márquez Álvarez,90,0,0,0.0,0,77,68,0,1,0.005971501,0,0,13,2,0,0,1,0,2,0,6,0,1,1,0,13
+11270,Eiður Smári Guðjohnsen,67,2,0,0.152318664,1,13,8,0,0,0.0,1,0,3,1,2,0,4,0,3,2,0,1,0,1,0,15
+15774,Gianluca Zambrotta,90,0,0,0.0,0,51,47,0,0,0.0,1,0,4,3,0,0,2,1,1,2,2,0,0,2,0,10
+19757,Anderson Luís de Souza,90,0,0,0.0,0,81,62,1,2,0.18004252299999998,6,2,18,4,3,0,8,4,3,2,1,0,1,5,1,16
+20125,Carles Puyol i Saforcada,90,0,0,0.0,0,61,56,0,0,0.0,0,0,10,1,0,0,3,0,7,0,5,3,1,0,0,12
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,26,23,0,0,0.0,0,0,2,0,1,1,0,0,10,0,0,0,0,0,0,0
+25854,Sylvio Mendes Campos Junior,90,0,0,0.0,0,63,59,0,1,0.084410034,3,3,7,5,1,1,5,1,5,0,3,4,6,3,0,18
+25878,Ludovic Giuly,68,1,0,0.042261414,0,15,12,0,1,0.037783615,2,0,7,3,0,0,5,0,2,2,1,0,1,1,0,11
+25879,Ronaldo de Assis Moreira,90,4,2,0.28602699,3,61,43,0,3,0.193460924,13,6,11,2,4,2,1,1,5,5,1,0,0,1,1,4
+25910,José Edmílson Gomes de Moraes,29,0,0,0.0,0,15,14,0,0,0.0,0,0,6,1,1,0,1,0,2,1,0,0,0,1,0,3
+25962,Javier Pedro Saviola Fernández,23,2,1,0.670432119,1,10,9,0,0,0.0,2,0,4,0,3,0,0,0,3,0,0,0,0,0,0,0

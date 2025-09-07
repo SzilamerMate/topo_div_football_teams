@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3008,Benjamin Lecomte,90,0,0,0.0,0,25,9,0,0,0.0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+3102,Yann Jouffre,14,1,0,0.16596779,0,17,13,0,0,0.0,1,1,2,0,1,0,0,0,2,0,0,0,0,0,0,5
+3140,François Bellugou,24,0,0,0.0,0,14,11,0,0,0.0,0,0,2,0,0,0,0,0,2,0,1,0,1,0,0,6
+3552,Benjamin Jeannot,80,1,0,0.06941039,1,26,20,0,1,0.087260224,4,3,3,4,0,0,6,2,2,1,1,0,2,2,1,24
+5209,Raphaël Adelino José Guerreiro,90,3,0,0.115009149,2,47,41,0,1,0.0186107,1,0,4,0,1,0,6,4,4,1,0,3,3,6,2,16
+6335,Lamine Gassama,90,0,0,0.0,0,49,41,0,1,0.028370284,0,0,2,2,1,0,3,1,3,0,2,4,2,3,0,22
+7199,Vincent Le Goff,10,0,0,0.0,0,5,3,0,0,0.0,0,0,3,0,0,0,1,0,2,1,1,0,1,0,0,2
+7211,Zargo Touré,90,0,0,0.0,0,33,28,0,0,0.0,0,0,2,3,0,0,1,1,2,0,5,0,2,1,1,18
+7336,Jimmy Cabot,76,1,0,0.019310655,1,39,28,0,2,0.32703955,3,1,12,0,1,0,3,1,9,1,0,0,5,3,1,21
+7346,Lindsay Rose,90,0,0,0.0,0,26,21,0,0,0.0,1,0,3,1,1,1,5,1,2,0,7,0,2,1,0,13
+7567,Maxime Barthelmé,66,1,0,0.25082335,1,23,15,0,1,0.28040385,2,1,12,1,1,0,3,1,3,0,0,2,0,1,1,10
+7615,Abdul Majeed Waris,90,5,1,1.182516154,4,17,14,0,0,0.0,1,1,4,1,0,0,1,0,2,3,0,0,0,0,0,11
+7766,Walid Mesloub,90,2,0,0.029355372,1,64,46,1,3,0.7072797399999999,1,0,7,1,3,0,1,1,6,0,0,1,0,1,0,24
+22587,Didier Ndong Ibrahim,90,1,0,0.04309412,0,38,33,0,2,0.197063595,2,1,10,2,1,0,4,2,5,3,0,3,1,2,2,34

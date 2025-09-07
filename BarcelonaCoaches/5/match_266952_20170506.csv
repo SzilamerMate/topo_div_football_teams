@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4320,Neymar da Silva Santos Junior,90,4,1,0.6495804780000001,2,66,47,0,2,0.12084307,13,10,20,1,7,1,4,2,10,14,0,0,3,3,2,20
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,90,82,1,1,0.03814517,0,0,6,1,0,0,1,0,3,0,0,1,1,0,0,16
+5211,Jordi Alba Ramos,15,0,0,0.0,0,16,16,0,0,0.0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,1
+5213,Gerard Piqué Bernabéu,90,1,0,0.44242033,0,81,77,0,0,0.0,0,0,16,0,0,0,2,1,3,0,4,1,2,1,0,7
+5216,Andrés Iniesta Luján,90,2,0,0.056558866,1,102,95,0,1,0.017665336,1,1,9,2,0,0,3,1,7,2,0,0,0,2,1,14
+5246,Luis Alberto Suárez Díaz,90,6,1,0.347613169,1,26,19,0,2,0.111466327,1,0,9,1,1,0,2,2,6,5,1,0,0,2,1,8
+5470,Ivan Rakitić,82,0,0,0.0,0,49,43,0,1,0.037526485,1,1,5,1,3,0,2,1,5,0,0,2,2,1,0,11
+5492,Samuel Yves Umtiti,90,0,0,0.0,0,68,63,0,0,0.0,0,0,10,3,0,0,3,1,1,0,2,0,0,1,0,9
+5503,Lionel Andrés Messi Cuccittini,90,6,2,1.0248502419999999,4,70,63,0,3,0.73182377,2,1,16,0,2,1,0,0,2,5,0,0,0,0,0,10
+5506,Javier Alejandro Mascherano,13,0,0,0.0,0,6,6,0,0,0.0,0,0,0,0,0,0,3,2,0,0,0,0,0,3,0,4
+6379,Sergi Roberto Carnicer,77,0,0,0.0,0,60,55,1,1,0.08310481,1,0,7,1,0,0,3,0,0,2,0,0,3,2,0,9
+6849,Lucas Digne,75,1,0,0.017665336,0,68,60,0,1,0.06699051,1,1,7,1,0,0,5,1,7,3,3,0,1,5,0,8
+10802,André Filipe Tavares Gomes,8,0,0,0.0,0,8,8,0,0,0.0,1,1,3,0,0,0,1,1,0,0,0,0,1,1,1,3
+20055,Marc-André ter Stegen,90,0,0,0.0,0,36,35,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0

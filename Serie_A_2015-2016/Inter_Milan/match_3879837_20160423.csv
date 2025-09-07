@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3434,Stevan Jovetić,90,5,2,1.6114313630000001,3,57,45,0,1,0.04876985,1,0,12,1,4,1,3,0,4,3,1,1,1,0,0,7
+5469,Marcelo Brozović,90,6,0,0.492879253,1,86,64,1,1,0.33084977,1,1,16,0,1,0,3,3,9,2,2,0,1,3,1,14
+5474,Ivan Perišić,26,2,0,0.28347896,0,17,12,0,0,0.0,0,0,1,0,0,0,1,0,3,0,1,0,1,0,0,2
+5551,João Miranda de Souza Filho,90,1,0,0.037271753,0,52,48,0,0,0.0,0,0,5,2,0,0,2,0,8,1,3,0,0,0,0,9
+5690,Yuto Nagatomo,90,1,0,0.0170332,1,72,51,0,3,0.107813168,0,0,15,1,1,1,2,0,4,1,1,0,1,1,0,15
+6585,Jeison Fabián Murillo Cerón,90,0,0,0.0,0,46,41,0,1,0.024551842,0,0,3,2,2,1,12,4,9,1,7,0,5,6,1,18
+6589,Geoffrey Kondogbia,90,2,0,0.058071663999999995,1,75,66,0,3,0.111482311,2,1,12,2,0,0,2,0,5,1,0,1,1,1,0,23
+6969,Juan Guilherme Nunes Jesus,64,1,0,0.018136043,0,57,48,0,3,0.107523911,1,0,12,0,0,0,1,0,9,0,6,0,2,1,0,5
+6984,Danilo D''Ambrosio,6,0,0,0.0,0,2,1,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+6987,Mauro Emanuel Icardi Rivero,79,3,0,0.691325376,0,17,11,1,2,1.00099367,1,0,5,0,2,1,1,0,0,1,0,0,1,0,0,5
+7000,Eder Citadin Martins,11,1,1,0.33084977,1,3,3,0,0,0.0,1,1,1,0,0,0,1,1,0,1,0,0,0,1,1,3
+7001,Samir Handanovič,90,0,0,0.0,0,22,17,0,0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11497,Jonathan Ludovic Biabiany,84,2,0,0.051125353,2,50,40,0,6,0.957075992,2,1,9,0,0,0,5,0,4,0,0,0,1,2,0,11
+25430,Felipe Melo de Carvalho,90,2,0,0.066899354,0,57,52,0,0,0.0,0,0,8,0,4,1,3,1,6,0,3,0,0,1,1,13

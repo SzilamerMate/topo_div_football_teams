@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6948,Sergio Floccari,74,0,0,0.0,0,11,9,0,0,0.0,1,0,3,2,2,1,5,0,2,2,3,0,2,0,0,24
+7164,Ibrahima Mbaye,58,1,0,0.044999864,0,34,22,0,0,0.0,1,0,2,0,2,1,3,0,2,2,1,1,7,1,0,13
+7169,Adam Masina,90,0,0,0.0,0,51,38,0,0,0.0,2,1,5,2,0,0,2,0,3,1,6,0,5,1,0,11
+7174,Antonio Mirante,90,0,0,0.0,0,42,25,0,0,0.0,0,0,4,0,0,0,0,0,10,0,0,0,0,0,0,0
+7775,Emanuele Giaccherini,90,0,0,0.0,0,37,30,0,3,0.298998014,2,1,5,0,2,0,3,0,4,2,1,0,1,0,0,18
+8103,Mattia Destro,16,0,0,0.0,0,5,5,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+8280,Godfred Donsah,76,1,0,0.16717885,0,18,11,0,0,0.0,3,2,3,0,0,0,5,0,5,2,4,2,2,1,0,18
+8284,Amadou Diawara,90,1,0,0.028539505,0,41,33,0,0,0.0,0,0,3,3,0,0,4,0,7,0,2,0,5,1,0,32
+8849,Domenico Maietta,90,0,0,0.0,0,37,31,0,0,0.0,1,0,2,0,1,1,5,2,1,1,7,4,2,4,0,16
+8851,Saphir Sliti Taïder,90,0,0,0.0,0,29,25,0,0,0.0,0,0,5,2,4,1,5,1,9,4,1,1,0,4,1,26
+11729,Luca Rizzo,90,2,0,0.23559488,0,36,25,1,1,0.053000618,4,1,7,1,3,1,5,0,8,2,0,1,2,1,0,28
+30745,Daniele Gastaldello,90,0,0,0.0,0,43,36,0,0,0.0,0,0,8,0,1,1,0,0,5,0,6,1,1,0,0,10
+40119,Juan Camilo Zúñiga Mosquera,32,0,0,0.0,0,11,9,0,0,0.0,0,0,2,1,0,0,2,1,3,0,1,0,0,2,0,9
+45591,Franco Brienza,14,1,1,0.053000618,1,7,7,0,0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,3

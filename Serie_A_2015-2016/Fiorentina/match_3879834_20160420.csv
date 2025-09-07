@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3112,Anton Ciprian Tătărușanu,90,0,0,0.0,0,27,22,0,0,0.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+3964,Marcos Alonso Mendoza,90,1,0,0.025681948,0,56,47,0,2,0.03062288,1,0,7,2,3,2,1,0,7,0,6,1,2,1,0,11
+5255,Matías Vecino Falero,60,1,0,0.021922315,0,50,46,0,0,0.0,0,0,7,3,0,0,5,2,3,0,2,0,3,3,0,8
+5663,Jakub Błaszczykowski,90,0,0,0.0,0,47,36,0,0,0.0,1,0,7,1,2,1,1,0,2,1,0,0,2,1,0,9
+6305,Milan Badelj,90,1,0,0.01677675,0,85,67,0,0,0.0,1,1,6,2,4,1,2,0,9,0,1,1,1,1,0,8
+6658,Cristian Tello Herrera,71,0,0,0.0,0,47,34,0,0,0.0,2,1,10,0,1,1,2,1,3,2,1,0,2,2,0,9
+6830,Facundo Sebastián Roncaglia,90,0,0,0.0,0,68,64,0,0,0.0,1,0,6,1,2,2,2,0,4,0,4,2,2,0,0,8
+6997,Borja Valero Iglesias,30,1,0,0.032617845,0,40,35,0,1,0.035762407,1,1,9,0,1,0,1,1,4,0,0,0,2,1,1,3
+7033,Nikola Kalinić,30,0,0,0.0,0,7,6,0,0,0.0,0,0,1,0,0,0,4,0,1,0,0,0,0,1,0,5
+7056,Nenad Tomović,90,0,0,0.0,0,81,68,0,1,0.086690284,1,0,26,3,2,0,5,1,4,0,6,1,2,1,1,3
+7139,Josip Iličić,19,1,0,0.04247322,0,20,13,0,0,0.0,2,1,5,0,0,0,0,0,0,1,0,0,0,0,0,4
+7777,Federico Bernardeschi,60,0,0,0.0,0,25,19,0,0,0.0,1,0,8,1,0,0,1,0,3,1,0,0,2,0,0,13
+25931,Gonzalo Javier Rodríguez,90,0,0,0.0,0,50,44,0,0,0.0,0,0,8,0,1,1,4,0,5,0,4,0,2,1,0,11
+27853,Mauro Matías Zárate,90,4,1,0.489752756,3,31,22,0,0,0.0,4,3,17,2,0,0,2,0,4,8,0,0,3,0,0,13

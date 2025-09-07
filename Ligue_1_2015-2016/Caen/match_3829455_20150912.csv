@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2955,Ronny Rodelin,60,1,0,0.06954019,0,29,17,1,1,0.21440247,1,0,1,2,1,0,1,1,2,0,2,3,2,1,0,10
+2959,Julien Féret,90,1,1,0.21440247,1,30,20,1,3,0.30288011000000004,1,0,6,0,2,0,3,0,9,3,1,5,0,1,0,15
+2963,Rémy Vercoutre,90,0,0,0.0,0,23,18,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+2979,Jonathan Delaplace,5,0,0,0.0,0,4,2,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+2991,Hervé Bazile,16,1,0,0.07571466,1,9,6,0,0,0.0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,8
+2992,Vincent Bessat,74,4,1,0.220758226,1,29,20,0,1,0.10338515,4,4,8,0,0,0,3,0,7,0,1,2,0,1,0,17
+3038,Andy Delort,90,5,0,0.21027298299999997,2,29,16,0,4,0.190131156,3,1,9,1,2,1,10,2,6,3,0,0,1,2,2,24
+4474,Emmanuel Imorou,90,0,0,0.0,0,32,22,0,0,0.0,3,2,5,2,1,1,1,0,1,0,4,2,4,1,0,26
+5656,Syam Ben Youssef,90,1,1,0.19143204,1,19,15,0,1,0.039644066,0,0,3,2,0,0,4,1,5,1,3,1,2,2,0,5
+7344,Jordan Adéoti,90,0,0,0.0,0,17,12,0,0,0.0,1,1,2,0,0,0,5,3,2,2,2,1,4,5,0,23
+7444,Alaeddine Yahia,90,2,0,0.22230267999999997,1,19,14,0,0,0.0,0,0,4,1,1,1,3,1,2,0,9,1,2,1,1,6
+22111,Dennis Appiah,90,0,0,0.0,0,33,25,0,1,0.064961806,1,0,4,0,0,0,1,1,2,0,1,3,0,1,1,23
+40698,Nicolas Seube,85,0,0,0.0,0,24,15,0,0,0.0,1,0,2,1,1,1,4,4,5,0,2,2,1,4,1,24
+40701,Jordan Leborgne,30,1,0,0.03772129,1,11,9,0,2,0.065906491,2,0,3,0,0,0,0,0,2,0,0,0,1,0,0,13

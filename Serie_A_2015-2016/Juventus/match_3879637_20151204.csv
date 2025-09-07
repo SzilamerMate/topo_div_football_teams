@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3477,Álvaro Borja Morata Martín,9,0,0,0.0,0,3,2,0,0,0.0,0,0,1,0,2,0,3,0,0,1,0,0,1,1,0,4
+5472,Mario Mandžukić,81,0,0,0.0,0,26,15,1,1,0.02172551,1,1,2,4,2,2,8,0,1,1,2,1,1,3,0,29
+5541,Stephan Lichtsteiner,90,0,0,0.0,0,38,24,0,0,0.0,0,0,8,1,2,0,2,0,3,1,4,0,3,0,0,12
+5689,Juan Guillermo Cuadrado Bello,11,0,0,0.0,0,3,3,0,0,0.0,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,5
+5743,Paulo Bruno Exequiel Dybala,79,4,1,0.150849976,1,30,22,0,0,0.0,6,4,9,0,1,0,3,1,10,6,0,0,0,2,1,13
+6940,Kwadwo Asamoah,68,1,0,0.040440053,0,20,16,0,1,0.03568792,2,2,1,0,1,0,3,2,1,1,1,0,0,3,0,11
+6943,Andrea Barzagli,90,0,0,0.0,0,33,27,0,0,0.0,2,1,2,1,1,1,3,1,5,2,4,0,1,3,1,15
+6945,Alex Sandro Lobo Silva,90,0,0,0.0,0,36,31,0,2,0.11436928799999999,4,1,9,3,4,0,5,3,3,3,4,1,0,3,1,20
+6949,Gianluigi Buffon,90,0,0,0.0,0,28,18,0,0,0.0,0,0,3,0,0,0,0,0,8,0,0,0,0,0,0,0
+6954,Giorgio Chiellini,90,0,0,0.0,0,47,33,0,0,0.0,1,1,3,1,1,0,4,2,5,0,9,1,2,3,1,12
+7013,Stefano Sturaro,90,0,0,0.0,0,32,22,0,0,0.0,2,1,9,1,1,0,4,1,3,4,2,0,4,2,0,23
+7173,Leonardo Bonucci,90,1,0,0.020197356,0,39,32,0,0,0.0,0,0,1,1,0,0,3,1,4,0,5,0,4,1,0,10
+8294,Claudio Marchisio,90,1,0,0.02251146,0,44,40,0,1,0.020197356,1,1,3,3,0,0,4,0,14,2,4,2,2,2,0,35
+20008,Patrice Evra,22,0,0,0.0,0,12,9,0,0,0.0,0,0,3,1,1,0,2,0,0,1,0,0,3,2,0,7

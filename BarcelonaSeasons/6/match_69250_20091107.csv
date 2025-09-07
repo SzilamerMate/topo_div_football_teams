@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3087,Gnégnéri Yaya Touré,90,3,0,0.033256505000000006,1,77,70,0,0,0.0,6,5,9,1,4,1,1,0,7,2,0,1,4,0,0,5
+3672,Zlatan Ibrahimović,90,3,0,0.247985944,0,41,28,1,3,0.67893159,9,7,4,0,4,2,3,0,4,3,1,0,0,0,0,4
+3958,Pedro Eliezer Rodríguez Ledesma,50,3,2,0.79384466,3,15,11,0,1,0.007310414,0,0,1,1,2,0,0,0,2,0,0,0,0,0,0,7
+5203,Sergio Busquets i Burgos,60,1,0,0.13275833,1,40,35,1,2,0.633236817,1,1,2,0,5,0,4,2,5,0,0,1,1,3,1,8
+5213,Gerard Piqué Bernabéu,90,0,0,0.0,0,85,76,0,0,0.0,1,0,19,0,0,0,4,2,6,1,9,0,1,2,2,3
+5216,Andrés Iniesta Luján,8,0,0,0.0,0,9,8,0,1,0.04762856,0,0,2,0,0,0,1,0,1,0,0,0,0,1,0,1
+5503,Lionel Andrés Messi Cuccittini,40,2,1,1.02429898,1,25,20,0,1,0.19499747,7,4,11,0,2,0,0,0,2,1,0,0,1,0,0,5
+15516,Thierry Henry,82,3,1,0.881139,3,19,15,0,0,0.0,1,0,6,1,0,0,0,0,2,1,0,0,0,0,0,5
+18608,Dmytro Chygrynskiy,90,0,0,0.0,0,84,77,0,0,0.0,0,0,20,2,0,0,1,0,4,0,5,1,1,0,0,2
+20125,Carles Puyol i Saforcada,90,0,0,0.0,0,48,38,0,0,0.0,1,1,4,2,3,3,4,1,3,1,3,0,1,2,0,6
+20131,Xavier Hernández Creus,30,0,0,0.0,0,34,31,0,0,0.0,1,1,6,1,0,0,3,2,1,1,0,0,1,3,2,6
+20169,Seydou Kéita,90,1,0,0.055216957,0,49,42,0,1,0.17132434,3,1,5,9,2,0,4,2,3,1,1,0,1,2,1,12
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,36,21,0,0,0.0,0,0,5,0,0,0,0,0,7,0,0,0,0,0,0,0
+20177,Eric-Sylvain Bilal Abidal,90,0,0,0.0,0,59,43,0,0,0.0,3,2,7,0,1,0,3,1,3,2,3,1,0,1,1,4

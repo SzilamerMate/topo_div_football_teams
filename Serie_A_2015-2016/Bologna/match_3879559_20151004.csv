@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+7142,Luca Rossettini,43,0,0,0.0,0,21,19,0,0,0.0,0,0,2,1,0,0,2,1,0,0,1,0,1,1,0,2
+7169,Adam Masina,90,0,0,0.0,0,45,33,1,1,0.18695833,4,2,8,1,0,0,1,1,3,0,6,2,3,1,1,19
+7174,Antonio Mirante,90,0,0,0.0,0,36,19,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+7175,Erick Antonio Pulgar Farfán,69,0,0,0.0,0,28,23,0,0,0.0,1,0,2,1,1,1,1,1,3,0,0,0,1,1,0,25
+7704,Alex Ferrari,90,0,0,0.0,0,46,38,0,0,0.0,3,2,13,1,2,1,6,4,2,3,0,1,3,6,4,24
+8103,Mattia Destro,90,0,0,0.0,0,16,10,0,0,0.0,0,0,2,3,0,0,5,0,2,1,2,0,0,0,0,18
+8284,Amadou Diawara,90,0,0,0.0,0,45,39,0,0,0.0,0,0,3,1,1,0,1,1,7,0,2,1,0,1,1,15
+8873,Marios Oikonomou,90,0,0,0.0,0,45,39,0,0,0.0,0,0,4,0,0,0,4,3,3,0,2,3,2,4,1,10
+11729,Luca Rizzo,90,0,0,0.0,0,18,13,0,0,0.0,1,1,3,0,1,0,4,3,2,1,1,1,1,4,1,32
+18027,Matteo Brighi,21,0,0,0.0,0,7,6,0,0,0.0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,0,11
+30745,Daniele Gastaldello,47,0,0,0.0,0,16,15,0,0,0.0,0,0,2,1,0,0,2,0,2,0,2,1,4,0,0,8
+30770,Filippo Falco,15,1,0,0.043353457,0,9,9,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3
+34565,Anthony Mounier,90,1,1,0.18695833,1,29,18,0,0,0.0,4,2,6,1,4,0,13,1,5,1,0,0,2,2,1,34
+45591,Franco Brienza,75,0,0,0.0,0,24,18,0,0,0.0,4,1,3,1,0,0,2,0,3,0,0,0,0,0,0,22

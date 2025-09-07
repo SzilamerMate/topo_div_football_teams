@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5557,Timo Werner,66,5,0,0.41277667500000004,1,21,19,0,1,0.17002773,0,0,5,0,2,0,4,2,0,2,0,0,0,2,1,12
+5591,Filip Kostić,90,1,0,0.0063287662,1,34,21,0,0,0.0,1,1,7,1,0,0,5,0,6,4,1,0,3,2,0,13
+8243,Daniel Didavi,61,1,0,0.030207902,0,37,31,0,1,0.11001341,0,0,6,5,1,1,4,0,0,2,0,2,0,0,0,27
+8270,Daniel Schwaab,90,0,0,0.0,0,57,50,0,0,0.0,0,0,12,1,0,0,3,0,1,0,3,1,1,0,0,9
+8550,Alexandru Iulian Maxim,29,1,0,0.033828143,0,27,16,0,2,0.09193111600000001,0,0,2,0,2,1,0,0,0,0,0,0,2,0,0,7
+8557,Martin Harnik,20,3,1,0.931964697,3,4,3,0,0,0.0,1,1,1,2,0,0,0,0,1,1,0,0,1,0,0,2
+8959,Christian Gentner,90,4,0,0.271068276,2,57,47,0,0,0.0,2,1,8,2,4,2,3,0,6,0,2,1,0,1,0,18
+9082,Przemysław Tytoń,90,0,0,0.0,0,29,20,0,0,0.0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+11395,Lukas Rupp,90,1,0,0.099384926,0,43,31,0,4,0.12529775499999998,1,0,10,2,0,0,13,2,8,5,2,1,2,5,1,25
+12626,Emiliano Adrián Insúa Zapata,90,0,0,0.0,0,50,37,0,4,0.37218610999999996,4,1,4,1,1,0,6,0,5,0,5,1,3,2,0,12
+20665,Kevin Großkreutz,90,0,0,0.0,0,46,37,0,0,0.0,0,0,7,1,2,1,2,1,4,2,3,0,2,2,1,5
+27639,Artem Kravets,24,1,0,0.14232987,0,4,4,0,0,0.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+34558,Sereso Geoffroy Gonzaroua Dié,70,1,0,0.025867425,0,32,30,0,2,0.0400089062,1,1,5,1,2,1,3,2,5,0,5,1,2,3,1,9
+40470,Georg Niedermeier,90,0,0,0.0,0,48,39,0,0,0.0,0,0,10,0,2,2,4,2,3,0,2,0,0,2,0,9

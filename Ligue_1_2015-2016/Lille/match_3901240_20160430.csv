@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3211,Florent Balmont,5,0,0,0.0,0,8,7,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+3218,Marcos Paulo Mesquita Lopes,65,4,1,0.22117777,1,24,21,0,1,0.045333177,2,2,11,1,2,0,3,1,3,5,0,0,1,3,1,16
+3425,Morgan Amalfitano,90,2,0,0.09877871900000001,2,42,30,0,7,0.456267693,3,2,10,2,4,3,4,0,4,1,0,2,3,1,0,10
+3446,Djibril Sidibé,90,1,0,0.1379643,0,62,50,0,2,0.08766539400000001,0,0,3,2,0,0,1,0,1,0,1,1,5,1,0,13
+3625,Sofiane Boufal,25,0,0,0.0,0,7,6,0,0,0.0,2,1,3,0,0,0,1,0,1,2,1,0,0,1,0,5
+3673,Yassine Benzia,9,1,0,0.045333177,0,3,2,0,0,0.0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,2
+3677,Bakary Adama Soumaoro,90,1,0,0.050327007,0,40,37,0,0,0.0,1,0,7,0,0,0,6,1,6,0,4,2,2,2,0,7
+6716,Sébastien Corchia,90,1,0,0.04055892,0,39,30,0,0,0.0,1,0,7,0,1,0,8,2,4,2,0,3,1,8,1,14
+11332,Ibrahim Amadou,90,0,0,0.0,0,47,41,0,0,0.0,0,0,8,2,0,0,6,1,6,0,2,3,4,2,1,18
+15996,Éderzito António Macedo Lopes,81,4,0,0.22741746599999998,2,27,22,1,1,0.1189156,0,0,3,4,2,0,6,0,0,2,0,1,0,0,0,9
+23203,Stopilla Sunzu,90,0,0,0.0,0,37,33,0,0,0.0,0,0,1,0,0,0,6,2,1,0,7,2,3,3,0,11
+40484,Vincent Enyeama,90,0,0,0.0,0,48,36,0,0,0.0,0,0,3,0,1,1,0,0,9,0,0,0,0,0,0,0
+40522,Rio Antonio Zoba Mavuba,85,0,0,0.0,0,56,46,0,0,0.0,0,0,2,1,0,0,0,0,3,2,0,1,3,0,0,13
+40697,Mounir Obbadi,90,0,0,0.0,0,78,66,0,1,0.0343299,1,1,16,3,0,0,3,1,5,2,1,2,3,2,1,25

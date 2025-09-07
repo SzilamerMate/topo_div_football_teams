@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3385,Alexis Alejandro Sánchez Sánchez,90,2,0,0.24893874,2,50,40,1,3,0.925232507,7,1,13,1,4,2,8,2,8,2,0,0,0,4,0,14
+3478,Francesc Fàbregas i Soler,62,0,0,0.0,0,57,49,0,1,0.022888191,2,1,4,0,3,0,5,1,0,1,3,1,3,1,1,9
+3958,Pedro Eliezer Rodríguez Ledesma,28,0,0,0.0,0,12,10,0,0,0.0,1,1,5,1,0,0,0,0,3,0,0,0,1,0,0,5
+4324,Daniel Alves da Silva,90,0,0,0.0,0,87,68,0,1,0.07913254,3,1,10,2,4,3,10,4,13,3,2,0,2,7,4,18
+5203,Sergio Busquets i Burgos,90,0,0,0.0,0,71,58,0,0,0.0,1,0,3,2,1,0,6,1,7,1,4,1,1,1,0,11
+5211,Jordi Alba Ramos,90,0,0,0.0,0,65,55,1,1,0.1028128,1,0,6,1,3,1,4,1,5,1,4,1,3,2,1,6
+5213,Gerard Piqué Bernabéu,90,0,0,0.0,0,64,53,0,0,0.0,0,0,10,1,0,0,1,0,6,0,3,0,4,0,0,2
+5216,Andrés Iniesta Luján,69,4,0,0.540203358,1,46,38,0,3,0.158803878,3,0,7,0,1,0,0,0,8,3,1,1,2,0,0,4
+5503,Lionel Andrés Messi Cuccittini,90,7,2,0.8007881500000001,6,50,41,0,2,0.276837785,12,7,20,1,2,0,0,0,5,3,0,0,2,0,0,4
+6658,Cristian Tello Herrera,74,2,0,0.137335186,1,20,12,0,1,0.03472409,2,1,1,0,0,0,2,1,2,0,0,0,0,1,1,9
+12737,David Villa Sánchez,16,0,0,0.0,0,9,8,0,0,0.0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,1
+20125,Carles Puyol i Saforcada,90,0,0,0.0,0,45,37,0,0,0.0,1,1,11,2,2,2,3,1,8,1,8,0,3,2,0,7
+20131,Xavier Hernández Creus,21,0,0,0.0,0,25,25,0,0,0.0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1
+20176,Víctor Valdés Arribas,90,0,0,0.0,0,34,19,0,0,0.0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0

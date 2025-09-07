@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3263,Craig Cathcart,90,0,0,0.0,0,56,46,0,1,0.024417752,0,0,7,0,1,1,0,0,1,0,5,1,1,0,0,4
+3309,Sebastian Prödl,90,0,0,0.0,0,44,40,0,0,0.0,0,0,7,2,0,0,5,1,0,0,2,1,1,2,1,8
+3454,Troy Deeney,90,4,0,0.21149319200000002,1,27,16,0,4,0.1068295577,1,1,1,1,1,1,6,0,5,1,1,0,1,0,0,11
+3522,Heurelho da Silva Gomes,90,0,0,0.0,0,26,18,0,0,0.0,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,1
+3721,Etienne Capoue,90,1,0,0.030354165,0,85,73,0,2,0.108716936,5,5,21,3,2,0,5,2,6,4,1,0,4,2,2,20
+3991,Allan Romeo Nyom,90,1,0,0.04925947,1,78,63,0,0,0.0,3,1,20,1,0,0,3,1,5,4,1,0,4,3,0,16
+5458,Odion Jude Ighalo,90,6,0,0.3898914877,2,20,17,0,0,0.0,1,0,4,2,3,1,15,2,5,3,1,0,3,2,1,20
+5540,Valon Behrami,90,0,0,0.0,0,56,42,0,0,0.0,2,1,10,3,1,0,11,4,9,1,0,0,4,6,0,39
+5556,Miguel Arturo Layún Prado,54,0,0,0.0,0,28,19,0,1,0.08240895,0,0,4,0,0,0,3,1,1,2,0,0,1,2,0,12
+6870,José Manuel Jurado Marín,82,3,0,0.178850436,0,52,38,0,3,0.176805365,8,6,13,0,2,0,2,1,10,4,0,0,2,2,0,17
+7745,Steven Berghuis,8,0,0,0.0,0,5,3,0,0,0.0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,4
+40118,Ikechi Anya,90,0,0,0.0,0,86,68,0,2,0.123630745,0,0,13,0,1,0,3,0,5,0,1,0,2,2,0,12
+43081,Almen Abdi,36,1,0,0.040625855,1,34,31,0,1,0.20005704,0,0,4,0,0,0,1,1,2,0,0,0,1,1,1,9

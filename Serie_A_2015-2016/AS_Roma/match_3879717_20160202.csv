@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3167,Antonio Rüdiger,90,0,0,0.0,0,36,32,0,0,0.0,0,0,5,0,0,0,2,0,5,0,2,0,5,0,0,17
+3531,Mohamed Salah,90,4,1,0.261530942,2,35,28,0,3,0.9858592150000001,3,2,7,1,2,1,2,1,7,2,1,0,1,1,1,21
+4355,Emerson Palmieri dos Santos,11,0,0,0.0,0,3,1,0,0,0.0,0,0,1,0,0,0,0,0,1,0,2,1,0,0,0,2
+5669,Wojciech Szczęsny,90,0,0,0.0,0,45,23,0,0,0.0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0
+6947,Miralem Pjanić,61,0,0,0.0,0,60,51,1,4,0.276745173,1,1,6,0,1,0,5,2,1,3,0,1,2,4,0,20
+6962,Radja Nainggolan,90,2,0,0.122250885,0,46,40,0,0,0.0,2,0,6,4,1,0,5,1,3,0,2,1,0,1,0,13
+6979,Stephan El Shaarawy,90,4,1,1.1451421000000002,2,35,28,0,0,0.0,3,2,9,1,0,0,4,1,4,3,1,0,1,1,1,23
+7051,Daniele De Rossi,42,0,0,0.0,0,23,21,0,0,0.0,0,0,3,0,0,0,3,1,0,0,0,1,0,2,0,3
+7137,Ervin Zukanović,90,0,0,0.0,0,33,29,0,0,0.0,1,1,2,1,0,0,2,0,2,0,8,2,0,0,0,6
+7456,Diego Perotti,90,1,0,0.027609581,0,52,42,1,1,0.47344434,0,0,13,2,4,0,5,3,3,2,0,0,4,4,2,45
+19299,Maicon Douglas Sisenando,79,1,0,0.29509887,0,64,47,0,0,0.0,2,2,8,0,1,1,4,1,11,1,1,0,6,2,0,11
+20043,Norbert Gyömbér,48,0,0,0.0,0,29,23,0,2,0.0548818,0,0,2,1,1,1,2,1,3,0,4,0,5,1,0,9
+20169,Seydou Kéita,90,0,0,0.0,0,53,45,0,0,0.0,0,0,2,3,1,0,2,1,7,1,4,0,2,1,0,14
+23241,William Vainqueur,29,1,0,0.027272219,1,9,9,0,0,0.0,0,0,1,2,1,0,0,0,3,1,1,1,0,0,0,11

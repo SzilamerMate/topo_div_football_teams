@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3168,João Filipe Iria Santos Moutinho,90,2,0,0.120037846,0,60,49,0,3,0.135459326,0,0,10,0,4,0,7,1,5,1,3,2,3,2,0,17
+3218,Marcos Paulo Mesquita Lopes,77,2,0,0.794023012,1,13,9,0,1,0.1935738,1,0,3,0,5,2,4,1,2,0,0,1,2,2,1,29
+3246,Guido Marcelo Carrillo,10,0,0,0.0,0,11,9,0,1,0.049888536,1,1,1,0,0,0,2,0,1,0,0,0,0,0,0,2
+3247,Fábio Henrique Tavares,90,1,0,0.042358138,0,33,30,0,0,0.0,0,0,2,1,0,0,2,1,3,0,3,4,4,2,0,12
+3374,Andrea Raggi,90,1,0,0.15392667,0,54,49,0,0,0.0,0,0,5,0,0,0,2,0,3,0,1,0,0,1,0,6
+3406,Jérémy Toulalan,90,0,0,0.0,0,65,51,0,1,0.032830272,0,0,9,0,4,1,7,4,7,0,8,0,4,6,2,31
+3444,Danijel Subašić,90,0,0,0.0,0,32,25,0,0,0.0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+3553,Lacina Traoré,80,3,0,0.27003600400000005,0,22,9,0,1,0.022279292,2,0,2,3,3,2,4,1,2,2,1,0,0,1,0,14
+4465,Gabriel Boschilia,13,0,0,0.0,0,6,6,0,1,0.010377946,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+6979,Stephan El Shaarawy,88,3,0,0.226231038,0,41,29,0,0,0.0,2,0,18,0,0,0,4,1,4,2,0,0,5,3,1,20
+9931,Hélder Wander Sousa Azevedo Costa,2,0,0,0.0,0,5,2,0,0,0.0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+10805,Ricardo Alberto Silveira de Carvalho,90,1,0,0.029268406,0,62,59,0,0,0.0,0,0,10,0,1,0,8,2,3,0,9,1,2,5,0,13
+11603,Mario Pašalić,90,1,1,0.55498904,1,46,37,0,0,0.0,2,2,8,2,0,0,4,2,6,3,1,1,5,3,1,42
+27558,Elderson Uwa Echiejile,90,1,0,0.03649515,0,71,56,0,2,0.9288491400000001,0,0,6,2,1,1,6,3,3,1,3,2,1,3,1,19

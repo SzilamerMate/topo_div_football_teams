@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3380,Christian Benteke Liolo,61,1,0,0.58307284,0,25,15,0,2,0.0209639124,1,1,2,1,0,0,6,0,2,2,0,0,0,0,0,6
+3471,Dejan Lovren,90,2,0,0.234414165,1,60,51,0,0,0.0,0,0,4,1,0,0,6,4,6,1,12,0,2,4,0,12
+3473,James Philip Milner,90,0,0,0.0,0,61,46,0,2,0.177735475,5,2,6,3,0,0,5,0,6,6,1,0,3,1,0,21
+3515,Alberto Moreno Pérez,90,0,0,0.0,0,68,51,0,1,0.067010865,1,0,2,3,0,0,5,4,7,1,4,0,3,4,0,15
+3529,Daniel Andre Sturridge,29,2,0,0.160415312,0,11,8,0,0,0.0,0,0,3,0,0,0,5,0,1,0,0,0,1,0,0,1
+3535,Roberto Firmino Barbosa de Oliveira,61,1,0,0.010332175,0,38,31,0,1,0.061427988,2,1,4,1,1,1,5,1,4,1,1,0,3,2,0,13
+3539,Simon Mignolet,90,0,0,0.0,0,26,15,0,0,0.0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+3635,Jordon Ibe,74,1,0,0.014474561,0,39,25,0,1,0.020082152,5,2,21,1,0,0,1,0,7,4,0,0,2,0,0,9
+4090,Adam David Lallana,29,0,0,0.0,0,22,17,0,1,0.14033316,3,2,4,0,2,1,2,0,2,0,0,0,0,0,0,5
+4590,Nathaniel Edwin Clyne,90,1,0,0.0064893514,0,58,52,0,0,0.0,2,1,13,0,0,0,3,1,3,1,1,0,1,1,0,12
+4747,Divock Okoth Origi,16,0,0,0.0,0,9,6,0,0,0.0,2,1,4,1,0,0,4,0,1,0,0,0,0,0,0,4
+7780,Lucas Pezzini Leiva,90,0,0,0.0,0,83,67,0,0,0.0,0,0,8,1,1,0,10,5,7,1,5,0,2,7,0,26
+10931,Joe Allen,90,1,0,0.061427988,0,66,52,0,1,0.58307284,4,2,9,1,2,1,7,2,10,2,0,1,2,4,0,19
+18872,Martin Škrtel,90,1,0,0.04570266,0,58,51,0,0,0.0,0,0,4,0,0,0,6,1,2,0,3,0,2,3,0,9

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3412,Assane Dioussé El Hadji,90,0,0,0.0,0,58,49,0,0,0.0,0,0,1,4,1,0,2,0,10,1,4,1,2,0,0,34
+5660,Piotr Zieliński,71,3,0,0.067543006,0,46,38,1,6,0.5678443719999999,1,1,5,1,0,0,4,1,6,0,1,0,4,2,0,21
+7054,Manuel Pucciarelli,90,2,1,0.40595702999999994,1,18,15,0,0,0.0,2,0,2,1,2,0,3,0,4,0,0,1,0,0,0,29
+7150,Riccardo Saponara,90,4,1,0.5054184563999999,1,41,33,1,4,0.526527806,4,3,5,1,1,0,2,1,6,1,2,0,2,1,0,12
+7151,Mário Rui Silva Duarte,90,2,0,0.027870805,0,80,58,0,0,0.0,2,0,6,0,3,1,3,0,5,0,1,1,2,3,0,6
+7155,Vincent Laurini,11,0,0,0.0,0,2,1,0,0,0.0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,1
+7160,Lorenzo Tonelli,90,0,0,0.0,0,33,25,0,1,0.008065462,0,0,0,0,2,1,3,3,2,0,10,2,6,3,2,16
+11508,Łukasz Skorupski,90,0,0,0.0,0,35,21,0,0,0.0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+16308,Leandro Daniel Paredes,19,0,0,0.0,0,9,8,0,0,0.0,1,1,2,1,1,0,0,0,3,0,0,0,0,0,0,7
+17520,Federico Barba,90,0,0,0.0,0,30,26,0,0,0.0,0,0,0,1,0,0,0,0,1,0,9,1,1,0,0,7
+22041,Marko Livaja,23,1,0,0.039030824,0,8,6,0,0,0.0,2,1,3,2,0,0,2,0,1,0,0,0,1,0,0,8
+40250,Marco Zambelli,79,0,0,0.0,0,39,30,0,0,0.0,0,0,10,0,0,0,1,0,3,0,2,1,0,0,0,2
+40251,Daniele Croce,90,1,0,0.02571784,0,39,33,0,2,0.047864178,3,0,10,2,1,0,1,1,2,1,2,2,2,1,1,43
+40252,Massimo Maccarone,67,3,0,0.134881253,0,26,16,0,1,0.0058724214,1,0,4,3,3,1,3,1,3,2,0,0,0,2,0,12

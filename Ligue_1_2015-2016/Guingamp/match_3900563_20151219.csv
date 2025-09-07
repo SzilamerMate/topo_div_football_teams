@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2936,Christophe Kerbrat,90,0,0,0.0,0,33,27,0,0,0.0,0,0,7,0,2,1,3,1,8,0,1,1,2,1,0,17
+3121,Moustapha Elhadji Diallo,66,0,0,0.0,0,27,23,0,0,0.0,3,1,2,2,2,1,2,1,3,1,0,3,2,1,1,17
+3122,Yannis Salibur,90,5,0,0.0725771504,0,41,27,0,4,0.23908160000000003,5,2,15,1,1,0,1,1,9,2,0,1,1,1,1,8
+3124,Jérémy Sorbon,90,2,0,0.259697203,0,37,33,0,0,0.0,0,0,8,1,0,0,2,0,7,0,3,1,0,2,0,12
+3213,Jimmy Briand,90,0,0,0.0,0,43,31,0,1,0.2038094,2,1,8,3,5,2,7,0,1,2,0,0,2,0,0,17
+3301,Nicolas Benezet,24,0,0,0.0,0,19,5,0,0,0.0,1,0,4,0,0,0,4,2,2,1,0,0,1,3,1,8
+3322,Jonas Lössl,90,0,0,0.0,0,34,24,0,0,0.0,0,0,4,0,0,0,0,0,6,0,0,0,0,0,0,0
+3348,Younousse Sankharé,90,1,0,0.10213083,1,45,33,0,1,0.17710218,2,1,8,0,0,0,4,3,2,0,0,1,4,3,1,21
+3363,Marcus Coco,66,3,0,0.37498625399999996,1,9,6,0,0,0.0,3,1,4,1,0,0,2,0,2,4,0,0,2,0,0,23
+3364,Jonathan Martins-Pereira,90,1,0,0.027273493,1,61,44,0,0,0.0,0,0,8,1,0,0,2,0,3,0,1,2,1,2,0,10
+4799,Sloan Privat,24,0,0,0.0,0,9,7,0,0,0.0,0,0,1,0,0,0,3,1,2,0,0,0,0,1,0,1
+7308,Laurent Dos Santos,90,1,0,0.0068257097,1,33,20,0,1,0.1440946,1,1,5,0,1,1,3,0,4,0,7,1,0,1,0,12
+401512,Lionel Mathis,90,0,0,0.0,0,56,47,0,0,0.0,0,0,7,2,2,0,2,2,8,0,2,2,0,2,0,18

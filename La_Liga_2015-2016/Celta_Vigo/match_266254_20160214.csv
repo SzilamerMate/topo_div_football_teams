@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+4558,Pape Cheikh Diop Gueye,8,0,0,0.0,0,8,8,0,0,0.0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+6038,John Guidetti,76,2,1,0.798298771,1,19,16,0,2,0.14415203,4,3,3,1,1,0,3,1,6,1,0,1,1,1,1,19
+6600,Claudio Beauvue,90,3,0,0.07965085749999999,1,15,12,0,0,0.0,3,1,4,0,0,0,3,0,2,1,1,0,2,0,0,8
+6794,Gustavo Daniel Cabral Cáceres,90,0,0,0.0,0,28,22,0,0,0.0,0,0,8,4,1,0,3,2,6,1,2,4,2,3,1,21
+6796,Nemanja Radoja,90,0,0,0.0,0,30,21,0,0,0.0,2,1,2,3,1,0,5,3,3,0,2,0,3,5,0,25
+6797,Daniel Wass,82,3,0,0.266322287,1,34,22,0,2,0.20119741000000002,2,2,7,2,0,0,4,0,4,3,0,0,1,2,0,22
+6801,Pedro Pablo Hernández,64,0,0,0.0,0,25,16,0,0,0.0,0,0,3,3,2,1,11,6,4,1,1,2,3,7,3,19
+6802,Jonathan Castro Otto,90,0,0,0.0,0,34,26,0,1,0.13072407,1,1,6,2,0,0,5,4,6,0,7,2,3,5,2,15
+6805,Hugo Mallo Novegil,90,0,0,0.0,0,31,22,0,1,0.054359287,1,1,2,2,0,0,4,1,2,0,4,3,6,4,0,20
+6884,Sergio Álvarez Conde,90,0,0,0.0,0,26,14,0,0,0.0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,1
+7577,Carles Planas Antolínez,90,1,0,0.13270448,1,32,23,0,0,0.0,1,1,8,1,0,0,1,0,1,1,4,0,3,1,0,16
+27340,Dejan Dražić,14,0,0,0.0,0,6,6,0,0,0.0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,5
+27341,Marcelo Alfonso Díaz Rojas,26,0,0,0.0,0,19,17,0,0,0.0,1,1,2,0,1,0,1,1,1,0,0,2,0,1,0,9
+27342,Josep Señé Escudero,90,1,0,0.0629131,0,28,21,0,1,0.0065142703,3,1,6,2,4,0,1,1,7,5,0,0,5,1,1,26

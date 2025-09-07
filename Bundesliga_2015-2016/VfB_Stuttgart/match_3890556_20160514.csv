@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5557,Timo Werner,31,0,0,0.0,0,8,3,0,0,0.0,1,0,1,0,0,0,4,0,1,0,0,1,2,2,0,16
+5591,Filip Kostić,90,2,0,0.190121923,1,49,29,0,2,0.25501818,3,3,13,2,1,0,2,1,8,4,0,1,5,2,1,30
+8243,Daniel Didavi,90,3,1,0.09737411400000001,2,45,36,0,0,0.0,0,0,7,0,1,0,2,0,2,2,0,1,1,0,0,26
+8270,Daniel Schwaab,90,1,0,0.07785193,0,59,46,0,0,0.0,1,1,12,2,0,0,4,2,8,0,1,1,1,3,0,20
+8550,Alexandru Iulian Maxim,15,1,0,0.06587622,1,7,5,0,1,0.051485825,0,0,2,0,1,0,0,0,2,1,0,0,0,0,0,7
+8557,Martin Harnik,59,3,0,0.261209863,1,22,14,0,1,0.023404326,1,0,6,1,2,1,5,1,4,1,1,0,0,3,0,12
+8956,Timo Baumgartl,90,1,0,0.032601994,1,62,53,0,0,0.0,0,0,13,1,0,0,6,2,6,0,6,0,3,2,1,18
+8959,Christian Gentner,90,0,0,0.0,0,58,45,0,2,0.067899774,0,0,6,4,1,0,4,3,6,0,0,2,1,4,2,30
+9266,Borys Tashchy,45,0,0,0.0,0,12,8,0,0,0.0,0,0,3,2,2,0,2,0,1,1,2,1,0,0,0,11
+11370,Matthias Zimmermann,75,1,0,0.013390083,0,33,23,0,0,0.0,1,1,3,0,0,0,5,0,5,0,1,0,4,2,0,16
+11395,Lukas Rupp,90,0,0,0.0,0,51,43,0,0,0.0,0,0,9,1,1,0,6,3,9,2,0,2,4,3,1,31
+12626,Emiliano Adrián Insúa Zapata,90,0,0,0.0,0,52,44,0,1,0.008938423,2,2,5,3,0,0,3,0,7,1,0,2,3,2,0,24
+27639,Artem Kravets,45,1,0,0.17716625,0,8,6,0,1,0.17769505,2,1,2,0,0,0,5,1,2,3,1,0,1,1,0,21
+37112,Mitchell James Langerak,90,0,0,0.0,0,24,20,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0

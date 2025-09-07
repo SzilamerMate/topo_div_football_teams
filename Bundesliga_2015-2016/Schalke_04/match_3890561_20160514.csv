@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3053,Leroy Sané,71,3,1,0.591076862,3,33,28,0,2,0.091911458,9,5,13,4,3,0,1,0,6,0,1,0,0,0,0,19
+3499,Jean-Eric Maxim Choupo-Moting,90,1,1,0.5277586,1,34,28,0,1,0.04037651,8,6,8,4,4,0,4,0,1,2,0,4,2,1,0,13
+3502,Joël Andre Job Matip,90,1,0,0.042032436,0,78,74,1,1,0.5277586,0,0,10,0,0,0,3,2,0,1,6,2,3,3,1,12
+3510,Sead Kolašinac,90,0,0,0.0,0,58,51,0,1,0.02135157,2,1,12,1,2,0,0,0,5,1,3,6,1,0,0,19
+5242,Younès Belhanda,90,1,0,0.02135157,1,61,51,1,3,0.350550776,6,2,7,1,0,0,7,5,1,1,0,1,3,6,3,30
+6717,Johannes Geis,90,0,0,0.0,0,86,77,0,1,0.042032436,0,0,1,3,2,0,3,2,5,1,2,1,2,3,1,23
+7016,Benedikt Höwedes,90,0,0,0.0,0,54,49,0,2,0.086529876,0,0,7,1,0,0,1,0,4,0,1,3,4,0,0,17
+8060,Klaas-Jan Huntelaar,90,5,1,0.380748764,3,24,22,1,1,0.4451923,0,0,4,1,0,0,3,1,3,1,0,0,0,1,0,23
+8508,Max Meyer,84,1,0,0.042735294,0,44,37,0,0,0.0,1,0,5,0,4,0,0,0,1,4,0,0,1,0,0,13
+8517,Ralf Fährmann,89,0,0,0.0,0,48,36,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0
+8824,Marco Höger,6,0,0,0.0,0,3,3,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+11281,Alessandro Schöpf,19,0,0,0.0,0,13,10,0,0,0.0,1,0,7,0,0,0,1,1,3,1,0,0,0,1,1,5
+16534,Roman Neustädter,90,0,0,0.0,0,54,51,0,0,0.0,0,0,1,0,0,0,3,1,4,0,3,1,1,3,0,17
+20662,Alexander Nübel,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

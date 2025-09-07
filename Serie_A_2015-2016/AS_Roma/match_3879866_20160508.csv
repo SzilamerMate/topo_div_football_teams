@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3167,Antonio Rüdiger,90,2,1,0.5293800580000001,2,48,41,0,0,0.0,0,0,5,1,0,0,4,1,7,1,4,0,3,1,0,13
+3531,Mohamed Salah,58,2,0,0.056019055,0,31,25,0,2,0.076058885,3,2,4,0,0,0,0,0,2,1,0,0,0,0,0,6
+4355,Emerson Palmieri dos Santos,12,1,0,0.029954918,0,10,10,0,0,0.0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,2
+5669,Wojciech Szczęsny,90,0,0,0.0,0,28,27,0,0,0.0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0
+6849,Lucas Digne,90,2,0,0.026633115699999998,2,81,72,0,5,0.24518280600000003,0,0,9,3,0,0,3,1,6,0,1,0,1,2,0,15
+6947,Miralem Pjanić,90,2,1,0.424439284,1,104,93,1,5,0.622006576,1,0,11,1,1,0,0,0,1,0,0,1,3,0,0,15
+6962,Radja Nainggolan,90,2,1,0.087619822,2,86,79,0,3,0.09543998799999999,4,3,9,3,1,0,2,2,7,1,1,0,3,2,2,16
+6964,Alessandro Florenzi,90,1,0,0.011529579,0,79,72,0,1,0.013271608,2,1,15,1,0,0,2,1,6,0,1,1,1,2,0,15
+6979,Stephan El Shaarawy,78,5,0,0.18671991200000002,1,44,36,0,0,0.0,1,1,9,0,0,0,2,0,3,2,1,0,1,0,0,15
+6980,Kevin Strootman,25,0,0,0.0,0,32,32,0,0,0.0,0,0,0,1,0,0,1,1,4,0,0,0,1,1,1,9
+7048,Konstantinos Manolas,90,0,0,0.0,0,59,54,0,0,0.0,0,0,4,2,1,1,1,0,6,0,2,1,3,0,0,14
+7051,Daniele De Rossi,65,0,0,0.0,0,52,51,0,2,0.045478183,0,0,5,1,1,0,2,0,3,0,1,1,1,0,0,9
+7456,Diego Perotti,90,5,0,0.230925627,3,71,60,0,2,0.049573455,8,7,15,2,4,0,2,0,2,1,1,0,2,1,0,26
+15780,Francesco Totti,32,1,0,0.023573954,0,45,38,1,2,0.3975052587,1,0,4,0,0,0,2,1,3,2,0,0,0,1,0,5

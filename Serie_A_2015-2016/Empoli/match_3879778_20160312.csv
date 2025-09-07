@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5660,Piotr Zieliński,90,1,0,0.072769344,0,62,53,0,2,0.12803576,4,2,11,2,0,0,4,2,6,3,1,1,0,2,0,20
+7054,Manuel Pucciarelli,90,3,0,0.31810455,0,34,29,0,2,0.32134822700000004,0,0,7,0,2,0,4,3,6,2,0,0,2,4,2,25
+7150,Riccardo Saponara,90,1,0,0.09552696,1,39,27,0,1,0.023346916,0,0,8,1,3,0,0,0,2,1,0,0,0,0,0,14
+7151,Mário Rui Silva Duarte,90,1,0,0.05043916,0,91,78,1,2,0.31631012999999997,0,0,12,2,4,4,4,1,4,0,2,1,1,2,0,12
+7155,Vincent Laurini,90,2,1,0.280297307,2,65,58,0,0,0.0,0,0,9,4,1,0,4,1,4,1,2,1,2,2,1,19
+8664,Andrea Costa,90,0,0,0.0,0,84,67,0,0,0.0,0,0,9,3,2,1,3,1,6,0,0,4,4,2,0,8
+11508,Łukasz Skorupski,90,0,0,0.0,0,32,27,0,0,0.0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+13612,Lorenzo Ariaudo,61,0,0,0.0,0,37,28,0,0,0.0,0,0,10,0,0,0,3,1,3,0,1,1,1,1,0,5
+16308,Leandro Daniel Paredes,78,1,0,0.0325088,1,63,45,0,2,0.198949187,2,1,6,1,1,0,3,2,11,0,0,1,2,3,2,12
+18028,Levan Mchedlidze,35,3,0,0.39650887700000004,0,7,6,0,2,0.12700005,0,0,3,0,0,0,2,0,1,1,0,0,1,0,0,7
+22041,Marko Livaja,12,0,0,0.0,0,8,5,0,0,0.0,1,0,2,0,0,0,2,0,0,0,0,0,0,0,0,2
+31172,Luca Bittante,29,0,0,0.0,0,24,15,0,0,0.0,1,0,3,0,0,0,0,0,2,1,0,2,0,0,0,4
+40251,Daniele Croce,90,1,0,0.023346916,0,46,37,0,0,0.0,3,3,19,2,4,1,3,1,12,1,0,0,4,1,0,25
+40252,Massimo Maccarone,55,2,0,0.48845611,1,11,9,0,1,0.05043916,1,0,2,1,0,0,3,0,3,1,0,1,0,0,0,8

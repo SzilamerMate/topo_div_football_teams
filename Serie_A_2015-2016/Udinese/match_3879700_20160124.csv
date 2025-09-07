@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3577,Molla Wagué,90,0,0,0.0,0,43,40,0,0,0.0,0,0,5,1,1,0,4,0,6,0,2,0,3,1,0,15
+3742,Orestis Karnezis,90,0,0,0.0,0,26,16,0,0,0.0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+5204,Bruno Miguel Borges Fernandes,90,3,0,0.059970837299999996,1,62,51,1,3,0.495533424,1,0,11,2,1,0,1,0,5,3,0,5,0,0,0,15
+6938,Felipe Dias da Silva dal Belo,90,1,0,0.086647086,1,32,27,0,1,0.0786722,0,0,3,1,0,0,8,2,5,0,9,3,2,5,0,15
+7017,Duván Esteban Zapata Banguera,35,0,0,0.0,0,13,8,0,1,0.3179148,0,0,3,0,2,0,5,0,2,0,0,0,0,0,0,5
+7796,Silvan Widmer,90,1,0,0.076283924,1,70,46,0,2,0.102180459,1,1,13,2,0,0,7,0,4,1,1,1,4,3,0,18
+7805,Stipe Perica,55,2,0,0.03322861,1,6,5,0,0,0.0,1,0,1,0,2,1,4,0,2,1,1,1,1,0,0,11
+8191,Ali Adnan Kadhim Al Tameemi,24,0,0,0.0,0,21,16,0,1,0.03225123,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+8272,Cyril Théréau,90,5,1,1.0112201239999998,2,39,32,0,1,0.027474334,0,0,11,0,0,0,4,0,2,3,0,0,2,0,0,5
+24722,Emmanuel Agyemang-Badu,78,1,0,0.039917957,1,38,32,0,1,0.011066115,0,0,10,1,2,1,5,0,5,1,2,0,5,0,0,13
+25116,Edenílson Andrade dos Santos,66,0,0,0.0,0,57,41,0,2,0.2284162775,1,1,8,0,1,0,2,1,2,0,0,0,0,1,0,6
+33529,Panagiotis Giorgios Kone,12,2,0,0.054599858,1,13,12,0,1,0.086647086,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,2
+40367,Francesco Lodi,90,3,0,0.156892858,0,106,85,0,1,0.027125524,1,0,14,0,1,0,1,1,13,1,1,0,3,1,0,14
+46670,Iván Rodrigo Piris Leguizamón,90,1,0,0.03225123,0,51,48,0,0,0.0,0,0,11,3,0,0,6,1,7,0,2,0,1,3,0,20

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+6402,Francisco Alcácer García,90,1,0,0.058647245,0,18,13,0,1,0.031548828,2,1,2,1,1,0,7,2,2,2,0,1,2,2,0,27
+6592,Rúben Miguel Nunes Vezo,90,0,0,0.0,0,51,44,0,0,0.0,0,0,6,4,1,1,6,2,4,1,3,1,3,4,1,13
+6594,Santiago Mina Lorenzo,90,1,0,0.30944765,0,40,28,0,0,0.0,3,2,8,2,3,0,6,1,5,3,3,2,3,2,1,25
+6595,Daniel Parejo Muñoz,90,1,0,0.031548828,0,69,59,0,1,0.11039742,1,1,10,1,2,0,5,1,4,3,1,3,3,2,1,30
+6663,Antonio Barragán Fernández,55,0,0,0.0,0,44,29,0,0,0.0,1,0,4,3,2,0,0,0,2,0,0,0,0,0,0,15
+6763,Pablo Daniel Piatti,38,1,0,0.010768479,0,9,5,0,0,0.0,0,0,2,0,1,0,1,1,2,0,0,1,0,1,0,8
+6898,Jaume Doménech Sánchez,90,0,0,0.0,0,39,20,0,0,0.0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+7005,João Pedro Cavaco Cancelo,35,0,0,0.0,0,15,10,0,0,0.0,2,0,3,1,0,0,0,0,1,0,3,0,0,0,0,2
+10037,Danilo Barbosa da Silva,90,0,0,0.0,0,45,40,0,2,0.031799302,5,2,9,2,3,0,1,0,5,0,3,3,1,0,0,13
+10802,André Filipe Tavares Gomes,83,1,0,0.021030823,0,49,35,0,2,0.36809489500000003,3,3,15,2,0,0,9,1,5,2,0,1,1,2,1,25
+20542,Álvaro Negredo Sánchez,7,2,0,0.26520490399999996,0,4,4,0,0,0.0,1,1,0,0,0,0,0,0,3,0,0,0,0,0,0,1
+26780,Guilherme Magdalena Siqueira,90,0,0,0.0,0,55,42,0,0,0.0,0,0,12,1,0,0,2,0,3,0,4,0,4,1,0,11
+27482,Aderllan Leandro de Jesus Santos,90,1,0,0.11039742,0,45,36,0,0,0.0,0,0,7,1,0,0,7,1,0,0,4,2,3,7,0,15
+31469,Andrés Pascual Santoja,52,0,0,0.0,0,6,5,0,0,0.0,2,1,4,0,2,0,4,2,3,0,0,1,0,2,0,6

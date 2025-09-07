@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3193,Bernardo Mota Veiga de Carvalho e Silva,45,1,0,0.10405145,1,23,15,0,0,0.0,2,2,8,0,1,1,4,0,2,2,0,0,1,0,0,7
+3204,Almamy Touré,90,0,0,0.0,0,47,37,0,0,0.0,2,0,5,1,0,0,7,2,4,3,4,2,2,3,1,16
+3245,Thomas Lemar,88,2,1,0.20846403000000002,1,53,34,0,3,0.253999536,3,0,11,1,2,1,3,0,4,4,0,3,0,2,0,33
+3246,Guido Marcelo Carrillo,57,1,0,0.07158919,0,17,13,0,0,0.0,0,0,1,2,0,0,7,0,2,2,1,0,1,0,0,17
+3247,Fábio Henrique Tavares,90,2,1,0.809373037,1,56,50,0,1,0.08988886,1,1,8,3,3,1,5,1,6,2,1,2,2,4,1,22
+3374,Andrea Raggi,90,0,0,0.0,0,34,26,0,0,0.0,0,0,3,1,1,1,3,0,1,0,5,1,1,0,0,2
+3444,Danijel Subašić,90,0,0,0.0,0,39,29,0,0,0.0,0,0,3,0,0,0,0,0,7,1,0,0,0,0,0,0
+4464,Adama Traoré,2,0,0,0.0,0,1,1,0,0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5727,Nabil Dirar,90,2,0,0.074586756,1,43,26,1,2,0.22447144000000002,2,2,17,2,2,0,3,1,9,4,0,4,2,2,1,21
+6979,Stephan El Shaarawy,33,3,0,0.14912925,0,15,15,0,1,0.105574474,2,1,4,2,0,0,0,0,2,5,0,0,0,0,0,5
+10805,Ricardo Alberto Silveira de Carvalho,90,0,0,0.0,0,57,50,0,0,0.0,0,0,4,0,0,0,3,0,3,0,5,3,1,0,0,2
+11603,Mario Pašalić,90,2,0,0.284987254,0,49,44,0,1,0.025873037,2,2,7,2,0,0,7,0,7,0,1,2,3,0,0,22
+18243,Ivan Ricardo Neves Abreu Cavaleiro,45,0,0,0.0,0,16,12,0,0,0.0,0,0,3,2,1,0,5,2,4,3,0,0,3,4,0,13
+19047,Fábio Alexandre da Silva Coentrão,90,1,1,0.060771577,1,79,57,0,1,0.10405145,2,2,19,3,2,1,0,0,5,0,3,2,2,0,0,13

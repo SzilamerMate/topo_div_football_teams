@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3325,Marko Arnautović,90,3,1,0.38433479000000004,2,33,25,0,1,0.03416078,4,3,13,3,0,0,2,2,5,1,0,0,1,2,1,11
+3467,Erik Pieters,91,0,0,0.0,0,74,62,0,1,0.01994172,0,0,5,2,2,2,2,1,4,0,2,3,3,2,1,11
+3480,Geoff Cameron,90,1,0,0.033236496,0,63,48,0,1,0.183909,1,1,6,2,0,0,8,1,7,2,2,4,4,2,0,23
+3533,Xherdan Shaqiri,30,0,0,0.0,0,10,6,0,0,0.0,2,1,2,0,0,0,1,0,1,0,0,0,0,0,0,5
+3537,Jack Butland,90,0,0,0.0,0,29,17,0,0,0.0,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,1
+3603,Mame Biram Diouf,90,3,0,0.288592953,0,18,11,0,0,0.0,2,2,3,0,2,0,7,0,2,2,0,1,0,1,0,9
+4035,Ryan Shawcross,90,0,0,0.0,0,43,38,0,1,0.05171506,1,1,8,2,2,2,9,2,8,0,9,3,2,4,1,15
+4040,Peter Crouch,13,0,0,0.0,0,6,1,0,0,0.0,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,3
+4346,Gilbert Gianelli Imbula Wanga,90,2,0,0.039580568999999996,0,95,78,0,0,0.0,6,4,22,1,1,0,3,3,12,3,0,0,2,3,1,8
+4891,Ibrahim Afellay,90,3,0,0.14128858,0,63,54,1,4,0.420577166,2,1,15,1,2,1,1,0,10,3,0,0,2,0,0,10
+4913,Bojan Krkíc Pérez,60,1,0,0.03563438,0,25,20,0,0,0.0,5,3,11,0,3,1,5,1,2,1,0,0,3,2,1,12
+9625,Glenn Whelan,77,0,0,0.0,0,59,51,0,3,0.07311827900000001,0,0,3,1,0,0,3,1,6,0,2,2,1,1,0,13
+40121,Philipp Wollscheid,90,1,0,0.019568333,0,59,52,0,0,0.0,0,0,8,2,1,1,6,1,3,0,5,4,1,3,1,11

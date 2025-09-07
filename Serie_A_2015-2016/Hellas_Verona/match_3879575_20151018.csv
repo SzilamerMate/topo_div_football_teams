@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5512,Emil Hallfreðsson,90,1,0,0.03574751,0,46,39,0,1,0.0763038,5,3,13,3,2,2,5,3,3,1,1,0,4,4,0,35
+5558,Rafael Márquez Álvarez,90,0,0,0.0,0,48,36,0,0,0.0,1,1,6,1,0,0,1,0,2,0,8,0,1,1,0,15
+6686,Giampaolo Pazzini,90,4,1,0.903615948,1,12,9,0,0,0.0,2,0,2,2,4,2,5,0,5,2,2,0,6,0,0,14
+7020,Jacopo Sala,90,1,0,0.066433065,1,71,58,0,4,0.186883929,3,0,10,0,0,0,7,3,7,0,0,0,4,3,0,17
+7695,Samuel Souprayen,90,0,0,0.0,0,67,54,0,0,0.0,0,0,8,0,0,0,1,1,4,0,2,1,4,1,1,11
+7949,Artur Ioniţă,5,0,0,0.0,0,6,4,0,0,0.0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,3
+7966,Filip Helander,16,0,0,0.0,0,9,7,0,0,0.0,0,0,1,0,0,0,2,1,0,0,3,0,1,2,0,5
+9887,Rafael de Andrade Bittencourt Pinheiro,90,0,0,0.0,0,25,20,0,0,0.0,0,0,1,0,2,2,0,0,6,0,0,0,0,0,0,0
+11342,Eros Pisano,35,1,0,0.06782818,0,19,12,0,0,0.0,1,1,6,2,1,0,2,0,0,0,0,2,2,1,0,8
+11494,Luca Siligardi,74,1,0,0.0763038,0,23,11,0,0,0.0,3,2,5,3,2,0,4,3,5,1,0,0,4,4,2,27
+26220,Matuzalém Francelino da Silva,55,0,0,0.0,0,39,34,0,0,0.0,0,0,7,2,0,0,1,0,2,1,1,2,1,0,0,8
+31488,Vangelis Moras,90,0,0,0.0,0,40,34,0,0,0.0,0,0,3,0,0,0,0,0,1,0,6,0,0,0,0,4
+32119,Leandro Greco,85,0,0,0.0,0,57,48,0,0,0.0,2,2,12,1,1,0,2,0,6,1,0,3,3,0,0,20
+386651,Juan Ignacio Gómez Taleb,90,2,0,0.043244219,0,43,31,0,2,0.09119225,1,0,5,0,0,0,9,1,5,2,3,1,2,1,1,12

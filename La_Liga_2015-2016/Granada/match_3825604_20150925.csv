@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3160,Rene Krhin,90,1,0,0.01617654,0,42,35,0,0,0.0,2,2,9,2,0,0,6,1,5,1,4,3,1,4,0,19
+4418,Matheus Dória Macedo,90,2,0,0.122967354,0,21,13,0,0,0.0,0,0,0,1,0,0,5,0,5,0,5,0,2,3,0,11
+6680,Rubén Rochina Naixes,79,4,0,0.0938183404,1,42,28,0,0,0.0,1,1,8,1,4,1,5,3,3,4,0,1,3,4,3,13
+6702,David Rodríguez Lombán,90,0,0,0.0,0,33,29,0,0,0.0,0,0,2,1,0,0,3,2,2,0,4,1,4,2,1,8
+6918,Isaac Ajayi Success,58,1,0,0.027478896,0,20,14,0,3,0.531513023,1,0,6,2,2,0,2,1,6,3,0,1,0,2,0,9
+7158,Cristiano Biraghi,90,1,0,0.027916886,0,31,20,0,0,0.0,0,0,5,2,0,0,1,0,4,2,1,3,0,1,0,4
+8697,Andrés Eduardo Fernández Moreno,90,0,0,0.0,0,21,16,0,0,0.0,0,0,0,0,2,2,0,0,2,0,0,0,1,0,0,0
+16338,Uche Henry Agbo,25,0,0,0.0,0,16,14,0,0,0.0,1,1,1,2,0,0,3,3,1,0,1,1,0,3,1,6
+20064,Hugo Miguel Almeida Costa Lopes,90,0,0,0.0,0,64,50,0,1,0.0232378,4,3,13,4,1,0,8,4,9,3,2,2,5,7,3,17
+24783,Javier Márquez Moreno,65,3,0,0.132810513,2,30,26,0,0,0.0,0,0,5,1,1,0,3,2,3,0,1,0,0,2,0,9
+25126,Nicolás Federico López Alonso,11,3,0,0.071971453,0,8,5,0,0,0.0,5,5,4,0,1,0,1,0,4,0,0,0,0,0,0,4
+25707,Francisco Manuel Rico Castro,90,0,0,0.0,0,56,48,0,3,0.125561976,2,0,1,4,2,2,3,1,5,2,0,3,1,2,0,8
+26775,Thievy Guivane Bifouma Koulossa,32,0,0,0.0,0,16,12,0,1,0.024452401,3,1,1,1,1,0,2,1,1,2,0,0,0,1,1,3
+27109,Youssef El-Arabi,90,3,0,0.49871595599999996,0,21,17,0,2,0.043655436,4,2,0,2,6,5,4,0,5,3,1,0,0,0,0,19

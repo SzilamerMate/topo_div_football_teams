@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3531,Mohamed Salah,86,4,1,0.24026389399999998,2,40,37,0,2,0.063910553,1,1,18,0,2,1,2,0,1,1,0,0,1,1,0,11
+6849,Lucas Digne,90,0,0,0.0,0,67,50,0,2,0.146666297,3,0,5,4,1,1,6,4,3,2,0,0,4,6,0,13
+6947,Miralem Pjanić,90,7,0,0.39746185599999995,3,91,68,1,5,0.271014249,1,0,14,3,2,1,1,0,5,4,0,0,1,0,0,17
+6962,Radja Nainggolan,86,2,0,0.235593985,0,32,27,0,0,0.0,1,1,3,1,1,0,3,2,5,0,0,1,1,2,0,10
+6964,Alessandro Florenzi,90,2,0,0.05703848,0,87,70,0,2,0.120624466,1,1,14,0,3,2,5,2,9,1,2,1,2,3,0,6
+6973,Edin Džeko,90,4,0,0.178077896,1,28,18,0,0,0.0,4,4,6,1,2,1,2,0,2,6,2,0,0,0,0,14
+7048,Konstantinos Manolas,90,0,0,0.0,0,53,52,0,1,0.12623823,0,0,7,3,1,0,2,1,9,0,3,0,2,1,0,9
+7051,Daniele De Rossi,90,3,0,0.320466286,1,41,40,0,0,0.0,0,0,10,1,1,0,1,1,9,0,3,3,1,1,1,1
+7468,Iago Falqué Silva,59,1,0,0.030434497,0,35,27,0,0,0.0,2,0,5,0,0,0,0,0,1,0,1,0,1,0,0,8
+15818,Gervais Lombe Yao Kouassi,31,2,0,0.286617813,0,21,18,0,3,0.155984526,3,0,7,0,0,0,1,1,4,0,0,0,0,1,0,3
+20169,Seydou Kéita,90,0,0,0.0,0,70,65,0,3,0.230920118,0,0,12,2,1,0,4,1,7,0,2,0,3,2,1,10
+20637,Salih Uçan,4,0,0,0.0,0,1,1,0,0,0.0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,2
+27949,Juan Manuel Iturbe Arévalo,4,0,0,0.0,0,4,3,0,0,0.0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,1
+40529,Morgan De Sanctis,90,0,0,0.0,0,12,10,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

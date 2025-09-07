@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+5719,Marco Asensio Willemsen,90,3,0,0.39544492000000003,0,46,25,0,2,0.7474872319999999,4,3,18,0,3,1,2,0,8,5,0,0,2,0,0,14
+6612,Rubén Duarte Sánchez,90,1,0,0.03046759,0,47,35,0,0,0.0,0,0,2,0,1,0,4,1,3,1,2,2,2,2,0,12
+6762,Álvaro González Soberón,90,0,0,0.0,0,51,38,0,0,0.0,2,2,11,0,1,0,0,0,8,0,10,0,2,0,0,6
+6792,Pau López Sabata,90,0,0,0.0,0,31,22,0,0,0.0,0,0,4,0,1,1,0,0,5,0,0,0,0,0,0,0
+6838,Hernán Arsenio Pérez González,90,0,0,0.0,0,42,29,0,1,0.044916995,7,4,5,6,4,0,5,1,5,3,0,0,1,1,1,19
+6867,Papa Kouly Diop,90,1,0,0.053616732,1,42,31,0,0,0.0,1,0,3,0,3,2,9,3,8,1,2,2,3,5,1,13
+7781,Felipe Salvador Caicedo Corozo,90,3,1,0.799839025,2,23,17,0,0,0.0,2,2,5,3,0,0,8,0,0,2,0,0,1,0,0,11
+16456,Enzo Pablo Roco Roco,90,0,0,0.0,0,36,28,0,0,0.0,0,0,3,1,0,0,3,1,6,0,4,1,0,2,1,6
+18407,José Alberto Cañas Ruiz Herrera,62,0,0,0.0,0,34,21,0,0,0.0,1,1,2,1,2,1,1,0,3,1,2,2,0,1,0,7
+23924,Mamadou Sylla Diallo,28,0,0,0.0,0,9,7,0,2,0.30829702999999997,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1
+23974,Roberto Antonio Correa Silva,90,0,0,0.0,0,29,21,0,0,0.0,0,0,5,4,1,0,5,0,8,2,1,0,1,2,0,11
+27148,Abraham González Casanova,20,1,0,0.6938705,0,14,13,0,0,0.0,0,0,0,1,0,0,1,0,2,0,0,0,1,1,0,3
+27241,Víctor Guillermo Álvarez Delgado,70,0,0,0.0,0,23,13,0,0,0.0,1,1,5,0,2,1,3,0,1,1,1,1,1,2,0,17

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3416,Gabriel Moisés Antunes da Silva,18,0,0,0.0,0,10,5,0,0,0.0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,4
+7114,Gaetano Letizia,90,1,0,0.008949608,0,65,44,0,1,0.050289247,4,2,6,0,1,1,3,2,4,1,2,1,3,2,2,20
+7172,Simone Romagnoli,72,0,0,0.0,0,16,12,0,0,0.0,0,0,0,1,0,0,0,0,1,0,3,0,1,0,0,11
+7460,Isaac Cofie,90,0,0,0.0,0,36,25,0,0,0.0,1,1,2,1,1,0,2,2,5,0,2,2,1,2,0,33
+7696,Ryder Matos Santos,90,3,0,0.39832478399999993,2,34,27,0,2,0.04097904,2,1,17,2,0,0,5,2,4,4,0,2,1,2,2,38
+7793,Kevin Lasagna,90,2,0,0.07876572600000001,0,25,17,0,2,0.052637916,0,0,4,0,0,0,11,0,1,2,1,1,0,0,0,18
+8662,Vid Belec,90,0,0,0.0,0,31,12,0,0,0.0,0,0,2,0,0,0,0,0,7,0,0,0,0,0,0,0
+8871,Marco Borriello,39,3,0,0.10077081200000002,2,10,9,0,0,0.0,1,0,6,1,1,0,3,0,2,2,1,1,0,0,0,6
+11499,Riccardo Gagliolo,90,1,0,0.14019077,0,37,23,0,0,0.0,0,0,4,1,1,1,7,3,3,0,5,2,1,5,2,16
+11502,Antonio Di Gaudio,38,1,0,0.31175336,0,18,11,0,0,0.0,3,3,7,2,1,0,0,0,5,1,0,0,0,0,0,11
+30829,Lorenzo Lollo,90,3,0,0.067797337,0,38,28,0,0,0.0,0,0,2,1,1,0,6,5,7,1,1,5,1,6,1,52
+387300,Cristian Zaccardo,90,0,0,0.0,0,54,44,0,3,0.14038229600000002,1,1,1,1,2,2,5,2,3,0,1,1,2,5,2,17
+387472,Lorenzo Pasciuti,51,0,0,0.0,0,24,14,0,0,0.0,1,0,2,4,0,0,4,0,4,0,0,0,2,0,0,21
+387476,Raphael Martinho Alves de Lima,52,1,0,0.021328827,0,24,16,0,0,0.0,2,1,3,1,0,0,1,0,2,1,0,0,0,1,0,7

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3063,Danilo Luiz da Silva,90,2,1,0.35428485499999995,1,57,48,0,0,0.0,0,0,5,2,1,1,5,2,6,0,2,1,3,4,1,11
+3990,Jesé Rodríguez Ruiz,69,0,0,0.0,0,29,24,1,3,0.466917796,0,0,7,0,2,0,2,0,1,1,0,1,0,0,0,6
+4926,Francisco Román Alarcón Suárez,29,2,0,0.074046669,0,16,14,0,3,0.375936214,3,2,7,1,2,1,1,0,3,3,0,1,2,0,0,3
+5186,Denis Cheryshev,21,0,0,0.0,0,12,8,1,1,0.4662736,0,0,4,2,0,0,1,0,0,0,0,3,1,0,0,4
+5200,Lucas Vázquez Iglesias,61,1,0,0.22472195,1,33,26,1,1,0.15587476,4,4,5,2,3,1,4,2,3,1,0,1,1,2,1,9
+5201,Sergio Ramos García,90,0,0,0.0,0,44,34,0,0,0.0,0,0,4,1,2,0,0,0,6,0,0,2,2,0,0,4
+5202,José Ignacio Fernández Iglesias,11,0,0,0.0,0,2,2,0,0,0.0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
+5207,Cristiano Ronaldo dos Santos Aveiro,90,7,1,0.9067286400000001,4,33,26,0,2,0.247413239,5,4,11,0,1,0,5,0,1,0,0,0,0,0,0,2
+5463,Luka Modrić,79,0,0,0.0,0,49,42,0,2,0.23892179500000002,1,1,16,0,1,0,2,1,9,1,0,2,0,2,0,10
+5485,Raphaël Varane,90,0,0,0.0,0,37,33,0,0,0.0,0,0,10,2,0,0,1,1,1,0,2,3,2,1,0,4
+5539,Carlos Henrique Casimiro,90,1,0,0.0691896,0,51,34,0,0,0.0,1,1,3,2,3,1,4,3,3,3,1,5,6,3,0,16
+5552,Marcelo Vieira da Silva Júnior,90,1,1,0.4662736,1,67,54,0,1,0.09255253,2,0,6,2,3,1,2,1,6,1,1,1,4,1,1,6
+5574,Toni Kroos,90,0,0,0.0,0,73,61,0,0,0.0,0,0,5,5,2,2,1,1,7,0,0,2,0,1,0,26
+5597,Keylor Navas Gamboa,90,0,0,0.0,0,26,9,0,0,0.0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0,1

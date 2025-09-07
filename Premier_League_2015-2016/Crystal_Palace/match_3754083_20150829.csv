@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3277,Yohan Cabaye,81,3,0,0.41149046,1,40,33,0,0,0.0,0,0,3,2,0,0,6,3,5,1,0,2,2,5,1,13
+3326,Chung-Yong Lee,7,0,0,0.0,0,5,3,0,0,0.0,0,0,2,0,1,0,1,0,1,1,1,0,0,1,0,5
+3407,Scott Dann,90,0,0,0.0,0,22,18,0,0,0.0,0,0,1,3,0,0,2,0,2,0,7,0,4,1,0,5
+3443,Joel Ward,90,1,1,0.41113335,1,31,26,0,0,0.0,0,0,2,2,1,1,2,0,3,0,3,0,3,1,0,12
+3464,James McArthur,90,0,0,0.0,0,35,32,0,2,0.0559092,1,1,7,4,1,1,5,2,3,1,5,1,6,2,1,24
+3469,Bakary Sako,83,5,1,0.624998631,3,25,21,1,3,1.01347247,3,1,11,1,0,0,3,0,5,3,1,0,0,1,0,5
+3507,Wilfried Zaha,54,0,0,0.0,0,21,14,0,2,0.32952273800000004,2,1,7,0,0,0,2,1,3,1,0,0,1,2,0,10
+3589,Yannick Bolasie Yala,36,2,0,0.320585707,0,11,10,0,1,0.12419701,0,0,6,1,1,0,0,0,1,0,0,0,1,0,0,5
+3619,Alex McCarthy,90,0,0,0.0,0,38,12,0,0,0.0,0,0,5,0,0,0,0,0,8,0,0,0,0,0,0,0
+3693,Damien Delaney,90,0,0,0.0,0,25,14,0,0,0.0,0,0,1,1,1,1,4,0,3,0,16,0,6,1,0,8
+4817,Joe Ledley,9,0,0,0.0,0,4,1,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+4884,Pape N''Diaye Souaré,90,0,0,0.0,0,44,33,0,1,0.06396481,0,0,3,1,1,1,1,0,3,1,4,0,0,0,0,5
+19688,Jason Puncheon,90,1,0,0.06396481,0,54,41,0,1,0.0315588,3,3,10,2,3,0,4,3,10,2,2,0,4,3,2,18
+20641,Connor Wickham,90,1,0,0.31239024,0,23,14,0,0,0.0,0,0,3,5,2,2,14,0,1,3,1,0,0,0,0,11

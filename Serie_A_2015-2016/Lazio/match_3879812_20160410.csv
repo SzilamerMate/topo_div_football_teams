@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3103,Milan Biševac,90,0,0,0.0,0,62,58,0,0,0.0,1,1,14,1,2,0,3,1,4,0,6,0,1,1,0,5
+3145,Keita Baldé Diao,68,4,0,0.43582954500000004,2,36,28,0,1,0.39443803,5,3,15,1,2,0,2,0,5,2,0,0,1,0,0,7
+5510,Lucas Rodrigo Biglia,90,1,0,0.04330624,0,111,103,0,3,0.14745269,1,1,9,0,1,1,5,2,13,1,8,0,2,3,0,15
+7776,Antonio Candreva,90,6,0,0.6753781523,1,80,60,0,1,0.01737481,6,1,14,0,0,0,1,0,5,0,0,0,1,0,0,4
+7785,Senad Lulić,74,0,0,0.0,0,76,68,0,1,0.0072908653,1,0,19,2,1,0,5,3,4,2,4,2,0,5,2,3
+8172,Felipe Anderson Pereira Gomes,22,1,1,0.20414034,1,15,13,0,2,0.106092773,3,0,2,1,1,0,4,1,3,0,0,0,1,2,1,6
+8173,Marco Parolo,90,2,0,0.13549722,0,56,45,0,1,0.04330624,1,1,4,3,0,0,4,1,3,0,4,1,1,2,0,16
+8190,Patricio Gabarrón Gil,90,0,0,0.0,0,94,82,0,0,0.0,0,0,1,0,3,2,3,0,5,0,3,1,5,0,0,11
+8847,Santiago Juan Gentiletti Selak,90,0,0,0.0,0,82,73,0,0,0.0,0,0,13,1,1,1,3,1,4,0,9,2,4,2,1,11
+9939,Maurício dos Santos Nascimento,16,0,0,0.0,0,14,11,0,0,0.0,0,0,1,1,1,0,1,1,1,0,4,0,0,1,1,4
+11427,Filip Đorđević,13,0,0,0.0,0,6,5,0,1,0.10285891,0,0,1,1,1,0,2,0,0,0,0,0,0,0,0,6
+12491,Federico Marchetti,90,0,0,0.0,0,32,27,0,0,0.0,0,0,0,0,1,1,0,0,4,0,0,0,0,0,0,0
+19286,Miroslav Klose,77,3,2,0.964923356,3,28,21,1,1,0.20414034,0,0,2,4,0,0,2,1,3,2,0,0,0,1,0,15
+33311,Ogenyi Eddy Onazi,90,2,0,0.129906369,0,50,44,0,2,0.39522204200000005,0,0,1,2,1,0,5,4,2,0,3,2,0,4,1,18

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3434,Stevan Jovetić,60,2,1,0.52819578,2,33,25,0,1,0.02471713,2,1,4,0,2,0,3,1,5,1,1,1,0,2,1,16
+5469,Marcelo Brozović,30,1,1,0.030786121,1,22,21,0,0,0.0,2,1,3,0,0,0,3,1,1,0,1,0,0,1,1,8
+5474,Ivan Perišić,90,1,0,0.005909413,0,52,37,0,1,0.20040534,0,0,6,2,1,1,7,1,0,0,5,2,4,2,1,27
+5551,João Miranda de Souza Filho,90,0,0,0.0,0,22,13,0,0,0.0,0,0,2,1,1,1,1,0,3,0,9,1,3,0,0,8
+5587,Adem Ljajić,81,1,0,0.12940457,0,52,47,0,0,0.0,2,1,8,1,0,0,1,0,6,1,1,0,4,1,0,14
+6585,Jeison Fabián Murillo Cerón,90,1,0,0.039650474,1,22,14,0,0,0.0,1,1,4,1,1,1,4,2,3,0,3,0,3,3,1,15
+6593,Martín Montoya Torralbo,90,0,0,0.0,0,64,48,0,2,0.0115368943,1,1,12,2,5,1,1,0,4,0,1,1,2,1,0,26
+6969,Juan Guilherme Nunes Jesus,9,0,0,0.0,0,2,2,0,0,0.0,0,0,0,2,0,0,1,0,1,0,0,0,1,0,0,2
+6987,Mauro Emanuel Icardi Rivero,88,2,2,0.121282853,2,13,11,0,2,0.154249632,1,1,2,0,0,0,4,0,1,0,2,1,0,0,0,9
+7001,Samir Handanovič,90,0,0,0.0,0,37,27,0,0,0.0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0
+11183,Alex Nicolao Telles,90,1,0,0.035958897,1,54,41,0,1,0.039650474,0,0,8,3,0,0,3,1,9,0,3,1,3,2,0,11
+23987,Rey Manaj,2,1,0,0.1275897,0,0,0,0,0,0.0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+25430,Felipe Melo de Carvalho,90,0,0,0.0,0,39,31,0,0,0.0,0,0,7,3,0,0,4,2,4,0,1,4,3,4,0,26
+32807,Fredy Alejandro Guarín Vásquez,90,3,0,0.055189673300000006,0,57,41,1,2,0.158375821,2,2,8,1,1,1,4,0,10,1,2,1,2,1,0,16

@@ -1,0 +1,15 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+3062,Aaron Cresswell,90,0,0,0.0,0,60,49,0,1,0.024394946,0,0,1,1,0,0,2,1,6,2,1,0,2,1,1,16
+3349,Michail Antonio,90,5,0,0.557355126,2,40,26,0,2,0.24135186,6,5,14,0,2,0,5,3,7,2,3,3,2,4,2,9
+3491,Dimitri Payet,90,5,0,0.15445319600000001,2,72,56,0,8,0.831060158,1,1,11,0,1,0,1,0,12,3,1,0,0,0,0,6
+3595,Manuel Lanzini,83,4,0,0.5978751529999999,0,47,42,0,1,0.09419595,0,0,9,0,1,0,0,0,5,2,0,1,2,0,0,7
+3684,Cheikhou Kouyaté,76,0,0,0.0,0,35,29,0,2,0.057457477,2,1,5,3,2,0,4,1,8,1,2,3,3,2,0,14
+3843,Angelo Obinze Ogbonna,90,1,0,0.14009303,0,50,44,0,0,0.0,1,1,6,2,0,0,2,1,8,0,6,2,0,1,1,11
+3874,Mark Noble,90,1,0,0.045539163,0,54,47,0,0,0.0,1,1,11,2,3,1,2,0,5,1,0,4,1,2,0,21
+3962,Diafra Sakho,32,3,0,0.76523272,1,8,6,0,0,0.0,1,0,2,1,0,0,2,0,3,2,1,0,1,0,0,4
+3963,Victor Moses,58,0,0,0.0,0,17,15,0,2,0.059882398,0,0,7,3,0,0,2,0,0,0,0,1,4,0,0,13
+4271,Andy Carroll,90,6,0,0.457598928,1,26,19,0,2,0.07844172299999999,2,0,3,0,1,0,4,0,5,1,0,0,1,0,0,6
+4280,Winston Reid,90,1,0,0.1212905,1,27,22,0,0,0.0,0,0,5,1,0,0,3,2,4,0,4,1,2,2,1,13
+20066,Darren Randolph,90,0,0,0.0,0,35,28,0,0,0.0,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0
+28559,Enner Remberto Valencia Lastra,7,0,0,0.0,0,2,2,0,0,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,5
+128704,Emmanuel Emenike,14,0,0,0.0,0,6,4,0,0,0.0,1,1,4,0,2,0,1,0,1,1,1,2,0,0,0,4

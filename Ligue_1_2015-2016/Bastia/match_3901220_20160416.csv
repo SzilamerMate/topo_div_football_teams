@@ -1,0 +1,14 @@
+player_id,player_name,minutes_played,shot_count,goal_count,xG,on_target,pass_count,successfull_pass_count,assists,key_passes,xA,dribble_count,successfull_dribbles,long_carries,foul_committed_count,fouls_suffered_count,penalites_won,duel_count,won_duels,ball_recovery_count,dispossessed_count,clearance_count,interception_count,block_count,tackle_count,successful_tackles,pressure_count
+2989,Alexander Djiku,90,0,0,0.0,0,39,25,0,0,0.0,1,1,3,1,2,1,2,2,4,0,4,1,1,2,0,12
+3405,François Kamano,90,4,0,0.503652455,1,22,17,0,2,0.122844917,3,2,6,2,0,0,6,2,9,2,0,0,4,4,1,25
+3433,Lassana Coulibaly,83,3,0,0.07082055,1,33,20,0,1,0.048802987,2,1,3,2,0,0,5,2,14,2,2,0,4,2,2,27
+4508,Julian Palmieri,90,0,0,0.0,0,74,55,0,2,0.09437235499999999,3,2,8,1,3,0,5,1,5,2,4,2,1,4,1,15
+7282,Jean-Louis Leca,90,0,0,0.0,0,39,25,0,0,0.0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+7349,Gaël Danic,90,0,0,0.0,0,52,35,0,4,0.15000622,2,0,5,3,1,1,7,0,5,0,1,1,4,1,0,21
+7791,Seko Fofana,28,1,0,0.037335843,0,16,12,0,1,0.015375769,3,1,2,0,1,1,3,1,2,0,0,0,2,1,1,9
+10522,Mehdi Mostefa Sbaa,90,0,0,0.0,0,48,37,0,1,0.024766883,0,0,2,0,1,0,4,0,5,0,2,2,3,1,0,16
+15689,Floyd Ayité,90,6,0,0.281773944,0,32,19,0,1,0.037475795,3,1,6,1,1,1,8,0,3,5,0,0,2,0,0,22
+23850,Mathieu Peybernes,90,0,0,0.0,0,34,22,0,0,0.0,0,0,9,0,2,1,3,2,7,0,4,2,1,2,2,11
+26481,Sébastien Squillaci,90,2,0,0.112177527,1,30,25,0,0,0.0,0,0,5,0,2,0,0,0,2,0,5,2,4,0,0,9
+29875,Axel Ngando,7,0,0,0.0,0,1,1,0,0,0.0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,3
+401541,Evaeverson Lemos da Silva Brandão,62,0,0,0.0,0,18,9,0,2,0.39445703,0,0,1,2,2,0,5,0,3,2,0,0,3,0,0,16
